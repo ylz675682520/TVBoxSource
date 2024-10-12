@@ -5,6 +5,50 @@
             "name": "01 技巧"
         },
         {
+            "url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json",
+            "name": "liu673"
+        },
+        {
+            "url": "https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json",
+            "name": "高天流水"
+        },
+        {
+            "url": "https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json",
+            "name": "胖虎"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/tv.json",
+            "name": "湘雅晴TV"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/app.json",
+            "name": "湘雅晴APP"
+        },
+        {
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "俊于"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/XYQTVBox/drpy_js/drjs_config.json",
+            "name": "道长"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/fongmi.json",
+            "name": "蜂蜜"
+        },
+        {
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "饭太硬"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/fan.json",
+            "name": "巧儿"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/zongru666/myIPTV/main/yingshi2024.json",
+            "name": "zongru666"
+        },
+        {
             "url": "https://dxawi.github.io/0/0.json",
             "name": "Dxawi"
         },
