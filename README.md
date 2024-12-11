@@ -17,6 +17,9 @@ Golang地址：https://golang.61073736.repl.co/***/{channel}
 https://ghproxy.com/https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
 
 # TVBox、tivimate、ZYPlayer等自用源以及仓库源、直播源等
+
+https://github.com/Greatwallcorner/CatVodSpider/tree/master
+
 TVBox、tivimate等自用源以及仓库源、直播源等
 以下为国内可打开缓存地址：
 
