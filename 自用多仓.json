@@ -2,11 +2,11 @@
     "storeHouse": [
         {
             "sourceName": "自用单仓",
-            "sourceUrl": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/cangkulist/自用单仓.json"
+            "sourceUrl": "https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/cangkulist/自用单仓.json"
         },
         {
             "sourceName": "18ck",
-            "sourceUrl": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/18/18ck.json"
+            "sourceUrl": "https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/18/18ck.json"
         }
     ]
 }
