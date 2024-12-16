@@ -22,15 +22,15 @@
         },
         {
             "name": "自用源",
-            "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/直播源/自用源.json"
+            "url": "https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/直播源/自用源.json"
         },
         {
             "name": "yyfx",
-            "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/直播源/yyfx.json"
+            "url": "https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/直播源/yyfx.json"
         },
         {
             "name": "zyplayer",
-            "url": "https://raw.githubusercontent.com/felixiao/TVBoxSource/main/直播源/zyplayer.json"
+            "url": "https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/直播源/zyplayer.json"
         }
     ]
 }
