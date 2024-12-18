@@ -1,5 +1,8 @@
 {
 "storeHouse": [
+{"sourceName": "💚无邪优选仓🍭热门推荐🍭","sourceUrl": "https://gitea.moe/wxrj/wxrj/raw/branch/main/yx.txt"},
+{"sourceName": "💛无邪聚合仓🍭聚合全网🍭","sourceUrl": "https://gitea.moe/wxrj/wxrj/raw/branch/main/jh.txt"},
+{"sourceName": "💜无邪🍭24.12.02更新🍭","sourceUrl": "无邪"},
 {"sourceName": "自用单仓","sourceUrl": "https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/cangkulist/自用单仓.json"},
 {"sourceName":"🌲一木多仓推荐","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木多线路.json"},
 {"sourceName":"云星在线仓库","sourceUrl":"https://itvbox.cc/可视TV/云星日记/仓库.json"},
