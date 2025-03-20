@@ -89,11 +89,11 @@
       "name": "胖虎"
     },
     {
-      "url": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/tv.json",
+      "url": "https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/tv.json",
       "name": "湘雅晴TV"
     },
     {
-      "url": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/app.json",
+      "url": "https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/app.json",
       "name": "湘雅晴APP"
     },
     {
@@ -101,11 +101,11 @@
       "name": "俊于"
     },
     {
-      "url": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/XYQTVBox/drpy_js/drjs_config.json",
+      "url": "https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/XYQTVBox/drpy_js/drjs_config.json",
       "name": "道长"
     },
     {
-      "url": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/fongmi.json",
+      "url": "https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/fongmi.json",
       "name": "蜂蜜"
     },
     {
@@ -113,7 +113,7 @@
       "name": "饭太硬"
     },
     {
-      "url": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/fan.json",
+      "url": "https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/fan.json",
       "name": "巧儿"
     },
     {
