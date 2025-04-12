@@ -1,36 +1,36 @@
 {
-    "urls": [
-        {
-            "name": "自用晴天",
-            "url": "https://raw.githubusercontent.com/mengzehe/tvbox/main/自用直播晴天源"
-        },
-        {
-            "name": "自用收集",
-            "url": "https://raw.githubusercontent.com/mengzehe/tvbox/main/自用直播"
-        },
-        {
-            "name": "俊于",
-            "url": "http://home.jundie.top:81/Cat/tv/live.txt"
-        },
-        {
-            "name": "应用边界",
-            "url": "https://framagit.org/duomv/duo/-/raw/main/txt/v.txt"
-        },
-        {
-            "name": "OwenTV",
-            "url": "https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.txt"
-        },
-        {
-            "name": "自用源",
-            "url": "https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/livebroadcast/privatesource.json"
-        },
-        {
-            "name": "yyfx",
-            "url": "https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/livebroadcast/yyfx.json"
-        },
-        {
-            "name": "zyplayer",
-            "url": "https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/livebroadcast/zyplayer.json"
-        }
-    ]
+  "urls": [
+    {
+      "name": "自用晴天",
+      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/livebroadcast/自用直播晴天源.txt"
+    },
+    {
+      "name": "自用收集",
+      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/livebroadcast/自用直播油管源.txt"
+    },
+    {
+      "name": "俊于",
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt"
+    },
+    {
+      "name": "应用边界",
+      "url": "https://cdn.jsdelivr.net/gh/duomv/duo@main/txt/v.txt"
+    },
+    {
+      "name": "OwenTV",
+      "url": "https://cdn.jsdelivr.net/gh/owen2000wy/owentv@main/HP20230319.txt"
+    },
+    {
+      "name": "自用源",
+      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/livebroadcast/privatesource.json"
+    },
+    {
+      "name": "yyfx",
+      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/livebroadcast/yyfx.json"
+    },
+    {
+      "name": "zyplayer",
+      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/livebroadcast/zyplayer.json"
+    }
+  ]
 }
