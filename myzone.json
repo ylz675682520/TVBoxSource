@@ -2,23 +2,23 @@
   "storeHouse": [
     {
       "sourceName": "💚无邪优选仓🍭热门推荐🍭",
-      "sourceUrl": "https://raw.githubusercontent.com/ylz675682520/TVBoxSource/refs/heads/main/cangkulist/hot.json"
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/cangkulist/hot.json"
     },
     {
       "sourceName": "💛无邪聚合仓🍭聚合全网🍭",
-      "sourceUrl": "https://raw.githubusercontent.com/ylz675682520/TVBoxSource/refs/heads/main/cangkulist/hot2.json"
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/cangkulist/hot2.json"
     },
     {
       "sourceName": "自用单仓",
-      "sourceUrl": "https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/cangkulist/自用单仓.json"
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/cangkulist/自用单仓.json"
     },
     {
       "sourceName": "自用直播",
-      "sourceUrl": "https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/cangkulist/自用直播仓库.json"
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/cangkulist/自用直播仓库.json"
     },
     {
       "sourceName": "🌲一木多仓推荐",
-      "sourceUrl": "https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木多线路.json"
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/xianyuyimu/TVBOX-@main/TVBox/一木多线路.json"
     },
     {
       "sourceName": "云星在线仓库",
@@ -38,7 +38,7 @@
     },
     {
       "sourceName": "18ck",
-      "sourceUrl": "https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/18/18ck.json"
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/18/18ck.json"
     }
   ]
 }
