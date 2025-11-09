@@ -147,6 +147,10 @@
     {
       "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/line/毒盒.json",
       "name": "💦毒盒"
+    },
+      {
+      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/line/integrated.json",
+      "name": "💦集合"
     }
   ]
 }
