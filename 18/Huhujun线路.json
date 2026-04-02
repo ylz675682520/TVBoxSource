@@ -22,7 +22,7 @@
             "key": "*博天堂",
             "name": "🔞博天堂",
             "type": 0,
-            "api": "http://bttcj.com/inc/sapi.php",
+            "api": "https://www.kxgav.com/api/xml.php",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -40,7 +40,7 @@
             "key": "*探探资源",
             "name": "🔞探探资源",
             "type": 1,
-            "api": "https://apittzy.com/api.php/provide/vod/",
+            "api": "https://lbapi9.com/api.php/provide/vod/",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -49,7 +49,7 @@
             "key": "*淫水机资源",
             "name": "🔞淫水机资源",
             "type": 0,
-            "api": "https://www.xrbsp.com/api/xml.php",
+            "api": "https://91md.me/api.php/provide/vod/",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -58,7 +58,7 @@
             "key": "*老鸭资源",
             "name": "🔞老鸭资源",
             "type": 1,
-            "api": "https://api.apilyzy.com/api.php/provide/vod/",
+            "api": "https://91md.me/api.php/provide/vod/",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -103,7 +103,7 @@
             "key": "*色南国资源",
             "name": "🔞色南国资源",
             "type": 1,
-            "api": "https://api.sexnguon.com/api.php/provide/vod/",
+            "api": "https://shayuapi.com/api.php/provide/vod/",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -112,7 +112,7 @@
             "key": "*皇冠资源",
             "name": "🔞皇冠资源",
             "type": 1,
-            "api": "https://hghhh.com/api.php/provide/vod/",
+            "api": "https://91md.me/api.php/provide/vod/",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -157,7 +157,7 @@
             "key": "*小湿妹源",
             "name": "🔞湿妹资源",
             "type": 0,
-            "api": "https://www.afasu.com/api/xml.php",
+            "api": "https://www.msnii.com/api/xml.php",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -166,7 +166,7 @@
             "key": "*爱播资源",
             "name": "🔞爱播资源",
             "type": 1,
-            "api": "https://cj.apiabzy.com/api.php/provide/vod/?ac=list",
+            "api": "https://dadiapi.com/api.php",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -184,7 +184,7 @@
             "key": "*易看资源",
             "name": "🔞易看资源",
             "type": 1,
-            "api": "https://api.yikanapi.com/api.php/provide/vod/",
+            "api": "https://91md.me/api.php/provide/vod/",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -193,7 +193,7 @@
             "key": "zp128",
             "name": "🔞鲨鱼影视",
             "type": 0,
-            "api": "https://shayuapi.com/api.php/Seacms/vod/at/xml/",
+            "api": "https://shayuapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
