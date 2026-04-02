@@ -225,12 +225,12 @@
         {
             "type": 8,
             "name": "低端影视",
-            "api": "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/ddys.json"
+            "api": "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/javday.json"
         },
         {
             "type": 8,
             "name": "njav",
-            "api": "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/njav.json"
+            "api": "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/pigav.json"
         },
         {
             "type": 8,
@@ -280,7 +280,7 @@
         {
             "type": 6,
             "name": "丝袜资源",
-            "api": "https://siwazyw.cc/api.php/provide/vod/at/xml"
+            "api": "http://apilj.com/api.php/provide/vod/at/xml"
         },
         {
             "type": 6,
@@ -290,12 +290,12 @@
         {
             "type": 6,
             "name": "一本道资源",
-            "api": "https://www.caiji03.com/home/cjapi/cfg8/mc/vod/xml"
+            "api": "https://raw.githubusercontent.com/trial/dp/master/json2/dbk.json"
         },
         {
             "type": 6,
             "name": "大屌丝资源",
-            "api": "http://www.caiji24.com/home/cjapi/p0d2/mc/vod/xml"
+            "api": "http://apilj.com/api.php/provide/vod/at/xml"
         },
         {
             "type": 6,
