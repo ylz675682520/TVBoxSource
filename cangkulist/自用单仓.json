@@ -1,7 +1,7 @@
 {
   "urls": [
     {
-      "url": "https://www.饭太硬.com/tv",
+      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json",
       "name": "🚀2-饭太硬推荐"
     },
     {
@@ -45,7 +45,7 @@
       "name": "湘雅晴APP"
     },
     {
-      "url": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/drpy_js/drjs_config.json",
+      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0827.json",
       "name": "道长"
     },
     {
@@ -53,7 +53,7 @@
       "name": "蜂蜜"
     },
     {
-      "url": "https://cdn.jsdelivr.net/gh/zongru666/myIPTV@main/yingshi2024.json",
+      "url": "https://cdn.jsdelivr.net/gh/guot55/YGBH@main/vip2.json",
       "name": "zongru666"
     },
     {
@@ -149,7 +149,7 @@
       "name": "💦毒盒"
     },
       {
-      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/line/integrated.json",
+      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json",
       "name": "💦集合"
     }
   ]
