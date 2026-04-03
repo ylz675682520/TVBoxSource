@@ -1,185 +1,83 @@
-# 自用多仓
-
-https://raw.githubusercontent.com/felixiao/TVBoxSource/main/自用多仓.json
-
-# 使用Replit部署LiveRedirect项目
-
-PHP地址：https://php.61073736.repl.co/***.php?id={channel}
-
-Golang地址：https://golang.61073736.repl.co/***/{channel}
-
-例如：https://golang.61073736.repl.co/huya/23865142
-
-# clash订阅链接：
-
-项目地址：https://github.com/aiboboxx/clashfree
-
-https://ghproxy.com/https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
-
-# TVBox、tivimate、ZYPlayer等自用源以及仓库源、直播源等
-
-https://github.com/Greatwallcorner/CatVodSpider/tree/master
-
-TVBox、tivimate等自用源以及仓库源、直播源等
-以下为国内可打开缓存地址：
-
-https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/自用单仓
-
-https://raw.iqiq.io/mengzehe/tvbox/main/自用单仓
-
-TVBOX接口在线解密：https://www.lige.fit/ua
-
-TVBox 配置文件。所有资源均来自于各路大神无私分享，如有侵权，请联系删除。
-
-# 配置说明：
-
-（1）cangku.json 网络收集的多人配置文件；
-
-（2）duocang.json 网络收集的多人仓库配置文件；
-
-（3）live-qingtian.txt 网络收集 晴天 电视直播源；
-
-（4）live.m3u 网络收集的 tivimata 软件电视直播源；
-
-（5）live.txt 网络收集的用于 TVbox 软件的电视直播源；
-
-（6）livecangku.json 网络收集的用于 TVbox 软件的电视直播源汇总；
-
-（7）luxian.json 网络收集的单人配置文件；
-
-（8）zyplayer.json 网络收集的用于 ZYPlayer PC端的配置文件。
-
-
-# 4、EGP源
-
-http://epg.51zmt.top:8000/e.xml
-
-https://epg.112114.xyz/pp.xml
-
-以下为地址
-
-epg-DIYP接口1：(hhttp://epg.51zmt.top:8000/api/diyp/)
-
-epg-DIYP接口2：(http://diyp.112114.xyz/)
-
-epg-DIYP接口3：(https://epg.hicloud.co/epg.php/)
-
-epg1：(https://epg.sec.st/epg.php/)
-
-epg3：(https://epg.pm/)
-
-epg4：(http://n33426t756.wicp.vip/diyp/epg.php/)
-
-epg5：(http://www.diyp.top/diyp/epg.php/)
-
-总epg：(http://epg.51zmt.top:8000/e.xml/)
-
-央视及各省卫视epg：(http://epg.51zmt.top:8000/cc.xml/)
-
-地方及数字付费epg：(http://epg.51zmt.top:8000/difang.xml/)
-
-港澳台及海外epg：(http://epg.51zmt.top:8000/gat.xml/)
-
-epg6：(http://124.223.212.38:83/)
-
-epg7：(https://epg.112114.xyz/)
-
-超级直播
-
-Xml格式
-
-Xml格式
-
-# 5、开源仓库
-
-https://github.com/
-
-https://gitlab.com/
-
-https://gitee.com/
-
-https://coding.net/
-
-https://gitcode.net/
-
-https://gitea.com/ 仓库名是 mao,tvbox,box,tv等类似的，有几率出现 1.删除仓库 2.删除用户 3.封禁账户 4.黑名单
-
-https://agit.ai/
-
-https://notabug.org/
-
-
-# 7、TVBox各路大佬配置（排名不分先后）：
-
-（1）唐三：https://hutool.ml/tang
-
-（2）Fongmi：https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json
-
-（3）俊于：http://home.jundie.top:81/top98.json
-
-（4）饭太硬：http://饭太硬.ga/x/o.json
-
-（5）霜辉月明py：https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json
-
-（6）小雅dr：http://drpy.site/js1
-
-（7）菜妮丝：https://tvbox.cainisi.cf
-
-（8）神器：https://神器每日推送.tk/pz.json
-
-（9）巧技：http://pandown.pro/tvbox/tvbox.json
-
-（10）刚刚：http://刚刚.live/猫
-
-（11）吾爱有三：http://52bsj.vip:98/0805
-
-（12）潇洒：https://download.kstore.space/download/2863/01.txt
-
-（13）佰欣园：https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt
-
-（14）胖虎：https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json
-
-（15）云星日记：https://maoyingshi.cc/tiaoshizhushou/1.txt
-
-（16）Yoursmile7：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
-
-（17）BOX：http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0
-
-（18）哔哩学习：http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0
-
-（19）UndCover：https://raw.githubusercontent.com/UndCover/PyramidStore/main/py.json
-
-（20）木极：https://pan.tenire.com/down.php/2664dabf44e1b55919f481903a178cba.txt
-
-（21）Ray：https://dxawi.github.io/0/0.json
-
-（22）甜蜜：https://kebedd69.github.io/TVbox-interface/py甜蜜.json
-
-（23）52bsj：http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0
-
-（24）肥猫：http://我不是.肥猫.love:63
-
-# 8、随机轮换壁纸：
-
-（1）https://bing.img.run/rand.php
-
-（2）http://www.kf666888.cn/api/tvbox/img
-
-（3）https://picsum.photos/1280/720/?blur=10
-
-（4）http://刚刚.live/图
-
-（5）http://饭太硬.ga/深色壁纸/api.php
-
-（6）https://www.dmoe.cc/random.php
-
-（7）https://api.btstu.cn/sjbz/zsy.php
-
-（8）https://api.btstu.cn/sjbz/?lx=dongman
-
-（9）http://api.btstu.cn/sjbz/?lx=meizi
-
-（10）http://api.btstu.cn/sjbz/?lx=suiji
-
-（11）https://pictures.catvod.eu.org/
+# TVBoxSource - 项目已重组优化 ✓
+
+> **2026年4月3日**: 项目结构已完全重组，优化目录层级和文件组织。
+
+## 📁 新的项目结构
+
+```
+TVBoxSource/
+├── configs/              # ✨ 所有配置文件 (收集整理)
+│   ├── sources/         # 数据源
+│   │   ├── cangkulist/  # 内源库
+│   │   ├── json/        # 通用配置
+│   │   ├── line/        # 线路配置
+│   │   └── livebroadcast/  # 直播源
+│   ├── scrapers/        # 爬虫框架配置 (XBPQ/XYQBiu/XYQHiker)
+│   └── demo/            # 示例和调试文件
+│
+├── libs/                 # ✨ 核心库文件 (统一管理)
+│   ├── js/              # JavaScript库
+│   ├── py/              # Python脚本
+│   ├── core/            # 核心库 (api + drpy_libs 合并)
+│   └── plugins/         # 插件和扩展库
+│
+├── packages/             # ✨ 预编译包 (有序组织)
+│   ├── parsers/         # 播放器解析JAR
+│   └── plugins/         # 插件JAR
+│
+├── docs/                 # 文档
+│   └── README.md        # 重组说明文档
+│
+└── README.md            # 本文件
+
+```
+
+## 🔄 优化要点
+
+| 方面 | 改进 |
+|------|------|
+| **目录深度** | 15+ 顶级目录 → 4 + docs |
+| **文件组织** | 按功能分类，避免重复 |
+| **可维护性** | 相同类型文件统一location |
+| **易用性** | 新用户更快上手 |
+
+## 📋 迁移清单
+
+### 配置文件 → configs/
+- XBPQ/ → configs/scrapers/xbpq/
+- XYQBiu/ → configs/scrapers/xyqbiu/
+- XYQHiker/ → configs/scrapers/xyqhiker/
+- 18/ → configs/demo/
+- json/ → configs/sources/json/
+- line/ → configs/sources/line/
+- livebroadcast/ → configs/sources/livebroadcast/
+- cangkulist/ → configs/sources/cangkulist/
+
+### 库文件 → libs/
+- js/ → libs/js/
+- py/ → libs/py/
+- api/ + drpy_libs/ → libs/core/
+- lib/ → libs/plugins/
+
+### 包文件 → packages/
+- jar/ → packages/parsers/
+- jars/ → packages/plugins/
+
+## ✅ 验证结果
+
+- ✓ 配置文件: 完整转移到 configs/
+- ✓ 库文件: 整合到 libs/ (统一管理)
+- ✓ 包文件: 整理到 packages/ (分类清晰)
+- ✓ 文档: 新增 docs/README.md (使用说明)
+
+## 📝 注意事项
+
+1. 如果有外部脚本引用旧目录路径，需要更新为新路径
+2. cangkulist/ 保持在 configs/sources/ 方便使用
+3. 所有JS库现统一在 libs/js/，便于共享
+4. 核心驱动库已合并到 libs/core/
+
+---
+
+**项目优化完成！** 结构更清晰，维护更方便。
 

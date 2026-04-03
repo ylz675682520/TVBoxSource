@@ -1,0 +1,44 @@
+{
+    "urls": [
+        {
+            "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json",
+            "name": "🚀无邪┃饭太硬线路"
+        },                      
+        {
+            "url": "http://肥猫.com/",
+            "name": "🚀无邪┃肥猫线路"
+        },  
+        {
+            "url": "http://我不是.摸鱼儿.com",
+            "name": "🚀无邪┃摸鱼线路"
+        }, 
+        {
+            "url": "https://cdn.jsdelivr.net/gh/PizazzGY/TVBox@main/api.json",
+            "name": "🚀无邪┃OK线路"
+        }, 
+        {
+            "url": "https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json",
+            "name": "🚀无邪┃王二小线路"
+        }, 
+        {
+            "url": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/tv.json",
+            "name": "🚀无邪┃短剧专线"
+        },     
+        {
+            "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
+            "name": "🚀无邪┃儿童专线"
+        },   
+        {
+            "url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json",
+            "name": "🚀无邪┃饭太硬备用"
+        },             
+        {
+            "url": "https://cdn.jsdelivr.net/gh/guot55/YGBH@main/vip2.json",
+            "name": "🚀无邪┃肥猫备用"
+        }, 
+        {
+            "url": "https://d.kstore.dev/download/9280/wex.json",
+            "name": "🚀无邪┃王二小备用"
+        }
+    ]
+}
