@@ -2,11 +2,11 @@
     "urls": [
         {"url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json", "name": "FanTaiYing"},
         {"url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/XYQ.json", "name": "XYQ"},
-        {"url": "https://cdn.jsdelivr.net/gh/PizazzGY/TVBox@main/api.json", "name": "OK"},
         {"url": "https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json", "name": "XC"},
         {"url": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/tv.json", "name": "DuanJu"},
         {"url": "https://cdn.jsdelivr.net/gh/guot55/YGBH@main/vip2.json", "name": "FatCat"},
         {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/skill.json", "name": "Skill"},
-        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/M.json", "name": "M"}
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/M.json", "name": "M"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/jsm.json", "name": "Jsm"}
     ]
 }
