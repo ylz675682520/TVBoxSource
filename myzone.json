@@ -1,13 +1,5 @@
 ﻿{
     "storeHouse": [
-        {"sourceName": "Fantaiying", "sourceUrl": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json"},
-        {"sourceName": "XYQ", "sourceUrl": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/XYQ.json"},
-        {"sourceName": "0827", "sourceUrl": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0827.json"},
-        {"sourceName": "XC", "sourceUrl": "https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json"},
-        {"sourceName": "VIP2", "sourceUrl": "https://cdn.jsdelivr.net/gh/guot55/YGBH@main/vip2.json"},
-        {"sourceName": "M", "sourceUrl": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json"},
-        {"sourceName": "TVShort", "sourceUrl": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/tv.json"},
-        {"sourceName": "Children", "sourceUrl": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer"},
         {"sourceName": "Hot", "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/cangkulist/hot.json"},
         {"sourceName": "Hot2", "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/cangkulist/hot2.json"},
         {"sourceName": "Moyu", "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/cangkulist/moyu.json"},
@@ -24,8 +16,11 @@
         {"sourceName": "18-02", "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/18/18-02.json"},
         {"sourceName": "18", "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/18/18.json"},
         {"sourceName": "18ck", "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/18/18ck.json"},
+        {"sourceName": "Huhujun", "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/18/Huhujun%E7%BA%BF%E8%B7%AF.json"},
         {"sourceName": "Catcr", "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/18/catcr.json"},
+        {"sourceName": "Erha", "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/18/%E4%BA%8C%E5%93%8818%2B.json"},
         {"sourceName": "Xingyun", "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/18/%E6%98%9F%E4%BA%91%E7%BA%BF%E8%B7%AF.json"},
+        {"sourceName": "Fuli", "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/18/%E6%B5%AE%E5%8A%9Byyfxz1.json"},
         {"sourceName": "Fengmi", "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/18/%E8%9C%82%E8%9C%9C%E5%9C%A8%E7%BA%BF.json"}
     ]
 }
