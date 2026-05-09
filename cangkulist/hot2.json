@@ -1,27 +1,27 @@
 {
   "urls": [
     {
-      "url": "./local_resources/js.json",
+      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json",
       "name": "💎无邪┃饭太硬线路"
     },
     {
-      "url": "./local_resources/XYQ.json",
+      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/XYQ.json",
       "name": "💎无邪┃多多网盘线路"
     },
     {
-      "url": "./local_resources/api.json",
+      "url": "https://cdn.jsdelivr.net/gh/PizazzGY/TVBox@main/api.json",
       "name": "💎无邪┃OK线路"
     },
     {
-      "url": "./local_resources/XC.json",
+      "url": "https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json",
       "name": "💎无邪┃王二小线路"
     },
     {
-      "url": "./local_resources/tv.json",
+      "url": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/tv.json",
       "name": "💎无邪┃短剧专线"
     },
     {
-      "url": "./local_resources/jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
+      "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
       "name": "💎无邪┃儿童专线"
     },
     {
@@ -29,19 +29,19 @@
       "name": "💎无邪┃道长线路"
     },
     {
-      "url": "./local_resources/0827.json",
+      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0827.json",
       "name": "💎无邪┃俊佬线路"
     },
     {
-      "url": "./local_resources/vip2.json",
+      "url": "https://cdn.jsdelivr.net/gh/guot55/YGBH@main/vip2.json",
       "name": "💎无邪┃Ray明线路"
     },
     {
-      "url": "./local_resources/app.json",
+      "url": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/app.json",
       "name": "💎无邪┃欧歌线路"
     },
     {
-      "url": "./local_resources/fongmi.json",
+      "url": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/fongmi.json",
       "name": "💎无邪┃小马线路"
     },
     {
@@ -49,7 +49,7 @@
       "name": "💎无邪┃巧计线路"
     },
     {
-      "url": "./local_resources/m.json",
+      "url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json",
       "name": "💎无邪┃码点线路"
     }
   ]

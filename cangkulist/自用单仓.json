@@ -1,139 +1,139 @@
 {
   "urls": [
     {
-      "url": "./local_resources/js.json",
+      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json",
       "name": "🚀2-饭太硬推荐"
     },
     {
-      "url": "./local_resources/vip2.json",
+      "url": "https://cdn.jsdelivr.net/gh/guot55/YGBH@main/vip2.json",
       "name": "🚀4-宝盒线路"
     },
     {
-      "url": "./local_resources/0827.json",
+      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0827.json",
       "name": "🚀6-FongMI线路"
     },
     {
-      "url": "./local_resources/XYQ.json",
+      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/XYQ.json",
       "name": "🚀12-高天流云 XYQ"
     },
     {
-      "url": "./local_resources/XC.json",
+      "url": "https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json",
       "name": "🚀15-南风"
     },
     {
-      "url": "./local_resources/api.json",
+      "url": "https://cdn.jsdelivr.net/gh/PizazzGY/TVBox@main/api.json",
       "name": "🚀18-潇洒哥线路"
     },
     {
-      "url": "./local_resources/configs/sources/line/技巧.json",
+      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/技巧.json",
       "name": "01 技巧"
     },
     {
-      "url": "./local_resources/m.json",
+      "url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json",
       "name": "liu673"
     },
     {
-      "url": "./local_resources/tv.json",
+      "url": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/tv.json",
       "name": "湘雅晴TV"
     },
     {
-      "url": "./local_resources/app.json",
+      "url": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/app.json",
       "name": "湘雅晴APP"
     },
     {
-      "url": "./local_resources/fongmi.json",
+      "url": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/fongmi.json",
       "name": "蜂蜜"
     },
     {
-      "url": "./local_resources/configs/sources/line/阿里精品专线.json",
+      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/阿里精品专线.json",
       "name": "02 🅰️阿里精品专线"
     },
     {
-      "url": "./local_resources/configs/sources/line/云盘线路.json",
+      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/云盘线路.json",
       "name": "03 🎬云盘线路"
     },
     {
-      "url": "./local_resources/configs/sources/line/运输车主线.json",
+      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/运输车主线.json",
       "name": "04 🚚运输车主线[516]"
     },
     {
-      "url": "./local_resources/configs/sources/line/运输车CF加速.json",
+      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/运输车CF加速.json",
       "name": "05 🚚运输车CF加速"
     },
     {
-      "url": "./local_resources/configs/sources/line/dong-learn.json",
+      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/dong-learn.json",
       "name": "06 🍄dong-learn[527]"
     },
     {
-      "url": "./local_resources/configs/sources/line/巧儿.json",
+      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/巧儿.json",
       "name": "⏰巧儿[521]"
     },
     {
-      "url": "./local_resources/configs/sources/line/东2.json",
+      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/东2.json",
       "name": "⏰东2[0526]"
     },
     {
-      "url": "./local_resources/configs/sources/line/暴脾气.json",
+      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/暴脾气.json",
       "name": "⏰暴脾气[0608]"
     },
     {
-      "url": "./local_resources/configs/sources/line/M线路.json",
+      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/M线路.json",
       "name": "Ⓜ️M线路[0608]"
     },
     {
-      "url": "./local_resources/configs/sources/line/N线路.json",
+      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/N线路.json",
       "name": "Ⓜ️N线路[0608]"
     },
     {
-      "url": "./local_resources/configs/sources/line/肥猫.json",
+      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/肥猫.json",
       "name": "线路2（肥猫）"
     },
     {
-      "url": "./local_resources/configs/sources/line/夜猫子.json",
+      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/夜猫子.json",
       "name": "线路3（夜猫子）"
     },
     {
-      "url": "./local_resources/configs/sources/line/运输车.json",
+      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/运输车.json",
       "name": "线路4（运输车）"
     },
     {
-      "url": "./local_resources/configs/sources/line/dxawi.json",
+      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/dxawi.json",
       "name": "线路5（dxawi）"
     },
     {
-      "url": "./local_resources/configs/sources/line/多多.json",
+      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/多多.json",
       "name": "线路6（多多）"
     },
     {
-      "url": "./local_resources/configs/sources/line/香雅情.json",
+      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/香雅情.json",
       "name": "线路7（香雅情）"
     },
     {
-      "url": "./local_resources/configs/sources/line/菜妮丝.json",
+      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/菜妮丝.json",
       "name": "线路8（菜妮丝）"
     },
     {
-      "url": "./local_resources/configs/sources/line/巧儿02.json",
+      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/巧儿02.json",
       "name": "线路9（巧儿02）"
     },
     {
-      "url": "./local_resources/configs/sources/line/南风.json",
+      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/南风.json",
       "name": "线路10（南风）"
     },
     {
-      "url": "./local_resources/configs/sources/line/JS.json",
+      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/JS.json",
       "name": "线路11（JS）"
     },
     {
-      "url": "./local_resources/configs/sources/line/PY.json",
+      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/PY.json",
       "name": "线路12（PY）"
     },
     {
-      "url": "./local_resources/configs/sources/line/爽翻天.json",
+      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/爽翻天.json",
       "name": "⏯️爽翻天〔多条线路〕"
     },
     {
-      "url": "./local_resources/configs/sources/line/毒盒.json",
+      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/毒盒.json",
       "name": "💦毒盒"
     }
   ]
