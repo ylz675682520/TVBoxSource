@@ -1,6 +1,6 @@
 ﻿{
     "storeHouse": [
-        {"sourceName": "Fantaiying", "sourceUrl": "https://gh.con.sh/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"},
+        {"sourceName": "Fantaiying", "sourceUrl": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json"},
         {"sourceName": "XYQ", "sourceUrl": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/XYQ.json"},
         {"sourceName": "0827", "sourceUrl": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0827.json"},
         {"sourceName": "XC", "sourceUrl": "https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json"},
