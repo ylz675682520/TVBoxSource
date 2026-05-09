@@ -1,35 +1,27 @@
 {
   "urls": [
     {
-      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json",
+      "url": "./local_resources/js.json",
       "name": "💎无邪┃饭太硬线路"
     },
     {
-      "url": "http://肥猫.com/",
-      "name": "💎无邪┃肥猫线路"
-    },
-    {
-      "url": "http://我不是.摸鱼儿.com",
-      "name": "💎无邪┃摸鱼线路"
-    },
-    {
-      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/XYQ.json",
+      "url": "./local_resources/XYQ.json",
       "name": "💎无邪┃多多网盘线路"
     },
     {
-      "url": "https://cdn.jsdelivr.net/gh/PizazzGY/TVBox@main/api.json",
+      "url": "./local_resources/api.json",
       "name": "💎无邪┃OK线路"
     },
     {
-      "url": "https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json",
+      "url": "./local_resources/XC.json",
       "name": "💎无邪┃王二小线路"
     },
     {
-      "url": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/tv.json",
+      "url": "./local_resources/tv.json",
       "name": "💎无邪┃短剧专线"
     },
     {
-      "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
+      "url": "./local_resources/jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
       "name": "💎无邪┃儿童专线"
     },
     {
@@ -37,64 +29,28 @@
       "name": "💎无邪┃道长线路"
     },
     {
-      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0827.json",
+      "url": "./local_resources/0827.json",
       "name": "💎无邪┃俊佬线路"
     },
     {
-      "url": "https://cdn.jsdelivr.net/gh/guot55/YGBH@main/vip2.json",
+      "url": "./local_resources/vip2.json",
       "name": "💎无邪┃Ray明线路"
     },
     {
-      "url": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/app.json",
+      "url": "./local_resources/app.json",
       "name": "💎无邪┃欧歌线路"
     },
     {
-      "url": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/fongmi.json",
+      "url": "./local_resources/fongmi.json",
       "name": "💎无邪┃小马线路"
-    },
-    {
-      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json",
-      "name": "💎无邪┃业余打发线路"
-    },
-    {
-      "url": "https://cdn.jsdelivr.net/gh/guot55/YGBH@main/vip2.json",
-      "name": "💎无邪┃月光宝盒线路"
-    },
-    {
-      "url": "https://龙伊.top",
-      "name": "💎无邪┃龙伊线路"
-    },
-    {
-      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/XYQ.json",
-      "name": "💎无邪┃不良帅线路"
-    },
-    {
-      "url": "https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json",
-      "name": "💎无邪┃青龙线路"
     },
     {
       "url": "http://cdn.qiaoji8.com/tvbox.json",
       "name": "💎无邪┃巧计线路"
     },
     {
-      "url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json",
+      "url": "./local_resources/m.json",
       "name": "💎无邪┃码点线路"
-    },
-    {
-      "url": "https://cdn.jsdelivr.net/gh/PizazzGY/TVBox@main/api.json",
-      "name": "💎无邪┃分享者线路"
-    },
-    {
-      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json",
-      "name": "💎无邪┃潇洒线路"
-    },
-    {
-      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json",
-      "name": "💎无邪┃高天流云线路"
-    },
-    {
-      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/XYQ.json",
-      "name": "💎无邪┃香雅晴线路"
     }
   ]
 }

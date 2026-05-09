@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fty.jar;md5;53ad14bb641d6ad5b1a76ea48f35cb7d",
+  "spider": "./packages/parsers/fty.jar;md5;53ad14bb641d6ad5b1a76ea48f35cb7d",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {

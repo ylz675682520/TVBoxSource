@@ -2,35 +2,27 @@
   "urls": [
     {
       "name": "自用晴天",
-      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/livebroadcast/自用直播晴天源.txt"
+      "url": "./local_resources/configs/sources/livebroadcast/自用直播晴天源.txt"
     },
     {
       "name": "自用收集",
-      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/livebroadcast/自用直播油管源.txt"
-    },
-    {
-      "name": "俊于",
-      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/livebroadcast/自用直播晴天源.txt"
+      "url": "./local_resources/configs/sources/livebroadcast/自用直播油管源.txt"
     },
     {
       "name": "应用边界",
-      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/livebroadcast/privatesource.json"
+      "url": "./local_resources/configs/sources/livebroadcast/privatesource.json"
     },
     {
       "name": "OwenTV",
-      "url": "https://cdn.jsdelivr.net/gh/owen2000wy/owentv@main/HP20230319.txt"
-    },
-    {
-      "name": "自用源",
-      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/livebroadcast/privatesource.json"
+      "url": "./local_resources/HP20230319.txt"
     },
     {
       "name": "yyfx",
-      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/livebroadcast/yyfx.json"
+      "url": "./local_resources/configs/sources/livebroadcast/yyfx.json"
     },
     {
       "name": "zyplayer",
-      "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/configs/sources/livebroadcast/zyplayer.json"
+      "url": "./local_resources/configs/sources/livebroadcast/zyplayer.json"
     }
   ]
 }

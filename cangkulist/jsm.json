@@ -1,5 +1,5 @@
 {
-  "spider": "./pg.jar",
+  "spider": "./packages/parsers/spider.jar",
   "sites": [
     {
       "key": "豆瓣",

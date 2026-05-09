@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/yt-aa.jar",
+  "spider": "./packages/parsers/yt-aa.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {

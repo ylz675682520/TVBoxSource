@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/wex.jar;md5;ff89163e0926138e9e9a08e5b8d917d4",
+  "spider": "./packages/parsers/wex.jar;md5;ff89163e0926138e9e9a08e5b8d917d4",
   "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716818643045/wexfnw.gif",
   "sites": [

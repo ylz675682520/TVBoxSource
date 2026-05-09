@@ -48,7 +48,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./packages/parsers/XBPQ.jar",
       "ext": "../../libs/js/ss/花都.json"
     },
     {
@@ -177,7 +177,7 @@
       "name": "百万破解",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./jar/XBPQ.jar",
+      "jar": "./packages/parsers/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -191,7 +191,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "timeout": 120,
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./packages/parsers/XBPQ.jar",
       "ext": "../../libs/js/ss/pronlulu.json"
     },
     {
@@ -267,7 +267,7 @@
       "name": "Pornhub",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "./jar/XYQ.jar",
+      "jar": "./packages/parsers/XBPQ1.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -428,7 +428,7 @@
       "name": "Netflav",
       "type": 3,
       "api": "csp_Netflav",
-      "jar": "./jar/netflav.jar",
+      "jar": "./packages/parsers/netflav.jar",
       "ext": "proxy",
       "searchable": 1,
       "quickSearch": 1,
@@ -445,7 +445,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "./packages/parsers/XBPQ.jar",
       "ext": "../../libs/js/ss/kisd.json"
     },
     {
@@ -1222,5 +1222,5 @@
     "wasu"
   ],
   "logo": "./img/pg.gif",
-  "spider": "./pg.jar"
+  "spider": "./packages/parsers/spider.jar"
 }
