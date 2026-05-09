@@ -31,6 +31,54 @@
         {
             "sourceName": "Children",
             "sourceUrl": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer"
+        },
+        {
+            "sourceName": "Hot",
+            "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/cangkulist/hot.json"
+        },
+        {
+            "sourceName": "Hot2",
+            "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/cangkulist/hot2.json"
+        },
+        {
+            "sourceName": "Moyu",
+            "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/cangkulist/moyu.json"
+        },
+        {
+            "sourceName": "Jsm",
+            "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/cangkulist/jsm.json"
+        },
+        {
+            "sourceName": "Ok",
+            "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/cangkulist/ok.json"
+        },
+        {
+            "sourceName": "Svip",
+            "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/cangkulist/svip.json"
+        },
+        {
+            "sourceName": "Fun",
+            "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/cangkulist/fun.json"
+        },
+        {
+            "sourceName": "Box",
+            "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/cangkulist/box.json"
+        },
+        {
+            "sourceName": "Fty",
+            "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/cangkulist/fty.json"
+        },
+        {
+            "sourceName": "Aa",
+            "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/cangkulist/aa.json"
+        },
+        {
+            "sourceName": "Ziyong",
+            "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/cangkulist/自用单仓.json"
+        },
+        {
+            "sourceName": "Live",
+            "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/cangkulist/自用直播仓库.json"
         }
     ]
 }
