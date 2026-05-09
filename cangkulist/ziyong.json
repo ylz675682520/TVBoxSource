@@ -1,0 +1,12 @@
+{
+    "urls": [
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/moyu.json", "name": "Moyu"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/jsm.json", "name": "Jsm"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/fun.json", "name": "Fun"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/box.json", "name": "Box"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/svip.json", "name": "Svip"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/aa.json", "name": "Aa"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/fty.json", "name": "Fty"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ok.json", "name": "Ok"}
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "urls": [
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/18-01.json", "name": "18-01"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/18-02.json", "name": "18-02"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/18.json", "name": "18"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/18ck.json", "name": "18ck"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/catcr.json", "name": "Catcr"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/Xingyun.json", "name": "Xingyun"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/Fengmi.json", "name": "Fengmi"}
+    ]
+}

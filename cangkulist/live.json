@@ -1,0 +1,8 @@
+{
+    "urls": [
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/livebroadcast/yyfx.json", "name": "yyfx"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/livebroadcast/zyplayer.json", "name": "zyplayer"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/livebroadcast/privatesource.json", "name": "应用边界"},
+        {"url": "https://cdn.jsdelivr.net/gh/owen2000wy/owentv@main/HP20230319.txt", "name": "OwenTV"}
+    ]
+}

@@ -1,36 +1,12 @@
-﻿{
-  "urls": [
-    {
-      "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json",
-      "name": "饭太硬线路"
-    },
-    {
-      "url": "https://cdn.jsdelivr.net/gh/PizazzGY/TVBox@main/api.json",
-      "name": "OK线路"
-    },
-    {
-      "url": "https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json",
-      "name": "王二小线路"
-    },
-    {
-      "url": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/tv.json",
-      "name": "短剧专线"
-    },
-    {
-      "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
-      "name": "儿童专线"
-    },
-    {
-      "url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json",
-      "name": "饭太硬备用"
-    },
-    {
-      "url": "https://cdn.jsdelivr.net/gh/guot55/YGBH@main/vip2.json",
-      "name": "肥猫备用"
-    },
-    {
-      "url": "https://d.kstore.dev/download/9280/wex.json",
-      "name": "王二小备用"
-    }
-  ]
+{
+    "urls": [
+        {"url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json", "name": "FanTaiYing"},
+        {"url": "https://cdn.jsdelivr.net/gh/PizazzGY/TVBox@main/api.json", "name": "OK"},
+        {"url": "https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json", "name": "WangErXiao"},
+        {"url": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/tv.json", "name": "DuanJu"},
+        {"url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json", "name": "Liu673"},
+        {"url": "https://cdn.jsdelivr.net/gh/guot55/YGBH@main/vip2.json", "name": "FatCat"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/skill.json", "name": "Skill"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/NanFeng.json", "name": "NanFeng"}
+    ]
 }
