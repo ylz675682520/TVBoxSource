@@ -79,6 +79,50 @@
         {
             "sourceName": "Live",
             "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/cangkulist/自用直播仓库.json"
+        },
+        {
+            "sourceName": "18-01",
+            "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/18/18-01.json"
+        },
+        {
+            "sourceName": "18-02",
+            "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/18/18-02.json"
+        },
+        {
+            "sourceName": "18",
+            "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/18/18.json"
+        },
+        {
+            "sourceName": "18ck",
+            "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/18/18ck.json"
+        },
+        {
+            "sourceName": "Huhujun",
+            "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/18/Huhujun线路.json"
+        },
+        {
+            "sourceName": "Catcr",
+            "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/18/catcr.json"
+        },
+        {
+            "sourceName": "Erha",
+            "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/18/二哈18+.json"
+        },
+        {
+            "sourceName": "Kangbazi",
+            "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/18/扛把子线路.json"
+        },
+        {
+            "sourceName": "Xingyun",
+            "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/18/星云线路.json"
+        },
+        {
+            "sourceName": "Fuli",
+            "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/18/浮力yyfxz1.json"
+        },
+        {
+            "sourceName": "Fengmi",
+            "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/18/蜂蜜在线.json"
         }
     ]
 }
