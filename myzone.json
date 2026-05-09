@@ -1,28 +1,36 @@
-{
-  "storeHouse": [
-    {
-      "sourceName": "Fantaiying",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json"
-    },
-    {
-      "sourceName": "XYQ",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/XYQ.json"
-    },
-    {
-      "sourceName": "OK",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/PizazzGY/TVBox@main/api.json"
-    },
-    {
-      "sourceName": "XC",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json"
-    },
-    {
-      "sourceName": "VIP2",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/guot55/YGBH@main/vip2.json"
-    },
-    {
-      "sourceName": "M",
-      "sourceUrl": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json"
-    }
-  ]
+﻿{
+    "storeHouse": [
+        {
+            "sourceName": "Fantaiying",
+            "sourceUrl": "https://gh.con.sh/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
+        },
+        {
+            "sourceName": "XYQ",
+            "sourceUrl": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/XYQ.json"
+        },
+        {
+            "sourceName": "0827",
+            "sourceUrl": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/0827.json"
+        },
+        {
+            "sourceName": "XC",
+            "sourceUrl": "https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json"
+        },
+        {
+            "sourceName": "VIP2",
+            "sourceUrl": "https://cdn.jsdelivr.net/gh/guot55/YGBH@main/vip2.json"
+        },
+        {
+            "sourceName": "M",
+            "sourceUrl": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json"
+        },
+        {
+            "sourceName": "TVShort",
+            "sourceUrl": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/tv.json"
+        },
+        {
+            "sourceName": "Children",
+            "sourceUrl": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer"
+        }
+    ]
 }
