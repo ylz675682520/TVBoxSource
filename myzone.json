@@ -1,11 +1,11 @@
 {
   "storeHouse": [
     {
-      "sourceName": "💚无邪优选仓🍭热门推荐🍭",
+      "sourceName": "无邪优选仓热门推荐",
       "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/cangkulist/hot.json"
     },
     {
-      "sourceName": "💛无邪聚合仓🍭聚合全网🍭",
+      "sourceName": "无邪聚合仓聚合全网",
       "sourceUrl": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/cangkulist/hot2.json"
     },
     {

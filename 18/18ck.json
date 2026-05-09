@@ -2,19 +2,19 @@
   "urls": [
     {
       "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/18/18.json",
-      "name": "01 18"
+      "name": "18"
     },
     {
       "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/18/Huhujun线路.json",
-      "name": "02 Huhujun线路"
+      "name": "Huhujun线路"
     },
     {
       "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/18/二哈18+.json",
-      "name": "03 二哈18+"
+      "name": "二哈18+"
     },
     {
       "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/18/蜂蜜在线.json",
-      "name": "04 蜂蜜在线"
+      "name": "蜂蜜在线"
     },
     {
       "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/18/星云线路.json",
@@ -26,7 +26,7 @@
     },
     {
       "url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/18/浮力yyfxz1.json",
-      "name": "♊浮力yyfxz1[18+]"
+      "name": "浮力yyfxz1"
     }
   ]
 }
