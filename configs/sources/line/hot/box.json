@@ -1,8 +1,8 @@
-{
+﻿{
   "sites": [
     {
-      "key": "豆瓣",
-      "name": "豆瓣",
+      "key": "璞嗙摚",
+      "name": "璞嗙摚",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
@@ -20,7 +20,7 @@
       "changeable": 1,
       "timeout": 60,
       "vodPic": "./img/file.jpg",
-      "ext": "../../libs/js/alist.json"
+      "ext": "../../../libs/js/alist.json"
     },
     {
       "key": "BiliBili",
@@ -36,13 +36,13 @@
       "changeable": 0,
       "timeout": 60,
       "ext": {
-        "json": "../../libs/js/mtv.json",
+        "json": "../../../libs/js/mtv.json",
         "cookie": ""
       }
     },
     {
-      "key": "采集集合",
-      "name": "采集集合",
+      "key": "閲囬泦闆嗗悎",
+      "name": "閲囬泦闆嗗悎",
       "type": 1,
       "api": "http://127.0.0.1:1988/lb?lb=3",
       "jar": "./jar/yt-aa.jar",
@@ -55,7 +55,7 @@
     },
     {
       "key": "tt",
-      "name": "老三|4K",
+      "name": "鑰佷笁|4K",
       "type": 3,
       "api": "https://gitee.com/yuyu10588/tt/raw/t/t/drpy2.min.js",
       "ext": "https://gh.clun.top/raw.githubusercontent.com/ljlfct01/ljlfct01.github.io/refs/heads/main/%E8%85%BE%E4%BA%914k.js"
@@ -65,8 +65,8 @@
       "name": "== 1 =="
     },
     {
-      "key": "小苹果",
-      "name": "苹果弹幕",
+      "key": "灏忚嫻鏋?,
+      "name": "鑻规灉寮瑰箷",
       "type": 3,
       "api": "csp_Xpg",
       "jar": "./jar/fenghuang.jar",
@@ -75,16 +75,16 @@
       }
     },
     {
-      "key": "可可影视",
-      "name": "可可影视",
+      "key": "鍙彲褰辫",
+      "name": "鍙彲褰辫",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/可可.json"
+      "ext": "../../../libs/js/s/鍙彲.json"
     },
     {
-      "key": "旺旺",
-      "name": "旺旺短剧",
+      "key": "鏃烘椇",
+      "name": "鏃烘椇鐭墽",
       "type": 1,
       "api": "https://api.wwzy.tv/api.php/provide/vod/",
       "playerType": 1,
@@ -92,8 +92,8 @@
       "changeable": 1
     },
     {
-      "key": "久久影视",
-      "name": "久久影视",
+      "key": "涔呬箙褰辫",
+      "name": "涔呬箙褰辫",
       "type": 3,
       "api": "csp_AppYsV2",
       "jar": "./jar/qf.jar",
@@ -101,8 +101,8 @@
       "ext": "http://99cms.jj99.icu:8199/api.php/app/"
     },
     {
-      "key": "艾旦影视",
-      "name": "艾旦影视",
+      "key": "鑹炬棪褰辫",
+      "name": "鑹炬棪褰辫",
       "type": 1,
       "ext": {
         "proxy": "proxy"
@@ -112,164 +112,164 @@
       "searchable": 1,
       "changeable": 1,
       "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "国产剧"
+        "鍥戒骇鍔ㄦ极",
+        "鏃ラ煩鍔ㄦ极",
+        "鍥戒骇鍓?
       ]
     },
     {
-      "key": "四个圈影视",
-      "name": "四圈影视",
+      "key": "鍥涗釜鍦堝奖瑙?,
+      "name": "鍥涘湀褰辫",
       "type": 1,
       "api": "https://pg.fenwe078.cf/api.php/provide/vod/",
       "quickSearch": 1,
       "searchable": 1,
       "changeable": 1,
       "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "国产剧"
+        "鍥戒骇鍔ㄦ极",
+        "鏃ラ煩鍔ㄦ极",
+        "鍥戒骇鍓?
       ]
     },
     {
-      "key": "骚火影视",
-      "name": "骚火影视",
+      "key": "楠氱伀褰辫",
+      "name": "楠氱伀褰辫",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/骚火.json"
+      "ext": "../../../libs/js/s/楠氱伀.json"
     },
     {
-      "key": "小红",
-      "name": "小红影视",
+      "key": "灏忕孩",
+      "name": "灏忕孩褰辫",
       "type": 3,
       "api": "csp_XBPQ",
       "filterable": 1,
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/小红.json"
+      "ext": "../../../libs/js/s/灏忕孩.json"
     },
     {
-      "key": "小镇",
-      "name": "小镇影视",
+      "key": "灏忛晣",
+      "name": "灏忛晣褰辫",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/小镇.json"
+      "ext": "../../../libs/js/s/灏忛晣.json"
     },
     {
-      "key": "百思",
-      "name": "百思影视",
+      "key": "鐧炬€?,
+      "name": "鐧炬€濆奖瑙?,
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/百思.json"
+      "ext": "../../../libs/js/s/鐧炬€?json"
     },
     {
-      "key": "影院",
-      "name": "影院大全",
+      "key": "褰遍櫌",
+      "name": "褰遍櫌澶у叏",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/影院.json"
+      "ext": "../../../libs/js/s/褰遍櫌.json"
     },
     {
-      "key": "随客",
-      "name": "随客影视",
+      "key": "闅忓",
+      "name": "闅忓褰辫",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/随客.json"
+      "ext": "../../../libs/js/s/闅忓.json"
     },
     {
-      "key": "西瓜",
-      "name": "西瓜影视",
+      "key": "瑗跨摐",
+      "name": "瑗跨摐褰辫",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/西瓜.json"
+      "ext": "../../../libs/js/s/瑗跨摐.json"
     },
     {
-      "key": "七点影视",
-      "name": "七点影视",
+      "key": "涓冪偣褰辫",
+      "name": "涓冪偣褰辫",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/7点.json"
+      "ext": "../../../libs/js/s/7鐐?json"
     },
     {
-      "key": "三九影视",
-      "name": "三九影视",
+      "key": "涓変節褰辫",
+      "name": "涓変節褰辫",
       "type": 3,
       "api": "csp_HBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "./XBPQ/三九影视.json"
+      "ext": "./XBPQ/涓変節褰辫.json"
     },
     {
-      "key": "巴士动漫",
-      "name": "巴士动漫",
+      "key": "宸村＋鍔ㄦ极",
+      "name": "宸村＋鍔ㄦ极",
       "type": 3,
       "api": "csp_XYQHiker",
       "jar": "./jar/XBPQ.jar",
-      "ext": "./XYQHiker/巴士动漫.json"
+      "ext": "./XYQHiker/宸村＋鍔ㄦ极.json"
     },
     {
-      "key": "穷电影",
-      "name": "穷电影",
+      "key": "绌风數褰?,
+      "name": "绌风數褰?,
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/穷电影.json"
+      "ext": "../../../libs/js/s/绌风數褰?json"
     },
     {
-      "key": "狐狸君",
-      "name": "狐狸君",
+      "key": "鐙愮嫺鍚?,
+      "name": "鐙愮嫺鍚?,
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/狐狸君.json"
+      "ext": "../../../libs/js/s/鐙愮嫺鍚?json"
     },
     {
       "key": "2",
       "name": "== 2 =="
     },
     {
-      "key": "白嫖1",
-      "name": "️白嫖影视",
+      "key": "鐧藉珫1",
+      "name": "锔忕櫧瀚栧奖瑙?,
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/白嫖1.json"
+      "ext": "../../../libs/js/s/鐧藉珫1.json"
     },
     {
-      "key": "白嫖2",
-      "name": "️白嫖影视",
+      "key": "鐧藉珫2",
+      "name": "锔忕櫧瀚栧奖瑙?,
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/白嫖2.json"
+      "ext": "../../../libs/js/s/鐧藉珫2.json"
     },
     {
-      "key": "白嫖3",
-      "name": "白嫖影视",
+      "key": "鐧藉珫3",
+      "name": "鐧藉珫褰辫",
       "type": 3,
       "ua": "okhttp/3.15",
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/白嫖3.json"
+      "ext": "../../../libs/js/s/鐧藉珫3.json"
     },
     {
-      "key": "白嫖4",
-      "name": "白嫖影视",
+      "key": "鐧藉珫4",
+      "name": "鐧藉珫褰辫",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/白嫖4.json"
+      "ext": "../../../libs/js/s/鐧藉珫4.json"
     },
     {
       "key": "3",
@@ -277,9 +277,9 @@
     },
     {
       "key": "py_jianpian",
-      "name": "荐片(T3)",
+      "name": "鑽愮墖(T3)",
       "type": 3,
-      "api": "../../libs/py/py_jianpian.py",
+      "api": "../../../libs/py/py_jianpian.py",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -287,9 +287,9 @@
     },
     {
       "key": "py_jieyingshi",
-      "name": "界影视(T3)",
+      "name": "鐣屽奖瑙?T3)",
       "type": 3,
-      "api": "../../libs/py/py_jieyingshi.py",
+      "api": "../../../libs/py/py_jieyingshi.py",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -297,7 +297,7 @@
     },
     {
       "key": "py_UpFuHn",
-      "name": "Hi视频(T4)",
+      "name": "Hi瑙嗛(T4)",
       "type": 4,
       "api": "https://py.doube.eu.org/spider?site=UpFuHn",
       "searchable": 1,
@@ -307,7 +307,7 @@
     },
     {
       "key": "py_OleVod",
-      "name": "欧乐影院(T4)",
+      "name": "娆т箰褰遍櫌(T4)",
       "type": 4,
       "api": "https://py.doube.eu.org/spider?site=OleVod",
       "searchable": 1,
@@ -317,7 +317,7 @@
     },
     {
       "key": "py_Dm84",
-      "name": "动漫巴士(T4)",
+      "name": "鍔ㄦ极宸村＋(T4)",
       "type": 4,
       "api": "https://py.doube.eu.org/spider?site=Dm84",
       "searchable": 1,
@@ -327,7 +327,7 @@
     },
     {
       "key": "py_BaHaoTV",
-      "name": "八号影院(T4)",
+      "name": "鍏彿褰遍櫌(T4)",
       "type": 4,
       "api": "https://py.doube.eu.org/spider?site=BaHaoTV",
       "searchable": 1,
@@ -337,25 +337,25 @@
     },
     {
       "key": "py_aigua",
-      "name": "爱瓜TV(T3)",
+      "name": "鐖辩摐TV(T3)",
       "type": 3,
-      "api": "../../libs/py/py_aigua.py",
+      "api": "../../../libs/py/py_aigua.py",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0
     },
     {
       "key": "js_youyou",
-      "name": "悠悠视频(T3)",
+      "name": "鎮犳偁瑙嗛(T3)",
       "type": 3,
-      "api": "../../libs/js/youyou.js",
+      "api": "../../../libs/js/youyou.js",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0
     },
     {
-      "key": "py_国外",
-      "name": "国外剧情(T3)",
+      "key": "py_鍥藉",
+      "name": "鍥藉鍓ф儏(T3)",
       "type": 3,
       "api": "https://gh.clun.top/raw.githubusercontent.com/bestpvp/source/refs/heads/main/py/py_guowaiju.py",
       "quickSearch": 1,
@@ -363,10 +363,10 @@
       "filterable": 1
     },
     {
-      "key": "py_偷乐",
-      "name": "偷乐短剧(T3)",
+      "key": "py_鍋蜂箰",
+      "name": "鍋蜂箰鐭墽(T3)",
       "type": 3,
-      "api": "../../libs/py/偷乐短剧.py",
+      "api": "../../../libs/py/鍋蜂箰鐭墽.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -374,109 +374,109 @@
       "playerType": 2
     },
     {
-      "key": "py_猎手",
-      "name": "电影猎手(T3)",
+      "key": "py_鐚庢墜",
+      "name": "鐢靛奖鐚庢墜(T3)",
       "type": 3,
-      "api": "../../libs/py/py_电影猎手.py",
+      "api": "../../../libs/py/py_鐢靛奖鐚庢墜.py",
       "quickSearch": 1,
       "searchable": 1,
       "filterable": 0
     },
     {
-      "key": "py_美帕",
-      "name": "美帕影视(T3)",
+      "key": "py_缇庡笗",
+      "name": "缇庡笗褰辫(T3)",
       "type": 3,
-      "api": "../../libs/py/美帕影视.py",
+      "api": "../../../libs/py/缇庡笗褰辫.py",
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
     },
     {
-      "key": "py_嗨皮",
-      "name": "嗨皮影视(T3)",
+      "key": "py_鍡ㄧ毊",
+      "name": "鍡ㄧ毊褰辫(T3)",
       "type": 3,
-      "api": "../../libs/py/嗨皮影视.py",
+      "api": "../../../libs/py/鍡ㄧ毊褰辫.py",
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
     },
     {
-      "key": "py_云端",
-      "name": "云端影视(T3)",
+      "key": "py_浜戠",
+      "name": "浜戠褰辫(T3)",
       "type": 3,
-      "api": "../../libs/py/云端影视.py",
+      "api": "../../../libs/py/浜戠褰辫.py",
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
     },
     {
-      "key": "py_魔方",
-      "name": "魔方影视(T3)",
+      "key": "py_榄旀柟",
+      "name": "榄旀柟褰辫(T3)",
       "type": 3,
-      "api": "../../libs/py/魔方影视.py",
+      "api": "../../../libs/py/榄旀柟褰辫.py",
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
     },
     {
-      "key": "py_边缘",
-      "name": "边缘影视(T3)",
+      "key": "py_杈圭紭",
+      "name": "杈圭紭褰辫(T3)",
       "type": 3,
-      "api": "../../libs/py/边缘影视.py",
+      "api": "../../../libs/py/杈圭紭褰辫.py",
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
     },
     {
-      "key": "py_恋鱼",
-      "name": "恋鱼影视(T3)",
+      "key": "py_鎭嬮奔",
+      "name": "鎭嬮奔褰辫(T3)",
       "type": 3,
-      "api": "../../libs/py/恋鱼影视.py",
+      "api": "../../../libs/py/鎭嬮奔褰辫.py",
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
     },
     {
-      "key": "py_若惜",
-      "name": "若惜影视(T3)",
+      "key": "py_鑻ユ儨",
+      "name": "鑻ユ儨褰辫(T3)",
       "type": 3,
-      "api": "../../libs/py/若惜影视.py",
+      "api": "../../../libs/py/鑻ユ儨褰辫.py",
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
     },
     {
-      "key": "py_云速",
-      "name": "云速影视(T3)",
+      "key": "py_浜戦€?,
+      "name": "浜戦€熷奖瑙?T3)",
       "type": 3,
-      "api": "../../libs/py/云速影视.py",
+      "api": "../../../libs/py/浜戦€熷奖瑙?py",
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
     },
     {
-      "key": "py_旺旺",
-      "name": "旺旺影视(T3)",
+      "key": "py_鏃烘椇",
+      "name": "鏃烘椇褰辫(T3)",
       "type": 3,
-      "api": "../../libs/py/旺旺影视.py",
+      "api": "../../../libs/py/鏃烘椇褰辫.py",
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
     },
     {
-      "key": "py_农牧",
-      "name": "农牧影视(T3)",
+      "key": "py_鍐滅墽",
+      "name": "鍐滅墽褰辫(T3)",
       "type": 3,
-      "api": "../../libs/py/农民影视.py",
+      "api": "../../../libs/py/鍐滄皯褰辫.py",
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
     },
     {
-      "key": "py_文才",
-      "name": "文才影视(T3)",
+      "key": "py_鏂囨墠",
+      "name": "鏂囨墠褰辫(T3)",
       "type": 3,
-      "api": "../../libs/py/文才影视.py",
+      "api": "../../../libs/py/鏂囨墠褰辫.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -488,7 +488,7 @@
       "key": "py_4KAV",
       "name": "4KAV(T3)",
       "type": 3,
-      "api": "../../libs/py/4KAV.py",
+      "api": "../../../libs/py/4KAV.py",
       "quickSearch": 1,
       "searchable": 1,
       "filterable": 1
@@ -498,164 +498,164 @@
       "name": "== 4 =="
     },
     {
-      "key": "人人影视",
-      "name": "人人影视",
+      "key": "浜轰汉褰辫",
+      "name": "浜轰汉褰辫",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/人人.json"
+      "ext": "../../../libs/js/s/浜轰汉.json"
     },
     {
-      "key": "农民影视",
-      "name": "农民影视",
+      "key": "鍐滄皯褰辫",
+      "name": "鍐滄皯褰辫",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/农民.json"
+      "ext": "../../../libs/js/s/鍐滄皯.json"
     },
     {
-      "key": "熊猫影视",
-      "name": "熊猫影视",
+      "key": "鐔婄尗褰辫",
+      "name": "鐔婄尗褰辫",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/熊猫.json"
+      "ext": "../../../libs/js/s/鐔婄尗.json"
     },
     {
-      "key": "秀儿影院",
-      "name": "秀儿影院",
+      "key": "绉€鍎垮奖闄?,
+      "name": "绉€鍎垮奖闄?,
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/秀儿.json"
+      "ext": "../../../libs/js/s/绉€鍎?json"
     },
     {
-      "key": "毒舌影视",
-      "name": "毒舌影视",
+      "key": "姣掕垖褰辫",
+      "name": "姣掕垖褰辫",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/毒舌.json"
+      "ext": "../../../libs/js/s/姣掕垖.json"
     },
     {
-      "key": "星辰影院",
-      "name": "星辰影院",
+      "key": "鏄熻景褰遍櫌",
+      "name": "鏄熻景褰遍櫌",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/星辰.json"
+      "ext": "../../../libs/js/s/鏄熻景.json"
     },
     {
-      "key": "全网看",
-      "name": "全网看",
+      "key": "鍏ㄧ綉鐪?,
+      "name": "鍏ㄧ綉鐪?,
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/全网看.json"
+      "ext": "../../../libs/js/s/鍏ㄧ綉鐪?json"
     },
     {
-      "key": "free影视",
-      "name": "free影视",
+      "key": "free褰辫",
+      "name": "free褰辫",
       "type": 3,
       "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/free.json"
+      "ext": "../../../libs/js/s/free.json"
     },
     {
-      "key": "喝茶影视",
-      "name": "喝茶影视",
+      "key": "鍠濊尪褰辫",
+      "name": "鍠濊尪褰辫",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/喝茶.json"
+      "ext": "../../../libs/js/s/鍠濊尪.json"
     },
     {
-      "key": "策弛影视",
-      "name": "策弛影视",
+      "key": "绛栧紱褰辫",
+      "name": "绛栧紱褰辫",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/策弛.json"
+      "ext": "../../../libs/js/s/绛栧紱.json"
     },
     {
-      "key": "茶杯狐影视",
-      "name": "茶杯狐影视",
+      "key": "鑼舵澂鐙愬奖瑙?,
+      "name": "鑼舵澂鐙愬奖瑙?,
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/茶杯狐.json"
+      "ext": "../../../libs/js/s/鑼舵澂鐙?json"
     },
     {
-      "key": "瓜籽影院",
-      "name": "瓜籽影院",
+      "key": "鐡滅苯褰遍櫌",
+      "name": "鐡滅苯褰遍櫌",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/瓜籽.json"
+      "ext": "../../../libs/js/s/鐡滅苯.json"
     },
     {
-      "key": "来看点播",
-      "name": "来看点播",
+      "key": "鏉ョ湅鐐规挱",
+      "name": "鏉ョ湅鐐规挱",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/来看.json"
+      "ext": "../../../libs/js/s/鏉ョ湅.json"
     },
     {
-      "key": "布卡影视",
-      "name": "布卡影视",
+      "key": "甯冨崱褰辫",
+      "name": "甯冨崱褰辫",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/布卡.json"
+      "ext": "../../../libs/js/s/甯冨崱.json"
     },
     {
-      "key": "一帆影视",
-      "name": "一帆影视",
+      "key": "涓€甯嗗奖瑙?,
+      "name": "涓€甯嗗奖瑙?,
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/一帆.json"
+      "ext": "../../../libs/js/s/涓€甯?json"
     },
     {
-      "key": "欧乐影视",
-      "name": "欧乐影视",
+      "key": "娆т箰褰辫",
+      "name": "娆т箰褰辫",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/欧乐.json"
+      "ext": "../../../libs/js/s/娆т箰.json"
     },
     {
-      "key": "奇迹",
-      "name": "奇迹影视",
+      "key": "濂囪抗",
+      "name": "濂囪抗褰辫",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/奇迹.json"
+      "ext": "../../../libs/js/s/濂囪抗.json"
     },
     {
-      "key": "素白白",
-      "name": "素白白",
+      "key": "绱犵櫧鐧?,
+      "name": "绱犵櫧鐧?,
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/素白白.json"
+      "ext": "../../../libs/js/s/绱犵櫧鐧?json"
     },
     {
       "key": "5",
       "name": "== 5 =="
     },
     {
-      "key": "豆瓣资源",
-      "name": "豆瓣采集",
+      "key": "璞嗙摚璧勬簮",
+      "name": "璞嗙摚閲囬泦",
       "type": 1,
       "quickSearch": 1,
       "api": "https://caiji.dbzy.tv/api.php/provide/vod/"
     },
     {
-      "key": "索尼",
-      "name": "索尼采集 ",
+      "key": "绱㈠凹",
+      "name": "绱㈠凹閲囬泦 ",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/",
       "playUrl": "https://www.snplayer.com/?url=",
@@ -663,14 +663,14 @@
       "searchable": 1,
       "changeable": 1,
       "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "国产剧"
+        "鍥戒骇鍔ㄦ极",
+        "鏃ラ煩鍔ㄦ极",
+        "鍥戒骇鍓?
       ]
     },
     {
-      "key": "量子",
-      "name": "量子采集",
+      "key": "閲忓瓙",
+      "name": "閲忓瓙閲囬泦",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "playUrl": "https://lziplayer.com/?url=",
@@ -678,28 +678,28 @@
       "searchable": 1,
       "changeable": 1,
       "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "国产剧"
+        "鍥戒骇鍔ㄦ极",
+        "鏃ラ煩鍔ㄦ极",
+        "鍥戒骇鍓?
       ]
     },
     {
-      "key": "非凡",
-      "name": "非凡采集",
+      "key": "闈炲嚒",
+      "name": "闈炲嚒閲囬泦",
       "type": 1,
       "api": "https://cj.ffzyapi.com/api.php/provide/vod/?",
       "quickSearch": 1,
       "searchable": 1,
       "changeable": 1,
       "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "国产剧"
+        "鍥戒骇鍔ㄦ极",
+        "鏃ラ煩鍔ㄦ极",
+        "鍥戒骇鍓?
       ]
     },
     {
-      "key": "无尽",
-      "name": "无尽采集",
+      "key": "鏃犲敖",
+      "name": "鏃犲敖閲囬泦",
       "type": 1,
       "api": "https://api.wujinapi.net/api.php/provide/vod/",
       "playUrl": "https://jx.wujinkk.com/dplayer/?url=",
@@ -707,43 +707,43 @@
       "searchable": 1,
       "changeable": 1,
       "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "国产剧",
-        "预告片"
+        "鍥戒骇鍔ㄦ极",
+        "鏃ラ煩鍔ㄦ极",
+        "鍥戒骇鍓?,
+        "棰勫憡鐗?
       ]
     },
     {
-      "key": "金鹰",
-      "name": "金鹰采集",
+      "key": "閲戦拱",
+      "name": "閲戦拱閲囬泦",
       "type": 1,
       "api": "https://jyzyapi.com/api.php/provide/vod/",
       "quickSearch": 1,
       "searchable": 1,
       "changeable": 1,
       "categories": [
-        "中国动漫",
-        "日本动漫",
-        "内地剧"
+        "涓浗鍔ㄦ极",
+        "鏃ユ湰鍔ㄦ极",
+        "鍐呭湴鍓?
       ]
     },
     {
-      "key": "速播",
-      "name": "速播采集",
+      "key": "閫熸挱",
+      "name": "閫熸挱閲囬泦",
       "type": 1,
       "api": "https://subocaiji.com/api.php/provide/vod/",
       "quickSearch": 1,
       "searchable": 1,
       "changeable": 1,
       "categories": [
-        "中国动漫",
-        "日本动漫",
-        "大陆剧"
+        "涓浗鍔ㄦ极",
+        "鏃ユ湰鍔ㄦ极",
+        "澶ч檰鍓?
       ]
     },
     {
-      "key": "樱花",
-      "name": "樱花采集",
+      "key": "妯辫姳",
+      "name": "妯辫姳閲囬泦",
       "type": 1,
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
       "playUrl": "https://jx.yhzybf.com/player/jx.php?url=",
@@ -751,22 +751,22 @@
       "searchable": 1,
       "changeable": 1,
       "categories": [
-        "国产动漫",
-        "日本动漫",
-        "国产剧"
+        "鍥戒骇鍔ㄦ极",
+        "鏃ユ湰鍔ㄦ极",
+        "鍥戒骇鍓?
       ]
     },
     {
-      "key": "黑木耳",
-      "name": "黑木耳",
+      "key": "榛戞湪鑰?,
+      "name": "榛戞湪鑰?,
       "type": 1,
       "api": "https://json02.heimuer.xyz/api.php/provide/vod/",
       "playUrl": "https://hoplayer.com/index.html?url=",
       "quickSearch": 1,
       "categories": [
-        "国产动漫",
-        "日本动漫",
-        "国产剧"
+        "鍥戒骇鍔ㄦ极",
+        "鏃ユ湰鍔ㄦ极",
+        "鍥戒骇鍓?
       ]
     },
     {
@@ -775,14 +775,14 @@
     },
     {
       "key": "TGYunPanLocal",
-      "name": "TG_频道搜索",
+      "name": "TG_棰戦亾鎼滅储",
       "type": 3,
       "api": "csp_TGYunPanLocal",
       "timeout": 120,
       "ext": {
         "token": "./lib/tokenm.json",
         "json": "./lib/tgsearch.json",
-        "keywords": "名称,片名,推荐",
+        "keywords": "鍚嶇О,鐗囧悕,鎺ㄨ崘",
         "channellist": "tgsearchers,leoziyuan,ucpanpan,pan123pan,zyfb123,zyzhpd123,xx123pan,tianyi_pd2,tianyirigeng,tyypzhpd,cloudtianyi,kuakeclound,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe",
         "proxy": "noproxy",
         "danmu": true
@@ -794,14 +794,14 @@
     },
     {
       "key": "TGYunPan",
-      "name": "TG_群组搜索",
+      "name": "TG_缇ょ粍鎼滅储",
       "type": 3,
       "api": "csp_TGYunPan",
       "timeout": 120,
       "ext": {
         "token": "./lib/tokenm.json",
         "json": "./lib/tgsearch.json",
-        "keywords": "名称,片名,推荐",
+        "keywords": "鍚嶇О,鐗囧悕,鎺ㄨ崘",
         "channellist": "alypzyhzq|1000,Mbox115|1000,shares_115|1000,NewQuark|1000,New_Sharing|1000,wanwansubchat|1000",
         "proxy": "noproxy",
         "danmu": true
@@ -813,14 +813,14 @@
     },
     {
       "key": "TGDouban",
-      "name": "TG_豆瓣",
+      "name": "TG_璞嗙摚",
       "type": 3,
       "api": "csp_TGDouban",
       "timeout": 120,
       "ext": {
         "token": "./lib/tokenm.json",
         "json": "./lib/tgsearch.json",
-        "keywords": "名称,片名,推荐",
+        "keywords": "鍚嶇О,鐗囧悕,鎺ㄨ崘",
         "channellist": "tgsearchers,leoziyuan,ucpanpan,pan123pan,zyfb123,zyzhpd123,xx123pan,tianyi_pd2,tianyirigeng,tyypzhpd,cloudtianyi,kuakeclound,ydypzyfx,clouddriveresources,NewQuark,New_Sharing,alypzyhzq|1000,Mbox115|1000,shares_115|1000,wanwansubchat|1000",
         "proxy": "noproxy",
         "douban": "./lib/douban.json",
@@ -843,8 +843,8 @@
       "ext": {
         "token": "./lib/tokenm.json",
         "json": "./lib/youtube.json",
-        "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
-        "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
+        "type": "鐩存挱#鏂伴椈#鍓ч泦#鐢靛奖#缁艰壓#绾綍鐗?闊充箰#浣撹偛#鍔ㄧ墿#椋庡厜#鏀炬澗#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
+        "keywords": "鎺掕姒?HOT,TRENDS,鐑棬璇濋,鐑棬瓒嬪娍,鐑棬缁艰壓,鐑棬鐢靛奖,鐑棬鐢佃鍓?灏忓濮?,
         "codecs": "",
         "proxy": "proxy",
         "danmu": true
@@ -855,8 +855,8 @@
       }
     },
     {
-      "key": "网盘配置",
-      "name": "网盘及彈幕配置",
+      "key": "缃戠洏閰嶇疆",
+      "name": "缃戠洏鍙婂綀骞曢厤缃?,
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -869,13 +869,13 @@
     },
     {
       "key": "Local",
-      "name": "本地文件夹",
+      "name": "鏈湴鏂囦欢澶?,
       "type": 3,
       "api": "csp_Local"
     },
     {
       "key": "FirstAid",
-      "name": "🚑 急救知识 ",
+      "name": "馃殤 鎬ユ晳鐭ヨ瘑 ",
       "type": 3,
       "api": "csp_FirstAid",
       "searchable": 0,
@@ -888,7 +888,7 @@
     },
     {
       "key": "Guanying",
-      "name": "观影网盘",
+      "name": "瑙傚奖缃戠洏",
       "type": 3,
       "api": "csp_Guanying",
       "quickSearch": 1,
@@ -899,7 +899,7 @@
     },
     {
       "key": "FourKFM",
-      "name": "4K网盘",
+      "name": "4K缃戠洏",
       "type": 3,
       "api": "csp_FourKFM",
       "quickSearch": 1,
@@ -909,8 +909,8 @@
       "ext": "./lib/tokenm.json$$$http://4kfm.com/$$$noproxy$$$1$$$./lib/4kfm.txt$$$4KFM"
     },
     {
-      "key": "校长影视",
-      "name": "校长影视",
+      "key": "鏍￠暱褰辫",
+      "name": "鏍￠暱褰辫",
       "type": 3,
       "api": "csp_XiaoZhang",
       "quickSearch": 1,
@@ -921,7 +921,7 @@
     },
     {
       "key": "Wogg",
-      "name": "玩偶哥哥",
+      "name": "鐜╁伓鍝ュ摜",
       "type": 3,
       "api": "csp_Wogg",
       "quickSearch": 1,
@@ -932,7 +932,7 @@
     },
     {
       "key": "yydsys",
-      "name": "玩你老哥",
+      "name": "鐜╀綘鑰佸摜",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -943,7 +943,7 @@
     },
     {
       "key": "Mogg",
-      "name": "木偶哥哥",
+      "name": "鏈ㄥ伓鍝ュ摜",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -954,7 +954,7 @@
     },
     {
       "key": "WOSS",
-      "name": "玩偶叔叔",
+      "name": "鐜╁伓鍙斿彅",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -965,7 +965,7 @@
     },
     {
       "key": "DAWO",
-      "name": "大玩偶",
+      "name": "澶х帺鍋?,
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -975,8 +975,8 @@
       "ext": "./lib/tokenm.json$$$http://149.88.87.18:6688/$$$noproxy$$$1$$$./lib/wogg.json$$$DAWO"
     },
     {
-      "key": "蜡笔网盘",
-      "name": "蜡笔网盘",
+      "key": "铚＄瑪缃戠洏",
+      "name": "铚＄瑪缃戠洏",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -987,7 +987,7 @@
     },
     {
       "key": "BAIJIA",
-      "name": "百家网盘",
+      "name": "鐧惧缃戠洏",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -998,7 +998,7 @@
     },
     {
       "key": "Xiaomi",
-      "name": "小米网盘",
+      "name": "灏忕背缃戠洏",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -1009,7 +1009,7 @@
     },
     {
       "key": "Hmxz",
-      "name": "海绵网盘",
+      "name": "娴风坏缃戠洏",
       "type": 3,
       "api": "csp_Hmxz",
       "quickSearch": 1,
@@ -1024,7 +1024,7 @@
     },
     {
       "key": "Leijing",
-      "name": "雷鲸网盘",
+      "name": "闆烽哺缃戠洏",
       "type": 3,
       "api": "csp_Panta",
       "quickSearch": 1,
@@ -1038,8 +1038,8 @@
       }
     },
     {
-      "key": "至臻网盘",
-      "name": "至臻网盘",
+      "key": "鑷宠嚮缃戠洏",
+      "name": "鑷宠嚮缃戠洏",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -1050,7 +1050,7 @@
     },
     {
       "key": "QINGYING",
-      "name": "清影|网盘",
+      "name": "娓呭奖|缃戠洏",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -1061,7 +1061,7 @@
     },
     {
       "key": "Guazi",
-      "name": "瓜子 App",
+      "name": "鐡滃瓙 App",
       "type": 3,
       "api": "csp_Guazi",
       "quickSearch": 1,
@@ -1072,7 +1072,7 @@
     },
     {
       "key": "Ppxzy",
-      "name": "皮皮虾",
+      "name": "鐨毊铏?,
       "type": 3,
       "api": "csp_Ppxzy",
       "quickSearch": 1,
@@ -1083,7 +1083,7 @@
     },
     {
       "key": "ddys",
-      "name": "低端网盘",
+      "name": "浣庣缃戠洏",
       "type": 3,
       "api": "csp_Ddys",
       "quickSearch": 1,
@@ -1093,8 +1093,8 @@
       "ext": "./lib/tokenm.json$$$https://ddys.pro/$$$proxy$$$1$$$"
     },
     {
-      "key": "美剧迷",
-      "name": "美剧迷",
+      "key": "缇庡墽杩?,
+      "name": "缇庡墽杩?,
       "type": 3,
       "api": "csp_Meijumi",
       "quickSearch": 1,
@@ -1116,7 +1116,7 @@
     },
     {
       "key": "Gaoqing",
-      "name": "中国高清",
+      "name": "涓浗楂樻竻",
       "type": 3,
       "api": "csp_Gaoqing",
       "quickSearch": 1,
@@ -1127,7 +1127,7 @@
     },
     {
       "key": "Hdhive",
-      "name": "鸟窝网盘",
+      "name": "楦熺獫缃戠洏",
       "type": 3,
       "api": "csp_Hdh",
       "quickSearch": 1,
@@ -1138,7 +1138,7 @@
     },
     {
       "key": "TianYiSou",
-      "name": "天逸搜",
+      "name": "澶╅€告悳",
       "type": 3,
       "api": "csp_TianYiSou",
       "quickSearch": 1,
@@ -1149,7 +1149,7 @@
     },
     {
       "key": "YunPan",
-      "name": "云盘资源",
+      "name": "浜戠洏璧勬簮",
       "type": 3,
       "api": "csp_YunPan",
       "timeout": 60,
@@ -1157,7 +1157,7 @@
     },
     {
       "key": "Panta",
-      "name": "盘Ta网盘",
+      "name": "鐩楾a缃戠洏",
       "type": 3,
       "api": "csp_Panta",
       "quickSearch": 1,
@@ -1172,7 +1172,7 @@
     },
     {
       "key": "DaPanSo",
-      "name": "大盘搜",
+      "name": "澶х洏鎼?,
       "type": 3,
       "api": "csp_DaPanSo",
       "quickSearch": 1,
@@ -1183,7 +1183,7 @@
     },
     {
       "key": "PikaSo",
-      "name": "皮卡搜",
+      "name": "鐨崱鎼?,
       "type": 3,
       "api": "csp_PikaSo",
       "quickSearch": 1,
@@ -1198,7 +1198,7 @@
     },
     {
       "key": "Qianfan",
-      "name": "千帆网盘",
+      "name": "鍗冨竼缃戠洏",
       "type": 3,
       "api": "csp_Qianfan",
       "quickSearch": 1,
@@ -1208,8 +1208,8 @@
       "ext": "./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$./lib/qianfan.txt$$$1"
     },
     {
-      "key": "新6V",
-      "name": "新6V网盘",
+      "key": "鏂?V",
+      "name": "鏂?V缃戠洏",
       "type": 3,
       "api": "csp_Xb6v",
       "searchable": 1,
@@ -1219,7 +1219,7 @@
     },
     {
       "key": "BLSGod",
-      "name": "BLSGod|磁",
+      "name": "BLSGod|纾?,
       "type": 3,
       "api": "csp_BLSGod",
       "changeable": 1,
@@ -1227,15 +1227,15 @@
     },
     {
       "key": "SeedHub",
-      "name": "SeedHub|磁",
+      "name": "SeedHub|纾?,
       "type": 3,
       "api": "csp_SeedHub",
       "changeable": 1,
       "timeout": 60
     },
     {
-      "key": "快看",
-      "name": "快看",
+      "key": "蹇湅",
+      "name": "蹇湅",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -1245,7 +1245,7 @@
     },
     {
       "key": "Ikanbot",
-      "name": "爱看机器",
+      "name": "鐖辩湅鏈哄櫒",
       "type": 3,
       "api": "csp_Ikanbot",
       "searchable": 1,
@@ -1255,24 +1255,24 @@
       "ext": "https://v.aikanbot.com$$$proxy"
     },
     {
-      "key": "櫻花资源",
-      "name": "櫻花资源",
+      "key": "娅昏姳璧勬簮",
+      "name": "娅昏姳璧勬簮",
       "type": 3,
       "api": "csp_Ying",
       "searchable": 1,
       "changeable": 0
     },
     {
-      "key": "巴士资源",
-      "name": "巴士资源",
+      "key": "宸村＋璧勬簮",
+      "name": "宸村＋璧勬簮",
       "type": 3,
       "api": "csp_Dm84",
       "searchable": 1,
       "changeable": 0
     },
     {
-      "key": "異界资源",
-      "name": "異界资源",
+      "key": "鐣扮晫璧勬簮",
+      "name": "鐣扮晫璧勬簮",
       "type": 3,
       "api": "csp_Ysj",
       "searchable": 1,
@@ -1280,7 +1280,7 @@
     },
     {
       "key": "MV_vod",
-      "name": "电视┃MTV",
+      "name": "鐢佃鈹僊TV",
       "type": 1,
       "api": "https://mv.wogg.link/mv/vod",
       "searchable": 1,
@@ -1288,27 +1288,27 @@
       "changeable": 0
     },
     {
-      "key": "酷狗音乐",
-      "name": "酷狗音乐",
+      "key": "閰风嫍闊充箰",
+      "name": "閰风嫍闊充箰",
       "type": 3,
       "api": "csp_Kugou",
       "searchable": 1,
       "changeable": 0
     },
     {
-      "key": "hipy_js_KTV歌厅[听]1",
-      "name": "KTV歌厅",
+      "key": "hipy_js_KTV姝屽巺[鍚琞1",
+      "name": "KTV姝屽巺",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "ext": "../../libs/js/drpy2.js"
+      "ext": "../../../libs/js/drpy2.js"
     },
     {
       "key": "Yinyuetai",
-      "name": "音悦台",
+      "name": "闊虫偊鍙?,
       "type": 3,
       "api": "csp_Yinyuetai",
       "searchable": 1,
@@ -1316,7 +1316,7 @@
     },
     {
       "key": "push_agent",
-      "name": "推送",
+      "name": "鎺ㄩ€?,
       "type": 3,
       "api": "csp_Push",
       "changeable": 0,
@@ -1324,8 +1324,8 @@
       "ext": "./lib/tokenm.json"
     },
     {
-      "key": "應用商店",
-      "name": "應用商店",
+      "key": "鎳夌敤鍟嗗簵",
+      "name": "鎳夌敤鍟嗗簵",
       "type": 3,
       "api": "csp_Market",
       "searchable": 0,
@@ -1333,8 +1333,8 @@
       "ext": "https://fm.t4tv.hz.cz/json/market.json"
     },
     {
-      "key": "直播转点播",
-      "name": "电视┃直播",
+      "key": "鐩存挱杞偣鎾?,
+      "name": "鐢佃鈹冪洿鎾?,
       "type": 3,
       "searchable": 0,
       "api": "./lib/live2vod.js",
@@ -1346,33 +1346,33 @@
     },
     {
       "key": "MXDM",
-      "name": "MXDM｜动漫",
+      "name": "MXDM锝滃姩婕?,
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
-      "ext": "../../libs/js/s/mx.json"
+      "ext": "../../../libs/js/s/mx.json"
     },
     {
       "key": "MiFunP",
-      "name": "MiFunP｜动漫",
+      "name": "MiFunP锝滃姩婕?,
       "type": 3,
-      "api": "../../libs/py/MiFunP.py",
+      "api": "../../../libs/py/MiFunP.py",
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
     },
     {
       "key": "CliCli",
-      "name": "CliCli｜动漫",
+      "name": "CliCli锝滃姩婕?,
       "type": 3,
-      "api": "../../libs/py/CliCli动漫.py",
+      "api": "../../../libs/py/CliCli鍔ㄦ极.py",
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
     },
     {
-      "key": "哆啦",
-      "name": "哆啦｜新番社",
+      "key": "鍝嗗暒",
+      "name": "鍝嗗暒锝滄柊鐣ぞ",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jar/XBPQ.jar",
@@ -1381,7 +1381,7 @@
       "style": {
         "type": "list"
       },
-      "ext": "./XBPQ/哆啦新番社.json"
+      "ext": "./XBPQ/鍝嗗暒鏂扮暘绀?json"
     },
     {
       "key": "8",
@@ -1389,7 +1389,7 @@
     },
     {
       "key": "Hdhive",
-      "name": "影巢网盘",
+      "name": "褰卞发缃戠洏",
       "type": 3,
       "api": "csp_Hdhive",
       "quickSearch": 1,
@@ -1413,19 +1413,19 @@
       "url": "https://gh.clun.top/raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/iptv.m3u"
     },
     {
-      "name": "平台直播",
+      "name": "骞冲彴鐩存挱",
       "type": 0,
       "url": "https://tv.iill.top/m3u/Live",
       "ua": "okhttp/3.15",
       "playerType": 2
     },
     {
-      "name": "LITV 直播",
+      "name": "LITV 鐩存挱",
       "type": 3,
       "api": "https://gh.clun.top/raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_litv.py"
     },
     {
-      "name": "SMT 直播",
+      "name": "SMT 鐩存挱",
       "type": 3,
       "api": "https://gh.clun.top/raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt_proxy_001.py"
     },
@@ -1513,14 +1513,14 @@
       ]
     },
     {
-      "name": "腾讯",
+      "name": "鑵捐",
       "url": "https://doh.pub/dns-query",
       "ips": [
         "119.29.29.29"
       ]
     },
     {
-      "name": "阿里",
+      "name": "闃块噷",
       "url": "https://dns.alidns.com/dns-query",
       "ips": [
         "223.6.6.6",
@@ -1693,7 +1693,7 @@
       ]
     },
     {
-      "name": "火山嗅探",
+      "name": "鐏北鍡呮帰",
       "hosts": [
         "huoshan.com"
       ],
@@ -1702,7 +1702,7 @@
       ]
     },
     {
-      "name": "抖音嗅探",
+      "name": "鎶栭煶鍡呮帰",
       "hosts": [
         "douyin.com"
       ],
@@ -1711,7 +1711,7 @@
       ]
     },
     {
-      "name": "農民嗅探",
+      "name": "杈叉皯鍡呮帰",
       "hosts": [
         "toutiaovod.com"
       ],
@@ -1720,7 +1720,7 @@
       ]
     },
     {
-      "name": "夜市",
+      "name": "澶滃競",
       "hosts": [
         "yeslivetv.com"
       ],
@@ -1729,7 +1729,7 @@
       ]
     },
     {
-      "name": "毛驢",
+      "name": "姣涢",
       "hosts": [
         "www.maolvys.com"
       ],
@@ -1738,26 +1738,26 @@
       ]
     },
     {
-      "name": "磁力",
+      "name": "纾佸姏",
       "hosts": [
         "magnet"
       ],
       "regex": [
-        "更多",
-        "社 區",
+        "鏇村",
+        "绀?鍗€",
         "x u u",
-        "最 新",
-        "直 播",
-        "更 新",
-        "社 区",
-        "有 趣",
-        "英皇体育",
-        "全中文AV在线",
-        "澳门皇冠赌场",
-        "哥哥快来",
-        "美女荷官",
-        "裸聊",
-        "新片首发",
+        "鏈€ 鏂?,
+        "鐩?鎾?,
+        "鏇?鏂?,
+        "绀?鍖?,
+        "鏈?瓒?,
+        "鑻辩殗浣撹偛",
+        "鍏ㄤ腑鏂嘇V鍦ㄧ嚎",
+        "婢抽棬鐨囧啝璧屽満",
+        "鍝ュ摜蹇潵",
+        "缇庡コ鑽峰畼",
+        "瑁歌亰",
+        "鏂扮墖棣栧彂",
         "UUE29"
       ]
     }
@@ -1774,7 +1774,7 @@
       "type": 0
     },
     {
-      "name": "七哥",
+      "name": "涓冨摜",
       "url": "https://jx.nnxv.cn/tv.php?url=",
       "type": 0
     }
@@ -1784,3 +1784,4 @@
   "logo": "./img/pg.gif",
   "spider": "./pg.jar"
 }
+

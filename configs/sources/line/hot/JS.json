@@ -1,0 +1,2783 @@
+﻿{
+  "spider": "../../../libs/js/spider.jar",
+  "sites": [
+    {
+      "key": "drpy_js_璞嗙摚",
+      "name": "鎼滅储 | 璞嗙摚[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/drpy.js"
+    },
+    {
+      "key": "bili",
+      "name": "B绔?| Bili[jar]",
+      "type": 3,
+      "api": "csp_Bili",
+      "changeable": 0,
+      "ext": "../../../libs/js/json/闊充箰婕斿敱.json"
+    },
+    {
+      "key": "drpy_js_鎴戠殑鍝斿摡",
+      "name": "鎴戠殑鍝斿摡[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "changeable": 0,
+      "ext": "../../../libs/js/js/鎴戠殑鍝斿摡.js"
+    },
+    {
+      "key": "AList",
+      "name": "缃戠洏 | Alist[jar]",
+      "type": 3,
+      "api": "csp_AList",
+      "changeable": 0,
+      "ext": "../../../libs/js/json/alistjar.json"
+    },
+    {
+      "key": "drpy_js_Alist",
+      "name": "缃戠洏 | Alist[js]",
+      "type": 3,
+      "api": "../../../libs/js/alist.min.js",
+      "changeable": 0,
+      "ext": "../../../libs/js/json/alist.json"
+    },
+    {
+      "key": "绾告潯",
+      "name": "闃块噷 | 绾告潯",
+      "type": 3,
+      "api": "csp_Paper",
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
+    },
+    {
+      "key": "鏄撴悳",
+      "name": "闃块噷 | 鏄撴悳",
+      "type": 3,
+      "api": "csp_YiSo",
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
+    },
+    {
+      "key": "鐩樻悳",
+      "name": "闃块噷 | 鐩樻悳",
+      "type": 3,
+      "api": "csp_PanSou",
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
+    },
+    {
+      "key": "UP浜戞悳",
+      "name": "闃块噷 | UP浜戞悳",
+      "type": 3,
+      "api": "csp_UpYun",
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
+    },
+    {
+      "key": "鎵捐硣婧?,
+      "name": "闃块噷 | 鎵捐硣婧?,
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt$$$test2$$$test2"
+    },
+    {
+      "key": "drpy_js_360褰辫",
+      "name": "瀹樻簮 | 360[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/360褰辫.js"
+    },
+    {
+      "key": "drpy_js_濂囩弽寮傚吔",
+      "name": "瀹樻簮 | 鐖卞鑹篬js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/濂囩弽寮傚吔.js"
+    },
+    {
+      "key": "drpy_js_浼橀叿",
+      "name": "瀹樻簮 | 浼橀叿[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/浼橀叿.js"
+    },
+    {
+      "key": "drpy_js_鑵句簯椹鹃浘",
+      "name": "瀹樻簮 | 鑵捐[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鑵句簯椹鹃浘.js"
+    },
+    {
+      "key": "drpy_js_鐧惧繖鏃犳灉",
+      "name": "瀹樻簮 | 鑺掓灉[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鐧惧繖鏃犳灉.js"
+    },
+    {
+      "key": "drpy_js_鑿滅嫍",
+      "name": "瀹樻簮 | 鎼滅嫍[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鑿滅嫍.js"
+    },
+    {
+      "key": "drpy_js_楠氱伀鐢靛奖",
+      "name": "褰辫 | 楠氱伀鐢靛奖[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/楠氱伀鐢靛奖.js"
+    },
+    {
+      "key": "drpy_js_TVB浜戞挱",
+      "name": "褰辫 | TVB浜戞挱[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/TVB浜戞挱.js"
+    },
+    {
+      "key": "drpy_js_鍓х櫧鐧?,
+      "name": "褰辫 | 鍓х櫧鐧絒js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍓х櫧鐧?js"
+    },
+    {
+      "key": "drpy_js_8K褰辫",
+      "name": "褰辫 | 8K褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/8K褰辫.js"
+    },
+    {
+      "key": "drpy_js_璞嗗反褰辫",
+      "name": "褰辫 | 璞嗗反褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/璞嗗反褰辫.js"
+    },
+    {
+      "key": "drpy_js_浜轰汉",
+      "name": "褰辫 | 浜轰汉[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/浜轰汉.js"
+    },
+    {
+      "key": "drpy_js_浣庣",
+      "name": "褰辫 | 浣庣[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/ddys.js"
+    },
+    {
+      "key": "drpy_js_鍐滄皯",
+      "name": "褰辫 | 鍐滄皯[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍐滄皯褰辫.js"
+    },
+    {
+      "key": "drpy_js_澶ц眴",
+      "name": "褰辫 | 澶ц眴[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/澶ц眴.js"
+    },
+    {
+      "key": "drpy_js_涔濋叿",
+      "name": "褰辫 | 涔濋叿[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/涔濋叿.js"
+    },
+    {
+      "key": "drpy_js_鐖辩湅",
+      "name": "褰辫 | 鐖辩湅[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鐖辩湅.js"
+    },
+    {
+      "key": "drpy_js_l0l",
+      "name": "褰辫 | l0l[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/l0l.js"
+    },
+    {
+      "key": "drpy_js_缃戦.TV",
+      "name": "褰辫 | 缃戦.TV[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/缃戦.TV.js"
+    },
+    {
+      "key": "drpy_js_涔愮尓TV",
+      "name": "褰辫 | 涔愮尓TV[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/涔愮尓TV.js"
+    },
+    {
+      "key": "drpy_js_鍏害TV",
+      "name": "褰辫 | 鍏害TV[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍏害TV.js"
+    },
+    {
+      "key": "drpy_js_鑺辩尗TV",
+      "name": "褰辫 | 鑺辩尗TV[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鑺辩尗TV.js"
+    },
+    {
+      "key": "drpy_js_鏂扮墖鍦?,
+      "name": "褰辫 | 鏂扮墖鍦篬js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鏂扮墖鍦?js"
+    },
+    {
+      "key": "drpy_js_杈捐揪榫?,
+      "name": "褰辫 | 杈捐揪榫焄js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/杈捐揪榫?js"
+    },
+    {
+      "key": "drpy_js_鐨毊楦?,
+      "name": "褰辫 | 鐨毊楦璠js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鐨毊楦?js"
+    },
+    {
+      "key": "drpy_js_鎱㈠ぇ娴?,
+      "name": "褰辫 | 鎱㈠ぇ娴猍js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鎱㈠ぇ娴?js"
+    },
+    {
+      "key": "drpy_js_鐪嬬湅灞?,
+      "name": "褰辫 | 鐪嬬湅灞媅js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鐪嬬湅灞?js"
+    },
+    {
+      "key": "drpy_js_鍝斿摡鍏?,
+      "name": "褰辫 | 鍝斿摡鍏擺js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍝斿摡鍏?js"
+    },
+    {
+      "key": "drpy_js_杩藉墽鍏?,
+      "name": "褰辫 | 杩藉墽鍏擺js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/杩藉墽鍏?js"
+    },
+    {
+      "key": "drpy_js_褰辨福娓?,
+      "name": "褰辫 | 褰辨福娓js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/褰辨福娓?js"
+    },
+    {
+      "key": "drpy_js_楦椋?,
+      "name": "褰辫 | 楦椋瀃js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/楦椋?js"
+    },
+    {
+      "key": "drpy_js_鏌掍箣绀?,
+      "name": "褰辫 | 鏌掍箣绀綶js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鏌掍箣绀?js"
+    },
+    {
+      "key": "drpy_js_鍏嶈垂鐪?,
+      "name": "褰辫 | 鍏嶈垂鐪媅js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍏嶈垂鐪?js"
+    },
+    {
+      "key": "drpy_js_璺极婕?,
+      "name": "褰辫 | 璺极婕玔js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/璺极婕?js"
+    },
+    {
+      "key": "drpy_js_灏忕尗鍜?,
+      "name": "褰辫 | 灏忕尗鍜猍js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/灏忕尗鍜?js"
+    },
+    {
+      "key": "drpy_js_鐪嬮煩鍓?,
+      "name": "褰辫 | 鐪嬮煩鍓js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鐪嬮煩鍓?js"
+    },
+    {
+      "key": "drpy_js_缇庡墽缃?,
+      "name": "褰辫 | 缇庡墽缃慬js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/缇庡墽缃?js"
+    },
+    {
+      "key": "drpy_js_鍘荤湅鍚?,
+      "name": "褰辫 | 鍘荤湅鍚js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍘荤湅鍚?js"
+    },
+    {
+      "key": "drpy_js_绮ょ埍鐪?,
+      "name": "褰辫 | 绮ょ埍鐪媅js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/绮ょ埍鐪?js"
+    },
+    {
+      "key": "drpy_js_杩藉墽杩?,
+      "name": "褰辫 | 杩藉墽杩穂js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/杩藉墽杩?js"
+    },
+    {
+      "key": "drpy_js_NFM褰辫",
+      "name": "褰辫 | NFM褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/NFM褰辫.js"
+    },
+    {
+      "key": "drpy_js_91free",
+      "name": "褰辫 | 91free[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/91free.js"
+    },
+    {
+      "key": "drpy_js_LIBVIO",
+      "name": "褰辫 | LIBVIO[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/LIBVIO.js"
+    },
+    {
+      "key": "drpy_js_HDmoli",
+      "name": "褰辫 | HDmoli[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/HDmoli.js"
+    },
+    {
+      "key": "drpy_js_voflix",
+      "name": "褰辫 | voflix[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/voflix.js"
+    },
+    {
+      "key": "drpy_js_UM鐢靛奖",
+      "name": "褰辫 | UM鐢靛奖[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/UM鐢靛奖.js"
+    },
+    {
+      "key": "drpy_js_tva浜戞挱",
+      "name": "褰辫 | tva浜戞挱[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/tva浜戞挱.js"
+    },
+    {
+      "key": "drpy_js_椋為褰辫",
+      "name": "褰辫 | 椋為褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/椋為褰辫.js"
+    },
+    {
+      "key": "drpy_js_寮€鐪艰棰?,
+      "name": "褰辫 | 寮€鐪艰棰慬js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/寮€鐪艰棰?js"
+    },
+    {
+      "key": "drpy_js_琚獫鐢靛奖",
+      "name": "褰辫 | 琚獫鐢靛奖[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/琚獫鐢靛奖.js"
+    },
+    {
+      "key": "drpy_js_绫崇埍褰辫",
+      "name": "褰辫 | 绫崇埍褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/绫崇埍褰辫.js"
+    },
+    {
+      "key": "drpy_js_鏄熺┖褰辫",
+      "name": "褰辫 | 鏄熺┖褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鏄熺┖褰辫.js"
+    },
+    {
+      "key": "drpy_js_绉嬮湠褰辫",
+      "name": "褰辫 | 绉嬮湠褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/绉嬮湠褰辫.js"
+    },
+    {
+      "key": "drpy_js_鏃犲悕灏忕珯",
+      "name": "褰辫 | 鏃犲悕灏忕珯[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鏃犲悕灏忕珯.js"
+    },
+    {
+      "key": "drpy_js_鏈存ū褰辫",
+      "name": "褰辫 | 鏈存ū褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鏈存ū褰辫.js"
+    },
+    {
+      "key": "drpy_js_灏忕嫍褰遍櫌",
+      "name": "褰辫 | 灏忕嫍褰遍櫌[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/灏忕嫍褰遍櫌.js"
+    },
+    {
+      "key": "drpy_js_鍩庡競鐢靛奖",
+      "name": "褰辫 | 鍩庡競鐢靛奖[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍩庡競鐢靛奖.js"
+    },
+    {
+      "key": "drpy_js_閰峰褰遍櫌",
+      "name": "褰辫 | 閰峰褰遍櫌[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/閰峰褰遍櫌.js"
+    },
+    {
+      "key": "drpy_js_濂囦紭褰遍櫌",
+      "name": "褰辫 | 濂囦紭褰遍櫌[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/濂囦紭褰遍櫌.js"
+    },
+    {
+      "key": "drpy_js_鍘傞暱璧勬簮",
+      "name": "褰辫 | 鍘傞暱璧勬簮[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍘傞暱璧勬簮.js"
+    },
+    {
+      "key": "drpy_js_鍦ㄧ嚎涔嬪",
+      "name": "褰辫 | 鍦ㄧ嚎涔嬪[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍦ㄧ嚎涔嬪.js"
+    },
+    {
+      "key": "drpy_js_绋€楗奖瑙?,
+      "name": "褰辫 | 绋€楗奖瑙哰js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/绋€楗奖瑙?js"
+    },
+    {
+      "key": "drpy_js_閰蜂簯涓冧竷",
+      "name": "褰辫 | 閰蜂簯涓冧竷[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/閰蜂簯77.js"
+    },
+    {
+      "key": "drpy_js_楠氱伀鐢靛奖",
+      "name": "褰辫 | 楠氱伀鐢靛奖[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/楠氱伀.js"
+    },
+    {
+      "key": "drpy_js_鐢靛奖鍏堢敓",
+      "name": "褰辫 | 鐢靛奖鍏堢敓[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鐢靛奖鍏堢敓.js"
+    },
+    {
+      "key": "drpy_js_鍐锋洣褰辫",
+      "name": "褰辫 | 鍐锋洣褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍐锋洣褰辫.js"
+    },
+    {
+      "key": "drpy_js_绉嬮湠褰遍櫌",
+      "name": "褰辫 | 绉嬮湠褰遍櫌[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/绉嬮湠.js"
+    },
+    {
+      "key": "drpy_js_鍑屼簯褰辫",
+      "name": "褰辫 | 鍑屼簯褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍑屼簯褰辫.js"
+    },
+    {
+      "key": "drpy_js_瀛滅劧褰辫",
+      "name": "褰辫 | 瀛滅劧褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/瀛滅劧褰辫.js"
+    },
+    {
+      "key": "drpy_js_鍏勫紵褰辫",
+      "name": "褰辫 | 鍏勫紵褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍏勫紵褰辫.js"
+    },
+    {
+      "key": "drpy_js_鍒涜壓褰辫",
+      "name": "褰辫 | 鍒涜壓褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍒涜壓褰辫.js"
+    },
+    {
+      "key": "drpy_js_鍒涜壓褰辫[V2]",
+      "name": "褰辫 | 鍒涜壓褰辫[V2][js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍒涜壓褰辫[V2].js"
+    },
+    {
+      "key": "drpy_js_鍜曞櫆鍜曞櫆",
+      "name": "褰辫 | 鍜曞櫆鍜曞櫆[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍜曞櫆鍜曞櫆.js"
+    },
+    {
+      "key": "drpy_js_闆跺害褰辫",
+      "name": "褰辫 | 闆跺害褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/闆跺害褰辫.js"
+    },
+    {
+      "key": "drpy_js_B绔欏奖瑙?,
+      "name": "褰辫 | B绔欏奖瑙哰js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/B绔欏奖瑙?js"
+    },
+    {
+      "key": "drpy_js_鍝斿摡褰辫",
+      "name": "褰辫 | 鍝斿摡褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍝斿摡褰辫.js"
+    },
+    {
+      "key": "drpy_js_浜戦暅褰辫",
+      "name": "褰辫 | 浜戦暅褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/浜戦暅褰辫.js"
+    },
+    {
+      "key": "drpy_js_涓冨勾褰辫",
+      "name": "褰辫 | 涓冨勾褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/涓冨勾褰辫.js"
+    },
+    {
+      "key": "drpy_js_JangoIndex",
+      "name": "闊抽 | JangoIndex[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/JangoIndex.js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_DJ闊充箰",
+      "name": "闊抽 | DJ闊充箰[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/DJ闊充箰.js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_娓呴DJ",
+      "name": "闊抽 | 娓呴DJ[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/娓呴DJ.js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_绉嶅瓙闊充箰",
+      "name": "闊抽 | 绉嶅瓙闊充箰[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/绉嶅瓙闊充箰.js"
+    },
+    {
+      "key": "drpy_js_铚昏湏FM",
+      "name": "骞挎挱 | 铚昏湏FM[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/铚昏湏FM.js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_鐩稿０闅忚韩鍚?,
+      "name": "鐩稿０ | 鐩稿０闅忚韩鍚琜js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鐩稿０闅忚韩鍚?js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_74鍚功",
+      "name": "鍚功 | 74鍚功[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/74鍚功.js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_i275鍚功",
+      "name": "鍚功 | i275鍚功[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/i275鍚功.js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_鍠滈┈鎷夐泤",
+      "name": "鍚功 | 鍠滈┈鎷夐泤[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍠滈┈鎷夐泤.js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_鍏湀鍚功",
+      "name": "鍚功 | 鍏湀鍚功[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍏湀鍚功.js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_鍗氱湅鍚功",
+      "name": "鍚功 | 鍗氱湅鍚功[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍗氱湅鍚功.js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_娴锋磱鍚功",
+      "name": "鍚功 | 娴锋磱鍚功[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/娴锋磱鍚功.js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_鍚功缃?,
+      "name": "鍚功 | 鍚功缃慬js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍚功缃?js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_鏈夊０灏忚",
+      "name": "鍚功 | 鏈夊０灏忚[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鏈夊０灏忚鍚?js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_鏈夊０鍚功缃?,
+      "name": "鍚功 | 鏈夊０鍚功缃慬js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鏈夊０鍚功缃?js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_骞诲惉缃戝惉涔?,
+      "name": "鍚功 | 骞诲惉缃戝惉涔js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/骞诲惉缃戝惉涔?js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_璇勪功闅忚韩鍚?,
+      "name": "鍚功 | 璇勪功闅忚韩鍚琜js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/璇勪功闅忚韩鍚?js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_鐭棰?,
+      "name": "鑱氬悎 | 鐭棰慬js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鐭棰?js"
+    },
+    {
+      "key": "drpy_js_閰?缃?,
+      "name": "鑱氬悎 | 閰?缃慬js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/閰?缃?js"
+    },
+    {
+      "key": "drpy_js_缃戞槗鍏増褰卞儚",
+      "name": "鑱氬悎 | 缃戞槗鍏増褰卞儚[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/缃戞槗鍏増褰卞儚.js"
+    },
+    {
+      "key": "drpy_js_A8闊充箰",
+      "name": "MV | A8闊充箰[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/A8闊充箰.js"
+    },
+    {
+      "key": "drpy_js_MV263",
+      "name": "MV | 263[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/MV263.js"
+    },
+    {
+      "key": "drpy_js_鑻规灉DJ",
+      "name": "MV | 鑻规灉DJ[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鑻规灉DJ.js"
+    },
+    {
+      "key": "drpy_js_閰风嫍MV",
+      "name": "MV | 閰风嫍[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/閰风嫍MV.js"
+    },
+    {
+      "key": "drpy_js_閰峰MV",
+      "name": "MV | 閰峰[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/閰峰MV.js"
+    },
+    {
+      "key": "drpy_js_鐖辫溅MV",
+      "name": "MV | 鐖辫溅[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鐖辫溅MV.js"
+    },
+    {
+      "key": "drpy_js_闊虫偊缃?,
+      "name": "MV | 闊虫偊缃慬js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/闊虫偊缃?js"
+    },
+    {
+      "key": "drpy_js_鍝斿摡鐩存挱",
+      "name": "鐩存挱 | 鍝斿摡[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍝斿摡鐩存挱.js"
+    },
+    {
+      "key": "drpy_js_鏂楅奔鐩存挱",
+      "name": "鐩存挱 | 鏂楅奔[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鏂楅奔鐩存挱.js"
+    },
+    {
+      "key": "drpy_js_铏庣墮鐩存挱",
+      "name": "鐩存挱 | 铏庣墮[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/铏庣墮鐩存挱.js"
+    },
+    {
+      "key": "drpy_js_JustLive",
+      "name": "鐩存挱 | JustLive[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/JustLive.js"
+    },
+    {
+      "key": "drpy_js_JRKAN鐩存挱",
+      "name": "浣撹偛 | JRKAN鐩存挱[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy.min.js",
+      "ext": "../../../libs/js/js/JRKAN鐩存挱.js"
+    },
+    {
+      "key": "drpy_js_88鐪嬬悆",
+      "name": "浣撹偛 | 88鐪嬬悆[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/88鐪嬬悆.js"
+    },
+    {
+      "key": "drpy_js_310鐩存挱",
+      "name": "浣撹偛 | 310鐩存挱[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/310鐩存挱.js"
+    },
+    {
+      "key": "drpy_js_鎶撻キ浣撹偛",
+      "name": "浣撹偛 | 鎶撻キ浣撹偛[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鎶撻キ浣撹偛.js"
+    },
+    {
+      "key": "drpy_js_鐖卞脊骞?,
+      "name": "鍔ㄦ极 | 鐖卞脊骞昜js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鐖卞脊骞?js"
+    },
+    {
+      "key": "drpy_js_鍏斿皬璐?,
+      "name": "鍔ㄦ极 | 鍏斿皬璐漑js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍏斿皬璐?js"
+    },
+    {
+      "key": "drpy_js_AnFuns",
+      "name": "鍔ㄦ极 | AnFuns[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/AnFuns.js"
+    },
+    {
+      "key": "drpy_js_NyaFun",
+      "name": "鍔ㄦ极 | NyaFun[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/NyaFun.js"
+    },
+    {
+      "key": "drpy_js_AGE鍔ㄦ极",
+      "name": "鍔ㄦ极 | AGE鍔ㄦ极[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/AGE鍔ㄦ极.js"
+    },
+    {
+      "key": "drpy_js_NT鍔ㄦ极",
+      "name": "鍔ㄦ极 | NT鍔ㄦ极[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/NT鍔ㄦ极.js"
+    },
+    {
+      "key": "drpy_js_鍔ㄦ极宀?,
+      "name": "鍔ㄦ极 | 鍔ㄦ极宀沎js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍔ㄦ极宀?js"
+    },
+    {
+      "key": "drpy_js_鍢跺摡鍢跺摡",
+      "name": "鍔ㄦ极 | 鍢跺摡鍢跺摡[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍢跺摡鍢跺摡.js"
+    },
+    {
+      "key": "drpy_js_濂囩背鍔ㄦ极",
+      "name": "鍔ㄦ极 | 濂囩背鍔ㄦ极[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/濂囩背鍔ㄦ极.js"
+    },
+    {
+      "key": "drpy_js_鏇插鍔ㄦ极",
+      "name": "鍔ㄦ极 | 鏇插鍔ㄦ极[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鏇插鍔ㄦ极.js"
+    },
+    {
+      "key": "drpy_js_濡彲鍔ㄦ极",
+      "name": "鍔ㄦ极 | 濡彲鍔ㄦ极[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/濡彲鍔ㄦ极.js"
+    },
+    {
+      "key": "drpy_js_鎬¤惐鍔ㄦ极",
+      "name": "鍔ㄦ极 | 鎬¤惐鍔ㄦ极[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鎬¤惐鍔ㄦ极.js"
+    },
+    {
+      "key": "drpy_js_寮備笘鐣屽姩婕?,
+      "name": "鍔ㄦ极 | 寮備笘鐣屽姩婕玔js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/寮備笘鐣屽姩婕?js"
+    },
+    {
+      "key": "drpy_js_omofun鍔ㄦ极",
+      "name": "鍔ㄦ极 | omofun鍔ㄦ极[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/omofun鍔ㄦ极.js"
+    },
+    {
+      "key": "drpy_js_007褰辫",
+      "name": "褰辫 | 007褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/007褰辫.js"
+    },
+    {
+      "key": "drpy_js_1080P",
+      "name": "褰辫 | 1080P[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/1080P.js"
+    },
+    {
+      "key": "drpy_js_139褰辫",
+      "name": "褰辫 | 139褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/139褰辫.js"
+    },
+    {
+      "key": "drpy_js_333褰辫",
+      "name": "褰辫 | 333褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/333褰辫.js"
+    },
+    {
+      "key": "drpy_js_345鐪嬬墖",
+      "name": "褰辫 | 345鐪嬬墖[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/345鐪嬬墖.js"
+    },
+    {
+      "key": "drpy_js_555褰辫[V2]",
+      "name": "褰辫 | 555褰辫[V2][js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/555褰辫[V2].js"
+    },
+    {
+      "key": "drpy_js_69缇庡墽",
+      "name": "褰辫 | 69缇庡墽[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/69缇庡墽.js"
+    },
+    {
+      "key": "drpy_js_69缇庡墽[V2]",
+      "name": "褰辫 | 69缇庡墽[V2][js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/69缇庡墽[V2].js"
+    },
+    {
+      "key": "drpy_js_8鍙峰奖闄?,
+      "name": "褰辫 | 8鍙峰奖闄js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/8鍙峰奖闄?js"
+    },
+    {
+      "key": "drpy_js_9U鐢靛奖",
+      "name": "褰辫 | 9U鐢靛奖[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/9U鐢靛奖.js"
+    },
+    {
+      "key": "drpy_js_BD360",
+      "name": "褰辫 | BD360[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/BD360.js"
+    },
+    {
+      "key": "drpy_js_FreeOK",
+      "name": "褰辫 | FreeOK[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/FreeOK.js"
+    },
+    {
+      "key": "drpy_js_KOK褰遍櫌",
+      "name": "褰辫 | KOK褰遍櫌[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/KOK褰遍櫌.js"
+    },
+    {
+      "key": "drpy_js_NY褰遍櫌",
+      "name": "褰辫 | NY褰遍櫌[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/NY褰遍櫌.js"
+    },
+    {
+      "key": "drpy_js_vidhub",
+      "name": "褰辫 | vidhub[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/vidhub.js"
+    },
+    {
+      "key": "drpy_js_鐖辫开褰辫",
+      "name": "褰辫 | 鐖辫开褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鐖辫开褰辫.js"
+    },
+    {
+      "key": "drpy_js_鐖辩湅鐢靛奖",
+      "name": "褰辫 | 鐖辩湅鐢靛奖[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鐖辩湅鐢靛奖.js"
+    },
+    {
+      "key": "drpy_js_鑹捐彶褰辫",
+      "name": "褰辫 | 鑹捐彶褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鑹捐彶褰辫.js"
+    },
+    {
+      "key": "drpy_js_鍏泲褰辫",
+      "name": "褰辫 | 鍏泲褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍏泲褰辫.js"
+    },
+    {
+      "key": "drpy_js_鍙害褰辫",
+      "name": "褰辫 | 鍙害褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍙害褰辫.js"
+    },
+    {
+      "key": "drpy_js_甯冮浄钃濆厜",
+      "name": "褰辫 | 甯冮浄钃濆厜[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/甯冮浄钃濆厜.js"
+    },
+    {
+      "key": "drpy_js_灏樿惤褰辫",
+      "name": "褰辫 | 灏樿惤褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/灏樿惤褰辫.js"
+    },
+    {
+      "key": "drpy_js_妤氶棬褰遍櫌",
+      "name": "褰辫 | 妤氶棬褰遍櫌[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/妤氶棬褰遍櫌.js"
+    },
+    {
+      "key": "drpy_js_澶х背鏄熺悆",
+      "name": "褰辫 | 澶х背鏄熺悆[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/澶х背鏄熺悆.js"
+    },
+    {
+      "key": "drpy_js_澶у笀鍏勫奖瑙?,
+      "name": "褰辫 | 澶у笀鍏勫奖瑙哰js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/澶у笀鍏勫奖瑙?js"
+    },
+    {
+      "key": "drpy_js_纰熻皟褰辫",
+      "name": "褰辫 | 纰熻皟褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/纰熻皟褰辫.js"
+    },
+    {
+      "key": "drpy_js_澶氱憴褰辫",
+      "name": "褰辫 | 澶氱憴褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/澶氱憴褰辫.js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_浜屾钀屽奖瑙?,
+      "name": "褰辫 | 浜屾钀屽奖瑙哰js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/浜屾钀屽奖瑙?js"
+    },
+    {
+      "key": "drpy_js_鐣寗褰辫",
+      "name": "褰辫 | 鐣寗褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鐣寗褰辫.js"
+    },
+    {
+      "key": "drpy_js_娴敓鍗婃棩",
+      "name": "褰辫 | 娴敓鍗婃棩[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/娴敓鍗婃棩.js"
+    },
+    {
+      "key": "drpy_js_骞查キ褰辫",
+      "name": "褰辫 | 骞查キ褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/骞查キ褰辫.js"
+    },
+    {
+      "key": "drpy_js_閲戞浖褰辫",
+      "name": "褰辫 | 閲戞浖褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/閲戞浖褰辫.js"
+    },
+    {
+      "key": "drpy_js_鍓ц糠褰遍櫌",
+      "name": "褰辫 | 鍓ц糠褰遍櫌[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍓ц糠.js"
+    },
+    {
+      "key": "drpy_js_鐪嬬湅鐢靛奖",
+      "name": "褰辫 | 鐪嬬湅鐢靛奖[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鐪嬬湅鐢靛奖.js"
+    },
+    {
+      "key": "drpy_js_鐪嬩簡涔?,
+      "name": "褰辫 | 鐪嬩簡涔圼js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鐪嬩簡涔?js"
+    },
+    {
+      "key": "drpy_js_鏉ョ湅鐐规挱",
+      "name": "褰辫 | 鏉ョ湅鐐规挱[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鏉ョ湅鐐规挱.js"
+    },
+    {
+      "key": "drpy_js_钃濆厜褰遍櫌",
+      "name": "褰辫 | 钃濆厜褰遍櫌[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/钃濆厜褰遍櫌.js"
+    },
+    {
+      "key": "drpy_js_涔愬姩褰辫",
+      "name": "褰辫 | 涔愬姩褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/涔愬姩褰辫.js"
+    },
+    {
+      "key": "drpy_js_鍒╀附濞呯數褰?,
+      "name": "褰辫 | 鍒╀附濞呯數褰盵js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍒╀附濞呯數褰?js"
+    },
+    {
+      "key": "drpy_js_閲忓瓙褰辫",
+      "name": "褰辫 | 閲忓瓙褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/閲忓瓙褰辫.js"
+    },
+    {
+      "key": "drpy_js_楹昏姳褰辫",
+      "name": "褰辫 | 楹昏姳褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/楹昏姳褰辫.js"
+    },
+    {
+      "key": "drpy_js_铓傝殎褰辫",
+      "name": "褰辫 | 铓傝殎褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/铓傝殎褰辫.js"
+    },
+    {
+      "key": "drpy_js_楹﹁眴缃?,
+      "name": "褰辫 | 楹﹁眴缃慬js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/楹﹁眴.js"
+    },
+    {
+      "key": "drpy_js_楹﹁眴com",
+      "name": "褰辫 | 楹﹁眴com[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/楹﹁眴com.js"
+    },
+    {
+      "key": "drpy_js_缇庤缃?,
+      "name": "褰辫 | 缇庤缃慬js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/缇庤缃?js"
+    },
+    {
+      "key": "drpy_js_钀岃泲铔媅V2]",
+      "name": "褰辫 | 钀岃泲铔媅V2][js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/钀岃泲铔媅V2].js"
+    },
+    {
+      "key": "drpy_js_绫冲疂褰遍櫌",
+      "name": "褰辫 | 绫冲疂褰遍櫌[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/绫冲疂褰遍櫌.js"
+    },
+    {
+      "key": "drpy_js_鑾墡鍏斿効",
+      "name": "褰辫 | 鑾墡鍏斿効[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鑾墡鍏?js"
+    },
+    {
+      "key": "drpy_js_鍗楃摐褰遍櫌",
+      "name": "褰辫 | 鍗楃摐褰遍櫌[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍗楃摐褰遍櫌.js"
+    },
+    {
+      "key": "drpy_js_鍗楁煰鐢靛奖",
+      "name": "褰辫 | 鍗楁煰鐢靛奖[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍗楁煰鐢靛奖缃?js"
+    },
+    {
+      "key": "drpy_js_鑳栬檸褰辫",
+      "name": "褰辫 | 鑳栬檸褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鑳栬檸.js"
+    },
+    {
+      "key": "drpy_js_闇归洺褰辫",
+      "name": "褰辫 | 闇归洺褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/闇归洺褰辫.js"
+    },
+    {
+      "key": "drpy_js_涓冩椂褰遍櫌",
+      "name": "褰辫 | 涓冩椂褰遍櫌[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/涓冨皬鏃跺奖闄?js"
+    },
+    {
+      "key": "drpy_js_璧烽褰遍櫌",
+      "name": "褰辫 | 璧烽褰遍櫌[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/璧烽褰遍櫌.js"
+    },
+    {
+      "key": "drpy_js_浜轰汉褰辫",
+      "name": "褰辫 | 浜轰汉褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/浜轰汉褰辫.js"
+    },
+    {
+      "key": "drpy_js_鐩涗笘鐢靛奖",
+      "name": "褰辫 | 鐩涗笘鐢靛奖[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鐩涗笘鐢靛奖缃?js"
+    },
+    {
+      "key": "drpy_js_瑙嗕腑褰辫",
+      "name": "褰辫 | 瑙嗕腑褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/瑙嗕腑蹇冨奖瑙?js"
+    },
+    {
+      "key": "drpy_js_棣栨挱褰遍櫌",
+      "name": "褰辫 | 棣栨挱褰遍櫌[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/棣栨挱褰遍櫌.js"
+    },
+    {
+      "key": "drpy_js_鍙屽崄鐢靛奖",
+      "name": "褰辫 | 鍙屽崄鐢靛奖[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍙屽崄鐢靛奖.js"
+    },
+    {
+      "key": "drpy_js_鍥涗釜鍦堝効",
+      "name": "褰辫 | 鍥涗釜鍦堝効[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍥涗釜鍦堝奖瑙?js"
+    },
+    {
+      "key": "drpy_js_澶╃┖褰辫",
+      "name": "褰辫 | 澶╃┖褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/澶╃┖褰辫.js"
+    },
+    {
+      "key": "drpy_js_澶╁ぉ瑙嗛",
+      "name": "褰辫 | 澶╁ぉ瑙嗛[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/澶╁ぉ瑙嗛.js"
+    },
+    {
+      "key": "drpy_js_鍦熺嫍褰遍櫌",
+      "name": "褰辫 | 鍦熺嫍褰遍櫌[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍦熺嫍褰遍櫌.js"
+    },
+    {
+      "key": "drpy_js_瀹岀編鐪嬬湅",
+      "name": "褰辫 | 瀹岀編鐪嬬湅[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/瀹岀編鐪嬬湅.js"
+    },
+    {
+      "key": "drpy_js_涓囪兘褰辫",
+      "name": "褰辫 | 涓囪兘褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/涓囪兘褰辫.js"
+    },
+    {
+      "key": "drpy_js_鎴戠埍鐢靛奖",
+      "name": "褰辫 | 鎴戠埍鐢靛奖[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鎴戠埍鐢靛奖缃?js"
+    },
+    {
+      "key": "drpy_js_鎴戠埍璺熷墽",
+      "name": "褰辫 | 鎴戠埍璺熷墽[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鎴戠埍璺熷墽.js"
+    },
+    {
+      "key": "drpy_js_婧胺褰辫",
+      "name": "褰辫 | 婧胺褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/婧胺褰辫.js"
+    },
+    {
+      "key": "drpy_js_瑗跨摐褰辫",
+      "name": "褰辫 | 瑗跨摐褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/瑗跨摐褰辫.js"
+    },
+    {
+      "key": "drpy_js_灏忕櫧鑿滃効",
+      "name": "褰辫 | 灏忕櫧鑿滃効[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/灏忕櫧鑿滅數褰?js"
+    },
+    {
+      "key": "drpy_js_鏄熻景褰遍櫌",
+      "name": "褰辫 | 鏄熻景褰遍櫌[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鏄熻景.js"
+    },
+    {
+      "key": "drpy_js_浼婁汉杩藉墽",
+      "name": "褰辫 | 浼婁汉杩藉墽[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/浼婁汉杩藉墽.js"
+    },
+    {
+      "key": "drpy_js_鏄犺糠褰遍櫌",
+      "name": "褰辫 | 鏄犺糠褰遍櫌[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鏄犺糠褰遍櫌.js"
+    },
+    {
+      "key": "drpy_js_鐪熶笉鍗″効",
+      "name": "褰辫 | 鐪熶笉鍗″効[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鐪熶笉鍗?js"
+    },
+    {
+      "key": "drpy_js_杩藉墽杈句汉",
+      "name": "褰辫 | 杩藉墽杈句汉[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/杩藉墽杈句汉.js"
+    },
+    {
+      "key": "drpy_js_瀛愬瓙褰辫",
+      "name": "褰辫 | 瀛愬瓙褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/瀛愬瓙褰辫.js"
+    },
+    {
+      "key": "drpy_js_楗洟褰辫",
+      "name": "褰辫 | 楗洟褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/楗洟褰辫.js"
+    },
+    {
+      "key": "drpy_js_鍦ㄧ嚎189",
+      "name": "褰辫 | 鍦ㄧ嚎189[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/鍦ㄧ嚎189.jsd"
+    },
+    {
+      "key": "drpy_js_AB褰遍櫌[椋瀅",
+      "name": "璧烽 | AB褰遍櫌[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/AB褰遍櫌[椋瀅.js"
+    },
+    {
+      "key": "drpy_js_555褰辫[椋瀅",
+      "name": "璧烽 | 555褰辫[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/555褰辫[椋瀅.js"
+    },
+    {
+      "key": "drpy_js_鐙挱搴揫椋瀅",
+      "name": "璧烽 | 鐙挱搴揫js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鐙挱搴揫椋瀅.js"
+    },
+    {
+      "key": "drpy_js_灏忓疂褰遍櫌[椋瀅",
+      "name": "璧烽 | 灏忓疂褰遍櫌[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/灏忓疂褰遍櫌[椋瀅.js"
+    },
+    {
+      "key": "drpy_js_鍐睺MTV[椋瀅",
+      "name": "璧烽 | 鍐睺MTV[js]",
+      "type": 3,
+      "api": "../../../libs/js/drpy2.min.js",
+      "ext": "../../../libs/js/js/鍐睺MTV[椋瀅.js"
+    },
+    {
+      "key": "push_agent",
+      "name": "闃块噷 | 鎺ㄩ€?,
+      "type": 3,
+      "api": "csp_Push",
+      "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
+    }
+  ],
+  "lives": [
+    {
+      "name": "鍒濈璇€㈢患鍚?,
+      "type": 0,
+      "url": "../../../libs/js/鍒濈璇€㈢患鍚?txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+    },
+    {
+      "name": "YanG鈥㈢患鍚?,
+      "type": 0,
+      "url": "../../../libs/js/YanG鈥㈢患鍚?txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+    },
+    {
+      "name": "whpsky鈥㈢患鍚?,
+      "type": 0,
+      "url": "../../../libs/js/whpsky鈥㈢患鍚?txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+    },
+    {
+      "name": "Kiment鈥㈢患鍚?,
+      "type": 0,
+      "url": "../../../libs/js/Kiment鈥㈢患鍚?txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+    },
+    {
+      "name": "鑼冩槑鏄庘€㈢患鍚?,
+      "type": 0,
+      "url": "../../../libs/js/鑼冩槑鏄庘€㈢患鍚?txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+    },
+    {
+      "name": "鑲ョ緤鈥㈢患鍚?,
+      "type": 0,
+      "url": "../../../libs/js/鑲ョ緤鈥㈢患鍚?txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+    },
+    {
+      "name": "鑲ョ尗鈥㈢患鍚?,
+      "type": 0,
+      "url": "../../../libs/js/鑲ョ尗鈥㈢患鍚?txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+    },
+    {
+      "name": "鍒濈璇€㈢數鍙?,
+      "type": 0,
+      "url": "../../../libs/js/鍒濈璇€㈢數鍙?txt",
+      "epg": ""
+    },
+    {
+      "name": "鑼冩槑鏄庘€㈢數鍙?,
+      "type": 0,
+      "url": "../../../libs/js/鑼冩槑鏄庘€㈢數鍙?txt",
+      "epg": ""
+    },
+    {
+      "name": "YanG鈥㈡枟楸?,
+      "type": 0,
+      "url": "../../../libs/js/YanG鈥㈡枟楸?txt",
+      "epg": ""
+    },
+    {
+      "name": "YanG鈥㈣檸鐗?,
+      "type": 0,
+      "url": "../../../libs/js/YanG鈥㈣檸鐗?txt",
+      "epg": ""
+    },
+    {
+      "name": "鍒濈璇€㈠摂鍝?,
+      "type": 0,
+      "url": "../../../libs/js/鍒濈璇€㈠摂鍝?txt",
+      "epg": ""
+    },
+    {
+      "name": "YuanHsing鈥㈡补绠?,
+      "type": 0,
+      "url": "../../../libs/js/YuanHsing鈥㈡补绠?txt",
+      "epg": ""
+    }
+  ],
+  "rules": [
+    {
+      "host": "*",
+      "rule": [
+        "default.365yg.com"
+      ]
+    },
+    {
+      "host": "dyxs20.com",
+      "rule": [
+        ".m3u8"
+      ]
+    },
+    {
+      "host": "www.agemys.cc",
+      "rule": [
+        "cdn-tos",
+        "obj/tos-cn"
+      ]
+    },
+    {
+      "host": "www.sharenice.net",
+      "rule": [
+        "http.*?/play.{0,3}\\?[^url]{2,8}=.*"
+      ]
+    },
+    {
+      "host": "www.sharenice.net",
+      "rule": [
+        "qianpailive.com",
+        "vid="
+      ]
+    },
+    {
+      "host": "*",
+      "rule": [
+        "douyin.com/aweme",
+        "video_id="
+      ]
+    },
+    {
+      "host": "*",
+      "rule": [
+        "huoshan.com",
+        "/item/video/"
+      ]
+    },
+    {
+      "host": "*",
+      "rule": [
+        "http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"
+      ]
+    },
+    {
+      "host": "*",
+      "rule": [
+        "http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"
+      ]
+    }
+  ],
+  "parses": [
+    {
+      "name": "瑙ｆ瀽鑱氬悎",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "鑵捐涓撶敤",
+      "type": 1,
+      "url": "http://api.playaaaa.com/qq/00167kkkk.php?url="
+    },
+    {
+      "name": "110",
+      "type": 1,
+      "url": "http://110.42.2.115:880/analysis/json/?uid=2148&my=ehjlmqtuFGJKLNPRU0&url="
+    },
+    {
+      "name": "5566",
+      "type": 1,
+      "url": "http://47.119.122.235:5566/json/free.php?url="
+    },
+    {
+      "name": "113",
+      "type": 1,
+      "url": "http://113.125.122.109:5555/aiku.php?url="
+    },
+    {
+      "name": "鐖遍叿",
+      "type": 0,
+      "url": "https://jx.zhanlangbu.com/?url="
+    },
+    {
+      "name": "LLK",
+      "type": 1,
+      "url": "https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="
+    },
+    {
+      "name": "灏樼儫",
+      "type": 1,
+      "url": "https://vip.xuux.icu/home/api?type=ys&uid=1325731&key=adfgilmnpwzBDEJPY3&url="
+    },
+    {
+      "name": "ICU",
+      "type": 1,
+      "url": "https://api.json.icu/api/?key=5c22918440e3fa30cfd2da50264ff210&url="
+    },
+    {
+      "name": "WT1",
+      "type": 1,
+      "url": "http://jxapi.wutao7.top/XL/?url="
+    },
+    {
+      "name": "WT2",
+      "type": 0,
+      "url": "http://jxapi.wutao7.top/miui/?url="
+    },
+    {
+      "name": "cf",
+      "type": 0,
+      "url": "https://jxjson.cf/?url="
+    },
+    {
+      "name": "娉戒簯",
+      "type": 0,
+      "url": "https://player.iizny.com/?url="
+    },
+    {
+      "name": "JSPL",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    },
+    {
+      "name": "777",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url="
+    },
+    {
+      "name": "CGD",
+      "type": 0,
+      "url": "https://www.cgdyw.net/jiexi/jiexi-gf/?url="
+    },
+    {
+      "name": "澶滃箷",
+      "type": 0,
+      "url": "https://www.yemu.xyz/?url=",
+      "showType": 3
+    },
+    {
+      "name": "JXDP",
+      "type": 0,
+      "url": "https://jxdp.codermart.net/?url="
+    },
+    {
+      "name": "鍓栦簯",
+      "type": 0,
+      "url": "https://www.pouyun.com/?url="
+    },
+    {
+      "name": "JY",
+      "type": 0,
+      "url": "https://jx.playerjy.com/?url="
+    },
+    {
+      "name": "Web鑱氬悎",
+      "type": 3,
+      "url": "Web"
+    },
+    {
+      "name": "Json鑱氬悎",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "铏剧背",
+      "type": 0,
+      "url": "https://dm.xmflv.com:4433/?url=",
+      "ext": {
+        "flag": [
+          "imgo",
+          "ltnb",
+          "renrenmi",
+          "qq",
+          "鑵捐",
+          "qiyi",
+          "鐖卞鑹?,
+          "濂囪壓",
+          "youku",
+          "浼橀叿",
+          "mgtv",
+          "鑺掓灉",
+          "bilibili",
+          "鍝斿摡鍝斿摡",
+          "鍝斿摡"
+        ]
+      }
+    },
+    {
+      "name": "91",
+      "url": "http://91fanli.top/m3u8/?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "鐖卞鑹?,
+          "濂囪壓",
+          "qq",
+          "鑵捐",
+          "youku",
+          "浼橀叿",
+          "pptv",
+          "PPTV",
+          "letv",
+          "涔愯",
+          "leshi",
+          "bilibili",
+          "鍝斿摡鍝斿摡",
+          "鍝斿摡",
+          "mgtv",
+          "鑺掓灉",
+          "sohu",
+          "xigua",
+          "fun",
+          "椋庤"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "777",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url="
+    },
+    {
+      "name": "瑙ｆ瀽la",
+      "url": "https://api.jiexi.la/?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "鐖卞鑹?,
+          "濂囪壓",
+          "qq",
+          "鑵捐",
+          "youku",
+          "浼橀叿",
+          "pptv",
+          "PPTV",
+          "letv",
+          "涔愯",
+          "leshi",
+          "bilibili",
+          "鍝斿摡鍝斿摡",
+          "鍝斿摡",
+          "mgtv",
+          "鑺掓灉",
+          "sohu",
+          "xigua",
+          "fun",
+          "椋庤"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "PM",
+      "url": "https://www.playm3u8.cn/jiexi.php?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "鐖卞鑹?,
+          "濂囪壓",
+          "qq",
+          "鑵捐",
+          "youku",
+          "浼橀叿",
+          "pptv",
+          "PPTV",
+          "letv",
+          "涔愯",
+          "leshi",
+          "bilibili",
+          "鍝斿摡鍝斿摡",
+          "鍝斿摡",
+          "mgtv",
+          "鑺掓灉",
+          "sohu",
+          "xigua",
+          "fun",
+          "椋庤"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "姹熸箹",
+      "type": 1,
+      "url": "http://jx.pandown.pro/home/api?type=ys&uid=2691632&key=bchmpqsDJMSTWX0568&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "鑵捐",
+          "qiyi",
+          "鐖卞鑹?,
+          "濂囪壓",
+          "youku",
+          "浼橀叿",
+          "sohu",
+          "鎼滅嫄",
+          "letv",
+          "涔愯",
+          "mgtv",
+          "鑺掓灉",
+          "rx",
+          "ltnb",
+          "bilibili",
+          "1905",
+          "xigua"
+        ]
+      }
+    },
+    {
+      "name": "2351",
+      "type": 1,
+      "url": "http://110.42.2.115:880/analysis/json/?uid=2351&my=abefklvwxABDINTY79&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "鑵捐",
+          "qiyi",
+          "鐖卞鑹?,
+          "濂囪壓",
+          "youku",
+          "浼橀叿",
+          "sohu",
+          "鎼滅嫄",
+          "letv",
+          "涔愯",
+          "mgtv",
+          "鑺掓灉",
+          "rx",
+          "ltnb",
+          "bilibili",
+          "1905",
+          "xigua"
+        ]
+      }
+    },
+    {
+      "name": "jhjson",
+      "type": 0,
+      "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "鑵捐",
+          "qiyi",
+          "鐖卞鑹?,
+          "濂囪壓",
+          "youku",
+          "浼橀叿",
+          "mgtv",
+          "鑺掓灉",
+          "letv",
+          "涔愯",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "鍝斿摡鍝斿摡",
+          "鍝斿摡"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "鑲ョ尗",
+      "type": 1,
+      "url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "鑵捐",
+          "浼侀箙",
+          "IQiYi",
+          "qiyi",
+          "鐖卞鑹?,
+          "濂囪壓",
+          "youku",
+          "YouKu",
+          "浼橀叿",
+          "sohu",
+          "SoHu",
+          "鎼滅嫄",
+          "letv",
+          "LeShi",
+          "涔愯",
+          "imgo",
+          "mgtv",
+          "MangGuo",
+          "鑺掓灉",
+          "SLYS4k",
+          "BYGA",
+          "luanzi",
+          "AliS",
+          "dxzy",
+          "bilibili",
+          "QEYSS",
+          "xigua",
+          "瑗跨摐瑙嗛",
+          "鑵捐瑙嗛",
+          "濂囪壓瑙嗛",
+          "浼橀叿瑙嗛",
+          "鑺掓灉瑙嗛",
+          "涔愯瑙嗛"
+        ]
+      }
+    },
+    {
+      "name": "鐖遍叿瑙ｆ瀽",
+      "type": 0,
+      "url": "https://jx.zhanlangbu.com/?url="
+    },
+    {
+      "name": "瑙ｆ瀽绯荤粺",
+      "type": 0,
+      "url": "https://jxdp.codermart.net/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "鑵捐",
+          "qiyi",
+          "鐖卞鑹?,
+          "濂囪壓",
+          "youku",
+          "浼橀叿",
+          "mgtv",
+          "鑺掓灉",
+          "letv",
+          "涔愯",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "鍝斿摡鍝斿摡",
+          "鍝斿摡"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "UM",
+      "type": 1,
+      "url": "https://b.umkan.cc/API.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "鑵捐",
+          "浼侀箙",
+          "IQiYi",
+          "qiyi",
+          "imgo",
+          "鐖卞鑹?,
+          "濂囪壓",
+          "youku",
+          "YouKu",
+          "浼橀叿",
+          "sohu",
+          "SoHu",
+          "鎼滅嫄",
+          "letv",
+          "LeShi",
+          "涔愯",
+          "imgo",
+          "mgtv",
+          "MangGuo",
+          "鑺掓灉",
+          "SLYS4k",
+          "BYGA",
+          "luanzi",
+          "AliS",
+          "dxzy",
+          "bilibili",
+          "QEYSS",
+          "xigua",
+          "瑗跨摐瑙嗛",
+          "鑵捐瑙嗛",
+          "濂囪壓瑙嗛",
+          "浼橀叿瑙嗛",
+          "鑺掓灉瑙嗛",
+          "涔愯瑙嗛"
+        ]
+      }
+    },
+    {
+      "name": "鍠靛奖瑙?,
+      "type": 0,
+      "url": "http://www.miaoys.cc/vip/?url="
+    },
+    {
+      "name": "鏄熻景浜戣В鏋?,
+      "type": 1,
+      "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art0425/analysis.php?v="
+    },
+    {
+      "name": "鑿滃Ξ涓?,
+      "type": 0,
+      "url": "https://jx.cainisi.cf/?v="
+    },
+    {
+      "name": "鐩樺彜",
+      "url": "https://www.pangujiexi.cc/jiexi.php?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "鐖卞鑹?,
+          "濂囪壓",
+          "qq",
+          "鑵捐",
+          "youku",
+          "浼橀叿",
+          "pptv",
+          "PPTV",
+          "letv",
+          "涔愯",
+          "leshi",
+          "bilibili",
+          "鍝斿摡鍝斿摡",
+          "鍝斿摡",
+          "mgtv",
+          "鑺掓灉",
+          "sohu",
+          "xigua",
+          "fun",
+          "椋庤"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "鍏ㄦ皯1",
+      "url": "http://api.wpsseo.cn/?v=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "鐖卞鑹?,
+          "濂囪壓",
+          "qq",
+          "鑵捐",
+          "youku",
+          "浼橀叿",
+          "pptv",
+          "PPTV",
+          "letv",
+          "涔愯",
+          "leshi",
+          "bilibili",
+          "鍝斿摡鍝斿摡",
+          "鍝斿摡",
+          "mgtv",
+          "鑺掓灉",
+          "sohu",
+          "xigua",
+          "fun",
+          "椋庤"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "m3u8tv",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
+      "name": "8090",
+      "url": "https://www.8090.la/8090/?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "鐖卞鑹?,
+          "濂囪壓",
+          "qq",
+          "鑵捐",
+          "youku",
+          "浼橀叿",
+          "pptv",
+          "PPTV",
+          "letv",
+          "涔愯",
+          "leshi",
+          "bilibili",
+          "鍝斿摡鍝斿摡",
+          "鍝斿摡",
+          "mgtv",
+          "鑺掓灉",
+          "sohu",
+          "xigua",
+          "fun",
+          "椋庤"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "宸﹀哺",
+      "type": 1,
+      "url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "鑵捐",
+          "qiyi",
+          "鐖卞鑹?,
+          "濂囪壓",
+          "youku",
+          "浼橀叿",
+          "sohu",
+          "鎼滅嫄",
+          "letv",
+          "涔愯",
+          "mgtv",
+          "鑺掓灉",
+          "CL4K",
+          "renrenmi",
+          "ltnb",
+          "bilibili",
+          "1905",
+          "xigua"
+        ]
+      }
+    },
+    {
+      "name": "bozrc",
+      "type": 0,
+      "url": "https://jx.bozrc.com:4433/player/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "鑵捐",
+          "qiyi",
+          "鐖卞鑹?,
+          "濂囪壓",
+          "youku",
+          "浼橀叿",
+          "mgtv",
+          "鑺掓灉",
+          "letv",
+          "leshi",
+          "LS",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "鍝斿摡鍝斿摡",
+          "鍝斿摡"
+        ],
+        "header": {
+          "User-Agent": ""
+        }
+      }
+    },
+    {
+      "name": "xmflv",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "澶滃箷",
+      "type": 0,
+      "url": "https://www.yemu.xyz/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "鑵捐",
+          "qiyi",
+          "iqiyi",
+          "鐖卞鑹?,
+          "濂囪壓",
+          "youku",
+          "浼橀叿",
+          "mgtv",
+          "鑺掓灉",
+          "letv",
+          "涔愯",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "鍝斿摡鍝斿摡",
+          "鍝斿摡"
+        ]
+      }
+    },
+    {
+      "name": "鐪嬬湅",
+      "type": 0,
+      "url": "https://jx.m3u8.pw/?url="
+    },
+    {
+      "name": "楹掗簾",
+      "type": 0,
+      "url": "https://www.cygqw.com/jiexi/jiekou-2/?url="
+    },
+    {
+      "name": "OK瑙ｆ瀽",
+      "type": 0,
+      "url": "https://okjx.cc/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "鑵捐",
+          "qiyi",
+          "鐖卞鑹?,
+          "濂囪壓",
+          "youku",
+          "浼橀叿",
+          "mgtv",
+          "鑺掓灉",
+          "letv",
+          "涔愯",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "鍝斿摡鍝斿摡",
+          "鍝斿摡"
+        ]
+      }
+    },
+    {
+      "name": "zui",
+      "type": 0,
+      "url": "https://jx.zui.cm/?url=",
+      "ext": {
+        "flag": [
+          "ltnb"
+        ]
+      }
+    },
+    {
+      "name": "椋庤捣闄囪タ",
+      "type": 0,
+      "url": "https://hxys.tv/bfq/?url="
+    },
+    {
+      "name": "椋庤捣鍏栧窞",
+      "type": 0,
+      "url": "http://jx.gbxy.net.cn/?url="
+    },
+    {
+      "name": "宸﹀哺",
+      "url": "https://jx.bozrc.com:4433/player/analysis.php?v=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "鐖卞鑹?,
+          "濂囪壓",
+          "qq",
+          "鑵捐",
+          "youku",
+          "浼橀叿",
+          "pptv",
+          "PPTV",
+          "letv",
+          "涔愯",
+          "leshi",
+          "bilibili",
+          "鍝斿摡鍝斿摡",
+          "鍝斿摡",
+          "mgtv",
+          "鑺掓灉",
+          "sohu",
+          "xigua",
+          "fun",
+          "椋庤"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "m2090",
+      "url": "https://m2090.com/?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "鐖卞鑹?,
+          "濂囪壓",
+          "qq",
+          "鑵捐",
+          "youku",
+          "浼橀叿",
+          "pptv",
+          "PPTV",
+          "letv",
+          "涔愯",
+          "leshi",
+          "bilibili",
+          "鍝斿摡鍝斿摡",
+          "鍝斿摡",
+          "mgtv",
+          "鑺掓灉",
+          "sohu",
+          "xigua",
+          "fun",
+          "椋庤"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "1717浜?,
+      "url": "https://www.1717yun.com/jx/ty.php?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "鐖卞鑹?,
+          "濂囪壓",
+          "qq",
+          "鑵捐",
+          "youku",
+          "浼橀叿",
+          "pptv",
+          "PPTV",
+          "letv",
+          "涔愯",
+          "leshi",
+          "bilibili",
+          "鍝斿摡鍝斿摡",
+          "鍝斿摡",
+          "mgtv",
+          "鑺掓灉",
+          "sohu",
+          "xigua",
+          "fun",
+          "椋庤"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "浜戞槦瑙ｆ瀽",
+      "type": 1,
+      "url": "https://chaloli.cn/api/?key=63bad951f0ada1d236062b7a3632f81e&url="
+    }
+  ],
+  "flags": [
+    "youku",
+    "浼橀叿",
+    "浼?閰?,
+    "浼橀叿瑙嗛",
+    "qq",
+    "鑵捐",
+    "鑵?璁?,
+    "鑵捐瑙嗛",
+    "iqiyi",
+    "qiyi",
+    "濂囪壓",
+    "鐖卞鑹?,
+    "鐖?濂?鑹?,
+    "m1905",
+    "xigua",
+    "letv",
+    "leshi",
+    "涔愯",
+    "涔?瑙?,
+    "sohu",
+    "鎼滅嫄",
+    "鎼?鐙?,
+    "鎼滅嫄瑙嗛",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "鑺掓灉",
+    "imgo",
+    "鑺掓灉TV",
+    "鑺?鏋?T V",
+    "bilibili",
+    "鍝?鍝?,
+    "鍝?鍝?鍝?鍝?
+  ],
+  "ijk": [
+    {
+      "group": "杞В鐮?,
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "max-buffer-size",
+          "value": "5242880"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    },
+    {
+      "group": "纭В鐮?,
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "max-buffer-size",
+          "value": "5242880"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
+        }
+      ]
+    }
+  ],
+  "ads": [
+    "wan.51img1.com",
+    "iqiyi.hbuioo.com",
+    "vip.ffzyad.com",
+    "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
+  ],
+  "wallpaper": "http://jianbian.chuqiuyu.tk"
+}
+

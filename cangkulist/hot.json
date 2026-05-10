@@ -1,20 +1,21 @@
-{
+﻿{
     "urls": [
-        {"url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json", "name": "FanTaiYing"},
-        {"url": "https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json", "name": "WangErXiao"},
-        {"url": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/tv.json", "name": "DuanJu"},
-        {"url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json", "name": "Liu673"},
-        {"url": "https://cdn.jsdelivr.net/gh/guot55/YGBH@main/vip2.json", "name": "FatCat"},
-        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/moyu.json", "name": "MoYu"},
-        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/jsm.json", "name": "Jsm"},
-        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/fun.json", "name": "Fun"},
-        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/skill.json", "name": "Skill"},
-        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/svip.json", "name": "Svip"},
-        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ok.json", "name": "Ok"},
-        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/aa.json", "name": "Aa"},
-        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/18-01.json", "name": "18-01"},
-        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/catcr.json", "name": "Catcr"},
-        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/Xingyun.json", "name": "Xingyun"},
-        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/Fengmi.json", "name": "Fengmi"}
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/aa.json", "name": "aa"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/box.json", "name": "box"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/catcr.json", "name": "catcr"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dong-learn.json", "name": "dong-learn"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi.json", "name": "dxawi"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/Fengmi.json", "name": "Fengmi"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/fty.json", "name": "fty"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/Integrated.json", "name": "Integrated"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/JS.json", "name": "JS"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/jsm.json", "name": "jsm"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/M.json", "name": "M"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/moyu.json", "name": "moyu"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/my0725.json", "name": "my0725"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/NanFeng.json", "name": "NanFeng"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/N线路.json", "name": "N线路"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/ok.json", "name": "ok"},
+        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/PY.json", "name": "PY"}
     ]
 }

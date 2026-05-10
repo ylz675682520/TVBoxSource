@@ -1,8 +1,8 @@
-{
+﻿{
   "spider": "./jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
   "lives": [
     {
-      "name": "初秋语",
+      "name": "鍒濈璇?,
       "type": 0,
       "url": "./list.txt",
       "playerType": 2,
@@ -21,29 +21,29 @@
   "wallpaper": "https://jianbian.chuqiuyu.workers.dev",
   "sites": [
     {
-      "key": "drpy_js_豆瓣",
-      "name": "搜索 | 豆瓣[js]",
+      "key": "drpy_js_璞嗙摚",
+      "name": "鎼滅储 | 璞嗙摚[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/drpy.js",
+      "ext": "../../../libs/js/drpy.js",
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0
     },
     {
-      "key": "drpy_js_磁力熊搜索",
-      "name": "搜索 | 磁力熊[js]",
+      "key": "drpy_js_纾佸姏鐔婃悳绱?,
+      "name": "鎼滅储 | 纾佸姏鐔奫js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "indexs": 1,
-      "ext": "../../libs/js/cilixiong.js",
+      "ext": "../../../libs/js/cilixiong.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 1
     },
     {
       "key": "lf_js_search",
-      "name": "搜索 | 路飞[js]",
+      "name": "鎼滅储 | 璺[js]",
       "type": 3,
       "searchable": 0,
       "changeable": 1,
@@ -52,19 +52,19 @@
       "api": "./lib/lf_search3_min.js"
     },
     {
-      "key": "drpy_js_荐片",
-      "name": "影视 | 荐片[js]",
+      "key": "drpy_js_鑽愮墖",
+      "name": "褰辫 | 鑽愮墖[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "../../libs/js/荐片.js",
+      "ext": "../../../libs/js/鑽愮墖.js",
       "timeout": 30
     },
     {
       "key": "lf_js_p2p",
-      "name": "路飞 | 磁力[js]",
+      "name": "璺 | 纾佸姏[js]",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -75,7 +75,7 @@
     },
     {
       "key": "lf_js_lf_live",
-      "name": "电视 | 直播[js]",
+      "name": "鐢佃 | 鐩存挱[js]",
       "type": 3,
       "api": "./lib/lf_live_min.js",
       "style": {
@@ -85,11 +85,11 @@
       "changeable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "../../libs/js/lf_live.txt"
+      "ext": "../../../libs/js/lf_live.txt"
     },
     {
-      "key": "豆瓣",
-      "name": "搜索 | 豆瓣[jar]",
+      "key": "璞嗙摚",
+      "name": "鎼滅储 | 璞嗙摚[jar]",
       "type": 3,
       "api": "csp_Douban",
       "indexs": 1,
@@ -99,7 +99,7 @@
     },
     {
       "key": "TGYunPanLocal",
-      "name": "搜索 | TG[jar]",
+      "name": "鎼滅储 | TG[jar]",
       "type": 3,
       "api": "csp_TGYunPanLocal",
       "timeout": 60,
@@ -107,7 +107,7 @@
     },
     {
       "key": "Youtube",
-      "name": "视频 | Youtube[jar]",
+      "name": "瑙嗛 | Youtube[jar]",
       "type": 3,
       "api": "csp_Youtube",
       "searchable": 1,
@@ -116,9 +116,9 @@
       "ext": {
         "token": "./lib/token.json",
         "json": "./json/youtube.json",
-        "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
+        "type": "鐩存挱#鏂伴椈#鍓ч泦#鐢靛奖#缁艰壓#绾綍鐗?闊充箰#浣撹偛#鍔ㄧ墿#椋庡厜#鏀炬澗#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
         "proxy": "socks5://127.0.0.1:10172",
-        "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
+        "keywords": "鎺掕姒?HOT,TRENDS,鐑棬璇濋,鐑棬瓒嬪娍,鐑棬缁艰壓,鐑棬鐢靛奖,鐑棬鐢佃鍓?灏忓濮?,
         "codecs": "",
         "danmu": true
       },
@@ -129,7 +129,7 @@
     },
     {
       "key": "FirstAid",
-      "name": "科普 | 急救[jar]",
+      "name": "绉戞櫘 | 鎬ユ晳[jar]",
       "type": 3,
       "api": "csp_FirstAid",
       "searchable": 0,
@@ -141,8 +141,8 @@
       }
     },
     {
-      "key": "配置中心",
-      "name": "配置 | 中心[jar]",
+      "key": "閰嶇疆涓績",
+      "name": "閰嶇疆 | 涓績[jar]",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -154,8 +154,8 @@
       "ext": "./lib/token.json"
     },
     {
-      "key": "酷狗",
-      "name": "音频 | 酷狗[jar]",
+      "key": "閰风嫍",
+      "name": "闊抽 | 閰风嫍[jar]",
       "type": 3,
       "api": "csp_Kugou",
       "searchable": 1,
@@ -171,7 +171,7 @@
     },
     {
       "key": "Yinyuetai",
-      "name": "MV | 音悦台[jar]",
+      "name": "MV | 闊虫偊鍙癧jar]",
       "type": 3,
       "api": "csp_Yinyuetai",
       "searchable": 1,
@@ -179,7 +179,7 @@
     },
     {
       "key": "AliShareEBook",
-      "name": "书籍 | 分享[jar]",
+      "name": "涔︾睄 | 鍒嗕韩[jar]",
       "type": 3,
       "api": "csp_AliShare",
       "searchable": 1,
@@ -193,8 +193,8 @@
       }
     },
     {
-      "key": "荐片弹幕版",
-      "name": "弹幕 | 荐片[jar]",
+      "key": "鑽愮墖寮瑰箷鐗?,
+      "name": "寮瑰箷 | 鑽愮墖[jar]",
       "type": 3,
       "api": "csp_Jianpian",
       "searchable": 1,
@@ -205,7 +205,7 @@
     },
     {
       "key": "Bdys_spider",
-      "name": "弹幕 | 哔滴[jar]",
+      "name": "寮瑰箷 | 鍝旀淮[jar]",
       "api": "csp_Bdys01",
       "type": 3,
       "filterable": 1,
@@ -215,16 +215,16 @@
       "timeout": 30
     },
     {
-      "key": "天天",
-      "name": "弹幕 | 天天[jar]",
+      "key": "澶╁ぉ",
+      "name": "寮瑰箷 | 澶╁ぉ[jar]",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
       "ext": "http://op.ysdqjs.cn$$$null$$$1"
     },
     {
-      "key": "追剧",
-      "name": "弹幕 | 追剧[jar]",
+      "key": "杩藉墽",
+      "name": "寮瑰箷 | 杩藉墽[jar]",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
@@ -232,7 +232,7 @@
     },
     {
       "key": "NanGua",
-      "name": "弹幕 | 南瓜[jar]",
+      "name": "寮瑰箷 | 鍗楃摐[jar]",
       "type": 3,
       "api": "csp_NanGua",
       "searchable": 1,
@@ -241,7 +241,7 @@
     },
     {
       "key": "PushShare",
-      "name": "弹幕 | 资源分享[jar]",
+      "name": "寮瑰箷 | 璧勬簮鍒嗕韩[jar]",
       "type": 3,
       "api": "csp_PushShare",
       "searchable": 1,
@@ -256,7 +256,7 @@
     },
     {
       "key": "PikPakShare",
-      "name": "弹幕 | PikPak分享[jar]",
+      "name": "寮瑰箷 | PikPak鍒嗕韩[jar]",
       "type": 3,
       "api": "csp_PikPakShare",
       "searchable": 1,
@@ -268,7 +268,7 @@
     },
     {
       "key": "AliShare",
-      "name": "弹幕 | 影视分享[jar]",
+      "name": "寮瑰箷 | 褰辫鍒嗕韩[jar]",
       "type": 3,
       "api": "csp_AliShare",
       "searchable": 1,
@@ -280,7 +280,7 @@
     },
     {
       "key": "ThunderShare",
-      "name": "弹幕 | 迅雷分享[jar]",
+      "name": "寮瑰箷 | 杩呴浄鍒嗕韩[jar]",
       "type": 3,
       "api": "csp_ThunderShare",
       "searchable": 1,
@@ -292,7 +292,7 @@
     },
     {
       "key": "QuarkShare",
-      "name": "弹幕 | 夸克分享[jar]",
+      "name": "寮瑰箷 | 澶稿厠鍒嗕韩[jar]",
       "type": 3,
       "api": "csp_QuarkShare",
       "searchable": 1,
@@ -304,7 +304,7 @@
     },
     {
       "key": "115Share",
-      "name": "弹幕 | 115分享[jar]",
+      "name": "寮瑰箷 | 115鍒嗕韩[jar]",
       "type": 3,
       "api": "csp_P115Share",
       "searchable": 1,
@@ -320,7 +320,7 @@
     },
     {
       "key": "UCShare",
-      "name": "弹幕 | UC分享[jar]",
+      "name": "寮瑰箷 | UC鍒嗕韩[jar]",
       "type": 3,
       "api": "csp_UCShare",
       "searchable": 1,
@@ -336,7 +336,7 @@
     },
     {
       "key": "SambaShare",
-      "name": "弹幕 | Samba分享[jar]",
+      "name": "寮瑰箷 | Samba鍒嗕韩[jar]",
       "type": 3,
       "api": "csp_SambaShare",
       "searchable": 0,
@@ -348,7 +348,7 @@
     },
     {
       "key": "Wogg",
-      "name": "弹幕 | 玩偶[jar]",
+      "name": "寮瑰箷 | 鐜╁伓[jar]",
       "type": 3,
       "api": "csp_Wogg",
       "quickSearch": 1,
@@ -359,7 +359,7 @@
     },
     {
       "key": "Wobg",
-      "name": "弹幕 | 表哥[jar]",
+      "name": "寮瑰箷 | 琛ㄥ摜[jar]",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -370,7 +370,7 @@
     },
     {
       "key": "yydsys",
-      "name": "弹幕 | 老哥[jar]",
+      "name": "寮瑰箷 | 鑰佸摜[jar]",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -380,8 +380,8 @@
       "ext": "./lib/token.json$$$https://tv.yydsys.top/$$$null$$$1$$$./wogg.json"
     },
     {
-      "key": "蜡笔网盘",
-      "name": "弹幕 | 蜡笔[jar]",
+      "key": "铚＄瑪缃戠洏",
+      "name": "寮瑰箷 | 铚＄瑪[jar]",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -392,7 +392,7 @@
     },
     {
       "key": "Mogg",
-      "name": "网盘 | 木偶哥哥[jar]",
+      "name": "缃戠洏 | 鏈ㄥ伓鍝ュ摜[jar]",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -402,8 +402,8 @@
       "ext": "./lib/token.json$$$http://mogg.top/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG"
     },
     {
-      "key": "土豆",
-      "name": "网盘 | 土豆[jar]",
+      "key": "鍦熻眴",
+      "name": "缃戠洏 | 鍦熻眴[jar]",
       "type": 3,
       "api": "csp_Wobg",
       "searchable": 1,
@@ -413,8 +413,8 @@
       "ext": "./lib/token.json$$$https://tudou.lvdoui.top/$$$proxy$$$1$$$./lib/wog.json$$$TUDOU"
     },
     {
-      "key": "小米网盘",
-      "name": "网盘 | 小米[jar]",
+      "key": "灏忕背缃戠洏",
+      "name": "缃戠洏 | 灏忕背[jar]",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -425,7 +425,7 @@
     },
     {
       "key": "Xinshijue",
-      "name": "弹幕 | 新视觉[jar]",
+      "name": "寮瑰箷 | 鏂拌瑙塠jar]",
       "type": 3,
       "api": "csp_Xinshijue",
       "quickSearch": 1,
@@ -436,7 +436,7 @@
     },
     {
       "key": "Moli",
-      "name": "弹幕 | HDmoli[jar]",
+      "name": "寮瑰箷 | HDmoli[jar]",
       "type": 3,
       "api": "csp_Moli",
       "quickSearch": 1,
@@ -447,7 +447,7 @@
     },
     {
       "key": "Bt0",
-      "name": "弹幕 | 不太灵[jar]",
+      "name": "寮瑰箷 | 涓嶅お鐏礫jar]",
       "type": 3,
       "api": "csp_Bt0",
       "quickSearch": 1,
@@ -458,7 +458,7 @@
     },
     {
       "key": "ddys",
-      "name": "弹幕 | 低端[jar]",
+      "name": "寮瑰箷 | 浣庣[jar]",
       "type": 3,
       "api": "csp_Ddys",
       "quickSearch": 1,
@@ -468,8 +468,8 @@
       "ext": "./lib/token.json$$$https://ddys.pro/$$$proxy$$$1$$$"
     },
     {
-      "key": "美剧迷",
-      "name": "弹幕 | 美剧迷[jar]",
+      "key": "缇庡墽杩?,
+      "name": "寮瑰箷 | 缇庡墽杩穂jar]",
       "type": 3,
       "api": "csp_Meijumi",
       "quickSearch": 1,
@@ -480,7 +480,7 @@
     },
     {
       "key": "Ppxzy",
-      "name": "弹幕 | 皮皮虾[jar]",
+      "name": "寮瑰箷 | 鐨毊铏綶jar]",
       "type": 3,
       "api": "csp_Ppxzy",
       "quickSearch": 1,
@@ -490,8 +490,8 @@
       "timeout": 30
     },
     {
-      "key": "新6V",
-      "name": "弹幕 | 新6V[jar]",
+      "key": "鏂?V",
+      "name": "寮瑰箷 | 鏂?V[jar]",
       "type": 3,
       "api": "csp_Xb6v",
       "searchable": 1,
@@ -501,7 +501,7 @@
     },
     {
       "key": "4KHDR",
-      "name": "弹幕 | 4KHDR[jar]",
+      "name": "寮瑰箷 | 4KHDR[jar]",
       "type": 3,
       "api": "csp_FourKHDR",
       "ext": "./lib/token.json$$$http://127.0.0.1:9978/file/TV/4khdr.txt",
@@ -510,8 +510,8 @@
       "timeout": 60
     },
     {
-      "key": "校长影视",
-      "name": "弹幕 | 校长[jar]",
+      "key": "鏍￠暱褰辫",
+      "name": "寮瑰箷 | 鏍￠暱[jar]",
       "type": 3,
       "api": "csp_XiaoZhang",
       "ext": "./lib/token.json",
@@ -520,8 +520,8 @@
       "timeout": 30
     },
     {
-      "key": "团长资源",
-      "name": "弹幕 | 团长[jar]",
+      "key": "鍥㈤暱璧勬簮",
+      "name": "寮瑰箷 | 鍥㈤暱[jar]",
       "type": 3,
       "api": "csp_TZFile",
       "ext": "./lib/token.json",
@@ -531,7 +531,7 @@
     },
     {
       "key": "Hdhive",
-      "name": "弹幕 | 影巢[jar]",
+      "name": "寮瑰箷 | 褰卞发[jar]",
       "type": 3,
       "api": "csp_Hdh",
       "quickSearch": 1,
@@ -542,7 +542,7 @@
     },
     {
       "key": "Panta",
-      "name": "弹幕 | 盘Ta[jar]",
+      "name": "寮瑰箷 | 鐩楾a[jar]",
       "type": 3,
       "api": "csp_Panta",
       "quickSearch": 1,
@@ -553,7 +553,7 @@
     },
     {
       "key": "YunPan",
-      "name": "弹幕 | 云盘[jar]",
+      "name": "寮瑰箷 | 浜戠洏[jar]",
       "type": 3,
       "api": "csp_YunPan",
       "timeout": 60,
@@ -561,7 +561,7 @@
     },
     {
       "key": "Wo4k",
-      "name": "弹幕 | 玩偶4k[jar]",
+      "name": "寮瑰箷 | 鐜╁伓4k[jar]",
       "type": 3,
       "api": "csp_Wo4k",
       "quickSearch": 1,
@@ -572,7 +572,7 @@
     },
     {
       "key": "Xpanpan",
-      "name": "弹幕 | 小盘盘[jar]",
+      "name": "寮瑰箷 | 灏忕洏鐩榌jar]",
       "type": 3,
       "api": "csp_Xpanpan",
       "quickSearch": 1,
@@ -583,7 +583,7 @@
     },
     {
       "key": "Gaoqing",
-      "name": "弹幕 | 高清网[jar]",
+      "name": "寮瑰箷 | 楂樻竻缃慬jar]",
       "type": 3,
       "api": "csp_Gaoqing",
       "quickSearch": 1,
@@ -593,8 +593,8 @@
       "ext": "./lib/token.json$$$https://gaoqing.la/$$$proxy$$$1"
     },
     {
-      "key": "音范丝",
-      "name": "弹幕 | 音范丝[jar]",
+      "key": "闊宠寖涓?,
+      "name": "寮瑰箷 | 闊宠寖涓漑jar]",
       "type": 3,
       "api": "csp_Gaoqing",
       "quickSearch": 1,
@@ -605,7 +605,7 @@
     },
     {
       "key": "TGYunPan",
-      "name": "网盘 | TG搜索[jar]",
+      "name": "缃戠洏 | TG鎼滅储[jar]",
       "type": 3,
       "api": "csp_TGYunPan",
       "timeout": 60,
@@ -613,15 +613,15 @@
     },
     {
       "key": "YingSo",
-      "name": "磁力 | 影搜[jar]",
+      "name": "纾佸姏 | 褰辨悳[jar]",
       "type": 3,
       "api": "csp_YingSo",
       "timeout": 60,
       "ext": "./lib/token.json$$$1"
     },
     {
-      "key": "盘友圈",
-      "name": "网盘 | 盘友圈",
+      "key": "鐩樺弸鍦?,
+      "name": "缃戠洏 | 鐩樺弸鍦?,
       "type": 3,
       "api": "csp_Panyq",
       "timeout": 60,
@@ -629,7 +629,7 @@
     },
     {
       "key": "88Pan",
-      "name": "网盘 | 88网盘[jar]",
+      "name": "缃戠洏 | 88缃戠洏[jar]",
       "type": 3,
       "api": "csp_EightEight",
       "timeout": 30,
@@ -637,7 +637,7 @@
     },
     {
       "key": "PikaSo",
-      "name": "网盘 | 皮卡搜[jar]",
+      "name": "缃戠洏 | 鐨崱鎼淸jar]",
       "type": 3,
       "api": "csp_PikaSo",
       "quickSearch": 1,
@@ -648,7 +648,7 @@
     },
     {
       "key": "csp_HunHePan",
-      "name": "网盘 | 混合盘[jar]",
+      "name": "缃戠洏 | 娣峰悎鐩榌jar]",
       "type": 3,
       "api": "csp_HunHePan",
       "searchable": 1,
@@ -659,8 +659,8 @@
       "ext": "./lib/token.json$$$null$$$1"
     },
     {
-      "key": "秒搜",
-      "name": "网盘 | 秒搜[jar]",
+      "key": "绉掓悳",
+      "name": "缃戠洏 | 绉掓悳[jar]",
       "type": 3,
       "api": "csp_MiaoSou",
       "timeout": 30,
@@ -668,7 +668,7 @@
     },
     {
       "key": "Libvio",
-      "name": "网盘 | LIBVIO[jar]",
+      "name": "缃戠洏 | LIBVIO[jar]",
       "type": 3,
       "api": "csp_Libvio",
       "quickSearch": 1,
@@ -679,7 +679,7 @@
     },
     {
       "key": "DaPanSo",
-      "name": "网盘 | 大盘搜[jar]",
+      "name": "缃戠洏 | 澶х洏鎼淸jar]",
       "type": 3,
       "api": "csp_DaPanSo",
       "quickSearch": 1,
@@ -690,7 +690,7 @@
     },
     {
       "key": "Qianfan",
-      "name": "网盘 | 千帆[jar]",
+      "name": "缃戠洏 | 鍗冨竼[jar]",
       "type": 3,
       "api": "csp_Qianfan",
       "quickSearch": 1,
@@ -701,7 +701,7 @@
     },
     {
       "key": "YunSo",
-      "name": "网盘 | 小云[jar]",
+      "name": "缃戠洏 | 灏忎簯[jar]",
       "type": 3,
       "api": "csp_YunSo",
       "quickSearch": 1,
@@ -712,7 +712,7 @@
     },
     {
       "key": "YunPanOne",
-      "name": "网盘 | 云盘[jar]",
+      "name": "缃戠洏 | 浜戠洏[jar]",
       "type": 3,
       "api": "csp_YunPanOne",
       "quickSearch": 1,
@@ -723,7 +723,7 @@
     },
     {
       "key": "Gitcafe",
-      "name": "阿里 | 纸条[jar]",
+      "name": "闃块噷 | 绾告潯[jar]",
       "type": 3,
       "api": "csp_Gitcafe",
       "searchable": 1,
@@ -733,8 +733,8 @@
       "timeout": 30
     },
     {
-      "key": "小紙條",
-      "name": "阿里 | 小紙條[jar]",
+      "key": "灏忕礄姊?,
+      "name": "闃块噷 | 灏忕礄姊漑jar]",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
       "searchable": 1,
@@ -744,8 +744,8 @@
       "timeout": 30
     },
     {
-      "key": "七夜",
-      "name": "阿里 | 七夜[jar]",
+      "key": "涓冨",
+      "name": "闃块噷 | 涓冨[jar]",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -754,8 +754,8 @@
       "timeout": 30
     },
     {
-      "key": "盤搜索",
-      "name": "阿里 | 盤搜索[jar]",
+      "key": "鐩ゆ悳绱?,
+      "name": "闃块噷 | 鐩ゆ悳绱jar]",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -764,8 +764,8 @@
       "timeout": 30
     },
     {
-      "key": "找資源",
-      "name": "阿里 | 找資源[jar]",
+      "key": "鎵捐硣婧?,
+      "name": "闃块噷 | 鎵捐硣婧怺jar]",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -774,24 +774,24 @@
       "timeout": 30
     },
     {
-      "key": "易搜",
-      "name": "阿里 | 易搜[jar]",
+      "key": "鏄撴悳",
+      "name": "闃块噷 | 鏄撴悳[jar]",
       "type": 3,
       "api": "csp_YiSo",
       "ext": "./lib/token.json",
       "timeout": 30
     },
     {
-      "key": "盘搜",
-      "name": "阿里 | 盘搜[jar]",
+      "key": "鐩樻悳",
+      "name": "闃块噷 | 鐩樻悳[jar]",
       "type": 3,
       "api": "csp_PanSou",
       "ext": "./lib/token.json",
       "timeout": 30
     },
     {
-      "key": "UP云搜",
-      "name": "阿里 | up云搜[jar]",
+      "key": "UP浜戞悳",
+      "name": "闃块噷 | up浜戞悳[jar]",
       "type": 3,
       "api": "csp_UpYun",
       "ext": "./lib/token.json",
@@ -799,7 +799,7 @@
     },
     {
       "key": "Funletu",
-      "name": "夸克  | 趣盘搜[jar]",
+      "name": "澶稿厠  | 瓒ｇ洏鎼淸jar]",
       "type": 3,
       "api": "csp_Funletu",
       "quickSearch": 1,
@@ -810,7 +810,7 @@
     },
     {
       "key": "QuarkPanso",
-      "name": "夸克 | 盘搜[jar]",
+      "name": "澶稿厠 | 鐩樻悳[jar]",
       "type": 3,
       "api": "csp_QuarkPanso",
       "quickSearch": 1,
@@ -820,606 +820,606 @@
       "ext": "./lib/token.json"
     },
     {
-      "key": "drpy_js_酷云77",
-      "name": "影视 | 酷云77[js]",
+      "key": "drpy_js_閰蜂簯77",
+      "name": "褰辫 | 閰蜂簯77[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/酷云77.js"
+      "ext": "../../../libs/js/閰蜂簯77.js"
     },
     {
-      "key": "drpy_js_快看",
-      "name": "影视 | 快看[js]",
+      "key": "drpy_js_蹇湅",
+      "name": "褰辫 | 蹇湅[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/快看.js"
+      "ext": "../../../libs/js/蹇湅.js"
     },
     {
-      "key": "drpy_js_爱看",
-      "name": "影视 | 爱看[js]",
+      "key": "drpy_js_鐖辩湅",
+      "name": "褰辫 | 鐖辩湅[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/爱看.js"
+      "ext": "../../../libs/js/鐖辩湅.js"
     },
     {
-      "key": "drpy_js_低端",
-      "name": "影视 | 低端[js]",
+      "key": "drpy_js_浣庣",
+      "name": "褰辫 | 浣庣[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/ddys_d.js"
+      "ext": "../../../libs/js/ddys_d.js"
     },
     {
-      "key": "drpy_js_南瓜影视",
-      "name": "影视 | 南瓜影视[js]",
+      "key": "drpy_js_鍗楃摐褰辫",
+      "name": "褰辫 | 鍗楃摐褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/南瓜影视.js"
+      "ext": "../../../libs/js/鍗楃摐褰辫.js"
     },
     {
       "key": "drpy_js_Auete",
-      "name": "影视 | Auete[js]",
+      "name": "褰辫 | Auete[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/Auete.js"
+      "ext": "../../../libs/js/Auete.js"
     },
     {
       "key": "drpy_js_cokemv",
-      "name": "影视 | cokemv[js]",
+      "name": "褰辫 | cokemv[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/cokemv.js"
+      "ext": "../../../libs/js/cokemv.js"
     },
     {
       "key": "drpy_js_LIBVIO",
-      "name": "影视 | LIBVIO[js]",
+      "name": "褰辫 | LIBVIO[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/LIBVIO.js"
+      "ext": "../../../libs/js/LIBVIO.js"
     },
     {
       "key": "drpy_js_voflix",
-      "name": "影视 | voflix[js]",
+      "name": "褰辫 | voflix[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/voflix.js"
+      "ext": "../../../libs/js/voflix.js"
     },
     {
-      "key": "drpy_js_两个BT",
-      "name": "影视 | 两个BT[js]",
+      "key": "drpy_js_涓や釜BT",
+      "name": "褰辫 | 涓や釜BT[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/两个BT.js"
+      "ext": "../../../libs/js/涓や釜BT.js"
     },
     {
-      "key": "drpy_js_量子影视",
-      "name": "影视 | 量子影视[js]",
+      "key": "drpy_js_閲忓瓙褰辫",
+      "name": "褰辫 | 閲忓瓙褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/量子影视.js"
+      "ext": "../../../libs/js/閲忓瓙褰辫.js"
     },
     {
-      "key": "drpy_js_农民",
-      "name": "影视 | 农民影视[js]",
+      "key": "drpy_js_鍐滄皯",
+      "name": "褰辫 | 鍐滄皯褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/农民影视.js"
+      "ext": "../../../libs/js/鍐滄皯褰辫.js"
     },
     {
-      "key": "drpy_js_在线之家",
-      "name": "影视 | 在线之家[js]",
+      "key": "drpy_js_鍦ㄧ嚎涔嬪",
+      "name": "褰辫 | 鍦ㄧ嚎涔嬪[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/在线之家.js"
+      "ext": "../../../libs/js/鍦ㄧ嚎涔嬪.js"
     },
     {
-      "key": "drpy_js_量子资源",
-      "name": "影视 | 量子资源[js]",
+      "key": "drpy_js_閲忓瓙璧勬簮",
+      "name": "褰辫 | 閲忓瓙璧勬簮[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/量子资源.js"
+      "ext": "../../../libs/js/閲忓瓙璧勬簮.js"
     },
     {
-      "key": "drpy_js_369影视",
-      "name": "影视 | 369影视[js]",
+      "key": "drpy_js_369褰辫",
+      "name": "褰辫 | 369褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/369影视.js"
+      "ext": "../../../libs/js/369褰辫.js"
     },
     {
-      "key": "drpy_js_热播库",
-      "name": "影视 | 热播库[js]",
+      "key": "drpy_js_鐑挱搴?,
+      "name": "褰辫 | 鐑挱搴揫js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/热播库.js"
+      "ext": "../../../libs/js/鐑挱搴?js"
     },
     {
-      "key": "drpy_js_蛋蛋剧",
-      "name": "影视 | 蛋蛋剧[js]",
+      "key": "drpy_js_铔嬭泲鍓?,
+      "name": "褰辫 | 铔嬭泲鍓js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/蛋蛋剧.js"
+      "ext": "../../../libs/js/铔嬭泲鍓?js"
     },
     {
-      "key": "drpy_js_B站影视",
-      "name": "影视 | B站影视[js]",
+      "key": "drpy_js_B绔欏奖瑙?,
+      "name": "褰辫 | B绔欏奖瑙哰js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/B站影视.js"
+      "ext": "../../../libs/js/B绔欏奖瑙?js"
     },
     {
-      "key": "drpy_js_凌云影视",
-      "name": "影视 | 凌云影视[js]",
+      "key": "drpy_js_鍑屼簯褰辫",
+      "name": "褰辫 | 鍑屼簯褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/凌云影视.js"
+      "ext": "../../../libs/js/鍑屼簯褰辫.js"
     },
     {
-      "key": "drpy_js_孜然影视",
-      "name": "影视 | 孜然影视[js]",
+      "key": "drpy_js_瀛滅劧褰辫",
+      "name": "褰辫 | 瀛滅劧褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/孜然影视.js"
+      "ext": "../../../libs/js/瀛滅劧褰辫.js"
     },
     {
-      "key": "drpy_js_我爱跟剧",
-      "name": "影视 | 我爱跟剧[js]",
+      "key": "drpy_js_鎴戠埍璺熷墽",
+      "name": "褰辫 | 鎴戠埍璺熷墽[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/我爱跟剧.js"
+      "ext": "../../../libs/js/鎴戠埍璺熷墽.js"
     },
     {
-      "key": "drpy_js_干饭影视",
-      "name": "影视 | 干饭影视[js]",
+      "key": "drpy_js_骞查キ褰辫",
+      "name": "褰辫 | 骞查キ褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/干饭影视.js"
+      "ext": "../../../libs/js/骞查キ褰辫.js"
     },
     {
-      "key": "drpy_js_秋霞影视",
-      "name": "影视 | 秋霞影视[js]",
+      "key": "drpy_js_绉嬮湠褰辫",
+      "name": "褰辫 | 绉嬮湠褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/秋霞影视.js"
+      "ext": "../../../libs/js/绉嬮湠褰辫.js"
     },
     {
-      "key": "drpy_js_阿布影院",
-      "name": "影视 | 阿布影院[js]",
+      "key": "drpy_js_闃垮竷褰遍櫌",
+      "name": "褰辫 | 闃垮竷褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/阿布影院.js"
+      "ext": "../../../libs/js/闃垮竷褰遍櫌.js"
     },
     {
-      "key": "drpy_js_电影先生",
-      "name": "影视 | 电影先生[js]",
+      "key": "drpy_js_鐢靛奖鍏堢敓",
+      "name": "褰辫 | 鐢靛奖鍏堢敓[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/电影先生.js"
+      "ext": "../../../libs/js/鐢靛奖鍏堢敓.js"
     },
     {
-      "key": "drpy_js_落攻阁影视",
-      "name": "影视 | 落攻阁影视[js]",
+      "key": "drpy_js_钀芥敾闃佸奖瑙?,
+      "name": "褰辫 | 钀芥敾闃佸奖瑙哰js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/落攻阁影视.js"
+      "ext": "../../../libs/js/钀芥敾闃佸奖瑙?js"
     },
     {
-      "key": "drpy_js_69美剧",
-      "name": "影视 | 69美剧[js]",
+      "key": "drpy_js_69缇庡墽",
+      "name": "褰辫 | 69缇庡墽[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/69美剧.js"
+      "ext": "../../../libs/js/69缇庡墽.js"
     },
     {
-      "key": "drpy_js_兄弟影视",
-      "name": "影视 | 兄弟影视[js]",
+      "key": "drpy_js_鍏勫紵褰辫",
+      "name": "褰辫 | 鍏勫紵褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/兄弟影视.js"
+      "ext": "../../../libs/js/鍏勫紵褰辫.js"
     },
     {
-      "key": "drpy_js_4k剧院",
-      "name": "影视 | 4k剧院[js]",
+      "key": "drpy_js_4k鍓ч櫌",
+      "name": "褰辫 | 4k鍓ч櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/4k剧院.js"
+      "ext": "../../../libs/js/4k鍓ч櫌.js"
     },
     {
-      "key": "drpy_js_爱迪影视",
-      "name": "影视 | 爱迪影视[js]",
+      "key": "drpy_js_鐖辫开褰辫",
+      "name": "褰辫 | 鐖辫开褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/爱迪影视.js"
+      "ext": "../../../libs/js/鐖辫开褰辫.js"
     },
     {
-      "key": "drpy_js_539影视",
-      "name": "影视 | 539影视[js]",
+      "key": "drpy_js_539褰辫",
+      "name": "褰辫 | 539褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/539影视.js"
+      "ext": "../../../libs/js/539褰辫.js"
     },
     {
-      "key": "drpy_js_333影视",
-      "name": "影视 | 333影视[js]",
+      "key": "drpy_js_333褰辫",
+      "name": "褰辫 | 333褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/333影视.js"
+      "ext": "../../../libs/js/333褰辫.js"
     },
     {
-      "key": "drpy_js_996影视",
-      "name": "影视 | 996影视[js]",
+      "key": "drpy_js_996褰辫",
+      "name": "褰辫 | 996褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/996影视.js"
+      "ext": "../../../libs/js/996褰辫.js"
     },
     {
-      "key": "drpy_js_188影视",
-      "name": "影视 | 188影视[js]",
+      "key": "drpy_js_188褰辫",
+      "name": "褰辫 | 188褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/188影视.js"
+      "ext": "../../../libs/js/188褰辫.js"
     },
     {
-      "key": "drpy_js_哔嘀影视",
-      "name": "影视 | 哔嘀影视[js]",
+      "key": "drpy_js_鍝斿榾褰辫",
+      "name": "褰辫 | 鍝斿榾褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/哔嘀影视.js"
+      "ext": "../../../libs/js/鍝斿榾褰辫.js"
     },
     {
-      "key": "drpy_js_7喜影院",
-      "name": "影视 | 7喜影院[js]",
+      "key": "drpy_js_7鍠滃奖闄?,
+      "name": "褰辫 | 7鍠滃奖闄js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/7喜影院.js"
+      "ext": "../../../libs/js/7鍠滃奖闄?js"
     },
     {
-      "key": "drpy_js_18哈",
-      "name": "影视 | 18哈[js]",
+      "key": "drpy_js_18鍝?,
+      "name": "褰辫 | 18鍝圼js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/18哈.js"
+      "ext": "../../../libs/js/18鍝?js"
     },
     {
-      "key": "drpy_js_567电影院",
-      "name": "影视 | 567电影院[js]",
+      "key": "drpy_js_567鐢靛奖闄?,
+      "name": "褰辫 | 567鐢靛奖闄js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/567电影院.js"
+      "ext": "../../../libs/js/567鐢靛奖闄?js"
     },
     {
       "key": "drpy_js_Fun4K",
-      "name": "影视 | Fun4K[js]",
+      "name": "褰辫 | Fun4K[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/Fun4K.js"
+      "ext": "../../../libs/js/Fun4K.js"
     },
     {
-      "key": "drpy_js_KOK影院",
-      "name": "影视 | KOK影院[js]",
+      "key": "drpy_js_KOK褰遍櫌",
+      "name": "褰辫 | KOK褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/KOK影院.js"
+      "ext": "../../../libs/js/KOK褰遍櫌.js"
     },
     {
-      "key": "drpy_js_TVB云播",
-      "name": "影视 | TVB云播[js]",
+      "key": "drpy_js_TVB浜戞挱",
+      "name": "褰辫 | TVB浜戞挱[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/TVB云播.js"
+      "ext": "../../../libs/js/TVB浜戞挱.js"
     },
     {
-      "key": "drpy_js_UrleBird[飞]",
-      "name": "影视 | UrleBird[飞][js]",
+      "key": "drpy_js_UrleBird[椋瀅",
+      "name": "褰辫 | UrleBird[椋瀅[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/UrleBird[飞].js"
+      "ext": "../../../libs/js/UrleBird[椋瀅.js"
     },
     {
-      "key": "drpy_js_爱看影院",
-      "name": "影视 | 爱看影院[js]",
+      "key": "drpy_js_鐖辩湅褰遍櫌",
+      "name": "褰辫 | 鐖辩湅褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/爱看影院.js"
+      "ext": "../../../libs/js/鐖辩湅褰遍櫌.js"
     },
     {
-      "key": "drpy_js_北川影视",
-      "name": "影视 | 北川影视[js]",
+      "key": "drpy_js_鍖楀窛褰辫",
+      "name": "褰辫 | 鍖楀窛褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/北川影视.js"
+      "ext": "../../../libs/js/鍖楀窛褰辫.js"
     },
     {
-      "key": "drpy_js_尘落影视",
-      "name": "影视 | 尘落影视[js]",
+      "key": "drpy_js_灏樿惤褰辫",
+      "name": "褰辫 | 灏樿惤褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/尘落影视.js"
+      "ext": "../../../libs/js/灏樿惤褰辫.js"
     },
     {
-      "key": "drpy_js_达达龟",
-      "name": "影视 | 达达龟[js]",
+      "key": "drpy_js_杈捐揪榫?,
+      "name": "褰辫 | 杈捐揪榫焄js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/达达龟.js"
+      "ext": "../../../libs/js/杈捐揪榫?js"
     },
     {
-      "key": "drpy_js_蛋蛋赞",
-      "name": "影视 | 蛋蛋赞[js]",
+      "key": "drpy_js_铔嬭泲璧?,
+      "name": "褰辫 | 铔嬭泲璧瀃js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/蛋蛋赞.js"
+      "ext": "../../../libs/js/铔嬭泲璧?js"
     },
     {
-      "key": "drpy_js_多瑙影视",
-      "name": "影视 | 多瑙影视[js]",
+      "key": "drpy_js_澶氱憴褰辫",
+      "name": "褰辫 | 澶氱憴褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/多瑙影视.js"
+      "ext": "../../../libs/js/澶氱憴褰辫.js"
     },
     {
-      "key": "drpy_js_剧迷su",
-      "name": "影视 | 剧迷su[js]",
+      "key": "drpy_js_鍓ц糠su",
+      "name": "褰辫 | 鍓ц糠su[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/剧迷su.js"
+      "ext": "../../../libs/js/鍓ц糠su.js"
     },
     {
-      "key": "drpy_js_看韩剧",
-      "name": "影视 | 看韩剧[js]",
+      "key": "drpy_js_鐪嬮煩鍓?,
+      "name": "褰辫 | 鐪嬮煩鍓js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/看韩剧.js"
+      "ext": "../../../libs/js/鐪嬮煩鍓?js"
     },
     {
-      "key": "drpy_js_看了么",
-      "name": "影视 | 看了么[js]",
+      "key": "drpy_js_鐪嬩簡涔?,
+      "name": "褰辫 | 鐪嬩簡涔圼js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/看了么.js"
+      "ext": "../../../libs/js/鐪嬩簡涔?js"
     },
     {
-      "key": "drpy_js_蓝光影院",
-      "name": "影视 | 蓝光影院[js]",
+      "key": "drpy_js_钃濆厜褰遍櫌",
+      "name": "褰辫 | 钃濆厜褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/蓝光影院.js"
+      "ext": "../../../libs/js/钃濆厜褰遍櫌.js"
     },
     {
-      "key": "drpy_js_首播影院",
-      "name": "影视 | 首播影院[js]",
+      "key": "drpy_js_棣栨挱褰遍櫌",
+      "name": "褰辫 | 棣栨挱褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/首播影院.js"
+      "ext": "../../../libs/js/棣栨挱褰遍櫌.js"
     },
     {
-      "key": "drpy_js_小白菜电影",
-      "name": "影视 | 小白菜电影[js]",
+      "key": "drpy_js_灏忕櫧鑿滅數褰?,
+      "name": "褰辫 | 灏忕櫧鑿滅數褰盵js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/小白菜电影.js"
+      "ext": "../../../libs/js/灏忕櫧鑿滅數褰?js"
     },
     {
-      "key": "drpy_js_影视工场",
-      "name": "影视 | 影视工场[js]",
+      "key": "drpy_js_褰辫宸ュ満",
+      "name": "褰辫 | 褰辫宸ュ満[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/影视工场.js"
+      "ext": "../../../libs/js/褰辫宸ュ満.js"
     },
     {
-      "key": "drpy_js_影视之家[V2]",
-      "name": "影视 | 影视之家[V2][js]",
+      "key": "drpy_js_褰辫涔嬪[V2]",
+      "name": "褰辫 | 褰辫涔嬪[V2][js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/影视之家[V2].js"
+      "ext": "../../../libs/js/褰辫涔嬪[V2].js"
     },
     {
-      "key": "drpy_js_悠久影院",
-      "name": "影视 | 悠久影院[js]",
+      "key": "drpy_js_鎮犱箙褰遍櫌",
+      "name": "褰辫 | 鎮犱箙褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/悠久影院.js"
+      "ext": "../../../libs/js/鎮犱箙褰遍櫌.js"
     },
     {
-      "key": "drpy_js_中国人线上看",
-      "name": "影视 | 中国人线上看[js]",
+      "key": "drpy_js_涓浗浜虹嚎涓婄湅",
+      "name": "褰辫 | 涓浗浜虹嚎涓婄湅[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/中国人线上看.js"
+      "ext": "../../../libs/js/涓浗浜虹嚎涓婄湅.js"
     },
     {
-      "key": "drpy_js_555电影[V2]",
-      "name": "影视 | 555电影[V2]",
+      "key": "drpy_js_555鐢靛奖[V2]",
+      "name": "褰辫 | 555鐢靛奖[V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/555电影[V2].js"
+      "ext": "../../../libs/js/555鐢靛奖[V2].js"
     },
     {
-      "key": "drpy_js_69美剧[V2]",
-      "name": "影视 | 69美剧[V2]",
+      "key": "drpy_js_69缇庡墽[V2]",
+      "name": "褰辫 | 69缇庡墽[V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/69美剧[V2].js"
+      "ext": "../../../libs/js/69缇庡墽[V2].js"
     },
     {
       "key": "drpy_js_cokemv[V2]",
-      "name": "影视 | cokemv[V2]",
+      "name": "褰辫 | cokemv[V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/cokemv[V2].js"
+      "ext": "../../../libs/js/cokemv[V2].js"
     },
     {
-      "key": "drpy_js_UM电影[V2]",
-      "name": "影视 | UM电影[V2]",
+      "key": "drpy_js_UM鐢靛奖[V2]",
+      "name": "褰辫 | UM鐢靛奖[V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/UM电影[V2].js"
+      "ext": "../../../libs/js/UM鐢靛奖[V2].js"
     },
     {
-      "key": "drpy_js_爱迪[V2]",
-      "name": "影视 | 爱迪[V2][js]",
+      "key": "drpy_js_鐖辫开[V2]",
+      "name": "褰辫 | 鐖辫开[V2][js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/爱迪[V2].js"
+      "ext": "../../../libs/js/鐖辫开[V2].js"
     },
     {
-      "key": "drpy_js_宝片[V2]",
-      "name": "影视 | 宝片[V2]",
+      "key": "drpy_js_瀹濈墖[V2]",
+      "name": "褰辫 | 瀹濈墖[V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/宝片[V2].js"
+      "ext": "../../../libs/js/瀹濈墖[V2].js"
     },
     {
-      "key": "drpy_js_刺桐[V2]",
-      "name": "影视 | 刺桐[V2][js]",
+      "key": "drpy_js_鍒烘[V2]",
+      "name": "褰辫 | 鍒烘[V2][js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/刺桐[V2].js"
+      "ext": "../../../libs/js/鍒烘[V2].js"
     },
     {
-      "key": "drpy_js_咕噜[V2]",
-      "name": "影视 | 咕噜[V2]",
+      "key": "drpy_js_鍜曞櫆[V2]",
+      "name": "褰辫 | 鍜曞櫆[V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/咕噜[V2].js"
+      "ext": "../../../libs/js/鍜曞櫆[V2].js"
     },
     {
-      "key": "drpy_js_吼吼[V2]",
-      "name": "影视 | 吼吼[V2]",
+      "key": "drpy_js_鍚煎惣[V2]",
+      "name": "褰辫 | 鍚煎惣[V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/吼吼[V2].js"
+      "ext": "../../../libs/js/鍚煎惣[V2].js"
     },
     {
-      "key": "drpy_js_曲奇影视[V2]",
-      "name": "影视 | 曲奇影视[V2]",
+      "key": "drpy_js_鏇插褰辫[V2]",
+      "name": "褰辫 | 鏇插褰辫[V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/曲奇影视[V2].js"
+      "ext": "../../../libs/js/鏇插褰辫[V2].js"
     },
     {
-      "key": "drpy_js_影探[V2]",
-      "name": "影视 | 影探[V2]",
+      "key": "drpy_js_褰辨帰[V2]",
+      "name": "褰辫 | 褰辨帰[V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/影探[V2].js"
+      "ext": "../../../libs/js/褰辨帰[V2].js"
     },
     {
-      "key": "drpy_js_北极狐[V2]",
-      "name": "影视 | 北极狐[V2]",
+      "key": "drpy_js_鍖楁瀬鐙怺V2]",
+      "name": "褰辫 | 鍖楁瀬鐙怺V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/北极狐[V2].js"
+      "ext": "../../../libs/js/鍖楁瀬鐙怺V2].js"
     },
     {
-      "key": "drpy_js_大米星球[V2]",
-      "name": "影视 | 大米星球[V2]",
+      "key": "drpy_js_澶х背鏄熺悆[V2]",
+      "name": "褰辫 | 澶х背鏄熺悆[V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/大米星球[V2].js"
+      "ext": "../../../libs/js/澶х背鏄熺悆[V2].js"
     },
     {
-      "key": "drpy_js_奈飞狗[V2]",
-      "name": "影视 | 奈飞狗[V2]",
+      "key": "drpy_js_濂堥鐙梉V2]",
+      "name": "褰辫 | 濂堥鐙梉V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/奈飞狗[V2].js"
+      "ext": "../../../libs/js/濂堥鐙梉V2].js"
     },
     {
-      "key": "drpy_js_思古影视[V2]",
-      "name": "影视 | 思古影视[V2]",
+      "key": "drpy_js_鎬濆彜褰辫[V2]",
+      "name": "褰辫 | 鎬濆彜褰辫[V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/思古影视[V2].js"
+      "ext": "../../../libs/js/鎬濆彜褰辫[V2].js"
     },
     {
-      "key": "drpy_js_映迷[V2]",
-      "name": "影视 | 映迷[V2]",
+      "key": "drpy_js_鏄犺糠[V2]",
+      "name": "褰辫 | 鏄犺糠[V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/映迷[V2].js"
+      "ext": "../../../libs/js/鏄犺糠[V2].js"
     },
     {
-      "key": "drpy_js_美益达[V2]",
-      "name": "影视 | 美益达[V2]",
+      "key": "drpy_js_缇庣泭杈綶V2]",
+      "name": "褰辫 | 缇庣泭杈綶V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/美益达[V2].js"
+      "ext": "../../../libs/js/缇庣泭杈綶V2].js"
     },
     {
-      "key": "drpy_js_落攻阁影视[V2]",
-      "name": "影视 | 落攻阁影视[V2]",
+      "key": "drpy_js_钀芥敾闃佸奖瑙哰V2]",
+      "name": "褰辫 | 钀芥敾闃佸奖瑙哰V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/落攻阁影视[V2].js"
+      "ext": "../../../libs/js/钀芥敾闃佸奖瑙哰V2].js"
     },
     {
-      "key": "drpy_js_西门[V2]",
-      "name": "影视 | 西门[V2]",
+      "key": "drpy_js_瑗块棬[V2]",
+      "name": "褰辫 | 瑗块棬[V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/西门[V2].js"
+      "ext": "../../../libs/js/瑗块棬[V2].js"
     },
     {
-      "key": "drpy_js_路人甲[V2]",
-      "name": "影视 | 路人甲[V2]",
+      "key": "drpy_js_璺汉鐢瞇V2]",
+      "name": "褰辫 | 璺汉鐢瞇V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/路人甲[V2].js"
+      "ext": "../../../libs/js/璺汉鐢瞇V2].js"
     },
     {
-      "key": "drpy_js_鑫鑫[V2]",
-      "name": "影视 | 鑫鑫[V2]",
+      "key": "drpy_js_閼懌[V2]",
+      "name": "褰辫 | 閼懌[V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/鑫鑫[V2].js"
+      "ext": "../../../libs/js/閼懌[V2].js"
     },
     {
-      "key": "drpy_js_360影视",
-      "name": "官源 | 360[js]",
+      "key": "drpy_js_360褰辫",
+      "name": "瀹樻簮 | 360[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/360影视.js"
+      "ext": "../../../libs/js/360褰辫.js"
     },
     {
-      "key": "drpy_js_百忙无果",
-      "name": "官源 | 芒果[js]",
+      "key": "drpy_js_鐧惧繖鏃犳灉",
+      "name": "瀹樻簮 | 鑺掓灉[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/百忙无果.js"
+      "ext": "../../../libs/js/鐧惧繖鏃犳灉.js"
     },
     {
-      "key": "drpy_js_腾云驾雾",
-      "name": "官源 | 腾讯[js]",
+      "key": "drpy_js_鑵句簯椹鹃浘",
+      "name": "瀹樻簮 | 鑵捐[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/腾云驾雾.js"
+      "ext": "../../../libs/js/鑵句簯椹鹃浘.js"
     },
     {
-      "key": "drpy_js_奇珍异兽",
-      "name": "官源 | 爱奇艺[js]",
+      "key": "drpy_js_濂囩弽寮傚吔",
+      "name": "瀹樻簮 | 鐖卞鑹篬js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/奇珍异兽.js"
+      "ext": "../../../libs/js/濂囩弽寮傚吔.js"
     },
     {
-      "key": "drpy_js_菜狗",
-      "name": "官源 | 搜狗[js]",
+      "key": "drpy_js_鑿滅嫍",
+      "name": "瀹樻簮 | 鎼滅嫍[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/菜狗.js"
+      "ext": "../../../libs/js/鑿滅嫍.js"
     },
     {
-      "key": "drpy_js_优酷",
-      "name": "官源 | 优酷[js]",
+      "key": "drpy_js_浼橀叿",
+      "name": "瀹樻簮 | 浼橀叿[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/优酷.js"
+      "ext": "../../../libs/js/浼橀叿.js"
     },
     {
       "key": "drpy_js_4KHDR",
-      "name": "磁力 | 4KHDR[js]",
+      "name": "纾佸姏 | 4KHDR[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/4khdr.js",
+      "ext": "../../../libs/js/4khdr.js",
       "playerType": "1",
       "searchable": 1,
       "quickSearch": 1,
@@ -1427,11 +1427,11 @@
       "timeout": 30
     },
     {
-      "key": "drpy_js_极影网",
-      "name": "磁力 | 极影网[js]",
+      "key": "drpy_js_鏋佸奖缃?,
+      "name": "纾佸姏 | 鏋佸奖缃慬js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/jiyingw.js",
+      "ext": "../../../libs/js/jiyingw.js",
       "playerType": "1",
       "searchable": 1,
       "quickSearch": 1,
@@ -1440,10 +1440,10 @@
     },
     {
       "key": "drpy_js_MP4US",
-      "name": "磁力 | MP4电影[js]",
+      "name": "纾佸姏 | MP4鐢靛奖[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/mp4us.js",
+      "ext": "../../../libs/js/mp4us.js",
       "playerType": "1",
       "searchable": 1,
       "quickSearch": 1,
@@ -1451,11 +1451,11 @@
       "timeout": 30
     },
     {
-      "key": "drpy_js_电影港",
-      "name": "磁力 | 电影港[js]",
+      "key": "drpy_js_鐢靛奖娓?,
+      "name": "纾佸姏 | 鐢靛奖娓痆js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/dygang.js",
+      "ext": "../../../libs/js/dygang.js",
       "playerType": "1",
       "searchable": 1,
       "quickSearch": 1,
@@ -1464,20 +1464,20 @@
     },
     {
       "key": "drpy_js_kuba",
-      "name": "磁力 | 酷吧[js]",
+      "name": "纾佸姏 | 閰峰惂[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/kuba.js",
+      "ext": "../../../libs/js/kuba.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
     },
     {
       "key": "drpy_js_xb6v",
-      "name": "磁力 | 新版6v[js]",
+      "name": "纾佸姏 | 鏂扮増6v[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/xb6v.js",
+      "ext": "../../../libs/js/xb6v.js",
       "playerType": "1",
       "searchable": 1,
       "quickSearch": 1,
@@ -1485,138 +1485,138 @@
       "timeout": 30
     },
     {
-      "key": "drpy_js_美剧迷",
-      "name": "磁力 | 美剧迷[js]",
+      "key": "drpy_js_缇庡墽杩?,
+      "name": "纾佸姏 | 缇庡墽杩穂js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/meijumi.js",
+      "ext": "../../../libs/js/meijumi.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
     },
     {
       "key": "drpy_js_ddys",
-      "name": "影视 | 低端影视[js]",
+      "name": "褰辫 | 浣庣褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/ddys.js",
+      "ext": "../../../libs/js/ddys.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
     },
     {
       "key": "drpy_js_libvio",
-      "name": "影视 | libvio[js]",
+      "name": "褰辫 | libvio[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/libvio.js",
+      "ext": "../../../libs/js/libvio.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
     },
     {
       "key": "drpy_js_tzfile",
-      "name": "影视 | 团长影视[js]",
+      "name": "褰辫 | 鍥㈤暱褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/tzfile.js",
+      "ext": "../../../libs/js/tzfile.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
     },
     {
       "key": "drpy_js_dydhhy",
-      "name": "影视 | dydhhy[js]",
+      "name": "褰辫 | dydhhy[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/dydhhy.js",
+      "ext": "../../../libs/js/dydhhy.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
     },
     {
       "key": "drpy_js_97tvs",
-      "name": "影视 | 97tvs[js]",
+      "name": "褰辫 | 97tvs[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/97tvs.js",
+      "ext": "../../../libs/js/97tvs.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
     },
     {
       "key": "drpy_js_rrdyw",
-      "name": "影视 | rrdyw[js]",
+      "name": "褰辫 | rrdyw[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/rrdyw.js",
+      "ext": "../../../libs/js/rrdyw.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
     },
     {
-      "key": "drpy_js_校长影视",
-      "name": "夸克 | 校长影视[js]",
+      "key": "drpy_js_鏍￠暱褰辫",
+      "name": "澶稿厠 | 鏍￠暱褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/xzys.js",
+      "ext": "../../../libs/js/xzys.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
     },
     {
       "key": "drpy_js_yyets",
-      "name": "夸克 | 人人影视搜[js]",
+      "name": "澶稿厠 | 浜轰汉褰辫鎼淸js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/yyets.js",
+      "ext": "../../../libs/js/yyets.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
     },
     {
-      "key": "drpy_js_奇妙搜[夸]",
-      "name": "夸克 | 奇妙搜[js]",
+      "key": "drpy_js_濂囧鎼淸澶竇",
+      "name": "澶稿厠 | 濂囧鎼淸js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/qimiao.js",
+      "ext": "../../../libs/js/qimiao.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
     },
     {
-      "key": "drpy_js_愛盤搜",
-      "name": "夸克 | 爱盘搜[js]",
+      "key": "drpy_js_鎰涚洡鎼?,
+      "name": "澶稿厠 | 鐖辩洏鎼淸js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/aipanso.js",
+      "ext": "../../../libs/js/aipanso.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
     },
     {
-      "key": "drpy_js_趣盤搜",
-      "name": "夸克 | 趣盘搜[js]",
+      "key": "drpy_js_瓒ｇ洡鎼?,
+      "name": "澶稿厠 | 瓒ｇ洏鎼淸js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/funletu.js",
+      "ext": "../../../libs/js/funletu.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
     },
     {
       "key": "drpy_js_meow",
-      "name": "影视 | meow搜[js]",
+      "name": "褰辫 | meow鎼淸js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/meow.js",
+      "ext": "../../../libs/js/meow.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
     },
     {
       "key": "push_quark",
-      "name": "夸克 | 推送",
+      "name": "澶稿厠 | 鎺ㄩ€?,
       "type": 3,
       "api": "csp_Quark",
       "changeable": 0,
@@ -1625,7 +1625,7 @@
     },
     {
       "key": "push_agent",
-      "name": "手机 | 推送[jar]",
+      "name": "鎵嬫満 | 鎺ㄩ€乕jar]",
       "type": 3,
       "api": "csp_Push",
       "searchable": 0,
@@ -1635,30 +1635,30 @@
       "timeout": 30
     },
     {
-      "key": "drpy_js_磁力熊[磁]",
-      "name": "磁力 | 磁力熊[js]",
+      "key": "drpy_js_纾佸姏鐔奫纾乚",
+      "name": "纾佸姏 | 纾佸姏鐔奫js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "../../libs/js/磁力熊[磁].js",
+      "ext": "../../../libs/js/纾佸姏鐔奫纾乚.js",
       "timeout": 30
     },
     {
-      "key": "drpy_js_6V新版[磁]",
-      "name": "磁力 | 6V新版[js]",
+      "key": "drpy_js_6V鏂扮増[纾乚",
+      "name": "纾佸姏 | 6V鏂扮増[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "../../libs/js/6V新版[磁].js",
+      "ext": "../../../libs/js/6V鏂扮増[纾乚.js",
       "timeout": 30
     },
     {
-      "key": "drpy_js_童趣",
-      "name": "少儿 | 童趣[js]",
+      "key": "drpy_js_绔ヨ叮",
+      "name": "灏戝効 | 绔ヨ叮[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
@@ -1666,11 +1666,11 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "ext": "../../libs/js/童趣.js"
+      "ext": "../../../libs/js/绔ヨ叮.js"
     },
     {
-      "key": "drpy_js_兔小贝",
-      "name": "少儿 | 兔小贝[js]",
+      "key": "drpy_js_鍏斿皬璐?,
+      "name": "灏戝効 | 鍏斿皬璐漑js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "style": {
@@ -1678,11 +1678,11 @@
         "ratio": 1.597
       },
       "changeable": 0,
-      "ext": "../../libs/js/兔小贝.js"
+      "ext": "../../../libs/js/鍏斿皬璐?js"
     },
     {
-      "key": "drpy_js_有声绘本网",
-      "name": "少儿 | 有声绘本[js]",
+      "key": "drpy_js_鏈夊０缁樻湰缃?,
+      "name": "灏戝効 | 鏈夊０缁樻湰[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
@@ -1690,11 +1690,11 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "../../libs/js/有声绘本网.js"
+      "ext": "../../../libs/js/鏈夊０缁樻湰缃?js"
     },
     {
-      "key": "drpy_js_我的哔哩",
-      "name": "弹幕 | 哔哩合集[js]",
+      "key": "drpy_js_鎴戠殑鍝斿摡",
+      "name": "寮瑰箷 | 鍝斿摡鍚堥泦[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "style": {
@@ -1702,11 +1702,11 @@
         "ratio": 1.597
       },
       "changeable": 0,
-      "ext": "../../libs/js/我的哔哩.js"
+      "ext": "../../../libs/js/鎴戠殑鍝斿摡.js"
     },
     {
-      "key": "drpy_js_哔哩直播",
-      "name": "弹幕 | 哔哩直播[js]",
+      "key": "drpy_js_鍝斿摡鐩存挱",
+      "name": "寮瑰箷 | 鍝斿摡鐩存挱[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "style": {
@@ -1714,11 +1714,11 @@
         "ratio": 1.597
       },
       "changeable": 0,
-      "ext": "../../libs/js/哔哩直播.js"
+      "ext": "../../../libs/js/鍝斿摡鐩存挱.js"
     },
     {
-      "key": "drpy_js_哔哩影视",
-      "name": "弹幕 | 哔哩影视[js]",
+      "key": "drpy_js_鍝斿摡褰辫",
+      "name": "寮瑰箷 | 鍝斿摡褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "style": {
@@ -1726,11 +1726,11 @@
         "ratio": 1.597
       },
       "changeable": 0,
-      "ext": "../../libs/js/哔哩影视.js"
+      "ext": "../../../libs/js/鍝斿摡褰辫.js"
     },
     {
       "key": "drpy_js_JustLive",
-      "name": "弹幕 | JustLive[js]",
+      "name": "寮瑰箷 | JustLive[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "style": {
@@ -1738,11 +1738,11 @@
         "ratio": 1.597
       },
       "changeable": 0,
-      "ext": "../../libs/js/JustLive.js"
+      "ext": "../../../libs/js/JustLive.js"
     },
     {
-      "key": "drpy_js_斗鱼直播",
-      "name": "直播 | 斗鱼[js]",
+      "key": "drpy_js_鏂楅奔鐩存挱",
+      "name": "鐩存挱 | 鏂楅奔[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "style": {
@@ -1750,11 +1750,11 @@
         "ratio": 1.597
       },
       "changeable": 0,
-      "ext": "../../libs/js/斗鱼直播.js"
+      "ext": "../../../libs/js/鏂楅奔鐩存挱.js"
     },
     {
-      "key": "drpy_js_虎牙直播",
-      "name": "直播 | 虎牙[js]",
+      "key": "drpy_js_铏庣墮鐩存挱",
+      "name": "鐩存挱 | 铏庣墮[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "style": {
@@ -1762,11 +1762,11 @@
         "ratio": 1.597
       },
       "changeable": 0,
-      "ext": "../../libs/js/虎牙直播.js"
+      "ext": "../../../libs/js/铏庣墮鐩存挱.js"
     },
     {
-      "key": "drpy_js_310直播",
-      "name": "体育 | 310直播[js]",
+      "key": "drpy_js_310鐩存挱",
+      "name": "浣撹偛 | 310鐩存挱[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
@@ -1774,11 +1774,11 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "../../libs/js/310直播.js"
+      "ext": "../../../libs/js/310鐩存挱.js"
     },
     {
-      "key": "drpy_js_88看球",
-      "name": "体育 | 88看球[js]",
+      "key": "drpy_js_88鐪嬬悆",
+      "name": "浣撹偛 | 88鐪嬬悆[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
@@ -1786,11 +1786,11 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "../../libs/js/88看球.js"
+      "ext": "../../../libs/js/88鐪嬬悆.js"
     },
     {
-      "key": "drpy_js_JRKAN直播",
-      "name": "体育 | JRKAN直播[js]",
+      "key": "drpy_js_JRKAN鐩存挱",
+      "name": "浣撹偛 | JRKAN鐩存挱[js]",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "changeable": 0,
@@ -1798,11 +1798,11 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "../../libs/js/JRKAN直播.js"
+      "ext": "../../../libs/js/JRKAN鐩存挱.js"
     },
     {
-      "key": "drpy_js_抓饭体育",
-      "name": "体育 | 抓饭体育[js]",
+      "key": "drpy_js_鎶撻キ浣撹偛",
+      "name": "浣撹偛 | 鎶撻キ浣撹偛[js]",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "changeable": 0,
@@ -1810,11 +1810,11 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "../../libs/js/抓饭体育.js"
+      "ext": "../../../libs/js/鎶撻キ浣撹偛.js"
     },
     {
-      "key": "drpy_js_好趣网",
-      "name": "电视 | 好趣网[js]",
+      "key": "drpy_js_濂借叮缃?,
+      "name": "鐢佃 | 濂借叮缃慬js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "style": {
@@ -1822,167 +1822,155 @@
         "ratio": 1.333
       },
       "changeable": 0,
-      "ext": "../../libs/js/好趣网.js"
+      "ext": "../../../libs/js/濂借叮缃?js"
     },
     {
-      "key": "drpy_js_相声随身听",
-      "name": "相声 | 相声随身听[js]",
+      "key": "drpy_js_鐩稿０闅忚韩鍚?,
+      "name": "鐩稿０ | 鐩稿０闅忚韩鍚琜js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "../../libs/js/相声随身听.js"
+      "ext": "../../../libs/js/鐩稿０闅忚韩鍚?js"
     },
     {
-      "key": "drpy_js_评书随身听",
-      "name": "评书 | 评书随身听[js]",
+      "key": "drpy_js_璇勪功闅忚韩鍚?,
+      "name": "璇勪功 | 璇勪功闅忚韩鍚琜js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "../../libs/js/评书随身听.js"
+      "ext": "../../../libs/js/璇勪功闅忚韩鍚?js"
     },
     {
-      "key": "drpy_js_武享吧",
-      "name": "格斗 | 武享吧[js]",
+      "key": "drpy_js_姝︿韩鍚?,
+      "name": "鏍兼枟 | 姝︿韩鍚js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "../../libs/js/武享吧.js"
+      "ext": "../../../libs/js/姝︿韩鍚?js"
     },
     {
       "key": "drpy_js_Alist",
-      "name": "网盘 | Alist[js]",
+      "name": "缃戠洏 | Alist[js]",
       "type": 3,
       "api": "./lib/alist.min.js",
       "changeable": 0,
-      "ext": "../../libs/js/alist.json"
+      "ext": "../../../libs/js/alist.json"
     },
     {
-      "key": "drpy_js_58动漫",
-      "name": "动漫 | 58动漫[js]",
+      "key": "drpy_js_58鍔ㄦ极",
+      "name": "鍔ㄦ极 | 58鍔ㄦ极[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/58动漫.js"
+      "ext": "../../../libs/js/58鍔ㄦ极.js"
     },
     {
-      "key": "drpy_js_AGE动漫",
-      "name": "动漫 | AGE动漫[js]",
+      "key": "drpy_js_AGE鍔ㄦ极",
+      "name": "鍔ㄦ极 | AGE鍔ㄦ极[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/AGE动漫.js"
+      "ext": "../../../libs/js/AGE鍔ㄦ极.js"
     },
     {
       "key": "drpy_js_AnFuns",
-      "name": "动漫 | AnFuns[js]",
+      "name": "鍔ㄦ极 | AnFuns[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/AnFuns.js"
+      "ext": "../../../libs/js/AnFuns.js"
     },
     {
-      "key": "drpy_js_Anime1动畫",
-      "name": "动漫 | Anime1动畫[js]",
+      "key": "drpy_js_Anime1鍔ㄧ暙",
+      "name": "鍔ㄦ极 | Anime1鍔ㄧ暙[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/Anime1动畫.js"
+      "ext": "../../../libs/js/Anime1鍔ㄧ暙.js"
     },
     {
-      "key": "drpy_js_NT动漫",
-      "name": "动漫 | NT动漫[js]",
+      "key": "drpy_js_NT鍔ㄦ极",
+      "name": "鍔ㄦ极 | NT鍔ㄦ极[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/NT动漫.js"
+      "ext": "../../../libs/js/NT鍔ㄦ极.js"
     },
     {
       "key": "drpy_js_NyaFun",
-      "name": "动漫 | NyaFun[js]",
+      "name": "鍔ㄦ极 | NyaFun[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/NyaFun.js"
+      "ext": "../../../libs/js/NyaFun.js"
     },
     {
-      "key": "drpy_js_爱弹幕",
-      "name": "动漫 | 爱弹幕[js]",
+      "key": "drpy_js_鐖卞脊骞?,
+      "name": "鍔ㄦ极 | 鐖卞脊骞昜js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/爱弹幕.js"
+      "ext": "../../../libs/js/鐖卞脊骞?js"
     },
     {
-      "key": "drpy_js_动漫岛",
-      "name": "动漫 | 动漫岛[js]",
+      "key": "drpy_js_鍔ㄦ极宀?,
+      "name": "鍔ㄦ极 | 鍔ㄦ极宀沎js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/动漫岛.js"
+      "ext": "../../../libs/js/鍔ㄦ极宀?js"
     },
     {
-      "key": "drpy_js_路漫漫",
-      "name": "动漫 | 路漫漫[js]",
+      "key": "drpy_js_璺极婕?,
+      "name": "鍔ㄦ极 | 璺极婕玔js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/路漫漫.js"
+      "ext": "../../../libs/js/璺极婕?js"
     },
     {
-      "key": "drpy_js_喵次元",
-      "name": "影视 | 喵次元[js]",
+      "key": "drpy_js_鍠垫鍏?,
+      "name": "褰辫 | 鍠垫鍏僛js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/喵次元.js"
+      "ext": "../../../libs/js/鍠垫鍏?js"
     },
     {
-      "key": "drpy_js_奇米动漫",
-      "name": "动漫 | 奇米动漫[js]",
+      "key": "drpy_js_濂囩背鍔ㄦ极",
+      "name": "鍔ㄦ极 | 濂囩背鍔ㄦ极[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/奇米动漫.js"
+      "ext": "../../../libs/js/濂囩背鍔ㄦ极.js"
     },
     {
-      "key": "drpy_js_去看吧",
-      "name": "动漫 | 去看吧[js]",
+      "key": "drpy_js_鍘荤湅鍚?,
+      "name": "鍔ㄦ极 | 鍘荤湅鍚js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/去看吧.js"
+      "ext": "../../../libs/js/鍘荤湅鍚?js"
     },
     {
-      "key": "drpy_js_曲奇动漫",
-      "name": "动漫 | 曲奇动漫[js]",
+      "key": "drpy_js_鏇插鍔ㄦ极",
+      "name": "鍔ㄦ极 | 鏇插鍔ㄦ极[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/曲奇动漫.js"
+      "ext": "../../../libs/js/鏇插鍔ㄦ极.js"
     },
     {
-      "key": "drpy_js_异世界动漫漫",
-      "name": "动漫 | 异世界动漫[js]",
+      "key": "drpy_js_寮備笘鐣屽姩婕极",
+      "name": "鍔ㄦ极 | 寮備笘鐣屽姩婕玔js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/异世界动漫.js"
+      "ext": "../../../libs/js/寮備笘鐣屽姩婕?js"
     },
     {
-      "key": "drpy_js_怡萱动漫",
-      "name": "动漫 | 怡萱动漫[js]",
+      "key": "drpy_js_鎬¤惐鍔ㄦ极",
+      "name": "鍔ㄦ极 | 鎬¤惐鍔ㄦ极[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/怡萱动漫.js"
+      "ext": "../../../libs/js/鎬¤惐鍔ㄦ极.js"
     },
     {
-      "key": "drpy_js_A8音乐",
-      "name": "音频 | A8音乐[js]",
+      "key": "drpy_js_A8闊充箰",
+      "name": "闊抽 | A8闊充箰[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/A8音乐.js"
+      "ext": "../../../libs/js/A8闊充箰.js"
     },
     {
-      "key": "drpy_js_DJ音乐",
-      "name": "音频 | DJ音乐[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "ext": "../../libs/js/DJ音乐.js"
-    },
-    {
-      "key": "drpy_js_啦啦DJ",
-      "name": "音频 | 啦啦DJ[js]",
+      "key": "drpy_js_DJ闊充箰",
+      "name": "闊抽 | DJ闊充箰[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
@@ -1990,11 +1978,11 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "../../libs/js/啦啦DJ.js"
+      "ext": "../../../libs/js/DJ闊充箰.js"
     },
     {
-      "key": "drpy_js_清风DJ",
-      "name": "音频 | 清风DJ[js]",
+      "key": "drpy_js_鍟﹀暒DJ",
+      "name": "闊抽 | 鍟﹀暒DJ[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
@@ -2002,27 +1990,11 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "../../libs/js/清风DJ.js"
+      "ext": "../../../libs/js/鍟﹀暒DJ.js"
     },
     {
-      "key": "drpy_js_广播迷FM",
-      "name": "广播 | 广播迷FM[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "changeable": 0,
-      "ext": "../../libs/js/广播迷FM.js"
-    },
-    {
-      "key": "drpy_js_蜻蜓FM",
-      "name": "广播 | 蜻蜓FM[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "changeable": 0,
-      "ext": "../../libs/js/蜻蜓FM.js"
-    },
-    {
-      "key": "drpy_js_i275听书",
-      "name": "听书 | i275听书[js]",
+      "key": "drpy_js_娓呴DJ",
+      "name": "闊抽 | 娓呴DJ[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
@@ -2030,11 +2002,27 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "../../libs/js/i275听书.js"
+      "ext": "../../../libs/js/娓呴DJ.js"
     },
     {
-      "key": "drpy_js_爱上你听书网",
-      "name": "听书 | 爱上你听书[js]",
+      "key": "drpy_js_骞挎挱杩稦M",
+      "name": "骞挎挱 | 骞挎挱杩稦M[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "changeable": 0,
+      "ext": "../../../libs/js/骞挎挱杩稦M.js"
+    },
+    {
+      "key": "drpy_js_铚昏湏FM",
+      "name": "骞挎挱 | 铚昏湏FM[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "changeable": 0,
+      "ext": "../../../libs/js/铚昏湏FM.js"
+    },
+    {
+      "key": "drpy_js_i275鍚功",
+      "name": "鍚功 | i275鍚功[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
@@ -2042,11 +2030,11 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "../../libs/js/爱上你听书网.js"
+      "ext": "../../../libs/js/i275鍚功.js"
     },
     {
-      "key": "drpy_js_博看听书",
-      "name": "听书 | 博看听书[js]",
+      "key": "drpy_js_鐖变笂浣犲惉涔︾綉",
+      "name": "鍚功 | 鐖变笂浣犲惉涔js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
@@ -2054,11 +2042,11 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "../../libs/js/博看听书.js"
+      "ext": "../../../libs/js/鐖变笂浣犲惉涔︾綉.js"
     },
     {
-      "key": "drpy_js_海洋听书",
-      "name": "听书 | 海洋听书[js]",
+      "key": "drpy_js_鍗氱湅鍚功",
+      "name": "鍚功 | 鍗氱湅鍚功[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
@@ -2066,11 +2054,11 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "../../libs/js/海洋听书.js"
+      "ext": "../../../libs/js/鍗氱湅鍚功.js"
     },
     {
-      "key": "drpy_js_六月听书",
-      "name": "听书 | 六月听书[js]",
+      "key": "drpy_js_娴锋磱鍚功",
+      "name": "鍚功 | 娴锋磱鍚功[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
@@ -2078,11 +2066,11 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "../../libs/js/六月听书.js"
+      "ext": "../../../libs/js/娴锋磱鍚功.js"
     },
     {
-      "key": "drpy_js_有声小说",
-      "name": "听书 | 有声小说[js]",
+      "key": "drpy_js_鍏湀鍚功",
+      "name": "鍚功 | 鍏湀鍚功[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
@@ -2090,34 +2078,46 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "../../libs/js/有声小说吧.js"
+      "ext": "../../../libs/js/鍏湀鍚功.js"
     },
     {
-      "key": "drpy_js_播客",
-      "name": "聚合 | 播客[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/播客.js"
-    },
-    {
-      "key": "drpy_js_短视频",
-      "name": "聚合 | 短视频[js]",
+      "key": "drpy_js_鏈夊０灏忚",
+      "name": "鍚功 | 鏈夊０灏忚[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "../../libs/js/短视频.js"
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "../../../libs/js/鏈夊０灏忚鍚?js"
     },
     {
-      "key": "drpy_js_酷6网",
-      "name": "聚合 | 酷6网[js]",
+      "key": "drpy_js_鎾",
+      "name": "鑱氬悎 | 鎾[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "../../../libs/js/鎾.js"
+    },
+    {
+      "key": "drpy_js_鐭棰?,
+      "name": "鑱氬悎 | 鐭棰慬js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "../../libs/js/酷6网.js"
+      "ext": "../../../libs/js/鐭棰?js"
     },
     {
-      "key": "drpy_js_网易公版影像",
-      "name": "聚合 | 网易公版[js]",
+      "key": "drpy_js_閰?缃?,
+      "name": "鑱氬悎 | 閰?缃慬js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "changeable": 0,
+      "ext": "../../../libs/js/閰?缃?js"
+    },
+    {
+      "key": "drpy_js_缃戞槗鍏増褰卞儚",
+      "name": "鑱氬悎 | 缃戞槗鍏増[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
@@ -2125,11 +2125,11 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "ext": "../../libs/js/网易公版影像.js"
+      "ext": "../../../libs/js/缃戞槗鍏増褰卞儚.js"
     },
     {
-      "key": "drpy_js_爱车MV",
-      "name": "MV | 爱车MV[js]",
+      "key": "drpy_js_鐖辫溅MV",
+      "name": "MV | 鐖辫溅MV[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
@@ -2137,11 +2137,11 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "../../libs/js/爱车MV.js"
+      "ext": "../../../libs/js/鐖辫溅MV.js"
     },
     {
-      "key": "drpy_js_酷奇MV",
-      "name": "MV | 酷奇[js]",
+      "key": "drpy_js_閰峰MV",
+      "name": "MV | 閰峰[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
@@ -2149,454 +2149,454 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "../../libs/js/酷奇MV.js"
+      "ext": "../../../libs/js/閰峰MV.js"
     },
     {
-      "key": "drpy_js_爱看机器人",
-      "name": "影视 | 爱看机器人[js]",
+      "key": "drpy_js_鐖辩湅鏈哄櫒浜?,
+      "name": "褰辫 | 鐖辩湅鏈哄櫒浜篬js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "../../libs/js/爱看机器人.js"
+      "ext": "../../../libs/js/鐖辩湅鏈哄櫒浜?js"
     },
     {
       "key": "drpy_js_ikanbot2",
-      "name": "影视 | 爱看机器人2[js]",
+      "name": "褰辫 | 鐖辩湅鏈哄櫒浜?[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "../../libs/js/ikanbot2.js"
+      "ext": "../../../libs/js/ikanbot2.js"
     },
     {
       "key": "drpy_js_ikanbot3",
-      "name": "影视 | 爱看机器人3[js]",
+      "name": "褰辫 | 鐖辩湅鏈哄櫒浜?[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "../../libs/js/ikanbot3.js"
+      "ext": "../../../libs/js/ikanbot3.js"
     },
     {
       "key": "drpy_js_jsapi2",
-      "name": "影视 | 百度测试[js]",
+      "name": "褰辫 | 鐧惧害娴嬭瘯[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/jsapi2.js"
+      "ext": "../../../libs/js/jsapi2.js"
     },
     {
-      "key": "drpy_js_139影视",
-      "name": "影视 | 139影视[js]",
+      "key": "drpy_js_139褰辫",
+      "name": "褰辫 | 139褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/139影视.js"
+      "ext": "../../../libs/js/139褰辫.js"
     },
     {
-      "key": "drpy_js_348电影网",
-      "name": "影视 | 348电影网[js]",
+      "key": "drpy_js_348鐢靛奖缃?,
+      "name": "褰辫 | 348鐢靛奖缃慬js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/348电影网.js"
+      "ext": "../../../libs/js/348鐢靛奖缃?js"
     },
     {
-      "key": "drpy_js_4K电影网",
-      "name": "影视 | 4K电影网[js]",
+      "key": "drpy_js_4K鐢靛奖缃?,
+      "name": "褰辫 | 4K鐢靛奖缃慬js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/4K电影网.js"
+      "ext": "../../../libs/js/4K鐢靛奖缃?js"
     },
     {
-      "key": "drpy_js_8号影院",
-      "name": "影视 | 8号影院[js]",
+      "key": "drpy_js_8鍙峰奖闄?,
+      "name": "褰辫 | 8鍙峰奖闄js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/8号影院.js"
+      "ext": "../../../libs/js/8鍙峰奖闄?js"
     },
     {
       "key": "drpy_js_JangoIndex",
-      "name": "影视 | JangoIndex[js]",
+      "name": "褰辫 | JangoIndex[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/JangoIndex.js"
+      "ext": "../../../libs/js/JangoIndex.js"
     },
     {
-      "key": "drpy_js_NY影院",
-      "name": "影视 | NY影院[js]",
+      "key": "drpy_js_NY褰遍櫌",
+      "name": "褰辫 | NY褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/NY影院.js"
+      "ext": "../../../libs/js/NY褰遍櫌.js"
     },
     {
-      "key": "drpy_js_被窝电影",
-      "name": "影视 | 被窝电影[js]",
+      "key": "drpy_js_琚獫鐢靛奖",
+      "name": "褰辫 | 琚獫鐢靛奖[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/被窝电影.js"
+      "ext": "../../../libs/js/琚獫鐢靛奖.js"
     },
     {
-      "key": "drpy_js_厂长资源",
-      "name": "影视 | 厂长资源[js]",
+      "key": "drpy_js_鍘傞暱璧勬簮",
+      "name": "褰辫 | 鍘傞暱璧勬簮[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/厂长资源.js"
+      "ext": "../../../libs/js/鍘傞暱璧勬簮.js"
     },
     {
-      "key": "drpy_js_楚门影院",
-      "name": "影视 | 楚门影院[js]",
+      "key": "drpy_js_妤氶棬褰遍櫌",
+      "name": "褰辫 | 妤氶棬褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/楚门影院.js"
+      "ext": "../../../libs/js/妤氶棬褰遍櫌.js"
     },
     {
-      "key": "drpy_js_大米星球",
-      "name": "影视 | 大米星球[js]",
+      "key": "drpy_js_澶х背鏄熺悆",
+      "name": "褰辫 | 澶х背鏄熺悆[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/大米星球.js"
+      "ext": "../../../libs/js/澶х背鏄熺悆.js"
     },
     {
-      "key": "drpy_js_飞兔影视",
-      "name": "影视 | 飞兔影视[js]",
+      "key": "drpy_js_椋炲厰褰辫",
+      "name": "褰辫 | 椋炲厰褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/飞兔影视.js"
+      "ext": "../../../libs/js/椋炲厰褰辫.js"
     },
     {
-      "key": "drpy_js_海兔影院",
-      "name": "影视 | 海兔影院[js]",
+      "key": "drpy_js_娴峰厰褰遍櫌",
+      "name": "褰辫 | 娴峰厰褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/海兔影院.js"
+      "ext": "../../../libs/js/娴峰厰褰遍櫌.js"
     },
     {
-      "key": "drpy_js_花猫TV",
-      "name": "影视 | 花猫TV[js]",
+      "key": "drpy_js_鑺辩尗TV",
+      "name": "褰辫 | 鑺辩尗TV[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/花猫TV.js"
+      "ext": "../../../libs/js/鑺辩尗TV.js"
     },
     {
-      "key": "drpy_js_花屋影院",
-      "name": "影视 | 花屋影院[js]",
+      "key": "drpy_js_鑺卞眿褰遍櫌",
+      "name": "褰辫 | 鑺卞眿褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/花屋影院.js"
+      "ext": "../../../libs/js/鑺卞眿褰遍櫌.js"
     },
     {
-      "key": "drpy_js_开眼视频",
-      "name": "影视 | 开眼视频[js]",
+      "key": "drpy_js_寮€鐪艰棰?,
+      "name": "褰辫 | 寮€鐪艰棰慬js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/开眼视频.js"
+      "ext": "../../../libs/js/寮€鐪艰棰?js"
     },
     {
-      "key": "drpy_js_看了么",
-      "name": "影视 | 看了么[js]",
+      "key": "drpy_js_鐪嬩簡涔?,
+      "name": "褰辫 | 鐪嬩簡涔圼js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/看了么.js"
+      "ext": "../../../libs/js/鐪嬩簡涔?js"
     },
     {
-      "key": "drpy_js_徕米TV",
-      "name": "影视 | 徕米TV[js]",
+      "key": "drpy_js_寰曠背TV",
+      "name": "褰辫 | 寰曠背TV[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/徕米TV.js"
+      "ext": "../../../libs/js/寰曠背TV.js"
     },
     {
-      "key": "drpy_js_乐鱼影视",
-      "name": "影视 | 乐鱼影视[js]",
+      "key": "drpy_js_涔愰奔褰辫",
+      "name": "褰辫 | 涔愰奔褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/乐鱼影视.js"
+      "ext": "../../../libs/js/涔愰奔褰辫.js"
     },
     {
-      "key": "drpy_js_美剧网",
-      "name": "影视 | 美剧网[js]",
+      "key": "drpy_js_缇庡墽缃?,
+      "name": "褰辫 | 缇庡墽缃慬js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/美剧网.js"
+      "ext": "../../../libs/js/缇庡墽缃?js"
     },
     {
-      "key": "drpy_js_美视网",
-      "name": "影视 | 美视网[js]",
+      "key": "drpy_js_缇庤缃?,
+      "name": "褰辫 | 缇庤缃慬js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/美视网.js"
+      "ext": "../../../libs/js/缇庤缃?js"
     },
     {
-      "key": "drpy_js_米爱影视",
-      "name": "影视 | 米爱影视[js]",
+      "key": "drpy_js_绫崇埍褰辫",
+      "name": "褰辫 | 绫崇埍褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/米爱影视.js"
+      "ext": "../../../libs/js/绫崇埍褰辫.js"
     },
     {
-      "key": "drpy_js_免费看",
-      "name": "影视 | 免费看[js]",
+      "key": "drpy_js_鍏嶈垂鐪?,
+      "name": "褰辫 | 鍏嶈垂鐪媅js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/免费看.js"
+      "ext": "../../../libs/js/鍏嶈垂鐪?js"
     },
     {
-      "key": "drpy_js_奈飞中文",
-      "name": "影视 | 奈飞中文[js]",
+      "key": "drpy_js_濂堥涓枃",
+      "name": "褰辫 | 濂堥涓枃[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/奈飞中文.js"
+      "ext": "../../../libs/js/濂堥涓枃.js"
     },
     {
-      "key": "drpy_js_欧帝影院",
-      "name": "影视 | 欧帝影院[js]",
+      "key": "drpy_js_娆у笣褰遍櫌",
+      "name": "褰辫 | 娆у笣褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/欧帝影院.js"
+      "ext": "../../../libs/js/娆у笣褰遍櫌.js"
     },
     {
-      "key": "drpy_js_皮皮鸭",
-      "name": "影视 | 皮皮鸭[js]",
+      "key": "drpy_js_鐨毊楦?,
+      "name": "褰辫 | 鐨毊楦璠js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/皮皮鸭.js"
+      "ext": "../../../libs/js/鐨毊楦?js"
     },
     {
-      "key": "drpy_js_朴樱影视",
-      "name": "影视 | 朴樱影视[js]",
+      "key": "drpy_js_鏈存ū褰辫",
+      "name": "褰辫 | 鏈存ū褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/朴樱影视.js"
+      "ext": "../../../libs/js/鏈存ū褰辫.js"
     },
     {
-      "key": "drpy_js_秋霞影院",
-      "name": "影视 | 秋霞影院[js]",
+      "key": "drpy_js_绉嬮湠褰遍櫌",
+      "name": "褰辫 | 绉嬮湠褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/秋霞.js"
+      "ext": "../../../libs/js/绉嬮湠.js"
     },
     {
-      "key": "drpy_js_热播之家",
-      "name": "影视 | 热播之家[js]",
+      "key": "drpy_js_鐑挱涔嬪",
+      "name": "褰辫 | 鐑挱涔嬪[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/热播之家.js"
+      "ext": "../../../libs/js/鐑挱涔嬪.js"
     },
     {
-      "key": "drpy_js_人人影视",
-      "name": "影视 | 人人影视[js]",
+      "key": "drpy_js_浜轰汉褰辫",
+      "name": "褰辫 | 浜轰汉褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/人人影视.js"
+      "ext": "../../../libs/js/浜轰汉褰辫.js"
     },
     {
-      "key": "drpy_js_骚火电影",
-      "name": "影视 | 骚火电影[js]",
+      "key": "drpy_js_楠氱伀鐢靛奖",
+      "name": "褰辫 | 楠氱伀鐢靛奖[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/骚火电影.js"
+      "ext": "../../../libs/js/楠氱伀鐢靛奖.js"
     },
     {
-      "key": "drpy_js_时光影视",
-      "name": "影视 | 时光影视[js]",
+      "key": "drpy_js_鏃跺厜褰辫",
+      "name": "褰辫 | 鏃跺厜褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/时光影视.js"
+      "ext": "../../../libs/js/鏃跺厜褰辫.js"
     },
     {
-      "key": "drpy_js_思古影视",
-      "name": "影视 | 思古影视",
+      "key": "drpy_js_鎬濆彜褰辫",
+      "name": "褰辫 | 鎬濆彜褰辫",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/思古影视.js"
+      "ext": "../../../libs/js/鎬濆彜褰辫.js"
     },
     {
-      "key": "drpy_js_私人影院",
-      "name": "影视 | 私人影院[js]",
+      "key": "drpy_js_绉佷汉褰遍櫌",
+      "name": "褰辫 | 绉佷汉褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/私人影院.js"
+      "ext": "../../../libs/js/绉佷汉褰遍櫌.js"
     },
     {
-      "key": "drpy_js_素白白",
-      "name": "影视 | 素白白[js]",
+      "key": "drpy_js_绱犵櫧鐧?,
+      "name": "褰辫 | 绱犵櫧鐧絒js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/素白白.js"
+      "ext": "../../../libs/js/绱犵櫧鐧?js"
     },
     {
-      "key": "drpy_js_网飞.TV",
-      "name": "影视 | 网飞.TV[js]",
+      "key": "drpy_js_缃戦.TV",
+      "name": "褰辫 | 缃戦.TV[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/网飞.TV.js"
+      "ext": "../../../libs/js/缃戦.TV.js"
     },
     {
-      "key": "drpy_js_西瓜影院",
-      "name": "影视 | 西瓜影院[js]",
+      "key": "drpy_js_瑗跨摐褰遍櫌",
+      "name": "褰辫 | 瑗跨摐褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/西瓜影院.js"
+      "ext": "../../../libs/js/瑗跨摐褰遍櫌.js"
     },
     {
-      "key": "drpy_js_蜥蜴影视",
-      "name": "影视 | 蜥蜴影视[js]",
+      "key": "drpy_js_铚ヨ湸褰辫",
+      "name": "褰辫 | 铚ヨ湸褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/蜥蜴影视.js"
+      "ext": "../../../libs/js/铚ヨ湸褰辫.js"
     },
     {
-      "key": "drpy_js_小狗影院",
-      "name": "影视 | 小狗影院[js]",
+      "key": "drpy_js_灏忕嫍褰遍櫌",
+      "name": "褰辫 | 灏忕嫍褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/小狗影院.js"
+      "ext": "../../../libs/js/灏忕嫍褰遍櫌.js"
     },
     {
-      "key": "drpy_js_新视觉影视",
-      "name": "影视 | 新视觉影视[js]",
+      "key": "drpy_js_鏂拌瑙夊奖瑙?,
+      "name": "褰辫 | 鏂拌瑙夊奖瑙哰js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/新视觉影视.js"
+      "ext": "../../../libs/js/鏂拌瑙夊奖瑙?js"
     },
     {
-      "key": "drpy_js_星辰影院",
-      "name": "影视 | 星辰影院[js]",
+      "key": "drpy_js_鏄熻景褰遍櫌",
+      "name": "褰辫 | 鏄熻景褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/星辰.js"
+      "ext": "../../../libs/js/鏄熻景.js"
     },
     {
-      "key": "drpy_js_玄天",
-      "name": "影视 | 玄天[js]",
+      "key": "drpy_js_鐜勫ぉ",
+      "name": "褰辫 | 鐜勫ぉ[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/玄天.js"
+      "ext": "../../../libs/js/鐜勫ぉ.js"
     },
     {
-      "key": "drpy_js_映迷影院",
-      "name": "影视 | 映迷影院[js]",
+      "key": "drpy_js_鏄犺糠褰遍櫌",
+      "name": "褰辫 | 鏄犺糠褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/映迷影院.js"
+      "ext": "../../../libs/js/鏄犺糠褰遍櫌.js"
     },
     {
-      "key": "drpy_js_中国人",
-      "name": "影视 | 中国人[js]",
+      "key": "drpy_js_涓浗浜?,
+      "name": "褰辫 | 涓浗浜篬js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/中国人.js"
+      "ext": "../../../libs/js/涓浗浜?js"
     },
     {
-      "key": "drpy_js_追剧迷",
-      "name": "影视 | 追剧迷[js]",
+      "key": "drpy_js_杩藉墽杩?,
+      "name": "褰辫 | 杩藉墽杩穂js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/追剧迷.js"
+      "ext": "../../../libs/js/杩藉墽杩?js"
     },
     {
-      "key": "drpy_js_子子影视",
-      "name": "影视 | 子子影视[js]",
+      "key": "drpy_js_瀛愬瓙褰辫",
+      "name": "褰辫 | 瀛愬瓙褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/子子影视.js"
+      "ext": "../../../libs/js/瀛愬瓙褰辫.js"
     },
     {
-      "key": "drpy_js_大师兄影视",
-      "name": "起飞 | 大师兄影视[js]",
+      "key": "drpy_js_澶у笀鍏勫奖瑙?,
+      "name": "璧烽 | 澶у笀鍏勫奖瑙哰js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/大师兄影视.js"
+      "ext": "../../../libs/js/澶у笀鍏勫奖瑙?js"
     },
     {
-      "key": "drpy_js_华乐影院",
-      "name": "起飞 | 华乐影院[js]",
+      "key": "drpy_js_鍗庝箰褰遍櫌",
+      "name": "璧烽 | 鍗庝箰褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/华乐影院[飞].js"
+      "ext": "../../../libs/js/鍗庝箰褰遍櫌[椋瀅.js"
     },
     {
-      "key": "drpy_js_天天视频",
-      "name": "起飞 | 天天视频[js]",
+      "key": "drpy_js_澶╁ぉ瑙嗛",
+      "name": "璧烽 | 澶╁ぉ瑙嗛[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/天天视频[飞].js"
+      "ext": "../../../libs/js/澶╁ぉ瑙嗛[椋瀅.js"
     },
     {
-      "key": "drpy_js_起飞影院",
-      "name": "起飞 | 起飞影院[js]",
+      "key": "drpy_js_璧烽褰遍櫌",
+      "name": "璧烽 | 璧烽褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/起飞影院.js"
+      "ext": "../../../libs/js/璧烽褰遍櫌.js"
     },
     {
-      "key": "drpy_js_兰花影院",
-      "name": "起飞 | 兰花影院[js]",
+      "key": "drpy_js_鍏拌姳褰遍櫌",
+      "name": "璧烽 | 鍏拌姳褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/兰花影院.js"
+      "ext": "../../../libs/js/鍏拌姳褰遍櫌.js"
     },
     {
-      "key": "drpy_js_胖虎",
-      "name": "起飞 | 胖虎[js]",
+      "key": "drpy_js_鑳栬檸",
+      "name": "璧烽 | 鑳栬檸[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/胖虎.js"
+      "ext": "../../../libs/js/鑳栬檸.js"
     },
     {
-      "key": "drpy_js_555影视[飞]",
-      "name": "起飞 | 555影视[js]",
+      "key": "drpy_js_555褰辫[椋瀅",
+      "name": "璧烽 | 555褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/555影视[飞].js"
+      "ext": "../../../libs/js/555褰辫[椋瀅.js"
     },
     {
-      "key": "drpy_js_if101[飞]",
-      "name": "起飞 | if101[js]",
+      "key": "drpy_js_if101[椋瀅",
+      "name": "璧烽 | if101[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/if101[飞].js"
+      "ext": "../../../libs/js/if101[椋瀅.js"
     },
     {
-      "key": "drpy_js_KUBO影视[飞]",
-      "name": "起飞 | KUBO影视[js]",
+      "key": "drpy_js_KUBO褰辫[椋瀅",
+      "name": "璧烽 | KUBO褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/KUBO影视[飞].js"
+      "ext": "../../../libs/js/KUBO褰辫[椋瀅.js"
     },
     {
-      "key": "drpy_js_爱壹帆[飞]",
-      "name": "起飞 | 爱壹帆[js]",
+      "key": "drpy_js_鐖卞９甯哰椋瀅",
+      "name": "璧烽 | 鐖卞９甯哰js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/爱壹帆[飞].js"
+      "ext": "../../../libs/js/鐖卞９甯哰椋瀅.js"
     },
     {
-      "key": "drpy_js_独播库[飞]",
-      "name": "起飞 | 独播库[js]",
+      "key": "drpy_js_鐙挱搴揫椋瀅",
+      "name": "璧烽 | 鐙挱搴揫js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/独播库[飞].js"
+      "ext": "../../../libs/js/鐙挱搴揫椋瀅.js"
     },
     {
-      "key": "drpy_js_欧乐影院[飞]",
-      "name": "起飞 | 欧乐影院[js]",
+      "key": "drpy_js_娆т箰褰遍櫌[椋瀅",
+      "name": "璧烽 | 娆т箰褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/欧乐影院[飞].js"
+      "ext": "../../../libs/js/娆т箰褰遍櫌[椋瀅.js"
     },
     {
-      "key": "drpy_js_小宝影院[飞]",
-      "name": "起飞 | 小宝影院[js]",
+      "key": "drpy_js_灏忓疂褰遍櫌[椋瀅",
+      "name": "璧烽 | 灏忓疂褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/小宝影院[飞].js"
+      "ext": "../../../libs/js/灏忓疂褰遍櫌[椋瀅.js"
     },
     {
-      "key": "應用商店",
-      "name": "應用商店",
+      "key": "鎳夌敤鍟嗗簵",
+      "name": "鎳夌敤鍟嗗簵",
       "type": 3,
       "api": "csp_Market",
       "searchable": 0,
@@ -2605,42 +2605,42 @@
     },
     {
       "key": "bb",
-      "name": "配置接口完全免费",
+      "name": "閰嶇疆鎺ュ彛瀹屽叏鍏嶈垂",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/drpy.js"
+      "ext": "../../../libs/js/drpy.js"
     },
     {
       "key": "cc",
-      "name": "请勿相信视频中任何广告",
+      "name": "璇峰嬁鐩镐俊瑙嗛涓换浣曞箍鍛?,
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/drpy.js"
+      "ext": "../../../libs/js/drpy.js"
     },
     {
-      "key": "drpy_js_豆瓣",
-      "name": "搜索 | 豆瓣[js]",
+      "key": "drpy_js_璞嗙摚",
+      "name": "鎼滅储 | 璞嗙摚[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/drpy.js",
+      "ext": "../../../libs/js/drpy.js",
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0
     },
     {
-      "key": "drpy_js_磁力熊搜索",
-      "name": "搜索 | 磁力熊[js]",
+      "key": "drpy_js_纾佸姏鐔婃悳绱?,
+      "name": "鎼滅储 | 纾佸姏鐔奫js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "indexs": 1,
-      "ext": "../../libs/js/cilixiong.js",
+      "ext": "../../../libs/js/cilixiong.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 1
     },
     {
       "key": "lf_js_search",
-      "name": "搜索 | 路飞[js]",
+      "name": "鎼滅储 | 璺[js]",
       "type": 3,
       "searchable": 0,
       "changeable": 1,
@@ -2649,19 +2649,19 @@
       "api": "./lib/lf_search3_min.js"
     },
     {
-      "key": "drpy_js_荐片",
-      "name": "影视 | 荐片[js]",
+      "key": "drpy_js_鑽愮墖",
+      "name": "褰辫 | 鑽愮墖[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "../../libs/js/荐片.js",
+      "ext": "../../../libs/js/鑽愮墖.js",
       "timeout": 30
     },
     {
       "key": "lf_js_p2p",
-      "name": "路飞 | 磁力[js]",
+      "name": "璺 | 纾佸姏[js]",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -2672,7 +2672,7 @@
     },
     {
       "key": "lf_js_lf_live",
-      "name": "电视 | 直播[js]",
+      "name": "鐢佃 | 鐩存挱[js]",
       "type": 3,
       "api": "./lib/lf_live_min.js",
       "style": {
@@ -2682,11 +2682,11 @@
       "changeable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "../../libs/js/lf_live.txt"
+      "ext": "../../../libs/js/lf_live.txt"
     },
     {
-      "key": "豆瓣",
-      "name": "搜索 | 豆瓣[jar]",
+      "key": "璞嗙摚",
+      "name": "鎼滅储 | 璞嗙摚[jar]",
       "type": 3,
       "api": "csp_Douban",
       "indexs": 1,
@@ -2696,7 +2696,7 @@
     },
     {
       "key": "TGYunPanLocal",
-      "name": "搜索 | TG[jar]",
+      "name": "鎼滅储 | TG[jar]",
       "type": 3,
       "api": "csp_TGYunPanLocal",
       "timeout": 60,
@@ -2704,7 +2704,7 @@
     },
     {
       "key": "Youtube",
-      "name": "视频 | Youtube[jar]",
+      "name": "瑙嗛 | Youtube[jar]",
       "type": 3,
       "api": "csp_Youtube",
       "searchable": 1,
@@ -2713,9 +2713,9 @@
       "ext": {
         "token": "./lib/token.json",
         "json": "./json/youtube.json",
-        "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
+        "type": "鐩存挱#鏂伴椈#鍓ч泦#鐢靛奖#缁艰壓#绾綍鐗?闊充箰#浣撹偛#鍔ㄧ墿#椋庡厜#鏀炬澗#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
         "proxy": "socks5://127.0.0.1:10172",
-        "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
+        "keywords": "鎺掕姒?HOT,TRENDS,鐑棬璇濋,鐑棬瓒嬪娍,鐑棬缁艰壓,鐑棬鐢靛奖,鐑棬鐢佃鍓?灏忓濮?,
         "codecs": "",
         "danmu": true
       },
@@ -2726,7 +2726,7 @@
     },
     {
       "key": "FirstAid",
-      "name": "科普 | 急救[jar]",
+      "name": "绉戞櫘 | 鎬ユ晳[jar]",
       "type": 3,
       "api": "csp_FirstAid",
       "searchable": 0,
@@ -2738,8 +2738,8 @@
       }
     },
     {
-      "key": "配置中心",
-      "name": "配置 | 中心[jar]",
+      "key": "閰嶇疆涓績",
+      "name": "閰嶇疆 | 涓績[jar]",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
@@ -2751,8 +2751,8 @@
       "ext": "./lib/token.json"
     },
     {
-      "key": "酷狗",
-      "name": "音频 | 酷狗[jar]",
+      "key": "閰风嫍",
+      "name": "闊抽 | 閰风嫍[jar]",
       "type": 3,
       "api": "csp_Kugou",
       "searchable": 1,
@@ -2768,7 +2768,7 @@
     },
     {
       "key": "Yinyuetai",
-      "name": "MV | 音悦台[jar]",
+      "name": "MV | 闊虫偊鍙癧jar]",
       "type": 3,
       "api": "csp_Yinyuetai",
       "searchable": 1,
@@ -2776,7 +2776,7 @@
     },
     {
       "key": "AliShareEBook",
-      "name": "书籍 | 分享[jar]",
+      "name": "涔︾睄 | 鍒嗕韩[jar]",
       "type": 3,
       "api": "csp_AliShare",
       "searchable": 1,
@@ -2790,8 +2790,8 @@
       }
     },
     {
-      "key": "荐片弹幕版",
-      "name": "弹幕 | 荐片[jar]",
+      "key": "鑽愮墖寮瑰箷鐗?,
+      "name": "寮瑰箷 | 鑽愮墖[jar]",
       "type": 3,
       "api": "csp_Jianpian",
       "searchable": 1,
@@ -2802,7 +2802,7 @@
     },
     {
       "key": "Bdys_spider",
-      "name": "弹幕 | 哔滴[jar]",
+      "name": "寮瑰箷 | 鍝旀淮[jar]",
       "api": "csp_Bdys01",
       "type": 3,
       "filterable": 1,
@@ -2812,16 +2812,16 @@
       "timeout": 30
     },
     {
-      "key": "天天",
-      "name": "弹幕 | 天天[jar]",
+      "key": "澶╁ぉ",
+      "name": "寮瑰箷 | 澶╁ぉ[jar]",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
       "ext": "http://op.ysdqjs.cn$$$null$$$1"
     },
     {
-      "key": "追剧",
-      "name": "弹幕 | 追剧[jar]",
+      "key": "杩藉墽",
+      "name": "寮瑰箷 | 杩藉墽[jar]",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
@@ -2829,7 +2829,7 @@
     },
     {
       "key": "NanGua",
-      "name": "弹幕 | 南瓜[jar]",
+      "name": "寮瑰箷 | 鍗楃摐[jar]",
       "type": 3,
       "api": "csp_NanGua",
       "searchable": 1,
@@ -2838,7 +2838,7 @@
     },
     {
       "key": "PushShare",
-      "name": "弹幕 | 资源分享[jar]",
+      "name": "寮瑰箷 | 璧勬簮鍒嗕韩[jar]",
       "type": 3,
       "api": "csp_PushShare",
       "searchable": 1,
@@ -2853,7 +2853,7 @@
     },
     {
       "key": "PikPakShare",
-      "name": "弹幕 | PikPak分享[jar]",
+      "name": "寮瑰箷 | PikPak鍒嗕韩[jar]",
       "type": 3,
       "api": "csp_PikPakShare",
       "searchable": 1,
@@ -2865,7 +2865,7 @@
     },
     {
       "key": "AliShare",
-      "name": "弹幕 | 影视分享[jar]",
+      "name": "寮瑰箷 | 褰辫鍒嗕韩[jar]",
       "type": 3,
       "api": "csp_AliShare",
       "searchable": 1,
@@ -2877,7 +2877,7 @@
     },
     {
       "key": "ThunderShare",
-      "name": "弹幕 | 迅雷分享[jar]",
+      "name": "寮瑰箷 | 杩呴浄鍒嗕韩[jar]",
       "type": 3,
       "api": "csp_ThunderShare",
       "searchable": 1,
@@ -2889,7 +2889,7 @@
     },
     {
       "key": "QuarkShare",
-      "name": "弹幕 | 夸克分享[jar]",
+      "name": "寮瑰箷 | 澶稿厠鍒嗕韩[jar]",
       "type": 3,
       "api": "csp_QuarkShare",
       "searchable": 1,
@@ -2901,7 +2901,7 @@
     },
     {
       "key": "115Share",
-      "name": "弹幕 | 115分享[jar]",
+      "name": "寮瑰箷 | 115鍒嗕韩[jar]",
       "type": 3,
       "api": "csp_P115Share",
       "searchable": 1,
@@ -2917,7 +2917,7 @@
     },
     {
       "key": "UCShare",
-      "name": "弹幕 | UC分享[jar]",
+      "name": "寮瑰箷 | UC鍒嗕韩[jar]",
       "type": 3,
       "api": "csp_UCShare",
       "searchable": 1,
@@ -2933,7 +2933,7 @@
     },
     {
       "key": "SambaShare",
-      "name": "弹幕 | Samba分享[jar]",
+      "name": "寮瑰箷 | Samba鍒嗕韩[jar]",
       "type": 3,
       "api": "csp_SambaShare",
       "searchable": 0,
@@ -2945,7 +2945,7 @@
     },
     {
       "key": "Wogg",
-      "name": "弹幕 | 玩偶[jar]",
+      "name": "寮瑰箷 | 鐜╁伓[jar]",
       "type": 3,
       "api": "csp_Wogg",
       "quickSearch": 1,
@@ -2956,7 +2956,7 @@
     },
     {
       "key": "Wobg",
-      "name": "弹幕 | 表哥[jar]",
+      "name": "寮瑰箷 | 琛ㄥ摜[jar]",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -2967,7 +2967,7 @@
     },
     {
       "key": "yydsys",
-      "name": "弹幕 | 老哥[jar]",
+      "name": "寮瑰箷 | 鑰佸摜[jar]",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -2977,8 +2977,8 @@
       "ext": "./lib/token.json$$$https://tv.yydsys.top/$$$null$$$1$$$./wogg.json"
     },
     {
-      "key": "蜡笔网盘",
-      "name": "弹幕 | 蜡笔[jar]",
+      "key": "铚＄瑪缃戠洏",
+      "name": "寮瑰箷 | 铚＄瑪[jar]",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -2989,7 +2989,7 @@
     },
     {
       "key": "Mogg",
-      "name": "网盘 | 木偶哥哥[jar]",
+      "name": "缃戠洏 | 鏈ㄥ伓鍝ュ摜[jar]",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -2999,8 +2999,8 @@
       "ext": "./lib/token.json$$$http://mogg.top/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG"
     },
     {
-      "key": "土豆",
-      "name": "网盘 | 土豆[jar]",
+      "key": "鍦熻眴",
+      "name": "缃戠洏 | 鍦熻眴[jar]",
       "type": 3,
       "api": "csp_Wobg",
       "searchable": 1,
@@ -3010,8 +3010,8 @@
       "ext": "./lib/token.json$$$https://tudou.lvdoui.top/$$$proxy$$$1$$$./lib/wog.json$$$TUDOU"
     },
     {
-      "key": "小米网盘",
-      "name": "网盘 | 小米[jar]",
+      "key": "灏忕背缃戠洏",
+      "name": "缃戠洏 | 灏忕背[jar]",
       "type": 3,
       "api": "csp_Wobg",
       "quickSearch": 1,
@@ -3022,7 +3022,7 @@
     },
     {
       "key": "Xinshijue",
-      "name": "弹幕 | 新视觉[jar]",
+      "name": "寮瑰箷 | 鏂拌瑙塠jar]",
       "type": 3,
       "api": "csp_Xinshijue",
       "quickSearch": 1,
@@ -3033,7 +3033,7 @@
     },
     {
       "key": "Moli",
-      "name": "弹幕 | HDmoli[jar]",
+      "name": "寮瑰箷 | HDmoli[jar]",
       "type": 3,
       "api": "csp_Moli",
       "quickSearch": 1,
@@ -3044,7 +3044,7 @@
     },
     {
       "key": "Bt0",
-      "name": "弹幕 | 不太灵[jar]",
+      "name": "寮瑰箷 | 涓嶅お鐏礫jar]",
       "type": 3,
       "api": "csp_Bt0",
       "quickSearch": 1,
@@ -3055,7 +3055,7 @@
     },
     {
       "key": "ddys",
-      "name": "弹幕 | 低端[jar]",
+      "name": "寮瑰箷 | 浣庣[jar]",
       "type": 3,
       "api": "csp_Ddys",
       "quickSearch": 1,
@@ -3065,8 +3065,8 @@
       "ext": "./lib/token.json$$$https://ddys.pro/$$$proxy$$$1$$$"
     },
     {
-      "key": "美剧迷",
-      "name": "弹幕 | 美剧迷[jar]",
+      "key": "缇庡墽杩?,
+      "name": "寮瑰箷 | 缇庡墽杩穂jar]",
       "type": 3,
       "api": "csp_Meijumi",
       "quickSearch": 1,
@@ -3077,7 +3077,7 @@
     },
     {
       "key": "Ppxzy",
-      "name": "弹幕 | 皮皮虾[jar]",
+      "name": "寮瑰箷 | 鐨毊铏綶jar]",
       "type": 3,
       "api": "csp_Ppxzy",
       "quickSearch": 1,
@@ -3087,8 +3087,8 @@
       "timeout": 30
     },
     {
-      "key": "新6V",
-      "name": "弹幕 | 新6V[jar]",
+      "key": "鏂?V",
+      "name": "寮瑰箷 | 鏂?V[jar]",
       "type": 3,
       "api": "csp_Xb6v",
       "searchable": 1,
@@ -3098,7 +3098,7 @@
     },
     {
       "key": "4KHDR",
-      "name": "弹幕 | 4KHDR[jar]",
+      "name": "寮瑰箷 | 4KHDR[jar]",
       "type": 3,
       "api": "csp_FourKHDR",
       "ext": "./lib/token.json$$$http://127.0.0.1:9978/file/TV/4khdr.txt",
@@ -3107,8 +3107,8 @@
       "timeout": 60
     },
     {
-      "key": "校长影视",
-      "name": "弹幕 | 校长[jar]",
+      "key": "鏍￠暱褰辫",
+      "name": "寮瑰箷 | 鏍￠暱[jar]",
       "type": 3,
       "api": "csp_XiaoZhang",
       "ext": "./lib/token.json",
@@ -3117,8 +3117,8 @@
       "timeout": 30
     },
     {
-      "key": "团长资源",
-      "name": "弹幕 | 团长[jar]",
+      "key": "鍥㈤暱璧勬簮",
+      "name": "寮瑰箷 | 鍥㈤暱[jar]",
       "type": 3,
       "api": "csp_TZFile",
       "ext": "./lib/token.json",
@@ -3128,7 +3128,7 @@
     },
     {
       "key": "Hdhive",
-      "name": "弹幕 | 影巢[jar]",
+      "name": "寮瑰箷 | 褰卞发[jar]",
       "type": 3,
       "api": "csp_Hdh",
       "quickSearch": 1,
@@ -3139,7 +3139,7 @@
     },
     {
       "key": "Panta",
-      "name": "弹幕 | 盘Ta[jar]",
+      "name": "寮瑰箷 | 鐩楾a[jar]",
       "type": 3,
       "api": "csp_Panta",
       "quickSearch": 1,
@@ -3150,7 +3150,7 @@
     },
     {
       "key": "YunPan",
-      "name": "弹幕 | 云盘[jar]",
+      "name": "寮瑰箷 | 浜戠洏[jar]",
       "type": 3,
       "api": "csp_YunPan",
       "timeout": 60,
@@ -3158,7 +3158,7 @@
     },
     {
       "key": "Wo4k",
-      "name": "弹幕 | 玩偶4k[jar]",
+      "name": "寮瑰箷 | 鐜╁伓4k[jar]",
       "type": 3,
       "api": "csp_Wo4k",
       "quickSearch": 1,
@@ -3169,7 +3169,7 @@
     },
     {
       "key": "Xpanpan",
-      "name": "弹幕 | 小盘盘[jar]",
+      "name": "寮瑰箷 | 灏忕洏鐩榌jar]",
       "type": 3,
       "api": "csp_Xpanpan",
       "quickSearch": 1,
@@ -3180,7 +3180,7 @@
     },
     {
       "key": "Gaoqing",
-      "name": "弹幕 | 高清网[jar]",
+      "name": "寮瑰箷 | 楂樻竻缃慬jar]",
       "type": 3,
       "api": "csp_Gaoqing",
       "quickSearch": 1,
@@ -3190,8 +3190,8 @@
       "ext": "./lib/token.json$$$https://gaoqing.la/$$$proxy$$$1"
     },
     {
-      "key": "音范丝",
-      "name": "弹幕 | 音范丝[jar]",
+      "key": "闊宠寖涓?,
+      "name": "寮瑰箷 | 闊宠寖涓漑jar]",
       "type": 3,
       "api": "csp_Gaoqing",
       "quickSearch": 1,
@@ -3202,7 +3202,7 @@
     },
     {
       "key": "TGYunPan",
-      "name": "网盘 | TG搜索[jar]",
+      "name": "缃戠洏 | TG鎼滅储[jar]",
       "type": 3,
       "api": "csp_TGYunPan",
       "timeout": 60,
@@ -3210,15 +3210,15 @@
     },
     {
       "key": "YingSo",
-      "name": "磁力 | 影搜[jar]",
+      "name": "纾佸姏 | 褰辨悳[jar]",
       "type": 3,
       "api": "csp_YingSo",
       "timeout": 60,
       "ext": "./lib/token.json$$$1"
     },
     {
-      "key": "盘友圈",
-      "name": "网盘 | 盘友圈",
+      "key": "鐩樺弸鍦?,
+      "name": "缃戠洏 | 鐩樺弸鍦?,
       "type": 3,
       "api": "csp_Panyq",
       "timeout": 60,
@@ -3226,7 +3226,7 @@
     },
     {
       "key": "88Pan",
-      "name": "网盘 | 88网盘[jar]",
+      "name": "缃戠洏 | 88缃戠洏[jar]",
       "type": 3,
       "api": "csp_EightEight",
       "timeout": 30,
@@ -3234,7 +3234,7 @@
     },
     {
       "key": "PikaSo",
-      "name": "网盘 | 皮卡搜[jar]",
+      "name": "缃戠洏 | 鐨崱鎼淸jar]",
       "type": 3,
       "api": "csp_PikaSo",
       "quickSearch": 1,
@@ -3245,7 +3245,7 @@
     },
     {
       "key": "csp_HunHePan",
-      "name": "网盘 | 混合盘[jar]",
+      "name": "缃戠洏 | 娣峰悎鐩榌jar]",
       "type": 3,
       "api": "csp_HunHePan",
       "searchable": 1,
@@ -3256,8 +3256,8 @@
       "ext": "./lib/token.json$$$null$$$1"
     },
     {
-      "key": "秒搜",
-      "name": "网盘 | 秒搜[jar]",
+      "key": "绉掓悳",
+      "name": "缃戠洏 | 绉掓悳[jar]",
       "type": 3,
       "api": "csp_MiaoSou",
       "timeout": 30,
@@ -3265,7 +3265,7 @@
     },
     {
       "key": "Libvio",
-      "name": "网盘 | LIBVIO[jar]",
+      "name": "缃戠洏 | LIBVIO[jar]",
       "type": 3,
       "api": "csp_Libvio",
       "quickSearch": 1,
@@ -3276,7 +3276,7 @@
     },
     {
       "key": "DaPanSo",
-      "name": "网盘 | 大盘搜[jar]",
+      "name": "缃戠洏 | 澶х洏鎼淸jar]",
       "type": 3,
       "api": "csp_DaPanSo",
       "quickSearch": 1,
@@ -3287,7 +3287,7 @@
     },
     {
       "key": "Qianfan",
-      "name": "网盘 | 千帆[jar]",
+      "name": "缃戠洏 | 鍗冨竼[jar]",
       "type": 3,
       "api": "csp_Qianfan",
       "quickSearch": 1,
@@ -3298,7 +3298,7 @@
     },
     {
       "key": "YunSo",
-      "name": "网盘 | 小云[jar]",
+      "name": "缃戠洏 | 灏忎簯[jar]",
       "type": 3,
       "api": "csp_YunSo",
       "quickSearch": 1,
@@ -3309,7 +3309,7 @@
     },
     {
       "key": "YunPanOne",
-      "name": "网盘 | 云盘[jar]",
+      "name": "缃戠洏 | 浜戠洏[jar]",
       "type": 3,
       "api": "csp_YunPanOne",
       "quickSearch": 1,
@@ -3320,7 +3320,7 @@
     },
     {
       "key": "Gitcafe",
-      "name": "阿里 | 纸条[jar]",
+      "name": "闃块噷 | 绾告潯[jar]",
       "type": 3,
       "api": "csp_Gitcafe",
       "searchable": 1,
@@ -3330,8 +3330,8 @@
       "timeout": 30
     },
     {
-      "key": "小紙條",
-      "name": "阿里 | 小紙條[jar]",
+      "key": "灏忕礄姊?,
+      "name": "闃块噷 | 灏忕礄姊漑jar]",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
       "searchable": 1,
@@ -3341,8 +3341,8 @@
       "timeout": 30
     },
     {
-      "key": "七夜",
-      "name": "阿里 | 七夜[jar]",
+      "key": "涓冨",
+      "name": "闃块噷 | 涓冨[jar]",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -3351,8 +3351,8 @@
       "timeout": 30
     },
     {
-      "key": "盤搜索",
-      "name": "阿里 | 盤搜索[jar]",
+      "key": "鐩ゆ悳绱?,
+      "name": "闃块噷 | 鐩ゆ悳绱jar]",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -3361,8 +3361,8 @@
       "timeout": 30
     },
     {
-      "key": "找資源",
-      "name": "阿里 | 找資源[jar]",
+      "key": "鎵捐硣婧?,
+      "name": "闃块噷 | 鎵捐硣婧怺jar]",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -3371,24 +3371,24 @@
       "timeout": 30
     },
     {
-      "key": "易搜",
-      "name": "阿里 | 易搜[jar]",
+      "key": "鏄撴悳",
+      "name": "闃块噷 | 鏄撴悳[jar]",
       "type": 3,
       "api": "csp_YiSo",
       "ext": "./lib/token.json",
       "timeout": 30
     },
     {
-      "key": "盘搜",
-      "name": "阿里 | 盘搜[jar]",
+      "key": "鐩樻悳",
+      "name": "闃块噷 | 鐩樻悳[jar]",
       "type": 3,
       "api": "csp_PanSou",
       "ext": "./lib/token.json",
       "timeout": 30
     },
     {
-      "key": "UP云搜",
-      "name": "阿里 | up云搜[jar]",
+      "key": "UP浜戞悳",
+      "name": "闃块噷 | up浜戞悳[jar]",
       "type": 3,
       "api": "csp_UpYun",
       "ext": "./lib/token.json",
@@ -3396,7 +3396,7 @@
     },
     {
       "key": "Funletu",
-      "name": "夸克  | 趣盘搜[jar]",
+      "name": "澶稿厠  | 瓒ｇ洏鎼淸jar]",
       "type": 3,
       "api": "csp_Funletu",
       "quickSearch": 1,
@@ -3407,7 +3407,7 @@
     },
     {
       "key": "QuarkPanso",
-      "name": "夸克 | 盘搜[jar]",
+      "name": "澶稿厠 | 鐩樻悳[jar]",
       "type": 3,
       "api": "csp_QuarkPanso",
       "quickSearch": 1,
@@ -3417,606 +3417,606 @@
       "ext": "./lib/token.json"
     },
     {
-      "key": "drpy_js_酷云77",
-      "name": "影视 | 酷云77[js]",
+      "key": "drpy_js_閰蜂簯77",
+      "name": "褰辫 | 閰蜂簯77[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/酷云77.js"
+      "ext": "../../../libs/js/閰蜂簯77.js"
     },
     {
-      "key": "drpy_js_快看",
-      "name": "影视 | 快看[js]",
+      "key": "drpy_js_蹇湅",
+      "name": "褰辫 | 蹇湅[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/快看.js"
+      "ext": "../../../libs/js/蹇湅.js"
     },
     {
-      "key": "drpy_js_爱看",
-      "name": "影视 | 爱看[js]",
+      "key": "drpy_js_鐖辩湅",
+      "name": "褰辫 | 鐖辩湅[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/爱看.js"
+      "ext": "../../../libs/js/鐖辩湅.js"
     },
     {
-      "key": "drpy_js_低端",
-      "name": "影视 | 低端[js]",
+      "key": "drpy_js_浣庣",
+      "name": "褰辫 | 浣庣[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/ddys_d.js"
+      "ext": "../../../libs/js/ddys_d.js"
     },
     {
-      "key": "drpy_js_南瓜影视",
-      "name": "影视 | 南瓜影视[js]",
+      "key": "drpy_js_鍗楃摐褰辫",
+      "name": "褰辫 | 鍗楃摐褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/南瓜影视.js"
+      "ext": "../../../libs/js/鍗楃摐褰辫.js"
     },
     {
       "key": "drpy_js_Auete",
-      "name": "影视 | Auete[js]",
+      "name": "褰辫 | Auete[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/Auete.js"
+      "ext": "../../../libs/js/Auete.js"
     },
     {
       "key": "drpy_js_cokemv",
-      "name": "影视 | cokemv[js]",
+      "name": "褰辫 | cokemv[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/cokemv.js"
+      "ext": "../../../libs/js/cokemv.js"
     },
     {
       "key": "drpy_js_LIBVIO",
-      "name": "影视 | LIBVIO[js]",
+      "name": "褰辫 | LIBVIO[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/LIBVIO.js"
+      "ext": "../../../libs/js/LIBVIO.js"
     },
     {
       "key": "drpy_js_voflix",
-      "name": "影视 | voflix[js]",
+      "name": "褰辫 | voflix[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/voflix.js"
+      "ext": "../../../libs/js/voflix.js"
     },
     {
-      "key": "drpy_js_两个BT",
-      "name": "影视 | 两个BT[js]",
+      "key": "drpy_js_涓や釜BT",
+      "name": "褰辫 | 涓や釜BT[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/两个BT.js"
+      "ext": "../../../libs/js/涓や釜BT.js"
     },
     {
-      "key": "drpy_js_量子影视",
-      "name": "影视 | 量子影视[js]",
+      "key": "drpy_js_閲忓瓙褰辫",
+      "name": "褰辫 | 閲忓瓙褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/量子影视.js"
+      "ext": "../../../libs/js/閲忓瓙褰辫.js"
     },
     {
-      "key": "drpy_js_农民",
-      "name": "影视 | 农民影视[js]",
+      "key": "drpy_js_鍐滄皯",
+      "name": "褰辫 | 鍐滄皯褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/农民影视.js"
+      "ext": "../../../libs/js/鍐滄皯褰辫.js"
     },
     {
-      "key": "drpy_js_在线之家",
-      "name": "影视 | 在线之家[js]",
+      "key": "drpy_js_鍦ㄧ嚎涔嬪",
+      "name": "褰辫 | 鍦ㄧ嚎涔嬪[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/在线之家.js"
+      "ext": "../../../libs/js/鍦ㄧ嚎涔嬪.js"
     },
     {
-      "key": "drpy_js_量子资源",
-      "name": "影视 | 量子资源[js]",
+      "key": "drpy_js_閲忓瓙璧勬簮",
+      "name": "褰辫 | 閲忓瓙璧勬簮[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/量子资源.js"
+      "ext": "../../../libs/js/閲忓瓙璧勬簮.js"
     },
     {
-      "key": "drpy_js_369影视",
-      "name": "影视 | 369影视[js]",
+      "key": "drpy_js_369褰辫",
+      "name": "褰辫 | 369褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/369影视.js"
+      "ext": "../../../libs/js/369褰辫.js"
     },
     {
-      "key": "drpy_js_热播库",
-      "name": "影视 | 热播库[js]",
+      "key": "drpy_js_鐑挱搴?,
+      "name": "褰辫 | 鐑挱搴揫js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/热播库.js"
+      "ext": "../../../libs/js/鐑挱搴?js"
     },
     {
-      "key": "drpy_js_蛋蛋剧",
-      "name": "影视 | 蛋蛋剧[js]",
+      "key": "drpy_js_铔嬭泲鍓?,
+      "name": "褰辫 | 铔嬭泲鍓js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/蛋蛋剧.js"
+      "ext": "../../../libs/js/铔嬭泲鍓?js"
     },
     {
-      "key": "drpy_js_B站影视",
-      "name": "影视 | B站影视[js]",
+      "key": "drpy_js_B绔欏奖瑙?,
+      "name": "褰辫 | B绔欏奖瑙哰js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/B站影视.js"
+      "ext": "../../../libs/js/B绔欏奖瑙?js"
     },
     {
-      "key": "drpy_js_凌云影视",
-      "name": "影视 | 凌云影视[js]",
+      "key": "drpy_js_鍑屼簯褰辫",
+      "name": "褰辫 | 鍑屼簯褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/凌云影视.js"
+      "ext": "../../../libs/js/鍑屼簯褰辫.js"
     },
     {
-      "key": "drpy_js_孜然影视",
-      "name": "影视 | 孜然影视[js]",
+      "key": "drpy_js_瀛滅劧褰辫",
+      "name": "褰辫 | 瀛滅劧褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/孜然影视.js"
+      "ext": "../../../libs/js/瀛滅劧褰辫.js"
     },
     {
-      "key": "drpy_js_我爱跟剧",
-      "name": "影视 | 我爱跟剧[js]",
+      "key": "drpy_js_鎴戠埍璺熷墽",
+      "name": "褰辫 | 鎴戠埍璺熷墽[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/我爱跟剧.js"
+      "ext": "../../../libs/js/鎴戠埍璺熷墽.js"
     },
     {
-      "key": "drpy_js_干饭影视",
-      "name": "影视 | 干饭影视[js]",
+      "key": "drpy_js_骞查キ褰辫",
+      "name": "褰辫 | 骞查キ褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/干饭影视.js"
+      "ext": "../../../libs/js/骞查キ褰辫.js"
     },
     {
-      "key": "drpy_js_秋霞影视",
-      "name": "影视 | 秋霞影视[js]",
+      "key": "drpy_js_绉嬮湠褰辫",
+      "name": "褰辫 | 绉嬮湠褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/秋霞影视.js"
+      "ext": "../../../libs/js/绉嬮湠褰辫.js"
     },
     {
-      "key": "drpy_js_阿布影院",
-      "name": "影视 | 阿布影院[js]",
+      "key": "drpy_js_闃垮竷褰遍櫌",
+      "name": "褰辫 | 闃垮竷褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/阿布影院.js"
+      "ext": "../../../libs/js/闃垮竷褰遍櫌.js"
     },
     {
-      "key": "drpy_js_电影先生",
-      "name": "影视 | 电影先生[js]",
+      "key": "drpy_js_鐢靛奖鍏堢敓",
+      "name": "褰辫 | 鐢靛奖鍏堢敓[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/电影先生.js"
+      "ext": "../../../libs/js/鐢靛奖鍏堢敓.js"
     },
     {
-      "key": "drpy_js_落攻阁影视",
-      "name": "影视 | 落攻阁影视[js]",
+      "key": "drpy_js_钀芥敾闃佸奖瑙?,
+      "name": "褰辫 | 钀芥敾闃佸奖瑙哰js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/落攻阁影视.js"
+      "ext": "../../../libs/js/钀芥敾闃佸奖瑙?js"
     },
     {
-      "key": "drpy_js_69美剧",
-      "name": "影视 | 69美剧[js]",
+      "key": "drpy_js_69缇庡墽",
+      "name": "褰辫 | 69缇庡墽[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/69美剧.js"
+      "ext": "../../../libs/js/69缇庡墽.js"
     },
     {
-      "key": "drpy_js_兄弟影视",
-      "name": "影视 | 兄弟影视[js]",
+      "key": "drpy_js_鍏勫紵褰辫",
+      "name": "褰辫 | 鍏勫紵褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/兄弟影视.js"
+      "ext": "../../../libs/js/鍏勫紵褰辫.js"
     },
     {
-      "key": "drpy_js_4k剧院",
-      "name": "影视 | 4k剧院[js]",
+      "key": "drpy_js_4k鍓ч櫌",
+      "name": "褰辫 | 4k鍓ч櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/4k剧院.js"
+      "ext": "../../../libs/js/4k鍓ч櫌.js"
     },
     {
-      "key": "drpy_js_爱迪影视",
-      "name": "影视 | 爱迪影视[js]",
+      "key": "drpy_js_鐖辫开褰辫",
+      "name": "褰辫 | 鐖辫开褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/爱迪影视.js"
+      "ext": "../../../libs/js/鐖辫开褰辫.js"
     },
     {
-      "key": "drpy_js_539影视",
-      "name": "影视 | 539影视[js]",
+      "key": "drpy_js_539褰辫",
+      "name": "褰辫 | 539褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/539影视.js"
+      "ext": "../../../libs/js/539褰辫.js"
     },
     {
-      "key": "drpy_js_333影视",
-      "name": "影视 | 333影视[js]",
+      "key": "drpy_js_333褰辫",
+      "name": "褰辫 | 333褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/333影视.js"
+      "ext": "../../../libs/js/333褰辫.js"
     },
     {
-      "key": "drpy_js_996影视",
-      "name": "影视 | 996影视[js]",
+      "key": "drpy_js_996褰辫",
+      "name": "褰辫 | 996褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/996影视.js"
+      "ext": "../../../libs/js/996褰辫.js"
     },
     {
-      "key": "drpy_js_188影视",
-      "name": "影视 | 188影视[js]",
+      "key": "drpy_js_188褰辫",
+      "name": "褰辫 | 188褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/188影视.js"
+      "ext": "../../../libs/js/188褰辫.js"
     },
     {
-      "key": "drpy_js_哔嘀影视",
-      "name": "影视 | 哔嘀影视[js]",
+      "key": "drpy_js_鍝斿榾褰辫",
+      "name": "褰辫 | 鍝斿榾褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/哔嘀影视.js"
+      "ext": "../../../libs/js/鍝斿榾褰辫.js"
     },
     {
-      "key": "drpy_js_7喜影院",
-      "name": "影视 | 7喜影院[js]",
+      "key": "drpy_js_7鍠滃奖闄?,
+      "name": "褰辫 | 7鍠滃奖闄js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/7喜影院.js"
+      "ext": "../../../libs/js/7鍠滃奖闄?js"
     },
     {
-      "key": "drpy_js_18哈",
-      "name": "影视 | 18哈[js]",
+      "key": "drpy_js_18鍝?,
+      "name": "褰辫 | 18鍝圼js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/18哈.js"
+      "ext": "../../../libs/js/18鍝?js"
     },
     {
-      "key": "drpy_js_567电影院",
-      "name": "影视 | 567电影院[js]",
+      "key": "drpy_js_567鐢靛奖闄?,
+      "name": "褰辫 | 567鐢靛奖闄js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/567电影院.js"
+      "ext": "../../../libs/js/567鐢靛奖闄?js"
     },
     {
       "key": "drpy_js_Fun4K",
-      "name": "影视 | Fun4K[js]",
+      "name": "褰辫 | Fun4K[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/Fun4K.js"
+      "ext": "../../../libs/js/Fun4K.js"
     },
     {
-      "key": "drpy_js_KOK影院",
-      "name": "影视 | KOK影院[js]",
+      "key": "drpy_js_KOK褰遍櫌",
+      "name": "褰辫 | KOK褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/KOK影院.js"
+      "ext": "../../../libs/js/KOK褰遍櫌.js"
     },
     {
-      "key": "drpy_js_TVB云播",
-      "name": "影视 | TVB云播[js]",
+      "key": "drpy_js_TVB浜戞挱",
+      "name": "褰辫 | TVB浜戞挱[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/TVB云播.js"
+      "ext": "../../../libs/js/TVB浜戞挱.js"
     },
     {
-      "key": "drpy_js_UrleBird[飞]",
-      "name": "影视 | UrleBird[飞][js]",
+      "key": "drpy_js_UrleBird[椋瀅",
+      "name": "褰辫 | UrleBird[椋瀅[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/UrleBird[飞].js"
+      "ext": "../../../libs/js/UrleBird[椋瀅.js"
     },
     {
-      "key": "drpy_js_爱看影院",
-      "name": "影视 | 爱看影院[js]",
+      "key": "drpy_js_鐖辩湅褰遍櫌",
+      "name": "褰辫 | 鐖辩湅褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/爱看影院.js"
+      "ext": "../../../libs/js/鐖辩湅褰遍櫌.js"
     },
     {
-      "key": "drpy_js_北川影视",
-      "name": "影视 | 北川影视[js]",
+      "key": "drpy_js_鍖楀窛褰辫",
+      "name": "褰辫 | 鍖楀窛褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/北川影视.js"
+      "ext": "../../../libs/js/鍖楀窛褰辫.js"
     },
     {
-      "key": "drpy_js_尘落影视",
-      "name": "影视 | 尘落影视[js]",
+      "key": "drpy_js_灏樿惤褰辫",
+      "name": "褰辫 | 灏樿惤褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/尘落影视.js"
+      "ext": "../../../libs/js/灏樿惤褰辫.js"
     },
     {
-      "key": "drpy_js_达达龟",
-      "name": "影视 | 达达龟[js]",
+      "key": "drpy_js_杈捐揪榫?,
+      "name": "褰辫 | 杈捐揪榫焄js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/达达龟.js"
+      "ext": "../../../libs/js/杈捐揪榫?js"
     },
     {
-      "key": "drpy_js_蛋蛋赞",
-      "name": "影视 | 蛋蛋赞[js]",
+      "key": "drpy_js_铔嬭泲璧?,
+      "name": "褰辫 | 铔嬭泲璧瀃js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/蛋蛋赞.js"
+      "ext": "../../../libs/js/铔嬭泲璧?js"
     },
     {
-      "key": "drpy_js_多瑙影视",
-      "name": "影视 | 多瑙影视[js]",
+      "key": "drpy_js_澶氱憴褰辫",
+      "name": "褰辫 | 澶氱憴褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/多瑙影视.js"
+      "ext": "../../../libs/js/澶氱憴褰辫.js"
     },
     {
-      "key": "drpy_js_剧迷su",
-      "name": "影视 | 剧迷su[js]",
+      "key": "drpy_js_鍓ц糠su",
+      "name": "褰辫 | 鍓ц糠su[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/剧迷su.js"
+      "ext": "../../../libs/js/鍓ц糠su.js"
     },
     {
-      "key": "drpy_js_看韩剧",
-      "name": "影视 | 看韩剧[js]",
+      "key": "drpy_js_鐪嬮煩鍓?,
+      "name": "褰辫 | 鐪嬮煩鍓js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/看韩剧.js"
+      "ext": "../../../libs/js/鐪嬮煩鍓?js"
     },
     {
-      "key": "drpy_js_看了么",
-      "name": "影视 | 看了么[js]",
+      "key": "drpy_js_鐪嬩簡涔?,
+      "name": "褰辫 | 鐪嬩簡涔圼js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/看了么.js"
+      "ext": "../../../libs/js/鐪嬩簡涔?js"
     },
     {
-      "key": "drpy_js_蓝光影院",
-      "name": "影视 | 蓝光影院[js]",
+      "key": "drpy_js_钃濆厜褰遍櫌",
+      "name": "褰辫 | 钃濆厜褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/蓝光影院.js"
+      "ext": "../../../libs/js/钃濆厜褰遍櫌.js"
     },
     {
-      "key": "drpy_js_首播影院",
-      "name": "影视 | 首播影院[js]",
+      "key": "drpy_js_棣栨挱褰遍櫌",
+      "name": "褰辫 | 棣栨挱褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/首播影院.js"
+      "ext": "../../../libs/js/棣栨挱褰遍櫌.js"
     },
     {
-      "key": "drpy_js_小白菜电影",
-      "name": "影视 | 小白菜电影[js]",
+      "key": "drpy_js_灏忕櫧鑿滅數褰?,
+      "name": "褰辫 | 灏忕櫧鑿滅數褰盵js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/小白菜电影.js"
+      "ext": "../../../libs/js/灏忕櫧鑿滅數褰?js"
     },
     {
-      "key": "drpy_js_影视工场",
-      "name": "影视 | 影视工场[js]",
+      "key": "drpy_js_褰辫宸ュ満",
+      "name": "褰辫 | 褰辫宸ュ満[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/影视工场.js"
+      "ext": "../../../libs/js/褰辫宸ュ満.js"
     },
     {
-      "key": "drpy_js_影视之家[V2]",
-      "name": "影视 | 影视之家[V2][js]",
+      "key": "drpy_js_褰辫涔嬪[V2]",
+      "name": "褰辫 | 褰辫涔嬪[V2][js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/影视之家[V2].js"
+      "ext": "../../../libs/js/褰辫涔嬪[V2].js"
     },
     {
-      "key": "drpy_js_悠久影院",
-      "name": "影视 | 悠久影院[js]",
+      "key": "drpy_js_鎮犱箙褰遍櫌",
+      "name": "褰辫 | 鎮犱箙褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/悠久影院.js"
+      "ext": "../../../libs/js/鎮犱箙褰遍櫌.js"
     },
     {
-      "key": "drpy_js_中国人线上看",
-      "name": "影视 | 中国人线上看[js]",
+      "key": "drpy_js_涓浗浜虹嚎涓婄湅",
+      "name": "褰辫 | 涓浗浜虹嚎涓婄湅[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/中国人线上看.js"
+      "ext": "../../../libs/js/涓浗浜虹嚎涓婄湅.js"
     },
     {
-      "key": "drpy_js_555电影[V2]",
-      "name": "影视 | 555电影[V2]",
+      "key": "drpy_js_555鐢靛奖[V2]",
+      "name": "褰辫 | 555鐢靛奖[V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/555电影[V2].js"
+      "ext": "../../../libs/js/555鐢靛奖[V2].js"
     },
     {
-      "key": "drpy_js_69美剧[V2]",
-      "name": "影视 | 69美剧[V2]",
+      "key": "drpy_js_69缇庡墽[V2]",
+      "name": "褰辫 | 69缇庡墽[V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/69美剧[V2].js"
+      "ext": "../../../libs/js/69缇庡墽[V2].js"
     },
     {
       "key": "drpy_js_cokemv[V2]",
-      "name": "影视 | cokemv[V2]",
+      "name": "褰辫 | cokemv[V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/cokemv[V2].js"
+      "ext": "../../../libs/js/cokemv[V2].js"
     },
     {
-      "key": "drpy_js_UM电影[V2]",
-      "name": "影视 | UM电影[V2]",
+      "key": "drpy_js_UM鐢靛奖[V2]",
+      "name": "褰辫 | UM鐢靛奖[V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/UM电影[V2].js"
+      "ext": "../../../libs/js/UM鐢靛奖[V2].js"
     },
     {
-      "key": "drpy_js_爱迪[V2]",
-      "name": "影视 | 爱迪[V2][js]",
+      "key": "drpy_js_鐖辫开[V2]",
+      "name": "褰辫 | 鐖辫开[V2][js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/爱迪[V2].js"
+      "ext": "../../../libs/js/鐖辫开[V2].js"
     },
     {
-      "key": "drpy_js_宝片[V2]",
-      "name": "影视 | 宝片[V2]",
+      "key": "drpy_js_瀹濈墖[V2]",
+      "name": "褰辫 | 瀹濈墖[V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/宝片[V2].js"
+      "ext": "../../../libs/js/瀹濈墖[V2].js"
     },
     {
-      "key": "drpy_js_刺桐[V2]",
-      "name": "影视 | 刺桐[V2][js]",
+      "key": "drpy_js_鍒烘[V2]",
+      "name": "褰辫 | 鍒烘[V2][js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/刺桐[V2].js"
+      "ext": "../../../libs/js/鍒烘[V2].js"
     },
     {
-      "key": "drpy_js_咕噜[V2]",
-      "name": "影视 | 咕噜[V2]",
+      "key": "drpy_js_鍜曞櫆[V2]",
+      "name": "褰辫 | 鍜曞櫆[V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/咕噜[V2].js"
+      "ext": "../../../libs/js/鍜曞櫆[V2].js"
     },
     {
-      "key": "drpy_js_吼吼[V2]",
-      "name": "影视 | 吼吼[V2]",
+      "key": "drpy_js_鍚煎惣[V2]",
+      "name": "褰辫 | 鍚煎惣[V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/吼吼[V2].js"
+      "ext": "../../../libs/js/鍚煎惣[V2].js"
     },
     {
-      "key": "drpy_js_曲奇影视[V2]",
-      "name": "影视 | 曲奇影视[V2]",
+      "key": "drpy_js_鏇插褰辫[V2]",
+      "name": "褰辫 | 鏇插褰辫[V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/曲奇影视[V2].js"
+      "ext": "../../../libs/js/鏇插褰辫[V2].js"
     },
     {
-      "key": "drpy_js_影探[V2]",
-      "name": "影视 | 影探[V2]",
+      "key": "drpy_js_褰辨帰[V2]",
+      "name": "褰辫 | 褰辨帰[V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/影探[V2].js"
+      "ext": "../../../libs/js/褰辨帰[V2].js"
     },
     {
-      "key": "drpy_js_北极狐[V2]",
-      "name": "影视 | 北极狐[V2]",
+      "key": "drpy_js_鍖楁瀬鐙怺V2]",
+      "name": "褰辫 | 鍖楁瀬鐙怺V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/北极狐[V2].js"
+      "ext": "../../../libs/js/鍖楁瀬鐙怺V2].js"
     },
     {
-      "key": "drpy_js_大米星球[V2]",
-      "name": "影视 | 大米星球[V2]",
+      "key": "drpy_js_澶х背鏄熺悆[V2]",
+      "name": "褰辫 | 澶х背鏄熺悆[V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/大米星球[V2].js"
+      "ext": "../../../libs/js/澶х背鏄熺悆[V2].js"
     },
     {
-      "key": "drpy_js_奈飞狗[V2]",
-      "name": "影视 | 奈飞狗[V2]",
+      "key": "drpy_js_濂堥鐙梉V2]",
+      "name": "褰辫 | 濂堥鐙梉V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/奈飞狗[V2].js"
+      "ext": "../../../libs/js/濂堥鐙梉V2].js"
     },
     {
-      "key": "drpy_js_思古影视[V2]",
-      "name": "影视 | 思古影视[V2]",
+      "key": "drpy_js_鎬濆彜褰辫[V2]",
+      "name": "褰辫 | 鎬濆彜褰辫[V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/思古影视[V2].js"
+      "ext": "../../../libs/js/鎬濆彜褰辫[V2].js"
     },
     {
-      "key": "drpy_js_映迷[V2]",
-      "name": "影视 | 映迷[V2]",
+      "key": "drpy_js_鏄犺糠[V2]",
+      "name": "褰辫 | 鏄犺糠[V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/映迷[V2].js"
+      "ext": "../../../libs/js/鏄犺糠[V2].js"
     },
     {
-      "key": "drpy_js_美益达[V2]",
-      "name": "影视 | 美益达[V2]",
+      "key": "drpy_js_缇庣泭杈綶V2]",
+      "name": "褰辫 | 缇庣泭杈綶V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/美益达[V2].js"
+      "ext": "../../../libs/js/缇庣泭杈綶V2].js"
     },
     {
-      "key": "drpy_js_落攻阁影视[V2]",
-      "name": "影视 | 落攻阁影视[V2]",
+      "key": "drpy_js_钀芥敾闃佸奖瑙哰V2]",
+      "name": "褰辫 | 钀芥敾闃佸奖瑙哰V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/落攻阁影视[V2].js"
+      "ext": "../../../libs/js/钀芥敾闃佸奖瑙哰V2].js"
     },
     {
-      "key": "drpy_js_西门[V2]",
-      "name": "影视 | 西门[V2]",
+      "key": "drpy_js_瑗块棬[V2]",
+      "name": "褰辫 | 瑗块棬[V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/西门[V2].js"
+      "ext": "../../../libs/js/瑗块棬[V2].js"
     },
     {
-      "key": "drpy_js_路人甲[V2]",
-      "name": "影视 | 路人甲[V2]",
+      "key": "drpy_js_璺汉鐢瞇V2]",
+      "name": "褰辫 | 璺汉鐢瞇V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/路人甲[V2].js"
+      "ext": "../../../libs/js/璺汉鐢瞇V2].js"
     },
     {
-      "key": "drpy_js_鑫鑫[V2]",
-      "name": "影视 | 鑫鑫[V2]",
+      "key": "drpy_js_閼懌[V2]",
+      "name": "褰辫 | 閼懌[V2]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/鑫鑫[V2].js"
+      "ext": "../../../libs/js/閼懌[V2].js"
     },
     {
-      "key": "drpy_js_360影视",
-      "name": "官源 | 360[js]",
+      "key": "drpy_js_360褰辫",
+      "name": "瀹樻簮 | 360[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/360影视.js"
+      "ext": "../../../libs/js/360褰辫.js"
     },
     {
-      "key": "drpy_js_百忙无果",
-      "name": "官源 | 芒果[js]",
+      "key": "drpy_js_鐧惧繖鏃犳灉",
+      "name": "瀹樻簮 | 鑺掓灉[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/百忙无果.js"
+      "ext": "../../../libs/js/鐧惧繖鏃犳灉.js"
     },
     {
-      "key": "drpy_js_腾云驾雾",
-      "name": "官源 | 腾讯[js]",
+      "key": "drpy_js_鑵句簯椹鹃浘",
+      "name": "瀹樻簮 | 鑵捐[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/腾云驾雾.js"
+      "ext": "../../../libs/js/鑵句簯椹鹃浘.js"
     },
     {
-      "key": "drpy_js_奇珍异兽",
-      "name": "官源 | 爱奇艺[js]",
+      "key": "drpy_js_濂囩弽寮傚吔",
+      "name": "瀹樻簮 | 鐖卞鑹篬js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/奇珍异兽.js"
+      "ext": "../../../libs/js/濂囩弽寮傚吔.js"
     },
     {
-      "key": "drpy_js_菜狗",
-      "name": "官源 | 搜狗[js]",
+      "key": "drpy_js_鑿滅嫍",
+      "name": "瀹樻簮 | 鎼滅嫍[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/菜狗.js"
+      "ext": "../../../libs/js/鑿滅嫍.js"
     },
     {
-      "key": "drpy_js_优酷",
-      "name": "官源 | 优酷[js]",
+      "key": "drpy_js_浼橀叿",
+      "name": "瀹樻簮 | 浼橀叿[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/优酷.js"
+      "ext": "../../../libs/js/浼橀叿.js"
     },
     {
       "key": "drpy_js_4KHDR",
-      "name": "磁力 | 4KHDR[js]",
+      "name": "纾佸姏 | 4KHDR[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/4khdr.js",
+      "ext": "../../../libs/js/4khdr.js",
       "playerType": "1",
       "searchable": 1,
       "quickSearch": 1,
@@ -4024,11 +4024,11 @@
       "timeout": 30
     },
     {
-      "key": "drpy_js_极影网",
-      "name": "磁力 | 极影网[js]",
+      "key": "drpy_js_鏋佸奖缃?,
+      "name": "纾佸姏 | 鏋佸奖缃慬js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/jiyingw.js",
+      "ext": "../../../libs/js/jiyingw.js",
       "playerType": "1",
       "searchable": 1,
       "quickSearch": 1,
@@ -4037,10 +4037,10 @@
     },
     {
       "key": "drpy_js_MP4US",
-      "name": "磁力 | MP4电影[js]",
+      "name": "纾佸姏 | MP4鐢靛奖[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/mp4us.js",
+      "ext": "../../../libs/js/mp4us.js",
       "playerType": "1",
       "searchable": 1,
       "quickSearch": 1,
@@ -4048,11 +4048,11 @@
       "timeout": 30
     },
     {
-      "key": "drpy_js_电影港",
-      "name": "磁力 | 电影港[js]",
+      "key": "drpy_js_鐢靛奖娓?,
+      "name": "纾佸姏 | 鐢靛奖娓痆js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/dygang.js",
+      "ext": "../../../libs/js/dygang.js",
       "playerType": "1",
       "searchable": 1,
       "quickSearch": 1,
@@ -4061,20 +4061,20 @@
     },
     {
       "key": "drpy_js_kuba",
-      "name": "磁力 | 酷吧[js]",
+      "name": "纾佸姏 | 閰峰惂[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/kuba.js",
+      "ext": "../../../libs/js/kuba.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
     },
     {
       "key": "drpy_js_xb6v",
-      "name": "磁力 | 新版6v[js]",
+      "name": "纾佸姏 | 鏂扮増6v[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/xb6v.js",
+      "ext": "../../../libs/js/xb6v.js",
       "playerType": "1",
       "searchable": 1,
       "quickSearch": 1,
@@ -4082,138 +4082,138 @@
       "timeout": 30
     },
     {
-      "key": "drpy_js_美剧迷",
-      "name": "磁力 | 美剧迷[js]",
+      "key": "drpy_js_缇庡墽杩?,
+      "name": "纾佸姏 | 缇庡墽杩穂js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/meijumi.js",
+      "ext": "../../../libs/js/meijumi.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
     },
     {
       "key": "drpy_js_ddys",
-      "name": "影视 | 低端影视[js]",
+      "name": "褰辫 | 浣庣褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/ddys.js",
+      "ext": "../../../libs/js/ddys.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
     },
     {
       "key": "drpy_js_libvio",
-      "name": "影视 | libvio[js]",
+      "name": "褰辫 | libvio[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/libvio.js",
+      "ext": "../../../libs/js/libvio.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
     },
     {
       "key": "drpy_js_tzfile",
-      "name": "影视 | 团长影视[js]",
+      "name": "褰辫 | 鍥㈤暱褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/tzfile.js",
+      "ext": "../../../libs/js/tzfile.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
     },
     {
       "key": "drpy_js_dydhhy",
-      "name": "影视 | dydhhy[js]",
+      "name": "褰辫 | dydhhy[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/dydhhy.js",
+      "ext": "../../../libs/js/dydhhy.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
     },
     {
       "key": "drpy_js_97tvs",
-      "name": "影视 | 97tvs[js]",
+      "name": "褰辫 | 97tvs[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/97tvs.js",
+      "ext": "../../../libs/js/97tvs.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
     },
     {
       "key": "drpy_js_rrdyw",
-      "name": "影视 | rrdyw[js]",
+      "name": "褰辫 | rrdyw[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/rrdyw.js",
+      "ext": "../../../libs/js/rrdyw.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
     },
     {
-      "key": "drpy_js_校长影视",
-      "name": "夸克 | 校长影视[js]",
+      "key": "drpy_js_鏍￠暱褰辫",
+      "name": "澶稿厠 | 鏍￠暱褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/xzys.js",
+      "ext": "../../../libs/js/xzys.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
     },
     {
       "key": "drpy_js_yyets",
-      "name": "夸克 | 人人影视搜[js]",
+      "name": "澶稿厠 | 浜轰汉褰辫鎼淸js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/yyets.js",
+      "ext": "../../../libs/js/yyets.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
     },
     {
-      "key": "drpy_js_奇妙搜[夸]",
-      "name": "夸克 | 奇妙搜[js]",
+      "key": "drpy_js_濂囧鎼淸澶竇",
+      "name": "澶稿厠 | 濂囧鎼淸js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/qimiao.js",
+      "ext": "../../../libs/js/qimiao.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
     },
     {
-      "key": "drpy_js_愛盤搜",
-      "name": "夸克 | 爱盘搜[js]",
+      "key": "drpy_js_鎰涚洡鎼?,
+      "name": "澶稿厠 | 鐖辩洏鎼淸js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/aipanso.js",
+      "ext": "../../../libs/js/aipanso.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
     },
     {
-      "key": "drpy_js_趣盤搜",
-      "name": "夸克 | 趣盘搜[js]",
+      "key": "drpy_js_瓒ｇ洡鎼?,
+      "name": "澶稿厠 | 瓒ｇ洏鎼淸js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/funletu.js",
+      "ext": "../../../libs/js/funletu.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
     },
     {
       "key": "drpy_js_meow",
-      "name": "影视 | meow搜[js]",
+      "name": "褰辫 | meow鎼淸js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/meow.js",
+      "ext": "../../../libs/js/meow.js",
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30
     },
     {
       "key": "push_quark",
-      "name": "夸克 | 推送",
+      "name": "澶稿厠 | 鎺ㄩ€?,
       "type": 3,
       "api": "csp_Quark",
       "changeable": 0,
@@ -4222,7 +4222,7 @@
     },
     {
       "key": "push_agent",
-      "name": "手机 | 推送[jar]",
+      "name": "鎵嬫満 | 鎺ㄩ€乕jar]",
       "type": 3,
       "api": "csp_Push",
       "searchable": 0,
@@ -4232,30 +4232,30 @@
       "timeout": 30
     },
     {
-      "key": "drpy_js_磁力熊[磁]",
-      "name": "磁力 | 磁力熊[js]",
+      "key": "drpy_js_纾佸姏鐔奫纾乚",
+      "name": "纾佸姏 | 纾佸姏鐔奫js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "../../libs/js/磁力熊[磁].js",
+      "ext": "../../../libs/js/纾佸姏鐔奫纾乚.js",
       "timeout": 30
     },
     {
-      "key": "drpy_js_6V新版[磁]",
-      "name": "磁力 | 6V新版[js]",
+      "key": "drpy_js_6V鏂扮増[纾乚",
+      "name": "纾佸姏 | 6V鏂扮増[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "../../libs/js/6V新版[磁].js",
+      "ext": "../../../libs/js/6V鏂扮増[纾乚.js",
       "timeout": 30
     },
     {
-      "key": "drpy_js_童趣",
-      "name": "少儿 | 童趣[js]",
+      "key": "drpy_js_绔ヨ叮",
+      "name": "灏戝効 | 绔ヨ叮[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
@@ -4263,11 +4263,11 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "ext": "../../libs/js/童趣.js"
+      "ext": "../../../libs/js/绔ヨ叮.js"
     },
     {
-      "key": "drpy_js_兔小贝",
-      "name": "少儿 | 兔小贝[js]",
+      "key": "drpy_js_鍏斿皬璐?,
+      "name": "灏戝効 | 鍏斿皬璐漑js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "style": {
@@ -4275,11 +4275,11 @@
         "ratio": 1.597
       },
       "changeable": 0,
-      "ext": "../../libs/js/兔小贝.js"
+      "ext": "../../../libs/js/鍏斿皬璐?js"
     },
     {
-      "key": "drpy_js_有声绘本网",
-      "name": "少儿 | 有声绘本[js]",
+      "key": "drpy_js_鏈夊０缁樻湰缃?,
+      "name": "灏戝効 | 鏈夊０缁樻湰[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
@@ -4287,11 +4287,11 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "../../libs/js/有声绘本网.js"
+      "ext": "../../../libs/js/鏈夊０缁樻湰缃?js"
     },
     {
-      "key": "drpy_js_我的哔哩",
-      "name": "弹幕 | 哔哩合集[js]",
+      "key": "drpy_js_鎴戠殑鍝斿摡",
+      "name": "寮瑰箷 | 鍝斿摡鍚堥泦[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "style": {
@@ -4299,11 +4299,11 @@
         "ratio": 1.597
       },
       "changeable": 0,
-      "ext": "../../libs/js/我的哔哩.js"
+      "ext": "../../../libs/js/鎴戠殑鍝斿摡.js"
     },
     {
-      "key": "drpy_js_哔哩直播",
-      "name": "弹幕 | 哔哩直播[js]",
+      "key": "drpy_js_鍝斿摡鐩存挱",
+      "name": "寮瑰箷 | 鍝斿摡鐩存挱[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "style": {
@@ -4311,11 +4311,11 @@
         "ratio": 1.597
       },
       "changeable": 0,
-      "ext": "../../libs/js/哔哩直播.js"
+      "ext": "../../../libs/js/鍝斿摡鐩存挱.js"
     },
     {
-      "key": "drpy_js_哔哩影视",
-      "name": "弹幕 | 哔哩影视[js]",
+      "key": "drpy_js_鍝斿摡褰辫",
+      "name": "寮瑰箷 | 鍝斿摡褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "style": {
@@ -4323,11 +4323,11 @@
         "ratio": 1.597
       },
       "changeable": 0,
-      "ext": "../../libs/js/哔哩影视.js"
+      "ext": "../../../libs/js/鍝斿摡褰辫.js"
     },
     {
       "key": "drpy_js_JustLive",
-      "name": "弹幕 | JustLive[js]",
+      "name": "寮瑰箷 | JustLive[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "style": {
@@ -4335,11 +4335,11 @@
         "ratio": 1.597
       },
       "changeable": 0,
-      "ext": "../../libs/js/JustLive.js"
+      "ext": "../../../libs/js/JustLive.js"
     },
     {
-      "key": "drpy_js_斗鱼直播",
-      "name": "直播 | 斗鱼[js]",
+      "key": "drpy_js_鏂楅奔鐩存挱",
+      "name": "鐩存挱 | 鏂楅奔[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "style": {
@@ -4347,11 +4347,11 @@
         "ratio": 1.597
       },
       "changeable": 0,
-      "ext": "../../libs/js/斗鱼直播.js"
+      "ext": "../../../libs/js/鏂楅奔鐩存挱.js"
     },
     {
-      "key": "drpy_js_虎牙直播",
-      "name": "直播 | 虎牙[js]",
+      "key": "drpy_js_铏庣墮鐩存挱",
+      "name": "鐩存挱 | 铏庣墮[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "style": {
@@ -4359,11 +4359,11 @@
         "ratio": 1.597
       },
       "changeable": 0,
-      "ext": "../../libs/js/虎牙直播.js"
+      "ext": "../../../libs/js/铏庣墮鐩存挱.js"
     },
     {
-      "key": "drpy_js_310直播",
-      "name": "体育 | 310直播[js]",
+      "key": "drpy_js_310鐩存挱",
+      "name": "浣撹偛 | 310鐩存挱[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
@@ -4371,11 +4371,11 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "../../libs/js/310直播.js"
+      "ext": "../../../libs/js/310鐩存挱.js"
     },
     {
-      "key": "drpy_js_88看球",
-      "name": "体育 | 88看球[js]",
+      "key": "drpy_js_88鐪嬬悆",
+      "name": "浣撹偛 | 88鐪嬬悆[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
@@ -4383,11 +4383,11 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "../../libs/js/88看球.js"
+      "ext": "../../../libs/js/88鐪嬬悆.js"
     },
     {
-      "key": "drpy_js_JRKAN直播",
-      "name": "体育 | JRKAN直播[js]",
+      "key": "drpy_js_JRKAN鐩存挱",
+      "name": "浣撹偛 | JRKAN鐩存挱[js]",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "changeable": 0,
@@ -4395,11 +4395,11 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "../../libs/js/JRKAN直播.js"
+      "ext": "../../../libs/js/JRKAN鐩存挱.js"
     },
     {
-      "key": "drpy_js_抓饭体育",
-      "name": "体育 | 抓饭体育[js]",
+      "key": "drpy_js_鎶撻キ浣撹偛",
+      "name": "浣撹偛 | 鎶撻キ浣撹偛[js]",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "changeable": 0,
@@ -4407,11 +4407,11 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "../../libs/js/抓饭体育.js"
+      "ext": "../../../libs/js/鎶撻キ浣撹偛.js"
     },
     {
-      "key": "drpy_js_好趣网",
-      "name": "电视 | 好趣网[js]",
+      "key": "drpy_js_濂借叮缃?,
+      "name": "鐢佃 | 濂借叮缃慬js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "style": {
@@ -4419,167 +4419,155 @@
         "ratio": 1.333
       },
       "changeable": 0,
-      "ext": "../../libs/js/好趣网.js"
+      "ext": "../../../libs/js/濂借叮缃?js"
     },
     {
-      "key": "drpy_js_相声随身听",
-      "name": "相声 | 相声随身听[js]",
+      "key": "drpy_js_鐩稿０闅忚韩鍚?,
+      "name": "鐩稿０ | 鐩稿０闅忚韩鍚琜js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "../../libs/js/相声随身听.js"
+      "ext": "../../../libs/js/鐩稿０闅忚韩鍚?js"
     },
     {
-      "key": "drpy_js_评书随身听",
-      "name": "评书 | 评书随身听[js]",
+      "key": "drpy_js_璇勪功闅忚韩鍚?,
+      "name": "璇勪功 | 璇勪功闅忚韩鍚琜js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "../../libs/js/评书随身听.js"
+      "ext": "../../../libs/js/璇勪功闅忚韩鍚?js"
     },
     {
-      "key": "drpy_js_武享吧",
-      "name": "格斗 | 武享吧[js]",
+      "key": "drpy_js_姝︿韩鍚?,
+      "name": "鏍兼枟 | 姝︿韩鍚js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "../../libs/js/武享吧.js"
+      "ext": "../../../libs/js/姝︿韩鍚?js"
     },
     {
       "key": "drpy_js_Alist",
-      "name": "网盘 | Alist[js]",
+      "name": "缃戠洏 | Alist[js]",
       "type": 3,
       "api": "./lib/alist.min.js",
       "changeable": 0,
-      "ext": "../../libs/js/alist.json"
+      "ext": "../../../libs/js/alist.json"
     },
     {
-      "key": "drpy_js_58动漫",
-      "name": "动漫 | 58动漫[js]",
+      "key": "drpy_js_58鍔ㄦ极",
+      "name": "鍔ㄦ极 | 58鍔ㄦ极[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/58动漫.js"
+      "ext": "../../../libs/js/58鍔ㄦ极.js"
     },
     {
-      "key": "drpy_js_AGE动漫",
-      "name": "动漫 | AGE动漫[js]",
+      "key": "drpy_js_AGE鍔ㄦ极",
+      "name": "鍔ㄦ极 | AGE鍔ㄦ极[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/AGE动漫.js"
+      "ext": "../../../libs/js/AGE鍔ㄦ极.js"
     },
     {
       "key": "drpy_js_AnFuns",
-      "name": "动漫 | AnFuns[js]",
+      "name": "鍔ㄦ极 | AnFuns[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/AnFuns.js"
+      "ext": "../../../libs/js/AnFuns.js"
     },
     {
-      "key": "drpy_js_Anime1动畫",
-      "name": "动漫 | Anime1动畫[js]",
+      "key": "drpy_js_Anime1鍔ㄧ暙",
+      "name": "鍔ㄦ极 | Anime1鍔ㄧ暙[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/Anime1动畫.js"
+      "ext": "../../../libs/js/Anime1鍔ㄧ暙.js"
     },
     {
-      "key": "drpy_js_NT动漫",
-      "name": "动漫 | NT动漫[js]",
+      "key": "drpy_js_NT鍔ㄦ极",
+      "name": "鍔ㄦ极 | NT鍔ㄦ极[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/NT动漫.js"
+      "ext": "../../../libs/js/NT鍔ㄦ极.js"
     },
     {
       "key": "drpy_js_NyaFun",
-      "name": "动漫 | NyaFun[js]",
+      "name": "鍔ㄦ极 | NyaFun[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/NyaFun.js"
+      "ext": "../../../libs/js/NyaFun.js"
     },
     {
-      "key": "drpy_js_爱弹幕",
-      "name": "动漫 | 爱弹幕[js]",
+      "key": "drpy_js_鐖卞脊骞?,
+      "name": "鍔ㄦ极 | 鐖卞脊骞昜js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/爱弹幕.js"
+      "ext": "../../../libs/js/鐖卞脊骞?js"
     },
     {
-      "key": "drpy_js_动漫岛",
-      "name": "动漫 | 动漫岛[js]",
+      "key": "drpy_js_鍔ㄦ极宀?,
+      "name": "鍔ㄦ极 | 鍔ㄦ极宀沎js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/动漫岛.js"
+      "ext": "../../../libs/js/鍔ㄦ极宀?js"
     },
     {
-      "key": "drpy_js_路漫漫",
-      "name": "动漫 | 路漫漫[js]",
+      "key": "drpy_js_璺极婕?,
+      "name": "鍔ㄦ极 | 璺极婕玔js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/路漫漫.js"
+      "ext": "../../../libs/js/璺极婕?js"
     },
     {
-      "key": "drpy_js_喵次元",
-      "name": "影视 | 喵次元[js]",
+      "key": "drpy_js_鍠垫鍏?,
+      "name": "褰辫 | 鍠垫鍏僛js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/喵次元.js"
+      "ext": "../../../libs/js/鍠垫鍏?js"
     },
     {
-      "key": "drpy_js_奇米动漫",
-      "name": "动漫 | 奇米动漫[js]",
+      "key": "drpy_js_濂囩背鍔ㄦ极",
+      "name": "鍔ㄦ极 | 濂囩背鍔ㄦ极[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/奇米动漫.js"
+      "ext": "../../../libs/js/濂囩背鍔ㄦ极.js"
     },
     {
-      "key": "drpy_js_去看吧",
-      "name": "动漫 | 去看吧[js]",
+      "key": "drpy_js_鍘荤湅鍚?,
+      "name": "鍔ㄦ极 | 鍘荤湅鍚js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/去看吧.js"
+      "ext": "../../../libs/js/鍘荤湅鍚?js"
     },
     {
-      "key": "drpy_js_曲奇动漫",
-      "name": "动漫 | 曲奇动漫[js]",
+      "key": "drpy_js_鏇插鍔ㄦ极",
+      "name": "鍔ㄦ极 | 鏇插鍔ㄦ极[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/曲奇动漫.js"
+      "ext": "../../../libs/js/鏇插鍔ㄦ极.js"
     },
     {
-      "key": "drpy_js_异世界动漫漫",
-      "name": "动漫 | 异世界动漫[js]",
+      "key": "drpy_js_寮備笘鐣屽姩婕极",
+      "name": "鍔ㄦ极 | 寮備笘鐣屽姩婕玔js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/异世界动漫.js"
+      "ext": "../../../libs/js/寮備笘鐣屽姩婕?js"
     },
     {
-      "key": "drpy_js_怡萱动漫",
-      "name": "动漫 | 怡萱动漫[js]",
+      "key": "drpy_js_鎬¤惐鍔ㄦ极",
+      "name": "鍔ㄦ极 | 鎬¤惐鍔ㄦ极[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/怡萱动漫.js"
+      "ext": "../../../libs/js/鎬¤惐鍔ㄦ极.js"
     },
     {
-      "key": "drpy_js_A8音乐",
-      "name": "音频 | A8音乐[js]",
+      "key": "drpy_js_A8闊充箰",
+      "name": "闊抽 | A8闊充箰[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/A8音乐.js"
+      "ext": "../../../libs/js/A8闊充箰.js"
     },
     {
-      "key": "drpy_js_DJ音乐",
-      "name": "音频 | DJ音乐[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "ext": "../../libs/js/DJ音乐.js"
-    },
-    {
-      "key": "drpy_js_啦啦DJ",
-      "name": "音频 | 啦啦DJ[js]",
+      "key": "drpy_js_DJ闊充箰",
+      "name": "闊抽 | DJ闊充箰[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
@@ -4587,11 +4575,11 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "../../libs/js/啦啦DJ.js"
+      "ext": "../../../libs/js/DJ闊充箰.js"
     },
     {
-      "key": "drpy_js_清风DJ",
-      "name": "音频 | 清风DJ[js]",
+      "key": "drpy_js_鍟﹀暒DJ",
+      "name": "闊抽 | 鍟﹀暒DJ[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
@@ -4599,27 +4587,11 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "../../libs/js/清风DJ.js"
+      "ext": "../../../libs/js/鍟﹀暒DJ.js"
     },
     {
-      "key": "drpy_js_广播迷FM",
-      "name": "广播 | 广播迷FM[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "changeable": 0,
-      "ext": "../../libs/js/广播迷FM.js"
-    },
-    {
-      "key": "drpy_js_蜻蜓FM",
-      "name": "广播 | 蜻蜓FM[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "changeable": 0,
-      "ext": "../../libs/js/蜻蜓FM.js"
-    },
-    {
-      "key": "drpy_js_i275听书",
-      "name": "听书 | i275听书[js]",
+      "key": "drpy_js_娓呴DJ",
+      "name": "闊抽 | 娓呴DJ[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
@@ -4627,11 +4599,27 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "../../libs/js/i275听书.js"
+      "ext": "../../../libs/js/娓呴DJ.js"
     },
     {
-      "key": "drpy_js_爱上你听书网",
-      "name": "听书 | 爱上你听书[js]",
+      "key": "drpy_js_骞挎挱杩稦M",
+      "name": "骞挎挱 | 骞挎挱杩稦M[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "changeable": 0,
+      "ext": "../../../libs/js/骞挎挱杩稦M.js"
+    },
+    {
+      "key": "drpy_js_铚昏湏FM",
+      "name": "骞挎挱 | 铚昏湏FM[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "changeable": 0,
+      "ext": "../../../libs/js/铚昏湏FM.js"
+    },
+    {
+      "key": "drpy_js_i275鍚功",
+      "name": "鍚功 | i275鍚功[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
@@ -4639,11 +4627,11 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "../../libs/js/爱上你听书网.js"
+      "ext": "../../../libs/js/i275鍚功.js"
     },
     {
-      "key": "drpy_js_博看听书",
-      "name": "听书 | 博看听书[js]",
+      "key": "drpy_js_鐖变笂浣犲惉涔︾綉",
+      "name": "鍚功 | 鐖变笂浣犲惉涔js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
@@ -4651,11 +4639,11 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "../../libs/js/博看听书.js"
+      "ext": "../../../libs/js/鐖变笂浣犲惉涔︾綉.js"
     },
     {
-      "key": "drpy_js_海洋听书",
-      "name": "听书 | 海洋听书[js]",
+      "key": "drpy_js_鍗氱湅鍚功",
+      "name": "鍚功 | 鍗氱湅鍚功[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
@@ -4663,11 +4651,11 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "../../libs/js/海洋听书.js"
+      "ext": "../../../libs/js/鍗氱湅鍚功.js"
     },
     {
-      "key": "drpy_js_六月听书",
-      "name": "听书 | 六月听书[js]",
+      "key": "drpy_js_娴锋磱鍚功",
+      "name": "鍚功 | 娴锋磱鍚功[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
@@ -4675,11 +4663,11 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "../../libs/js/六月听书.js"
+      "ext": "../../../libs/js/娴锋磱鍚功.js"
     },
     {
-      "key": "drpy_js_有声小说",
-      "name": "听书 | 有声小说[js]",
+      "key": "drpy_js_鍏湀鍚功",
+      "name": "鍚功 | 鍏湀鍚功[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
@@ -4687,34 +4675,46 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "../../libs/js/有声小说吧.js"
+      "ext": "../../../libs/js/鍏湀鍚功.js"
     },
     {
-      "key": "drpy_js_播客",
-      "name": "聚合 | 播客[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/播客.js"
-    },
-    {
-      "key": "drpy_js_短视频",
-      "name": "聚合 | 短视频[js]",
+      "key": "drpy_js_鏈夊０灏忚",
+      "name": "鍚功 | 鏈夊０灏忚[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "../../libs/js/短视频.js"
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "../../../libs/js/鏈夊０灏忚鍚?js"
     },
     {
-      "key": "drpy_js_酷6网",
-      "name": "聚合 | 酷6网[js]",
+      "key": "drpy_js_鎾",
+      "name": "鑱氬悎 | 鎾[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "../../../libs/js/鎾.js"
+    },
+    {
+      "key": "drpy_js_鐭棰?,
+      "name": "鑱氬悎 | 鐭棰慬js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
-      "ext": "../../libs/js/酷6网.js"
+      "ext": "../../../libs/js/鐭棰?js"
     },
     {
-      "key": "drpy_js_网易公版影像",
-      "name": "聚合 | 网易公版[js]",
+      "key": "drpy_js_閰?缃?,
+      "name": "鑱氬悎 | 閰?缃慬js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "changeable": 0,
+      "ext": "../../../libs/js/閰?缃?js"
+    },
+    {
+      "key": "drpy_js_缃戞槗鍏増褰卞儚",
+      "name": "鑱氬悎 | 缃戞槗鍏増[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
@@ -4722,11 +4722,11 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "ext": "../../libs/js/网易公版影像.js"
+      "ext": "../../../libs/js/缃戞槗鍏増褰卞儚.js"
     },
     {
-      "key": "drpy_js_爱车MV",
-      "name": "MV | 爱车MV[js]",
+      "key": "drpy_js_鐖辫溅MV",
+      "name": "MV | 鐖辫溅MV[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
@@ -4734,11 +4734,11 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "../../libs/js/爱车MV.js"
+      "ext": "../../../libs/js/鐖辫溅MV.js"
     },
     {
-      "key": "drpy_js_酷奇MV",
-      "name": "MV | 酷奇[js]",
+      "key": "drpy_js_閰峰MV",
+      "name": "MV | 閰峰[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "changeable": 0,
@@ -4746,454 +4746,454 @@
         "type": "rect",
         "ratio": 1
       },
-      "ext": "../../libs/js/酷奇MV.js"
+      "ext": "../../../libs/js/閰峰MV.js"
     },
     {
-      "key": "drpy_js_爱看机器人",
-      "name": "影视 | 爱看机器人[js]",
+      "key": "drpy_js_鐖辩湅鏈哄櫒浜?,
+      "name": "褰辫 | 鐖辩湅鏈哄櫒浜篬js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "../../libs/js/爱看机器人.js"
+      "ext": "../../../libs/js/鐖辩湅鏈哄櫒浜?js"
     },
     {
       "key": "drpy_js_ikanbot2",
-      "name": "影视 | 爱看机器人2[js]",
+      "name": "褰辫 | 鐖辩湅鏈哄櫒浜?[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "../../libs/js/ikanbot2.js"
+      "ext": "../../../libs/js/ikanbot2.js"
     },
     {
       "key": "drpy_js_ikanbot3",
-      "name": "影视 | 爱看机器人3[js]",
+      "name": "褰辫 | 鐖辩湅鏈哄櫒浜?[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "../../libs/js/ikanbot3.js"
+      "ext": "../../../libs/js/ikanbot3.js"
     },
     {
       "key": "drpy_js_jsapi2",
-      "name": "影视 | 百度测试[js]",
+      "name": "褰辫 | 鐧惧害娴嬭瘯[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/jsapi2.js"
+      "ext": "../../../libs/js/jsapi2.js"
     },
     {
-      "key": "drpy_js_139影视",
-      "name": "影视 | 139影视[js]",
+      "key": "drpy_js_139褰辫",
+      "name": "褰辫 | 139褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/139影视.js"
+      "ext": "../../../libs/js/139褰辫.js"
     },
     {
-      "key": "drpy_js_348电影网",
-      "name": "影视 | 348电影网[js]",
+      "key": "drpy_js_348鐢靛奖缃?,
+      "name": "褰辫 | 348鐢靛奖缃慬js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/348电影网.js"
+      "ext": "../../../libs/js/348鐢靛奖缃?js"
     },
     {
-      "key": "drpy_js_4K电影网",
-      "name": "影视 | 4K电影网[js]",
+      "key": "drpy_js_4K鐢靛奖缃?,
+      "name": "褰辫 | 4K鐢靛奖缃慬js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/4K电影网.js"
+      "ext": "../../../libs/js/4K鐢靛奖缃?js"
     },
     {
-      "key": "drpy_js_8号影院",
-      "name": "影视 | 8号影院[js]",
+      "key": "drpy_js_8鍙峰奖闄?,
+      "name": "褰辫 | 8鍙峰奖闄js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/8号影院.js"
+      "ext": "../../../libs/js/8鍙峰奖闄?js"
     },
     {
       "key": "drpy_js_JangoIndex",
-      "name": "影视 | JangoIndex[js]",
+      "name": "褰辫 | JangoIndex[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/JangoIndex.js"
+      "ext": "../../../libs/js/JangoIndex.js"
     },
     {
-      "key": "drpy_js_NY影院",
-      "name": "影视 | NY影院[js]",
+      "key": "drpy_js_NY褰遍櫌",
+      "name": "褰辫 | NY褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/NY影院.js"
+      "ext": "../../../libs/js/NY褰遍櫌.js"
     },
     {
-      "key": "drpy_js_被窝电影",
-      "name": "影视 | 被窝电影[js]",
+      "key": "drpy_js_琚獫鐢靛奖",
+      "name": "褰辫 | 琚獫鐢靛奖[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/被窝电影.js"
+      "ext": "../../../libs/js/琚獫鐢靛奖.js"
     },
     {
-      "key": "drpy_js_厂长资源",
-      "name": "影视 | 厂长资源[js]",
+      "key": "drpy_js_鍘傞暱璧勬簮",
+      "name": "褰辫 | 鍘傞暱璧勬簮[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/厂长资源.js"
+      "ext": "../../../libs/js/鍘傞暱璧勬簮.js"
     },
     {
-      "key": "drpy_js_楚门影院",
-      "name": "影视 | 楚门影院[js]",
+      "key": "drpy_js_妤氶棬褰遍櫌",
+      "name": "褰辫 | 妤氶棬褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/楚门影院.js"
+      "ext": "../../../libs/js/妤氶棬褰遍櫌.js"
     },
     {
-      "key": "drpy_js_大米星球",
-      "name": "影视 | 大米星球[js]",
+      "key": "drpy_js_澶х背鏄熺悆",
+      "name": "褰辫 | 澶х背鏄熺悆[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/大米星球.js"
+      "ext": "../../../libs/js/澶х背鏄熺悆.js"
     },
     {
-      "key": "drpy_js_飞兔影视",
-      "name": "影视 | 飞兔影视[js]",
+      "key": "drpy_js_椋炲厰褰辫",
+      "name": "褰辫 | 椋炲厰褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/飞兔影视.js"
+      "ext": "../../../libs/js/椋炲厰褰辫.js"
     },
     {
-      "key": "drpy_js_海兔影院",
-      "name": "影视 | 海兔影院[js]",
+      "key": "drpy_js_娴峰厰褰遍櫌",
+      "name": "褰辫 | 娴峰厰褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/海兔影院.js"
+      "ext": "../../../libs/js/娴峰厰褰遍櫌.js"
     },
     {
-      "key": "drpy_js_花猫TV",
-      "name": "影视 | 花猫TV[js]",
+      "key": "drpy_js_鑺辩尗TV",
+      "name": "褰辫 | 鑺辩尗TV[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/花猫TV.js"
+      "ext": "../../../libs/js/鑺辩尗TV.js"
     },
     {
-      "key": "drpy_js_花屋影院",
-      "name": "影视 | 花屋影院[js]",
+      "key": "drpy_js_鑺卞眿褰遍櫌",
+      "name": "褰辫 | 鑺卞眿褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/花屋影院.js"
+      "ext": "../../../libs/js/鑺卞眿褰遍櫌.js"
     },
     {
-      "key": "drpy_js_开眼视频",
-      "name": "影视 | 开眼视频[js]",
+      "key": "drpy_js_寮€鐪艰棰?,
+      "name": "褰辫 | 寮€鐪艰棰慬js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/开眼视频.js"
+      "ext": "../../../libs/js/寮€鐪艰棰?js"
     },
     {
-      "key": "drpy_js_看了么",
-      "name": "影视 | 看了么[js]",
+      "key": "drpy_js_鐪嬩簡涔?,
+      "name": "褰辫 | 鐪嬩簡涔圼js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/看了么.js"
+      "ext": "../../../libs/js/鐪嬩簡涔?js"
     },
     {
-      "key": "drpy_js_徕米TV",
-      "name": "影视 | 徕米TV[js]",
+      "key": "drpy_js_寰曠背TV",
+      "name": "褰辫 | 寰曠背TV[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/徕米TV.js"
+      "ext": "../../../libs/js/寰曠背TV.js"
     },
     {
-      "key": "drpy_js_乐鱼影视",
-      "name": "影视 | 乐鱼影视[js]",
+      "key": "drpy_js_涔愰奔褰辫",
+      "name": "褰辫 | 涔愰奔褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/乐鱼影视.js"
+      "ext": "../../../libs/js/涔愰奔褰辫.js"
     },
     {
-      "key": "drpy_js_美剧网",
-      "name": "影视 | 美剧网[js]",
+      "key": "drpy_js_缇庡墽缃?,
+      "name": "褰辫 | 缇庡墽缃慬js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/美剧网.js"
+      "ext": "../../../libs/js/缇庡墽缃?js"
     },
     {
-      "key": "drpy_js_美视网",
-      "name": "影视 | 美视网[js]",
+      "key": "drpy_js_缇庤缃?,
+      "name": "褰辫 | 缇庤缃慬js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/美视网.js"
+      "ext": "../../../libs/js/缇庤缃?js"
     },
     {
-      "key": "drpy_js_米爱影视",
-      "name": "影视 | 米爱影视[js]",
+      "key": "drpy_js_绫崇埍褰辫",
+      "name": "褰辫 | 绫崇埍褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/米爱影视.js"
+      "ext": "../../../libs/js/绫崇埍褰辫.js"
     },
     {
-      "key": "drpy_js_免费看",
-      "name": "影视 | 免费看[js]",
+      "key": "drpy_js_鍏嶈垂鐪?,
+      "name": "褰辫 | 鍏嶈垂鐪媅js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/免费看.js"
+      "ext": "../../../libs/js/鍏嶈垂鐪?js"
     },
     {
-      "key": "drpy_js_奈飞中文",
-      "name": "影视 | 奈飞中文[js]",
+      "key": "drpy_js_濂堥涓枃",
+      "name": "褰辫 | 濂堥涓枃[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/奈飞中文.js"
+      "ext": "../../../libs/js/濂堥涓枃.js"
     },
     {
-      "key": "drpy_js_欧帝影院",
-      "name": "影视 | 欧帝影院[js]",
+      "key": "drpy_js_娆у笣褰遍櫌",
+      "name": "褰辫 | 娆у笣褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/欧帝影院.js"
+      "ext": "../../../libs/js/娆у笣褰遍櫌.js"
     },
     {
-      "key": "drpy_js_皮皮鸭",
-      "name": "影视 | 皮皮鸭[js]",
+      "key": "drpy_js_鐨毊楦?,
+      "name": "褰辫 | 鐨毊楦璠js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/皮皮鸭.js"
+      "ext": "../../../libs/js/鐨毊楦?js"
     },
     {
-      "key": "drpy_js_朴樱影视",
-      "name": "影视 | 朴樱影视[js]",
+      "key": "drpy_js_鏈存ū褰辫",
+      "name": "褰辫 | 鏈存ū褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/朴樱影视.js"
+      "ext": "../../../libs/js/鏈存ū褰辫.js"
     },
     {
-      "key": "drpy_js_秋霞影院",
-      "name": "影视 | 秋霞影院[js]",
+      "key": "drpy_js_绉嬮湠褰遍櫌",
+      "name": "褰辫 | 绉嬮湠褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/秋霞.js"
+      "ext": "../../../libs/js/绉嬮湠.js"
     },
     {
-      "key": "drpy_js_热播之家",
-      "name": "影视 | 热播之家[js]",
+      "key": "drpy_js_鐑挱涔嬪",
+      "name": "褰辫 | 鐑挱涔嬪[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/热播之家.js"
+      "ext": "../../../libs/js/鐑挱涔嬪.js"
     },
     {
-      "key": "drpy_js_人人影视",
-      "name": "影视 | 人人影视[js]",
+      "key": "drpy_js_浜轰汉褰辫",
+      "name": "褰辫 | 浜轰汉褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/人人影视.js"
+      "ext": "../../../libs/js/浜轰汉褰辫.js"
     },
     {
-      "key": "drpy_js_骚火电影",
-      "name": "影视 | 骚火电影[js]",
+      "key": "drpy_js_楠氱伀鐢靛奖",
+      "name": "褰辫 | 楠氱伀鐢靛奖[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/骚火电影.js"
+      "ext": "../../../libs/js/楠氱伀鐢靛奖.js"
     },
     {
-      "key": "drpy_js_时光影视",
-      "name": "影视 | 时光影视[js]",
+      "key": "drpy_js_鏃跺厜褰辫",
+      "name": "褰辫 | 鏃跺厜褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/时光影视.js"
+      "ext": "../../../libs/js/鏃跺厜褰辫.js"
     },
     {
-      "key": "drpy_js_思古影视",
-      "name": "影视 | 思古影视",
+      "key": "drpy_js_鎬濆彜褰辫",
+      "name": "褰辫 | 鎬濆彜褰辫",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/思古影视.js"
+      "ext": "../../../libs/js/鎬濆彜褰辫.js"
     },
     {
-      "key": "drpy_js_私人影院",
-      "name": "影视 | 私人影院[js]",
+      "key": "drpy_js_绉佷汉褰遍櫌",
+      "name": "褰辫 | 绉佷汉褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/私人影院.js"
+      "ext": "../../../libs/js/绉佷汉褰遍櫌.js"
     },
     {
-      "key": "drpy_js_素白白",
-      "name": "影视 | 素白白[js]",
+      "key": "drpy_js_绱犵櫧鐧?,
+      "name": "褰辫 | 绱犵櫧鐧絒js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/素白白.js"
+      "ext": "../../../libs/js/绱犵櫧鐧?js"
     },
     {
-      "key": "drpy_js_网飞.TV",
-      "name": "影视 | 网飞.TV[js]",
+      "key": "drpy_js_缃戦.TV",
+      "name": "褰辫 | 缃戦.TV[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/网飞.TV.js"
+      "ext": "../../../libs/js/缃戦.TV.js"
     },
     {
-      "key": "drpy_js_西瓜影院",
-      "name": "影视 | 西瓜影院[js]",
+      "key": "drpy_js_瑗跨摐褰遍櫌",
+      "name": "褰辫 | 瑗跨摐褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/西瓜影院.js"
+      "ext": "../../../libs/js/瑗跨摐褰遍櫌.js"
     },
     {
-      "key": "drpy_js_蜥蜴影视",
-      "name": "影视 | 蜥蜴影视[js]",
+      "key": "drpy_js_铚ヨ湸褰辫",
+      "name": "褰辫 | 铚ヨ湸褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/蜥蜴影视.js"
+      "ext": "../../../libs/js/铚ヨ湸褰辫.js"
     },
     {
-      "key": "drpy_js_小狗影院",
-      "name": "影视 | 小狗影院[js]",
+      "key": "drpy_js_灏忕嫍褰遍櫌",
+      "name": "褰辫 | 灏忕嫍褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/小狗影院.js"
+      "ext": "../../../libs/js/灏忕嫍褰遍櫌.js"
     },
     {
-      "key": "drpy_js_新视觉影视",
-      "name": "影视 | 新视觉影视[js]",
+      "key": "drpy_js_鏂拌瑙夊奖瑙?,
+      "name": "褰辫 | 鏂拌瑙夊奖瑙哰js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/新视觉影视.js"
+      "ext": "../../../libs/js/鏂拌瑙夊奖瑙?js"
     },
     {
-      "key": "drpy_js_星辰影院",
-      "name": "影视 | 星辰影院[js]",
+      "key": "drpy_js_鏄熻景褰遍櫌",
+      "name": "褰辫 | 鏄熻景褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/星辰.js"
+      "ext": "../../../libs/js/鏄熻景.js"
     },
     {
-      "key": "drpy_js_玄天",
-      "name": "影视 | 玄天[js]",
+      "key": "drpy_js_鐜勫ぉ",
+      "name": "褰辫 | 鐜勫ぉ[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/玄天.js"
+      "ext": "../../../libs/js/鐜勫ぉ.js"
     },
     {
-      "key": "drpy_js_映迷影院",
-      "name": "影视 | 映迷影院[js]",
+      "key": "drpy_js_鏄犺糠褰遍櫌",
+      "name": "褰辫 | 鏄犺糠褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/映迷影院.js"
+      "ext": "../../../libs/js/鏄犺糠褰遍櫌.js"
     },
     {
-      "key": "drpy_js_中国人",
-      "name": "影视 | 中国人[js]",
+      "key": "drpy_js_涓浗浜?,
+      "name": "褰辫 | 涓浗浜篬js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/中国人.js"
+      "ext": "../../../libs/js/涓浗浜?js"
     },
     {
-      "key": "drpy_js_追剧迷",
-      "name": "影视 | 追剧迷[js]",
+      "key": "drpy_js_杩藉墽杩?,
+      "name": "褰辫 | 杩藉墽杩穂js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/追剧迷.js"
+      "ext": "../../../libs/js/杩藉墽杩?js"
     },
     {
-      "key": "drpy_js_子子影视",
-      "name": "影视 | 子子影视[js]",
+      "key": "drpy_js_瀛愬瓙褰辫",
+      "name": "褰辫 | 瀛愬瓙褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/子子影视.js"
+      "ext": "../../../libs/js/瀛愬瓙褰辫.js"
     },
     {
-      "key": "drpy_js_大师兄影视",
-      "name": "起飞 | 大师兄影视[js]",
+      "key": "drpy_js_澶у笀鍏勫奖瑙?,
+      "name": "璧烽 | 澶у笀鍏勫奖瑙哰js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/大师兄影视.js"
+      "ext": "../../../libs/js/澶у笀鍏勫奖瑙?js"
     },
     {
-      "key": "drpy_js_华乐影院",
-      "name": "起飞 | 华乐影院[js]",
+      "key": "drpy_js_鍗庝箰褰遍櫌",
+      "name": "璧烽 | 鍗庝箰褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/华乐影院[飞].js"
+      "ext": "../../../libs/js/鍗庝箰褰遍櫌[椋瀅.js"
     },
     {
-      "key": "drpy_js_天天视频",
-      "name": "起飞 | 天天视频[js]",
+      "key": "drpy_js_澶╁ぉ瑙嗛",
+      "name": "璧烽 | 澶╁ぉ瑙嗛[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/天天视频[飞].js"
+      "ext": "../../../libs/js/澶╁ぉ瑙嗛[椋瀅.js"
     },
     {
-      "key": "drpy_js_起飞影院",
-      "name": "起飞 | 起飞影院[js]",
+      "key": "drpy_js_璧烽褰遍櫌",
+      "name": "璧烽 | 璧烽褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/起飞影院.js"
+      "ext": "../../../libs/js/璧烽褰遍櫌.js"
     },
     {
-      "key": "drpy_js_兰花影院",
-      "name": "起飞 | 兰花影院[js]",
+      "key": "drpy_js_鍏拌姳褰遍櫌",
+      "name": "璧烽 | 鍏拌姳褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/兰花影院.js"
+      "ext": "../../../libs/js/鍏拌姳褰遍櫌.js"
     },
     {
-      "key": "drpy_js_胖虎",
-      "name": "起飞 | 胖虎[js]",
+      "key": "drpy_js_鑳栬檸",
+      "name": "璧烽 | 鑳栬檸[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/胖虎.js"
+      "ext": "../../../libs/js/鑳栬檸.js"
     },
     {
-      "key": "drpy_js_555影视[飞]",
-      "name": "起飞 | 555影视[js]",
+      "key": "drpy_js_555褰辫[椋瀅",
+      "name": "璧烽 | 555褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/555影视[飞].js"
+      "ext": "../../../libs/js/555褰辫[椋瀅.js"
     },
     {
-      "key": "drpy_js_if101[飞]",
-      "name": "起飞 | if101[js]",
+      "key": "drpy_js_if101[椋瀅",
+      "name": "璧烽 | if101[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/if101[飞].js"
+      "ext": "../../../libs/js/if101[椋瀅.js"
     },
     {
-      "key": "drpy_js_KUBO影视[飞]",
-      "name": "起飞 | KUBO影视[js]",
+      "key": "drpy_js_KUBO褰辫[椋瀅",
+      "name": "璧烽 | KUBO褰辫[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/KUBO影视[飞].js"
+      "ext": "../../../libs/js/KUBO褰辫[椋瀅.js"
     },
     {
-      "key": "drpy_js_爱壹帆[飞]",
-      "name": "起飞 | 爱壹帆[js]",
+      "key": "drpy_js_鐖卞９甯哰椋瀅",
+      "name": "璧烽 | 鐖卞９甯哰js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/爱壹帆[飞].js"
+      "ext": "../../../libs/js/鐖卞９甯哰椋瀅.js"
     },
     {
-      "key": "drpy_js_独播库[飞]",
-      "name": "起飞 | 独播库[js]",
+      "key": "drpy_js_鐙挱搴揫椋瀅",
+      "name": "璧烽 | 鐙挱搴揫js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/独播库[飞].js"
+      "ext": "../../../libs/js/鐙挱搴揫椋瀅.js"
     },
     {
-      "key": "drpy_js_欧乐影院[飞]",
-      "name": "起飞 | 欧乐影院[js]",
+      "key": "drpy_js_娆т箰褰遍櫌[椋瀅",
+      "name": "璧烽 | 娆т箰褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/欧乐影院[飞].js"
+      "ext": "../../../libs/js/娆т箰褰遍櫌[椋瀅.js"
     },
     {
-      "key": "drpy_js_小宝影院[飞]",
-      "name": "起飞 | 小宝影院[js]",
+      "key": "drpy_js_灏忓疂褰遍櫌[椋瀅",
+      "name": "璧烽 | 灏忓疂褰遍櫌[js]",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/小宝影院[飞].js"
+      "ext": "../../../libs/js/灏忓疂褰遍櫌[椋瀅.js"
     },
     {
-      "key": "應用商店",
-      "name": "應用商店",
+      "key": "鎳夌敤鍟嗗簵",
+      "name": "鎳夌敤鍟嗗簵",
       "type": 3,
       "api": "csp_Market",
       "searchable": 0,
@@ -5202,44 +5202,44 @@
     },
     {
       "key": "bb",
-      "name": "配置接口完全免费",
+      "name": "閰嶇疆鎺ュ彛瀹屽叏鍏嶈垂",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/drpy.js"
+      "ext": "../../../libs/js/drpy.js"
     },
     {
       "key": "cc",
-      "name": "请勿相信视频中任何广告",
+      "name": "璇峰嬁鐩镐俊瑙嗛涓换浣曞箍鍛?,
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "../../libs/js/drpy.js"
+      "ext": "../../../libs/js/drpy.js"
     }
   ],
   "parses": [
     {
-      "name": "Json聚合",
+      "name": "Json鑱氬悎",
       "type": 3,
       "url": "Demo"
     },
     {
-      "name": "虾米",
+      "name": "铏剧背",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
         "flag": [
           "qq",
-          "腾讯",
+          "鑵捐",
           "qiyi",
-          "爱奇艺",
-          "奇艺",
+          "鐖卞鑹?,
+          "濂囪壓",
           "youku",
-          "优酷",
+          "浼橀叿",
           "sohu",
-          "搜狐",
+          "鎼滅嫄",
           "letv",
-          "乐视",
+          "涔愯",
           "mgtv",
-          "芒果",
+          "鑺掓灉",
           "imgo",
           "rx",
           "ltnb",
@@ -5257,26 +5257,26 @@
         "flag": [
           "qiyi",
           "imgo",
-          "爱奇艺",
-          "奇艺",
+          "鐖卞鑹?,
+          "濂囪壓",
           "qq",
-          "腾讯",
+          "鑵捐",
           "youku",
-          "优酷",
+          "浼橀叿",
           "pptv",
           "PPTV",
           "letv",
-          "乐视",
+          "涔愯",
           "leshi",
           "bilibili",
-          "哔哩哔哩",
-          "哔哩",
+          "鍝斿摡鍝斿摡",
+          "鍝斿摡",
           "mgtv",
-          "芒果",
+          "鑺掓灉",
           "sohu",
           "xigua",
           "fun",
-          "风行"
+          "椋庤"
         ],
         "header": {
           "User-Agent": "Mozilla/5.0"
@@ -5299,26 +5299,26 @@
         "flag": [
           "qiyi",
           "imgo",
-          "爱奇艺",
-          "奇艺",
+          "鐖卞鑹?,
+          "濂囪壓",
           "qq",
-          "腾讯",
+          "鑵捐",
           "youku",
-          "优酷",
+          "浼橀叿",
           "pptv",
           "PPTV",
           "letv",
-          "乐视",
+          "涔愯",
           "leshi",
           "bilibili",
-          "哔哩哔哩",
-          "哔哩",
+          "鍝斿摡鍝斿摡",
+          "鍝斿摡",
           "mgtv",
-          "芒果",
+          "鑺掓灉",
           "sohu",
           "xigua",
           "fun",
-          "风行"
+          "椋庤"
         ],
         "header": {
           "User-Agent": "Mozilla/5.0"
@@ -5329,12 +5329,12 @@
       }
     },
     {
-      "name": "看看",
+      "name": "鐪嬬湅",
       "type": 0,
       "url": "https://jx.m3u8.pw/?url="
     },
     {
-      "name": "咸鱼",
+      "name": "鍜搁奔",
       "type": 0,
       "url": "https://jx.xyflv.cc/?url=",
       "ext": {
@@ -5345,7 +5345,7 @@
       }
     },
     {
-      "name": "云解析",
+      "name": "浜戣В鏋?,
       "type": 0,
       "url": "https://jx.yparse.com/index.php?url=",
       "ext": {
@@ -5355,7 +5355,7 @@
       }
     },
     {
-      "name": "爱豆",
+      "name": "鐖辫眴",
       "type": 0,
       "url": "https://jx.aidouer.net/?url=",
       "ext": {
@@ -5366,24 +5366,24 @@
       }
     },
     {
-      "name": "巧技",
+      "name": "宸ф妧",
       "type": 1,
       "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
       "ext": {
         "flag": [
           "qq",
-          "腾讯",
+          "鑵捐",
           "qiyi",
-          "爱奇艺",
-          "奇艺",
+          "鐖卞鑹?,
+          "濂囪壓",
           "youku",
-          "优酷",
+          "浼橀叿",
           "sohu",
-          "搜狐",
+          "鎼滅嫄",
           "letv",
-          "乐视",
+          "涔愯",
           "mgtv",
-          "芒果",
+          "鑺掓灉",
           "tnmb",
           "seven",
           "bilibili",
@@ -5395,24 +5395,24 @@
       }
     },
     {
-      "name": "巧技二",
+      "name": "宸ф妧浜?,
       "type": 1,
       "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
       "ext": {
         "flag": [
           "qq",
-          "腾讯",
+          "鑵捐",
           "qiyi",
-          "爱奇艺",
-          "奇艺",
+          "鐖卞鑹?,
+          "濂囪壓",
           "youku",
-          "优酷",
+          "浼橀叿",
           "sohu",
-          "搜狐",
+          "鎼滅嫄",
           "letv",
-          "乐视",
+          "涔愯",
           "mgtv",
-          "芒果",
+          "鑺掓灉",
           "tnmb",
           "seven",
           "bilibili",
@@ -5427,37 +5427,37 @@
   ],
   "flags": [
     "youku",
-    "优酷",
-    "优 酷",
-    "优酷视频",
+    "浼橀叿",
+    "浼?閰?,
+    "浼橀叿瑙嗛",
     "qq",
-    "腾讯",
-    "腾 讯",
-    "腾讯视频",
+    "鑵捐",
+    "鑵?璁?,
+    "鑵捐瑙嗛",
     "iqiyi",
     "qiyi",
-    "奇艺",
-    "爱奇艺",
-    "爱 奇 艺",
+    "濂囪壓",
+    "鐖卞鑹?,
+    "鐖?濂?鑹?,
     "m1905",
     "xigua",
     "letv",
     "leshi",
-    "乐视",
-    "乐 视",
+    "涔愯",
+    "涔?瑙?,
     "sohu",
-    "搜狐",
-    "搜 狐",
-    "搜狐视频",
+    "鎼滅嫄",
+    "鎼?鐙?,
+    "鎼滅嫄瑙嗛",
     "tudou",
     "mgtv",
-    "芒果",
+    "鑺掓灉",
     "imgo",
-    "芒果TV",
-    "芒 果 T V",
+    "鑺掓灉TV",
+    "鑺?鏋?T V",
     "bilibili",
-    "哔 哩",
-    "哔 哩 哔 哩",
+    "鍝?鍝?,
+    "鍝?鍝?鍝?鍝?,
     "SPA",
     "YuMi-vip",
     "pptv",
@@ -5562,33 +5562,33 @@
       ]
     },
     {
-      "name": "磁力廣告",
+      "name": "纾佸姏寤ｅ憡",
       "hosts": [
         "magnet"
       ],
       "regex": [
-        "更多",
-        "社區",
+        "鏇村",
+        "绀惧崁",
         "xuu",
-        "最新",
-        "最新",
-        "直播",
-        "更新",
-        "社区",
-        "有趣",
-        "有趣",
-        "英皇体育",
-        "全中文AV在线",
-        "澳门皇冠赌场",
-        "哥哥快来",
-        "美女荷官",
-        "裸聊",
-        "新片首发",
+        "鏈€鏂?,
+        "鏈€鏂?,
+        "鐩存挱",
+        "鏇存柊",
+        "绀惧尯",
+        "鏈夎叮",
+        "鏈夎叮",
+        "鑻辩殗浣撹偛",
+        "鍏ㄤ腑鏂嘇V鍦ㄧ嚎",
+        "婢抽棬鐨囧啝璧屽満",
+        "鍝ュ摜蹇潵",
+        "缇庡コ鑽峰畼",
+        "瑁歌亰",
+        "鏂扮墖棣栧彂",
         "UUE29"
       ]
     },
     {
-      "name": "海外看",
+      "name": "娴峰鐪?,
       "hosts": [
         "haiwaikan"
       ],
@@ -5603,7 +5603,7 @@
       ]
     },
     {
-      "name": "索尼",
+      "name": "绱㈠凹",
       "hosts": [
         "suonizy"
       ],
@@ -5613,7 +5613,7 @@
       ]
     },
     {
-      "name": "暴風",
+      "name": "鏆撮ⅷ",
       "hosts": [
         "bfzy"
       ],
@@ -5622,7 +5622,7 @@
       ]
     },
     {
-      "name": "星星",
+      "name": "鏄熸槦",
       "hosts": [
         "aws.ulivetv.net"
       ],
@@ -5631,7 +5631,7 @@
       ]
     },
     {
-      "name": "量子",
+      "name": "閲忓瓙",
       "hosts": [
         "vip.lz",
         "hd.lz",
@@ -5642,7 +5642,7 @@
       ]
     },
     {
-      "name": "非凡",
+      "name": "闈炲嚒",
       "hosts": [
         "vip.ffzy",
         "hd.ffzy"
@@ -5652,7 +5652,7 @@
       ]
     },
     {
-      "name": "火山嗅探",
+      "name": "鐏北鍡呮帰",
       "hosts": [
         "huoshan.com"
       ],
@@ -5661,7 +5661,7 @@
       ]
     },
     {
-      "name": "抖音嗅探",
+      "name": "鎶栭煶鍡呮帰",
       "hosts": [
         "douyin.com"
       ],
@@ -5670,7 +5670,7 @@
       ]
     },
     {
-      "name": "農民嗅探",
+      "name": "杈叉皯鍡呮帰",
       "hosts": [
         "toutiaovod.com"
       ],
@@ -5679,7 +5679,7 @@
       ]
     },
     {
-      "name": "七新嗅探",
+      "name": "涓冩柊鍡呮帰",
       "hosts": [
         "api.52wyb.com"
       ],
@@ -5688,7 +5688,7 @@
       ]
     },
     {
-      "name": "夜市點擊",
+      "name": "澶滃競榛炴搳",
       "hosts": [
         "yeslivetv.com"
       ],
@@ -5697,7 +5697,7 @@
       ]
     },
     {
-      "name": "毛驢點擊",
+      "name": "姣涢榛炴搳",
       "hosts": [
         "www.maolvys.com"
       ],
@@ -5711,3 +5711,4 @@
     "s3t3d2y8.afcdn.net"
   ]
 }
+

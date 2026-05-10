@@ -1,9 +1,9 @@
-{
+﻿{
   "spider": "https://raw.githubusercontent.com/cyao2q/files/master/jar/Butterfly.jar;md5;6695B4FE705A1EEDCAE352ABE5412640",
   "sites": [
     {
-      "key": "豆豆推荐",
-      "name": "豆豆推荐",
+      "key": "璞嗚眴鎺ㄨ崘",
+      "name": "璞嗚眴鎺ㄨ崘",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -11,8 +11,8 @@
       "filterable": 0
     },
     {
-      "key": "厂长影视",
-      "name": "厂长影视",
+      "key": "鍘傞暱褰辫",
+      "name": "鍘傞暱褰辫",
       "type": 3,
       "api": "csp_Czsapp",
       "playerType": 2,
@@ -23,8 +23,8 @@
       "ext": "https://www.czys03.com/"
     },
     {
-      "key": "低端影视",
-      "name": "低端影视",
+      "key": "浣庣褰辫",
+      "name": "浣庣褰辫",
       "type": 3,
       "api": "csp_Ddrk",
       "playerType": 2,
@@ -34,8 +34,8 @@
       "changeable": 0
     },
     {
-      "key": "南瓜",
-      "name": "南瓜影视",
+      "key": "鍗楃摐",
+      "name": "鍗楃摐褰辫",
       "type": 3,
       "api": "csp_NanGua",
       "playerType": 2,
@@ -44,8 +44,8 @@
       "changeable": 1
     },
     {
-      "key": "萌米",
-      "name": "萌米影视",
+      "key": "钀岀背",
+      "name": "钀岀背褰辫",
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
@@ -54,8 +54,8 @@
       "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
     },
     {
-      "key": "毛驴影视",
-      "name": "毛驴影视",
+      "key": "姣涢┐褰辫",
+      "name": "姣涢┐褰辫",
       "type": 3,
       "api": "csp_MLYS",
       "searchable": 1,
@@ -64,8 +64,8 @@
       "ext": "https://www.maolvys.com/"
     },
     {
-      "key": "蚂蚁影视",
-      "name": "蚂蚁影视",
+      "key": "铓傝殎褰辫",
+      "name": "铓傝殎褰辫",
       "type": 3,
       "api": "csp_MYYS",
       "searchable": 1,
@@ -74,8 +74,8 @@
       "ext": "http://rzys.xyz"
     },
     {
-      "key": "一起看啊",
-      "name": "一起看啊",
+      "key": "涓€璧风湅鍟?,
+      "name": "涓€璧风湅鍟?,
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
@@ -83,19 +83,19 @@
       "changeable": 1
     },
     {
-      "key": "玩偶哥哥",
-      "name": "玩偶哥哥",
+      "key": "鐜╁伓鍝ュ摜",
+      "name": "鐜╁伓鍝ュ摜",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$寮?
     },
     {
-      "key": "快看资源",
-      "name": "快看资源",
+      "key": "蹇湅璧勬簮",
+      "name": "蹇湅璧勬簮",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -106,7 +106,7 @@
     },
     {
       "key": "SP2345",
-      "name": "2345影视",
+      "name": "2345褰辫",
       "type": 3,
       "api": "csp_SP2345",
       "searchable": 1,
@@ -115,8 +115,8 @@
       "jar": "./jar/Extra.jar;md5;CD4C7F811864B0D97885EC48303000A4"
     },
     {
-      "key": "哔哩歌曲",
-      "name": "哔哩歌曲",
+      "key": "鍝斿摡姝屾洸",
+      "name": "鍝斿摡姝屾洸",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -126,8 +126,8 @@
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json"
     },
     {
-      "key": "哔哩哔哩",
-      "name": "哔哩合集",
+      "key": "鍝斿摡鍝斿摡",
+      "name": "鍝斿摡鍚堥泦",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -137,8 +137,8 @@
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/bilibili.json"
     },
     {
-      "key": "MTV合集",
-      "name": "MTV合集",
+      "key": "MTV鍚堥泦",
+      "name": "MTV鍚堥泦",
       "type": 1,
       "api": "https://tvbox-mv-xianlaihuyu.koyeb.app/mv/vod",
       "searchable": 1,
@@ -147,90 +147,90 @@
       "changeable": 0
     },
     {
-      "key": "豆瓣推荐JS",
-      "name": "豆瓣推荐JS",
+      "key": "璞嗙摚鎺ㄨ崘JS",
+      "name": "璞嗙摚鎺ㄨ崘JS",
       "type": 3,
-      "api": "../../libs/js/drpymin2.js",
+      "api": "../../../libs/js/drpymin2.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "../../libs/js/douban.js"
+      "ext": "../../../libs/js/douban.js"
     },
     {
-      "key": "利奥影视JS",
-      "name": "利奥影视JS",
+      "key": "鍒╁ゥ褰辫JS",
+      "name": "鍒╁ゥ褰辫JS",
       "type": 3,
-      "api": "../../libs/js/drpymin2.js",
+      "api": "../../../libs/js/drpymin2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "../../libs/js/libvio.js"
+      "ext": "../../../libs/js/libvio.js"
     },
     {
-      "key": "低端影视JS",
-      "name": "低端影视JS",
+      "key": "浣庣褰辫JS",
+      "name": "浣庣褰辫JS",
       "type": 3,
-      "api": "../../libs/js/drpymin2.js",
+      "api": "../../../libs/js/drpymin2.js",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "../../libs/js/ddys.js"
+      "ext": "../../../libs/js/ddys.js"
     },
     {
-      "key": "七七影视JS",
-      "name": "七七影视JS",
+      "key": "涓冧竷褰辫JS",
+      "name": "涓冧竷褰辫JS",
       "type": 3,
-      "api": "../../libs/js/drpymin2.js",
+      "api": "../../../libs/js/drpymin2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "../../libs/js/77.js"
+      "ext": "../../../libs/js/77.js"
     },
     {
-      "key": "荐片影视JS",
-      "name": "荐片影视JS",
+      "key": "鑽愮墖褰辫JS",
+      "name": "鑽愮墖褰辫JS",
       "type": 3,
-      "api": "../../libs/js/drpymin2.js",
+      "api": "../../../libs/js/drpymin2.js",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "../../libs/js/荐片.js"
+      "ext": "../../../libs/js/鑽愮墖.js"
     },
     {
-      "key": "B站影视JS",
-      "name": "B站影视JS",
+      "key": "B绔欏奖瑙咼S",
+      "name": "B绔欏奖瑙咼S",
       "type": 3,
-      "api": "../../libs/js/drpymin2.js",
+      "api": "../../../libs/js/drpymin2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "../../libs/js/bzys.js"
+      "ext": "../../../libs/js/bzys.js"
     },
     {
-      "key": "电影先生JS",
-      "name": "电影先生JS",
+      "key": "鐢靛奖鍏堢敓JS",
+      "name": "鐢靛奖鍏堢敓JS",
       "type": 3,
-      "api": "../../libs/js/drpymin2.js",
+      "api": "../../../libs/js/drpymin2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "../../libs/js/电影先生.js"
+      "ext": "../../../libs/js/鐢靛奖鍏堢敓.js"
     },
     {
-      "key": "农民影视JS",
-      "name": "农民影视JS",
+      "key": "鍐滄皯褰辫JS",
+      "name": "鍐滄皯褰辫JS",
       "type": 3,
-      "api": "../../libs/js/drpymin2.js",
+      "api": "../../../libs/js/drpymin2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "../../libs/js/nongmin.js"
+      "ext": "../../../libs/js/nongmin.js"
     },
     {
-      "key": "比特影视",
-      "name": "比特影视",
+      "key": "姣旂壒褰辫",
+      "name": "姣旂壒褰辫",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
@@ -239,7 +239,7 @@
     },
     {
       "key": "SP360",
-      "name": "三三影视",
+      "name": "涓変笁褰辫",
       "type": 3,
       "api": "csp_SP33",
       "searchable": 1,
@@ -248,8 +248,8 @@
       "changeable": 0
     },
     {
-      "key": "农民影视",
-      "name": "农民影视",
+      "key": "鍐滄皯褰辫",
+      "name": "鍐滄皯褰辫",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
@@ -258,25 +258,25 @@
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
     },
     {
-      "key": "酷奇音乐",
-      "name": "酷奇音乐",
+      "key": "閰峰闊充箰",
+      "name": "閰峰闊充箰",
       "type": 3,
-      "api": "../../libs/js/drpymin2.js",
+      "api": "../../../libs/js/drpymin2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "../../libs/js/kuqimv.js"
+      "ext": "../../../libs/js/kuqimv.js"
     },
     {
-      "key": "极狐影视",
-      "name": "极狐影视",
+      "key": "鏋佺嫄褰辫",
+      "name": "鏋佺嫄褰辫",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "https://www.kuin.one/api.php/app/"
     },
     {
-      "key": "异界动漫",
-      "name": "异界动漫",
+      "key": "寮傜晫鍔ㄦ极",
+      "name": "寮傜晫鍔ㄦ极",
       "type": 3,
       "api": "csp_Ysj",
       "searchable": 1,
@@ -284,8 +284,8 @@
       "filterable": 1
     },
     {
-      "key": "日本动漫",
-      "name": "日本动漫",
+      "key": "鏃ユ湰鍔ㄦ极",
+      "name": "鏃ユ湰鍔ㄦ极",
       "type": 3,
       "api": "csp_Anime1",
       "searchable": 1,
@@ -293,8 +293,8 @@
       "filterable": 1
     },
     {
-      "key": "动漫巴士",
-      "name": "动漫巴士",
+      "key": "鍔ㄦ极宸村＋",
+      "name": "鍔ㄦ极宸村＋",
       "type": 3,
       "api": "csp_Dm84",
       "searchable": 1,
@@ -302,112 +302,112 @@
       "filterable": 1
     },
     {
-      "key": "量子资源",
-      "name": "量子资源",
+      "key": "閲忓瓙璧勬簮",
+      "name": "閲忓瓙璧勬簮",
       "type": 0,
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "changeable": 1,
       "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "国产剧",
-        "韩国剧",
-        "日本剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "台湾剧",
-        "香港剧",
-        "欧美剧",
-        "记录片",
-        "海外剧",
-        "泰国剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "体育",
-        "足球",
-        "篮球",
-        "网球",
-        "斯诺克"
+        "鍥戒骇鍔ㄦ极",
+        "鏃ラ煩鍔ㄦ极",
+        "鍥戒骇鍓?,
+        "闊╁浗鍓?,
+        "鏃ユ湰鍓?,
+        "鍔ㄤ綔鐗?,
+        "鍠滃墽鐗?,
+        "鐖辨儏鐗?,
+        "绉戝够鐗?,
+        "鎭愭€栫墖",
+        "鍓ф儏鐗?,
+        "鎴樹簤鐗?,
+        "鍙版咕鍓?,
+        "棣欐腐鍓?,
+        "娆х編鍓?,
+        "璁板綍鐗?,
+        "娴峰鍓?,
+        "娉板浗鍓?,
+        "澶ч檰缁艰壓",
+        "娓彴缁艰壓",
+        "鏃ラ煩缁艰壓",
+        "娆х編缁艰壓",
+        "娆х編鍔ㄦ极",
+        "娓彴鍔ㄦ极",
+        "娴峰鍔ㄦ极",
+        "浣撹偛",
+        "瓒崇悆",
+        "绡悆",
+        "缃戠悆",
+        "鏂鍏?
       ]
     },
     {
-      "key": "非凡影视",
-      "name": "非凡影视",
+      "key": "闈炲嚒褰辫",
+      "name": "闈炲嚒褰辫",
       "type": 0,
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "changeable": 1,
       "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "国产剧",
-        "韩国剧",
-        "日本剧",
-        "动漫片",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "香港剧",
-        "欧美剧",
-        "记录片",
-        "台湾剧",
-        "海外剧",
-        "泰国剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫"
+        "鍥戒骇鍔ㄦ极",
+        "鏃ラ煩鍔ㄦ极",
+        "鍥戒骇鍓?,
+        "闊╁浗鍓?,
+        "鏃ユ湰鍓?,
+        "鍔ㄦ极鐗?,
+        "鍔ㄤ綔鐗?,
+        "鍠滃墽鐗?,
+        "鐖辨儏鐗?,
+        "绉戝够鐗?,
+        "鎭愭€栫墖",
+        "鍓ф儏鐗?,
+        "鎴樹簤鐗?,
+        "棣欐腐鍓?,
+        "娆х編鍓?,
+        "璁板綍鐗?,
+        "鍙版咕鍓?,
+        "娴峰鍓?,
+        "娉板浗鍓?,
+        "澶ч檰缁艰壓",
+        "娓彴缁艰壓",
+        "鏃ラ煩缁艰壓",
+        "娆х編缁艰壓",
+        "娆х編鍔ㄦ极",
+        "娓彴鍔ㄦ极",
+        "娴峰鍔ㄦ极"
       ]
     },
     {
-      "key": "新浪资源",
-      "name": "新浪资源",
+      "key": "鏂版氮璧勬簮",
+      "name": "鏂版氮璧勬簮",
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-        "纪录片",
-        "动作片",
-        "爱情片",
-        "科幻片",
-        "战争片",
-        "剧情片",
-        "恐怖片",
-        "喜剧片",
-        "大陆剧",
-        "港澳剧",
-        "台湾剧",
-        "欧美剧",
-        "动漫电影",
-        "韩剧",
-        "日剧",
-        "泰剧",
-        "伦理片"
+        "绾綍鐗?,
+        "鍔ㄤ綔鐗?,
+        "鐖辨儏鐗?,
+        "绉戝够鐗?,
+        "鎴樹簤鐗?,
+        "鍓ф儏鐗?,
+        "鎭愭€栫墖",
+        "鍠滃墽鐗?,
+        "澶ч檰鍓?,
+        "娓境鍓?,
+        "鍙版咕鍓?,
+        "娆х編鍓?,
+        "鍔ㄦ极鐢靛奖",
+        "闊╁墽",
+        "鏃ュ墽",
+        "娉板墽",
+        "浼︾悊鐗?
       ]
     },
     {
       "key": "PanSou",
-      "name": "盘搜┃搜索",
+      "name": "鐩樻悳鈹冩悳绱?,
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -446,7 +446,7 @@
   ],
   "recommend": [
     {
-      "name": "豆瓣推荐",
+      "name": "璞嗙摚鎺ㄨ崘",
       "request": {
         "method": "GET",
         "header": [
@@ -481,7 +481,7 @@
   ],
   "rating": [
     {
-      "name": "豆瓣评分",
+      "name": "璞嗙摚璇勫垎",
       "request": {
         "method": "GET",
         "url": {
@@ -534,7 +534,7 @@
   ],
   "ijk": [
     {
-      "group": "硬解码",
+      "group": "纭В鐮?,
       "options": [
         {
           "category": 4,
@@ -614,7 +614,7 @@
       ]
     },
     {
-      "group": "软解码",
+      "group": "杞В鐮?,
       "options": [
         {
           "category": 4,
@@ -754,3 +754,4 @@
     "cms.qdwght.com"
   ]
 }
+

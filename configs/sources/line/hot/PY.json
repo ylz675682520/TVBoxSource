@@ -1,4 +1,4 @@
-{
+﻿{
   "rules": [
     {
       "host": "v.douyin.com",
@@ -37,107 +37,107 @@
   "sites": [
     {
       "key": "py_kunyu77",
-      "name": "🔥七七",
+      "name": "馃敟涓冧竷",
       "type": 3,
       "api": "py_kunyu77",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "../../libs/py/py/py_kunyu77.py"
+      "ext": "../../../libs/py/py/py_kunyu77.py"
     },
     {
       "key": "py_douyu",
-      "name": "🔥斗鱼",
+      "name": "馃敟鏂楅奔",
       "type": 3,
       "api": "py_douyu",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "../../libs/py/py/py_douyu.py"
+      "ext": "../../../libs/py/py/py_douyu.py"
     },
     {
       "key": "py_huya",
-      "name": "🔥虎牙",
+      "name": "馃敟铏庣墮",
       "type": 3,
       "api": "py_huya",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "../../libs/py/py/py_huya.py"
+      "ext": "../../../libs/py/py/py_huya.py"
     },
     {
       "key": "py_ikan",
-      "name": "🔥爱看",
+      "name": "馃敟鐖辩湅",
       "type": 3,
       "api": "py_ikan",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "../../libs/py/py/py_ikan.py"
+      "ext": "../../../libs/py/py/py_ikan.py"
     },
     {
       "key": "py_bilivd",
-      "name": "🔥B站视频",
+      "name": "馃敟B绔欒棰?,
       "type": 3,
       "api": "py_bilivd",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "../../libs/py/py/py_bilivd.py"
+      "ext": "../../../libs/py/py/py_bilivd.py"
     },
     {
       "key": "py_bilimd",
-      "name": "🔥B站影视",
+      "name": "馃敟B绔欏奖瑙?,
       "type": 3,
       "api": "py_bilimd",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "../../libs/py/py/py_bilimd.py"
+      "ext": "../../../libs/py/py/py_bilimd.py"
     },
     {
       "key": "py_czspp",
-      "name": "🔥厂长影视",
+      "name": "馃敟鍘傞暱褰辫",
       "type": 3,
       "api": "py_czspp",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "../../libs/py/py/py_czspp.py"
+      "ext": "../../../libs/py/py/py_czspp.py"
     },
     {
       "key": "py_cyys",
-      "name": "🔥创艺影视",
+      "name": "馃敟鍒涜壓褰辫",
       "type": 3,
       "api": "py_cyys",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "../../libs/py/py/py_cyys.py"
+      "ext": "../../../libs/py/py/py_cyys.py"
     },
     {
       "key": "py_freezb",
-      "name": "🔥体育直播",
+      "name": "馃敟浣撹偛鐩存挱",
       "type": 3,
       "api": "py_freezb",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "../../libs/py/py/py_sport.py"
+      "ext": "../../../libs/py/py/py_sport.py"
     },
     {
       "key": "py_cctv",
-      "name": "🔥CCTV",
+      "name": "馃敟CCTV",
       "type": 3,
       "api": "py_cctv",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "../../libs/py/py/py_cctv.py"
+      "ext": "../../../libs/py/py/py_cctv.py"
     },
     {
-      "key": "小纸条",
-      "name": "🔥小纸条",
+      "key": "灏忕焊鏉?,
+      "name": "馃敟灏忕焊鏉?,
       "type": 3,
       "api": "csp_Paper",
       "searchable": 1,
@@ -146,8 +146,8 @@
       "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
     },
     {
-      "key": "盘搜",
-      "name": "🔥盘搜",
+      "key": "鐩樻悳",
+      "name": "馃敟鐩樻悳",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -156,8 +156,8 @@
       "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
     },
     {
-      "key": "UP云搜",
-      "name": "🔥UP云搜",
+      "key": "UP浜戞悳",
+      "name": "馃敟UP浜戞悳",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -166,8 +166,8 @@
       "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
     },
     {
-      "key": "找资源",
-      "name": "🔥找资源",
+      "key": "鎵捐祫婧?,
+      "name": "馃敟鎵捐祫婧?,
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -177,7 +177,7 @@
     },
     {
       "key": "push_agent",
-      "name": "🖥推送",
+      "name": "馃枼鎺ㄩ€?,
       "type": 3,
       "api": "csp_Push",
       "searchable": 1,
@@ -187,18 +187,18 @@
     },
     {
       "key": "AList",
-      "name": "🖥网盘",
+      "name": "馃枼缃戠洏",
       "type": 3,
       "api": "csp_AList",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "../../libs/py/json/alist.json"
+      "ext": "../../../libs/py/json/alist.json"
     }
   ],
   "parses": [
     {
-      "name": "默认选项",
+      "name": "榛樿閫夐」",
       "type": 3,
       "url": "Demo"
     },
@@ -223,23 +223,23 @@
       }
     },
     {
-      "name": "网络搜集02",
+      "name": "缃戠粶鎼滈泦02",
       "type": 1,
       "url": "https://json.pangujiexi.com/json.php?url=",
       "ext": {
         "flag": [
           "youku",
-          "优酷",
+          "浼橀叿",
           "qq",
-          "腾讯",
+          "鑵捐",
           "qiyi",
-          "爱奇艺",
-          "奇艺"
+          "鐖卞鑹?,
+          "濂囪壓"
         ]
       }
     },
     {
-      "name": "网络搜集03",
+      "name": "缃戠粶鎼滈泦03",
       "type": 1,
       "url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
       "ext": {
@@ -250,27 +250,27 @@
       }
     },
     {
-      "name": "网络搜集04",
+      "name": "缃戠粶鎼滈泦04",
       "type": 1,
       "url": "http://api.vip123kan.vip/?url=",
       "ext": {
         "flag": [
           "youku",
-          "优酷",
+          "浼橀叿",
           "mgtv",
-          "芒果",
+          "鑺掓灉",
           "qq",
-          "腾讯",
+          "鑵捐",
           "qiyi",
-          "爱奇艺",
+          "鐖卞鑹?,
           "qq",
           "xigua",
-          "奇艺"
+          "濂囪壓"
         ]
       }
     },
     {
-      "name": "网络搜集07",
+      "name": "缃戠粶鎼滈泦07",
       "type": 1,
       "url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
       "ext": {
@@ -280,20 +280,20 @@
       }
     },
     {
-      "name": "网络搜集10",
+      "name": "缃戠粶鎼滈泦10",
       "type": 1,
       "url": "https://json.5lp.net/json.php?url=",
       "ext": {
         "flag": [
           "qq",
-          "腾讯",
+          "鑵捐",
           "qiyi",
-          "爱奇艺",
-          "奇艺",
+          "鐖卞鑹?,
+          "濂囪壓",
           "youku",
-          "优酷",
+          "浼橀叿",
           "mgtv",
-          "芒果",
+          "鑺掓灉",
           "renrenmi",
           "Itnb"
         ]
@@ -304,7 +304,7 @@
     {
       "name": "redirect",
       "type": 0,
-      "url": "../../libs/py/redirect.txt",
+      "url": "../../../libs/py/redirect.txt",
       "epg": ""
     }
   ],
@@ -331,11 +331,11 @@
     "miaoparty2",
     "miaoparty3",
     "renrenmi",
-    "优酷",
-    "芒果",
-    "腾讯",
-    "爱奇艺",
-    "奇艺",
+    "浼橀叿",
+    "鑺掓灉",
+    "鑵捐",
+    "鐖卞鑹?,
+    "濂囪壓",
     "ltnb",
     "rx",
     "CL4K",
@@ -344,7 +344,7 @@
   ],
   "ijk": [
     {
-      "group": "软解码",
+      "group": "杞В鐮?,
       "options": [
         {
           "category": 4,
@@ -424,7 +424,7 @@
       ]
     },
     {
-      "group": "硬解码",
+      "group": "纭В鐮?,
       "options": [
         {
           "category": 4,
@@ -563,5 +563,6 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "../../libs/py/spider.jar"
+  "spider": "../../../libs/py/spider.jar"
 }
+
