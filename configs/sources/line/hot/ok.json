@@ -1,7 +1,7 @@
 {
-  "spider": "./packages/parsers/ok.jar;md5;f7de4a6a445354df4a588f4468e32e73",
+  "spider": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/ok.jar;md5;f7de4a6a445354df4a588f4468e32e73",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
-  "logo": "./lib/ol.txt",
+  "logo": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/ol.txt",
   "sites": [
     {
       "key": "豆瓣",
@@ -587,8 +587,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "./lib/file.html?id=2c9a91099696ce4301974da3916550ff&file=drpy2.min.js",
-      "ext": "./lib/ddys.txt",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/file.html?id=2c9a91099696ce4301974da3916550ff&file=drpy2.min.js",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/ddys.txt",
       "timeout": 15
     },
     {
@@ -709,7 +709,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "./lib/bili.txt"
+        "json": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/bili.txt"
       },
       "timeout": 20
     },
@@ -726,7 +726,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "./lib/biliych.txt"
+        "json": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/biliych.txt"
       },
       "timeout": 20
     },
@@ -743,7 +743,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "./lib/bilixs.txt"
+        "json": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/bilixs.txt"
       },
       "timeout": 20
     },
@@ -760,7 +760,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "./lib/bilixp.txt"
+        "json": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/bilixp.txt"
       },
       "timeout": 20
     },

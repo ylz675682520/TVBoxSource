@@ -1,5 +1,5 @@
 {
-  "spider": "./packages/parsers/fty.jar;md5;53ad14bb641d6ad5b1a76ea48f35cb7d",
+  "spider": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/fty.jar;md5;53ad14bb641d6ad5b1a76ea48f35cb7d",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -339,8 +339,8 @@
       "key": "虎牙直播js",
       "name": "🐯虎牙┃直播",
       "type": 3,
-      "api": "./lib/drpy2.js",
-      "ext": "./lib/huya2.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/drpy2.js",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/huya2.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -355,8 +355,8 @@
       "key": "斗鱼js",
       "name": "🐟斗鱼┃直播",
       "type": 3,
-      "api": "./lib/drpy2-fty.min.js",
-      "ext": "./lib/斗鱼直播.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/drpy2-fty.min.js",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -371,8 +371,8 @@
       "key": "有声小说js",
       "name": "🎧有声┃小说",
       "type": 3,
-      "api": "./lib/drpy2-fty.min.js",
-      "ext": "./lib/有声小说吧.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/drpy2-fty.min.js",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/有声小说吧.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -535,8 +535,8 @@
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
-      "api": "./lib/drpy2-fty.min.js",
-      "ext": "./lib/兔小贝.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/drpy2-fty.min.js",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/兔小贝.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -615,13 +615,13 @@
     {
       "name": "V6范明明（需开启V6网络）",
       "type": 0,
-      "url": "./lib/20250425-868403-298462cec53c48439a5765ceaca3c67f.m3u",
+      "url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/20250425-868403-298462cec53c48439a5765ceaca3c67f.m3u",
       "playerType": 2
     },
     {
       "name": "V4聚合（卡顿请按左┃右键换线）",
       "type": 0,
-      "url": "./lib/tv.m3u",
+      "url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/tv.m3u",
       "playerType": 2,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.v1.mk/logo/{name}.png"

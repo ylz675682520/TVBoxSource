@@ -1,5 +1,5 @@
 {
-  "spider": "./packages/parsers/wex.jar;md5;ff89163e0926138e9e9a08e5b8d917d4",
+  "spider": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/wex.jar;md5;ff89163e0926138e9e9a08e5b8d917d4",
   "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716818643045/wexfnw.gif",
   "sites": [
@@ -11,7 +11,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/douban-wex.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/douban-wex.json"
     },
     {
       "key": "Doubana",
@@ -21,7 +21,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/douban-wex.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/douban-wex.json"
     },
     {
       "key": "Wexconfig",
@@ -563,7 +563,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "./lib/bili001.txt"
+        "json": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/bili001.txt"
       }
     },
     {
@@ -579,7 +579,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "./lib/bilisong.txt"
+        "json": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/bilisong.txt"
       }
     },
     {
@@ -1028,7 +1028,7 @@
     {
       "name": "范明明",
       "type": 0,
-      "url": "./lib/ipv6.m3u",
+      "url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/ipv6.m3u",
       "playerType": 1
     }
   ]

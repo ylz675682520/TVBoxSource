@@ -1,5 +1,5 @@
-{
-  "spider": "./packages/parsers/moyu.jar;md5;7fa39a0595fee3b25045c87505b66c5d",
+﻿{
+  "spider": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/moyu.jar;md5;7fa39a0595fee3b25045c87505b66c5d",
   "wallpaper": "http://我不是.摸鱼儿.top/wallpaper/",
   "logo": "https://s1.imagehub.cc/images/2024/06/11/80538bfb3835ffebf7c5fd0716280801.jpeg",
   "warningText": "摸鱼儿：资源来自网络，无盈利纯技术分享！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
@@ -39,7 +39,7 @@
       "key": "huban",
       "name": "🚀虎斑┃弹幕┃小窗",
       "type": 3,
-      "jar": "./packages/plugins/huban.jar",
+      "jar": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/spider.jar",
       "api": "csp_Huban"
     },
     {
@@ -79,7 +79,7 @@
       "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;c1ba6f01b31f41b25a1b1066e757a704",
       "ext": {
         "url": "",
-        "site": "./lib/1.txt",
+        "site": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/1.txt",
         "dataKey": "skdhalkshqklwkj1",
         "dataIv": "skdhalkshqklwkj1",
         "deviceId": "",
@@ -96,7 +96,7 @@
       "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;c1ba6f01b31f41b25a1b1066e757a704",
       "ext": {
         "url": "",
-        "site": "./lib/mfys.txt",
+        "site": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/mfys.txt",
         "dataKey": "1234567887654321",
         "dataIv": "1234567887654321",
         "deviceId": "",
@@ -142,7 +142,7 @@
       "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;c1ba6f01b31f41b25a1b1066e757a704",
       "ext": {
         "url": "",
-        "site": "./lib/xfdd.txt",
+        "site": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/xfdd.txt",
         "dataKey": "xasdasdqwertyuio",
         "dataIv": "xasdasdqwertyuio",
         "deviceId": "",
@@ -218,7 +218,7 @@
       "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;c1ba6f01b31f41b25a1b1066e757a704",
       "ext": {
         "url": "",
-        "site": "./lib/1.json",
+        "site": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/1.json",
         "dataKey": "AAdgrdghjfgswerA",
         "dataIv": "AAdgrdghjfgswerA",
         "deviceId": "",
@@ -249,7 +249,7 @@
       "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;c1ba6f01b31f41b25a1b1066e757a704",
       "ext": {
         "url": "",
-        "site": "./lib/1.json",
+        "site": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/1.json",
         "dataKey": "4d83b87c4c5ea111",
         "dataIv": "4d83b87c4c5ea111",
         "deviceId": "",
@@ -264,7 +264,7 @@
       "api": "csp_AppGet",
       "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;c1ba6f01b31f41b25a1b1066e757a704",
       "ext": {
-        "url": "./lib/1.txt",
+        "url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/1.txt",
         "dataKey": "f2A7D4B9E8C16531",
         "dataIv": "f2A7D4B9E8C16531",
         "deviceId": "",
@@ -324,7 +324,7 @@
       "api": "csp_AppGet",
       "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;c1ba6f01b31f41b25a1b1066e757a704",
       "ext": {
-        "url": "./lib/1.txt",
+        "url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/1.txt",
         "dataKey": "2015692015692015",
         "dataIv": "2015692015692015",
         "deviceId": "",
@@ -370,7 +370,7 @@
       "jar": "http://我不是.摸鱼儿.top/by/jar/moyuer.php;md5;c1ba6f01b31f41b25a1b1066e757a704",
       "ext": {
         "url": "",
-        "site": "./lib/tengxunyun.txt",
+        "site": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/tengxunyun.txt",
         "dataKey": "f5e2tx53ykp6s2c9",
         "dataIv": "f5e2tx53ykp6s2c9",
         "deviceId": "",
@@ -444,7 +444,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/wogg.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/wogg.json"
     },
     {
       "key": "MoggV2",
@@ -455,7 +455,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./lib/mogg.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/mogg.json"
     },
     {
       "key": "UcXmV2",
@@ -467,7 +467,7 @@
       "filterable": 0,
       "changeable": 0,
       "timeout": 60,
-      "ext": "./lib/ex.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/ex.json"
     },
     {
       "key": "QuarkLaBiV2",
@@ -479,7 +479,7 @@
       "filterable": 0,
       "changeable": 0,
       "timeout": 60,
-      "ext": "./lib/lb.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/lb.json"
     },
     {
       "key": "QuarkzzV2",
@@ -491,7 +491,7 @@
       "filterable": 0,
       "changeable": 0,
       "timeout": 60,
-      "ext": "./lib/zz.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/zz.json"
     },
     {
       "key": "YYDSYS",
@@ -503,7 +503,7 @@
       "filterable": 0,
       "changeable": 0,
       "timeout": 60,
-      "ext": "./lib/yyds.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/yyds.json"
     },
     {
       "key": "QuarkTZ",
@@ -528,7 +528,7 @@
         "type": "rect",
         "ratio": 1.433
       },
-      "ext": "./lib/lj.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/lj.json"
     },
     {
       "key": "海绵",
@@ -544,7 +544,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "./lib/hm.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/hm.json"
     },
     {
       "key": "123",
@@ -560,7 +560,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "./lib/123.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/123.json"
     },
     {
       "key": "趣盘",
@@ -607,7 +607,7 @@
       "key": "金牌影视",
       "name": "🏅金牌┃蓝光┃无广",
       "type": 3,
-      "api": "./lib/金牌影视.py",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/金牌影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -895,8 +895,8 @@
       "key": "88js",
       "name": "⚽ 88┃看球┃直播",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/88看球.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/drpy2.min.js",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/88看球.js",
       "style": {
         "type": "list"
       },
@@ -936,8 +936,8 @@
       "key": "虎牙直播js",
       "name": "🐯虎牙┃娱乐┃蓝光",
       "type": 3,
-      "api": "./lib/drpy2.js",
-      "ext": "./lib/huya2.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/drpy2.js",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/huya2.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -952,8 +952,8 @@
       "key": "斗鱼js",
       "name": "🐟斗鱼┃娱乐┃蓝光",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/斗鱼直播.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/drpy2.min.js",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -968,8 +968,8 @@
       "key": "有声小说js",
       "name": "📻️戏曲┃娱乐┃蓝光",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/有声小说吧.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/drpy2.min.js",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/有声小说吧.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -1120,8 +1120,8 @@
       "key": "dr_兔小贝",
       "name": "📚少儿┃兔兔┃教育",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/兔小贝.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/drpy2.min.js",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/兔小贝.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -1297,7 +1297,7 @@
       "key": "河马短剧",
       "name": "🦛河马┃短剧┃热推",
       "type": 3,
-      "api": "./lib/河马短剧.py",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/河马短剧.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -1308,7 +1308,7 @@
       "key": "偷乐短剧",
       "name": "🤣偷乐┃短剧┃热推",
       "type": 3,
-      "api": "./lib/偷乐短剧.py",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/偷乐短剧.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -1328,7 +1328,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "./lib/quarkShare.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/quarkShare.json"
     },
     {
       "key": "AliYunPanV2",
@@ -1343,7 +1343,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "./lib/aliShare.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/aliShare.json"
     },
     {
       "key": "UcYunPan",
@@ -1358,7 +1358,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "./lib/ucShare.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/ucShare.json"
     },
     {
       "key": "baidu",

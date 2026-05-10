@@ -1,4 +1,4 @@
-{
+﻿{
   "spider": "https://ghfast.top/https://github.com/lemonguo121/BoxRes/raw/main/Myuse/lib/fm.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
@@ -60,7 +60,7 @@
       "name": "🌕┃豆瓣┃推荐",
       "type": 3,
       "api": "csp_DouDou",
-      "jar": "./lib/fty.jar",
+      "jar": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/fty.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -70,7 +70,7 @@
       "name": "🍎┃小苹果┃IJK",
       "type": 3,
       "api": "csp_LiteApple",
-      "jar": "./lib/fty.jar",
+      "jar": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -237,7 +237,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./ext/saohuo.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/ext/saohuo.json"
     },
     {
       "key": "视频采集3",
@@ -329,7 +329,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./ext/dashixong.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/ext/dashixong.json"
     },
     {
       "key": "csp_xpath_555",
@@ -339,7 +339,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./ext/555.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/ext/555.json"
     },
     {
       "key": "csp_xpath_海兔",
@@ -349,7 +349,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./ext/haitu.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/ext/haitu.json"
     },
     {
       "key": "csp_xpath_飞兔",
@@ -359,7 +359,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./ext/feitu.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/ext/feitu.json"
     },
     {
       "key": "csp_xpath_飞兔成人",
@@ -369,7 +369,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./ext/feitucr.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/ext/feitucr.json"
     },
     {
       "key": "本地",
@@ -541,11 +541,11 @@
       "key": "drpy_js_荐片",
       "name": "影视 | 荐片[js]",
       "type": 3,
-      "api": "./ext/drpy2.min.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/ext/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./ext/荐片.js",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/ext/荐片.js",
       "timeout": 30
     },
     {
@@ -553,7 +553,7 @@
       "name": "短剧网",
       "type": 3,
       "api": "csp_Duanjuw",
-      "jar": "./lib/xyq.jar",
+      "jar": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -563,7 +563,7 @@
       "name": "🧡短剧2",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "./lib/dj0.jar",
+      "jar": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -574,7 +574,7 @@
       "name": "🅱哔哔┃合集",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./lib/guodaxia.jar",
+      "jar": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/spider.jar",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -582,13 +582,13 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./ext/bilibili.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/ext/bilibili.json"
     },
     {
       "key": "Biliych",
       "name": "🅱哔哔┃歌曲",
       "type": 3,
-      "jar": "./lib/guodaxia.jar",
+      "jar": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/spider.jar",
       "api": "csp_Bili",
       "style": {
         "type": "rect",
@@ -597,7 +597,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./ext/biliych.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/ext/biliych.json"
     },
     {
       "key": "csp_KungFu404",
@@ -608,21 +608,21 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
-      "jar": "./lib/alisz.jar"
+      "jar": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/spider.jar"
     },
     {
       "key": "配置中心",
       "name": "阿里｜配置中心",
       "type": 3,
       "api": "csp_Config",
-      "jar": "./lib/mypg.jar",
+      "jar": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/spider.jar",
       "searchable": 0,
       "changeable": 0,
       "style": {
         "type": "rect",
         "ratio": 1
       },
-      "ext": "./lib/PG推送.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/PG推送.json"
     },
     {
       "key": "PanSou",

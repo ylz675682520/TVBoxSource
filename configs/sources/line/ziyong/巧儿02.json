@@ -1,11 +1,11 @@
 {
-  "spider": "./巧儿/spider.jar",
+  "spider": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/spider.jar",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
       "name": "redirect",
       "type": 0,
-      "url": "./巧儿/redirect.txt",
+      "url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/巧儿/redirect.txt",
       "epg": ""
     }
   ],
@@ -198,7 +198,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./巧儿/json/bili.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/巧儿/json/bili.json"
     },
     {
       "key": "NoSearch_Yj1211_spider",

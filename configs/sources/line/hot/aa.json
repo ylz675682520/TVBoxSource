@@ -1,5 +1,5 @@
-{
-  "spider": "./packages/parsers/yt-aa.jar",
+﻿{
+  "spider": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/yt-aa.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
@@ -125,7 +125,7 @@
       "name": "🅱哔哩┃合集",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "./jar/fm.jar",
+      "jar": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/fm.jar",
       "style": {
         "type": "list",
         "ratio": 1.1

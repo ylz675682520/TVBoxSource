@@ -1,11 +1,11 @@
-{
+﻿{
   "sites": [
     {
       "key": "js豆瓣",
       "name": "豆瓣推荐",
       "type": 3,
-      "api": "./dxawi/drpy.min.js",
-      "ext": "./dxawi/js/drpy.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi/drpy.min.js",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi/js/drpy.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -18,7 +18,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./dxawi/json/bilibili.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi/json/bilibili.json"
     },
     {
       "key": "csp_WoGG",
@@ -38,7 +38,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./dxawi/json/nm.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi/json/nm.json"
     },
     {
       "key": "csp_YQKAPP",
@@ -121,64 +121,64 @@
       "key": "drpy_js_LIBVIO",
       "name": "LIBVIO[js]",
       "type": 3,
-      "api": "./dxawi/drpy2.min.js",
-      "ext": "./dxawi/js/LIBVIO.js"
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi/drpy2.min.js",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi/js/LIBVIO.js"
     },
     {
       "key": "drpy_js_HDmoli",
       "name": "HDmoli[js]",
       "type": 3,
-      "api": "./dxawi/drpy2.min.js",
-      "ext": "./dxawi/js/HDmoli.js"
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi/drpy2.min.js",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi/js/HDmoli.js"
     },
     {
       "key": "drpy_js_Voflix",
       "name": "Voflix[js]",
       "type": 3,
-      "api": "./dxawi/drpy2.min.js",
-      "ext": "./dxawi/js/Voflix.js"
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi/drpy2.min.js",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi/js/Voflix.js"
     },
     {
       "key": "drpy_js_人人",
       "name": "人人[js]",
       "type": 3,
-      "api": "./dxawi/drpy2.min.js",
-      "ext": "./dxawi/js/人人.js"
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi/drpy2.min.js",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi/js/人人.js"
     },
     {
       "key": "drpy_js_乐猪TV",
       "name": "乐猪TV[js]",
       "type": 3,
-      "api": "./dxawi/drpy2.min.js",
-      "ext": "./dxawi/js/乐猪TV.js"
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi/drpy2.min.js",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi/js/乐猪TV.js"
     },
     {
       "key": "drpy_js_花猫TV",
       "name": "花猫TV[js]",
       "type": 3,
-      "api": "./dxawi/drpy2.min.js",
-      "ext": "./dxawi/js/花猫TV.js"
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi/drpy2.min.js",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi/js/花猫TV.js"
     },
     {
       "key": "drpy_js_新片场",
       "name": "新片场[js]",
       "type": 3,
-      "api": "./dxawi/drpy2.min.js",
-      "ext": "./dxawi/js/新片场.js"
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi/drpy2.min.js",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi/js/新片场.js"
     },
     {
       "key": "drpy_js_达达龟",
       "name": "达达龟[js]",
       "type": 3,
-      "api": "./dxawi/drpy2.min.js",
-      "ext": "./dxawi/js/达达龟.js"
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi/drpy2.min.js",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi/js/达达龟.js"
     },
     {
       "key": "drpy_js_皮皮鸭",
       "name": "皮皮鸭[js]",
       "type": 3,
-      "api": "./dxawi/drpy2.min.js",
-      "ext": "./dxawi/js/皮皮鸭.js"
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi/drpy2.min.js",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi/js/皮皮鸭.js"
     },
     {
       "key": "csp_Lib",
@@ -455,14 +455,14 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./dxawi/json/biliych.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi/json/biliych.json"
     },
     {
       "key": "dr_兔小贝",
       "name": "儿童启蒙",
       "type": 3,
-      "api": "./dxawi/drpy.min.js",
-      "ext": "./dxawi/js/兔小贝.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi/drpy.min.js",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi/js/兔小贝.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -475,7 +475,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./dxawi/json/xx1.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi/json/xx1.json"
     },
     {
       "key": "少儿教育",
@@ -485,7 +485,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./dxawi/json/xx2.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi/json/xx2.json"
     },
     {
       "key": "小学课堂",
@@ -495,7 +495,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./dxawi/json/xx3.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi/json/xx3.json"
     },
     {
       "key": "初中课堂",
@@ -505,7 +505,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./dxawi/json/xx4.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi/json/xx4.json"
     },
     {
       "key": "高中教育",
@@ -515,14 +515,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./dxawi/json/xx5.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi/json/xx5.json"
     }
   ],
   "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": "./dxawi/live.txt",
+      "url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi/live.txt",
       "epg": ""
     }
   ],
@@ -849,5 +849,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://dxawi.github.io/1/json/colorful.png",
-  "spider": "./dxawi/spider.jar"
+  "spider": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/spider.jar"
 }

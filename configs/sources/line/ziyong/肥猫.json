@@ -4,15 +4,15 @@
       "key": "js豆瓣",
       "name": "🐼┃豆瓣┃免费接口，微信公众号：肥猫不肥",
       "type": 3,
-      "api": "./肥猫/drpy2.min.js",
-      "ext": "./肥猫/js/豆瓣.js"
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/drpy2.min.js",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/js/豆瓣.js"
     },
     {
       "key": "直播转点播",
       "name": "🐼️┃电视┃直播",
       "type": 3,
-      "api": "./肥猫/直播转点播2.js",
-      "ext": "./肥猫/json/直播仓.json"
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/直播转点播2.js",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/json/直播仓.json"
     },
     {
       "key": "csp_BuLei",
@@ -81,7 +81,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./肥猫/json/jwkui9su.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/json/jwkui9su.json"
     },
     {
       "key": "csp_biubiu_voflix",
@@ -91,7 +91,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./肥猫/json/voflix.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/json/voflix.json"
     },
     {
       "key": "csp_MeiJu69",
@@ -120,8 +120,8 @@
       "api": "csp_AList",
       "searchable": 1,
       "filterable": 1,
-      "ext": "./肥猫/json/jh.json",
-      "jar": "./肥猫/jars/Alist2.jar"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/json/jh.json",
+      "jar": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/spider.jar"
     },
     {
       "key": "csp_Paper",
@@ -165,8 +165,8 @@
       "key": "js七七",
       "name": "🌈┃七七┃影视",
       "type": 3,
-      "api": "./肥猫/drpy2.min.js",
-      "ext": "./肥猫/js/七七.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/drpy2.min.js",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/js/七七.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -199,7 +199,7 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "ext": "./肥猫/json/乐猪.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/json/乐猪.json"
     },
     {
       "key": "csp_XBPQ秋霞影视",
@@ -244,7 +244,7 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "ext": "./肥猫/json/饭团影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/json/饭团影视.json"
     },
     {
       "key": "XBPQ_fant2",
@@ -254,7 +254,7 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "ext": "./肥猫/json/饭团影院.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/json/饭团影院.json"
     },
     {
       "key": "csp_panghu",
@@ -273,7 +273,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./肥猫/json/映迷影院.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/json/映迷影院.json"
     },
     {
       "key": "csp_555",
@@ -283,7 +283,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./肥猫/json/555.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/json/555.json"
     },
     {
       "key": "csp_Nkdy",
@@ -307,8 +307,8 @@
       "key": "drpy_js_奇珍异兽",
       "name": "🐨┃爱奇┃官源",
       "type": 3,
-      "api": "./肥猫/drpy2.min.js",
-      "ext": "./肥猫/js/爱奇.js"
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/drpy2.min.js",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/js/爱奇.js"
     },
     {
       "key": "Qtv",
@@ -327,7 +327,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./肥猫/json/360影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/json/360影视.json"
     },
     {
       "key": "MGT",
@@ -439,7 +439,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
-      "jar": "./肥猫/jars/csp_search_Yisou.jar"
+      "jar": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/spider.jar"
     },
     {
       "key": "csp_search_Zhaozy",
@@ -482,7 +482,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./肥猫/json/bili.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/json/bili.json"
     },
     {
       "key": "csp_戏曲",
@@ -492,7 +492,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./肥猫/json/戏曲.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/json/戏曲.json"
     },
     {
       "key": "演唱会",
@@ -502,14 +502,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./肥猫/json/ych.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/json/ych.json"
     },
     {
       "key": "js虎牙",
       "name": "🐅┃虎牙┃直播",
       "type": 3,
-      "api": "./肥猫/drpy2.min.js",
-      "ext": "./肥猫/js/虎牙直播.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/drpy2.min.js",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/js/虎牙直播.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -522,7 +522,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./肥猫/json/斗鱼.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/json/斗鱼.json"
     },
     {
       "key": "csp_XBPQ_抓饭体育",
@@ -531,8 +531,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "api": "./肥猫/drpy2.min.js",
-      "ext": "./肥猫/js/抓饭.js"
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/drpy2.min.js",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/js/抓饭.js"
     },
     {
       "key": "csp_XPath_企鹅体育",
@@ -542,24 +542,24 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./肥猫/json/企鹅直播.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/json/企鹅直播.json"
     },
     {
       "key": "dr_88看球",
       "name": "🏀┃八八┃看球",
       "type": 3,
-      "api": "./肥猫/drpy2.min.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./肥猫/js/88看球.js"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/js/88看球.js"
     },
     {
       "key": "drpy_js_JRKAN直播",
       "name": "🏀┃JRS┃看球",
       "type": 3,
-      "api": "./肥猫/drpy2.min.js",
-      "ext": "./肥猫/js/JRKAN直播.js"
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/drpy2.min.js",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/js/JRKAN直播.js"
     },
     {
       "key": "csp_XYQBiu_聚合短视频",
@@ -569,21 +569,21 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./肥猫/json/短视频.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/json/短视频.json"
     },
     {
       "key": "drpy_js_有声小说吧",
       "name": "📻┃有声┃小说",
       "type": 3,
-      "api": "./肥猫/drpy2.min.js",
-      "ext": "./肥猫/js/有声小说吧.js"
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/drpy2.min.js",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/js/有声小说吧.js"
     },
     {
       "key": "drpy_js_蜻蜓FM",
       "name": "📻┃蜻蜓┃收音",
       "type": 3,
-      "api": "./肥猫/drpy2.min.js",
-      "ext": "./肥猫/js/蜻蜓FM.js"
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/drpy2.min.js",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/js/蜻蜓FM.js"
     },
     {
       "key": "csp_Nbys",
@@ -676,7 +676,7 @@
       "key": "ext_live_protocol",
       "name": "关注公众号“肥猫不肥”",
       "type": 3,
-      "api": "./肥猫/协议.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/协议.js",
       "ext": "clan://proxy?sourcekey=ext_live_protocol"
     }
   ],
@@ -684,13 +684,13 @@
     {
       "name": "live",
       "type": 0,
-      "url": "./肥猫/live.txt",
+      "url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/live.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     },
     {
       "name": "redirect",
       "type": 0,
-      "url": "./肥猫/redirect.txt",
+      "url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/肥猫/redirect.txt",
       "epg": ""
     }
   ],
@@ -1264,5 +1264,5 @@
   ],
   "wallpaper": "http://我不是.肥猫.love:63/pic/feimao.php",
   "warningText": "接口完全免费，切勿付费购买。",
-  "spider": "./肥猫/spider.jar"
+  "spider": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/spider.jar"
 }

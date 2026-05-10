@@ -1,17 +1,17 @@
 {
   "wallpaper": "https://www.dmoe.cc/random.php",
-  "spider": "./香雅情/spider.jar",
+  "spider": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/spider.jar",
   "lives": [
     {
       "name": "直播",
       "type": 0,
-      "url": "./香雅情/直播.txt",
+      "url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/直播.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     },
     {
       "name": "redirect",
       "type": 0,
-      "url": "./香雅情/redirect.txt",
+      "url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/redirect.txt",
       "epg": ""
     }
   ],
@@ -34,7 +34,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./香雅情/json/Alist.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/Alist.json"
     },
     {
       "key": "360_spider",
@@ -53,7 +53,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/兔小贝.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/兔小贝.json"
     },
     {
       "key": "csp_XYQHiker_兔小贝2",
@@ -63,7 +63,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/兔小贝2.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/兔小贝2.json"
     },
     {
       "key": "csp_XYQHiker_有声小说吧",
@@ -73,7 +73,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/有声小说吧.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/有声小说吧.json"
     },
     {
       "key": "csp_XYQHiker_DJ呦呦音乐网",
@@ -83,7 +83,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/DJ呦呦音乐网.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/DJ呦呦音乐网.json"
     },
     {
       "key": "csp_XYQHiker_柠檬TV2",
@@ -93,7 +93,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/柠檬TV2.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/柠檬TV2.json"
     },
     {
       "key": "csp_XYQHiker_野荷塘影院",
@@ -103,7 +103,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/野荷塘影院.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/野荷塘影院.json"
     },
     {
       "key": "csp_XYQHiker_野马影视",
@@ -113,7 +113,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/野马影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/野马影视.json"
     },
     {
       "key": "csp_XYQHiker_肥猫影视",
@@ -123,7 +123,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/肥猫影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/肥猫影视.json"
     },
     {
       "key": "csp_XYQHiker_红领巾影院",
@@ -133,7 +133,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/红领巾影院.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/红领巾影院.json"
     },
     {
       "key": "csp_XYQHiker_星辰影院",
@@ -143,7 +143,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/星辰影院.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/星辰影院.json"
     },
     {
       "key": "csp_XYQHiker_小猫咪",
@@ -153,7 +153,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/小猫咪.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/小猫咪.json"
     },
     {
       "key": "csp_XYQHiker_188影视",
@@ -163,7 +163,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/188影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/188影视.json"
     },
     {
       "key": "csp_XYQHiker_55影视",
@@ -173,7 +173,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/55影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/55影视.json"
     },
     {
       "key": "csp_XYQHiker_555影视",
@@ -183,7 +183,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/555影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/555影视.json"
     },
     {
       "key": "csp_XYQHiker_极客影院",
@@ -193,7 +193,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/极客影院.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/极客影院.json"
     },
     {
       "key": "csp_XYQHiker_大豆影视",
@@ -203,7 +203,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/大豆影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/大豆影视.json"
     },
     {
       "key": "csp_XYQHiker_3377影视",
@@ -213,7 +213,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/3377影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/3377影视.json"
     },
     {
       "key": "csp_XYQHiker_土狗影院",
@@ -223,7 +223,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/土狗影院.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/土狗影院.json"
     },
     {
       "key": "csp_XYQHiker_特播影院",
@@ -233,7 +233,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/特播影院.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/特播影院.json"
     },
     {
       "key": "csp_XYQHiker_UM影院",
@@ -243,7 +243,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/UM影院.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/UM影院.json"
     },
     {
       "key": "csp_XYQHiker_农民影视",
@@ -253,7 +253,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/农民影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/农民影视.json"
     },
     {
       "key": "csp_XYQHiker_奇趣影视",
@@ -263,7 +263,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/奇趣影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/奇趣影视.json"
     },
     {
       "key": "csp_XYQHiker_乐鱼影视",
@@ -273,7 +273,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/乐鱼影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/乐鱼影视.json"
     },
     {
       "key": "csp_XYQHiker_歪片星球",
@@ -283,7 +283,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/歪片星球.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/歪片星球.json"
     },
     {
       "key": "csp_XYQHiker_双十电影",
@@ -293,7 +293,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/双十电影.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/双十电影.json"
     },
     {
       "key": "csp_XYQHiker_348电影网",
@@ -303,7 +303,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/348电影网.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/348电影网.json"
     },
     {
       "key": "csp_XYQHiker_8K影视",
@@ -313,7 +313,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/8K影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/8K影视.json"
     },
     {
       "key": "csp_XYQHiker_98影院",
@@ -323,7 +323,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/98影院.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/98影院.json"
     },
     {
       "key": "csp_XYQHiker_七新影视",
@@ -333,7 +333,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/七新影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/七新影视.json"
     },
     {
       "key": "csp_XYQHiker_皮皮鸭",
@@ -343,7 +343,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/皮皮鸭.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/皮皮鸭.json"
     },
     {
       "key": "csp_XYQHiker_兄弟影视",
@@ -353,7 +353,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/兄弟影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/兄弟影视.json"
     },
     {
       "key": "csp_XYQHiker_电影港",
@@ -363,7 +363,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/电影港磁力.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/电影港磁力.json"
     },
     {
       "key": "csp_XYQHiker_饭团影视",
@@ -373,7 +373,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/饭团影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/饭团影视.json"
     },
     {
       "key": "csp_XYQHiker_布蕾蓝光影城",
@@ -383,7 +383,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/布蕾蓝光影城.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/布蕾蓝光影城.json"
     },
     {
       "key": "csp_XYQHiker_看看电影",
@@ -393,7 +393,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/看看电影.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/看看电影.json"
     },
     {
       "key": "csp_XYQHiker_秋霞电影",
@@ -403,7 +403,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/秋霞电影.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/秋霞电影.json"
     },
     {
       "key": "csp_XYQHiker_秋霞电影网",
@@ -413,7 +413,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/秋霞电影网.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/秋霞电影网.json"
     },
     {
       "key": "csp_XYQHiker_乐猪影视",
@@ -423,7 +423,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/乐猪TV.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/乐猪TV.json"
     },
     {
       "key": "csp_XYQHiker_在线之家",
@@ -433,7 +433,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/在线之家.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/在线之家.json"
     },
     {
       "key": "csp_XYQHiker_HDmoli",
@@ -443,7 +443,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/HDmoli.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/HDmoli.json"
     },
     {
       "key": "csp_XYQHiker_无名小站",
@@ -453,7 +453,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/无名小站.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/无名小站.json"
     },
     {
       "key": "csp_XYQHiker_AB影院",
@@ -463,7 +463,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/AB影院.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/AB影院.json"
     },
     {
       "key": "csp_XYQHiker_魔戒影院",
@@ -473,7 +473,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/魔戒影院.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/魔戒影院.json"
     },
     {
       "key": "csp_XYQHiker_voflix HD",
@@ -483,7 +483,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/voflix HD.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/voflix HD.json"
     },
     {
       "key": "csp_XYQHiker_奈飞中文",
@@ -493,7 +493,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/奈飞中文.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/奈飞中文.json"
     },
     {
       "key": "csp_XYQHiker_鸭奈飞影视",
@@ -503,7 +503,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/鸭奈飞影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/鸭奈飞影视.json"
     },
     {
       "key": "csp_XYQHiker_蓝光影院",
@@ -513,7 +513,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/蓝光影院.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/蓝光影院.json"
     },
     {
       "key": "csp_XYQHiker_影渣渣影视",
@@ -523,7 +523,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/影渣渣影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/影渣渣影视.json"
     },
     {
       "key": "csp_XYQHiker_电影牛影院",
@@ -533,7 +533,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/电影牛影院.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/电影牛影院.json"
     },
     {
       "key": "csp_XYQHiker_电影盒子",
@@ -544,7 +544,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/电影盒子.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/电影盒子.json"
     },
     {
       "key": "csp_XYQHiker_段友影视",
@@ -554,7 +554,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/段友影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/段友影视.json"
     },
     {
       "key": "csp_XYQHiker_耐看点播",
@@ -564,7 +564,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/耐看点播.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/耐看点播.json"
     },
     {
       "key": "csp_XYQHiker_天空影视",
@@ -574,7 +574,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/天空影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/天空影视.json"
     },
     {
       "key": "csp_XYQHiker_星空影视",
@@ -584,7 +584,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/星空影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/星空影视.json"
     },
     {
       "key": "csp_XYQHiker_疯狗影视",
@@ -594,7 +594,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/疯狗影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/疯狗影视.json"
     },
     {
       "key": "csp_XYQHiker_我不卡影院",
@@ -604,7 +604,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/我不卡影院.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/我不卡影院.json"
     },
     {
       "key": "csp_XYQHiker_爱看影视",
@@ -614,7 +614,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/爱看影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/爱看影视.json"
     },
     {
       "key": "csp_XYQHiker_爱看影视6",
@@ -624,7 +624,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/爱看影视6.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/爱看影视6.json"
     },
     {
       "key": "csp_XYQHiker_艾菲影视",
@@ -634,7 +634,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/艾菲影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/艾菲影视.json"
     },
     {
       "key": "csp_XYQHiker_GimyTV劇迷",
@@ -644,7 +644,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/GimyTV劇迷.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/GimyTV劇迷.json"
     },
     {
       "key": "csp_XYQHiker_曲奇动漫",
@@ -654,7 +654,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/曲奇动漫.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/曲奇动漫.json"
     },
     {
       "key": "csp_XYQHiker_異世界動漫",
@@ -664,7 +664,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/異世界動漫.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/異世界動漫.json"
     },
     {
       "key": "csp_XYQHiker_利丽娅电影",
@@ -674,7 +674,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/利丽娅电影.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/利丽娅电影.json"
     },
     {
       "key": "csp_XYQHiker_北川影视",
@@ -684,7 +684,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/北川影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/北川影视.json"
     },
     {
       "key": "csp_XYQHiker_子子影视",
@@ -694,7 +694,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/子子影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/子子影视.json"
     },
     {
       "key": "csp_XYQHiker_素白白影视",
@@ -705,7 +705,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/素白白影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/素白白影视.json"
     },
     {
       "key": "csp_XYQHiker_厂长影视",
@@ -716,7 +716,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/厂长影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/厂长影视.json"
     },
     {
       "key": "csp_XYQHiker_COKEMV影院",
@@ -727,7 +727,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/COKEMV影院.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/COKEMV影院.json"
     },
     {
       "key": "csp_XYQHiker_MayiTube",
@@ -737,7 +737,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/MayiTube.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/MayiTube.json"
     },
     {
       "key": "csp_XYQHiker_巨人影院",
@@ -747,7 +747,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/巨人影院.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/巨人影院.json"
     },
     {
       "key": "csp_XYQHiker_Vidhub视频库",
@@ -757,7 +757,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/Vidhub视频库.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/Vidhub视频库.json"
     },
     {
       "key": "csp_XYQHiker_宝仙HD",
@@ -767,7 +767,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/宝仙HD.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/宝仙HD.json"
     },
     {
       "key": "csp_XYQHiker_星空影院",
@@ -777,7 +777,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/星空影院.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/星空影院.json"
     },
     {
       "key": "csp_XYQHiker_l0l影院",
@@ -787,7 +787,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/l0l影院.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/l0l影院.json"
     },
     {
       "key": "csp_XYQHiker_F7好看剧",
@@ -797,7 +797,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/F7好看剧.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/F7好看剧.json"
     },
     {
       "key": "csp_XYQHiker_FreeOK",
@@ -807,7 +807,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/FreeOK.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/FreeOK.json"
     },
     {
       "key": "csp_XYQHiker_锐行加速影院",
@@ -817,7 +817,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/锐行加速影院.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/锐行加速影院.json"
     },
     {
       "key": "csp_XYQHiker_MV263",
@@ -827,7 +827,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./香雅情/json/MV263.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/MV263.json"
     },
     {
       "key": "csp_XYQHiker_酷奇MV",
@@ -837,7 +837,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./香雅情/json/酷奇MV.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/酷奇MV.json"
     },
     {
       "key": "csp_XYQHiker_无插件直播",
@@ -847,7 +847,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./香雅情/json/无插件直播.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/无插件直播.json"
     },
     {
       "key": "csp_XYQBiu_88看球",
@@ -857,7 +857,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./香雅情/json/88看球.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/88看球.json"
     },
     {
       "key": "csp_XYQHiker_虎牙直播",
@@ -867,7 +867,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./香雅情/json/虎牙直播.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/虎牙直播.json"
     },
     {
       "key": "JS虎牙",
@@ -887,7 +887,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./香雅情/json/网易CC直播.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/网易CC直播.json"
     },
     {
       "key": "csp_XYQBiu_310直播",
@@ -897,7 +897,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./香雅情/json/310直播.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/310直播.json"
     },
     {
       "key": "csp_XYQBiu_抓饭直播",
@@ -907,7 +907,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./香雅情/json/抓饭直播.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/抓饭直播.json"
     },
     {
       "key": "csp_XYQBiu_斗鱼直播",
@@ -917,7 +917,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./香雅情/json/斗鱼直播.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/斗鱼直播.json"
     },
     {
       "key": "csp_XYQBiu_黑料电影",
@@ -927,7 +927,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/黑料电影.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/黑料电影.json"
     },
     {
       "key": "csp_XYQBiu_影视工场",
@@ -937,7 +937,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/影视工场.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/影视工场.json"
     },
     {
       "key": "csp_XYQBiu_神马",
@@ -947,7 +947,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/神马影院.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/神马影院.json"
     },
     {
       "key": "csp_XYQBiu_骚火电影网",
@@ -957,7 +957,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/骚火电影网.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/骚火电影网.json"
     },
     {
       "key": "csp_XYQBiu_骚火电影VIP",
@@ -967,7 +967,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/骚火电影VIP.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/骚火电影VIP.json"
     },
     {
       "key": "csp_XYQBiu_Auete影视",
@@ -977,7 +977,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/Auete影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/Auete影视.json"
     },
     {
       "key": "csp_XYQBiu_VIP电影",
@@ -987,7 +987,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/VIP电影.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/VIP电影.json"
     },
     {
       "key": "csp_XYQBiu_1985电影网",
@@ -997,7 +997,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/1985电影网.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/1985电影网.json"
     },
     {
       "key": "csp_XYQBiu_大师兄影视",
@@ -1007,7 +1007,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/大师兄影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/大师兄影视.json"
     },
     {
       "key": "csp_XYQBiu_莫扎兔",
@@ -1017,7 +1017,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/莫扎兔.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/莫扎兔.json"
     },
     {
       "key": "csp_XYQBiu_大米星球",
@@ -1027,7 +1027,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/大米星球.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/大米星球.json"
     },
     {
       "key": "csp_XYQBiu_酷客影视",
@@ -1037,7 +1037,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/酷客影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/酷客影视.json"
     },
     {
       "key": "csp_XYQBiu_七小时影院",
@@ -1047,7 +1047,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/七小时影院.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/七小时影院.json"
     },
     {
       "key": "csp_XYQBiu_花猫TV",
@@ -1057,7 +1057,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/花猫TV.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/花猫TV.json"
     },
     {
       "key": "csp_XYQBiu_TVB云播",
@@ -1067,7 +1067,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/TVB云播.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/TVB云播.json"
     },
     {
       "key": "csp_XYQBiu_Libvio",
@@ -1077,7 +1077,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./香雅情/json/libvio.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/libvio.json"
     },
     {
       "key": "csp_XYQBiu_萌番组",
@@ -1087,7 +1087,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./香雅情/json/萌番组.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/萌番组.json"
     },
     {
       "key": "csp_XYQBiu_分享短视频",
@@ -1097,7 +1097,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./香雅情/json/分享短视频.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/香雅情/json/分享短视频.json"
     },
     {
       "key": "csp_appysv2_看剧吧",

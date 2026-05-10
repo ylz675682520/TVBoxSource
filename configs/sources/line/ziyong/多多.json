@@ -4,11 +4,11 @@
       "key": "js豆瓣",
       "name": "🍥┃豆瓣榜单┃公众号:『应用边界』提醒您！使用前请刷新！🍥",
       "type": 3,
-      "api": "./多多/drpymin.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./多多/js/douban.js"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/js/douban.js"
     },
     {
       "key": "t4桉佬",
@@ -23,11 +23,11 @@
       "key": "直播转点播",
       "name": "📺︎┃电视┃点播",
       "type": 3,
-      "api": "./多多/zbzdb.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/zbzdb.js",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./多多/json/zb.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/zb.json"
     },
     {
       "key": "csp_Bili",
@@ -37,7 +37,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./多多/json/bili.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/bili.json"
     },
     {
       "key": "短视频聚合",
@@ -47,7 +47,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./多多/json/短视频聚合.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/短视频聚合.json"
     },
     {
       "key": "csp_Yj1211",
@@ -89,7 +89,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/json/Nmys.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/Nmys.json"
     },
     {
       "key": "py_baby",
@@ -99,7 +99,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./多多/py/baby.py"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/py/baby.py"
     },
     {
       "key": "csp_XYQHiker_‍亲宝资源",
@@ -109,7 +109,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/json/亲宝.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/亲宝.json"
     },
     {
       "key": "csp_阿里搜索",
@@ -119,7 +119,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./多多/jars/csp_阿里搜索.jar",
+      "jar": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/spider.jar",
       "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
     },
     {
@@ -140,7 +140,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/json/磁力熊.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/磁力熊.json"
     },
     {
       "key": "csp_XYQHikerdyx",
@@ -150,8 +150,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/json/电影港.json",
-      "jar": "./多多/jars/csp_XYQHikerdyx.jar"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/电影港.json",
+      "jar": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/spider.jar"
     },
     {
       "key": "mtv_pc_yinfans",
@@ -161,7 +161,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/json/音范丝.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/音范丝.json"
     },
     {
       "key": "csp_8K",
@@ -178,8 +178,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./多多/jars/csp_XYQHikerdyx.jar",
-      "ext": "./多多/json/布蕾蓝光.json"
+      "jar": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/spider.jar",
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/布蕾蓝光.json"
     },
     {
       "key": "csp_XBPQ_奇优",
@@ -189,17 +189,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/json/奇优影院.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/奇优影院.json"
     },
     {
       "key": "js_大豆",
       "name": "🎖┃大豆┃影院",
       "type": 3,
-      "api": "./多多/drpymin.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/js/大豆.js"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/js/大豆.js"
     },
     {
       "key": "csp_xml_非凡资源",
@@ -272,7 +272,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/json/锐行.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/锐行.json"
     },
     {
       "key": "Upyunso",
@@ -282,7 +282,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./多多/jars/csp_阿里搜索.jar",
+      "jar": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/spider.jar",
       "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
     },
     {
@@ -293,7 +293,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./多多/jars/csp_阿里搜索.jar",
+      "jar": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/spider.jar",
       "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
     },
     {
@@ -304,7 +304,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./多多/jars/csp_XYQHikerdyx.jar",
+      "jar": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/spider.jar",
       "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
     },
     {
@@ -315,7 +315,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./多多/jars/csp_阿里搜索.jar",
+      "jar": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/spider.jar",
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt$$$多多$$$159357"
     },
     {
@@ -331,21 +331,21 @@
       "key": "dr_厂长资源",
       "name": "🏘️┃厂长┃[JS]",
       "type": 3,
-      "api": "./多多/drpymin.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/drpymin.js",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./多多/js/czspp.js"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/js/czspp.js"
     },
     {
       "key": "js_Libvio",
       "name": "🍲┃利奥┃[JS]",
       "type": 3,
-      "api": "./多多/drpymin.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/js/libvio.js"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/js/libvio.js"
     },
     {
       "key": "csp_XBPQ_LIBVIO",
@@ -355,7 +355,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/json/LIBVIO.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/LIBVIO.json"
     },
     {
       "key": "csp_DiDuan",
@@ -370,21 +370,21 @@
       "key": "drpy_js_ddys",
       "name": "🐞┃低端┃[JS]",
       "type": 3,
-      "api": "./多多/drpymin.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./多多/js/ddys.js"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/js/ddys.js"
     },
     {
       "key": "js_稀饭影视",
       "name": "🍚┃稀饭┃影视",
       "type": 3,
-      "api": "./多多/drpymin.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/js/稀饭.js"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/js/稀饭.js"
     },
     {
       "key": "Kuaikan",
@@ -412,7 +412,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/json/优狐.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/优狐.json"
     },
     {
       "key": "csp_363",
@@ -447,21 +447,21 @@
       "key": "js_大师兄",
       "name": "🐵┃师兄┃影视",
       "type": 3,
-      "api": "./多多/drpymin.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/js/大师兄影视.js"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/js/大师兄影视.js"
     },
     {
       "key": "js_孜然影视",
       "name": "🍛┃孜然┃影视",
       "type": 3,
-      "api": "./多多/drpymin.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/js/孜然影视.js"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/js/孜然影视.js"
     },
     {
       "key": "csp_XYQHiker_野荷塘",
@@ -471,7 +471,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/json/野荷塘.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/野荷塘.json"
     },
     {
       "key": "csp_xBPQ_胖虎",
@@ -481,7 +481,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/json/panghu.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/panghu.json"
     },
     {
       "key": "csp_XYQHiker_爱看影视",
@@ -491,17 +491,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./多多/json/爱看影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/爱看影视.json"
     },
     {
       "key": "js_电影先生",
       "name": "🤵┃电影┃先生",
       "type": 3,
-      "api": "./多多/drpymin.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/js/电影先生.js"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/js/电影先生.js"
     },
     {
       "key": "csp_XBPQ_饭团",
@@ -511,17 +511,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./多多/json/饭团HD.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/饭团HD.json"
     },
     {
       "key": "drpy_js_乐猪TV",
       "name": "🐷┃乐猪┃影视",
       "type": 3,
-      "api": "./多多/drpymin.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/js/乐猪TV.js"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/js/乐猪TV.js"
     },
     {
       "key": "csp_Lgyy",
@@ -551,7 +551,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/json/voflix.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/voflix.json"
     },
     {
       "key": "csp_XYQHiker_鸭奈飞",
@@ -561,27 +561,27 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/json/鸭奈飞影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/鸭奈飞影视.json"
     },
     {
       "key": "drpy_js_创艺影视",
       "name": "🍸️┃创艺┃影视",
       "type": 3,
-      "api": "./多多/drpymin.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/js/chuangyi.js"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/js/chuangyi.js"
     },
     {
       "key": "js_小狗影院",
       "name": "🐶┃小狗┃影院",
       "type": 3,
-      "api": "./多多/drpymin.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/js/小狗.js"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/js/小狗.js"
     },
     {
       "key": "360_spider",
@@ -600,7 +600,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/py/xigua.py"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/py/xigua.py"
     },
     {
       "key": "csp_Kunyu77",
@@ -615,61 +615,61 @@
       "key": "drpy_js_酷云七七",
       "name": "🍁┃七七┃[JS]",
       "type": 3,
-      "api": "./多多/drpymin.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/js/77.js"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/js/77.js"
     },
     {
       "key": "drpy_js_企鹅",
       "name": "🐧┃企鹅┃基地",
       "type": 3,
-      "api": "./多多/drpymin.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/js/qtv.js"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/js/qtv.js"
     },
     {
       "key": "drpy_js_奇异",
       "name": "🥝┃奇异┃大厂",
       "type": 3,
-      "api": "./多多/drpymin.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/js/qzys.js"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/js/qzys.js"
     },
     {
       "key": "drpy_js_芒果",
       "name": "🥭┃芒芒┃大厂",
       "type": 3,
-      "api": "./多多/drpymin.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/js/baimang.js"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/js/baimang.js"
     },
     {
       "key": "drpy_js_优酷",
       "name": "👑┃油库┃大厂",
       "type": 3,
-      "api": "./多多/drpymin.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/js/youku.js"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/js/youku.js"
     },
     {
       "key": "drpy_js_菜狗",
       "name": "🐕️┃菜狗┃大厂",
       "type": 3,
-      "api": "./多多/drpymin.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/js/caigou.js"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/js/caigou.js"
     },
     {
       "key": "zy_新浪资源",
@@ -737,11 +737,11 @@
       "key": "js_莫扎兔",
       "name": "🐰┃莫扎┃影视",
       "type": 3,
-      "api": "./多多/drpymin.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/js/莫扎兔.js"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/js/莫扎兔.js"
     },
     {
       "key": "csp_Xinsj",
@@ -780,7 +780,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./多多/json/无名小站.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/无名小站.json"
     },
     {
       "key": "csp_xpath_独播库",
@@ -790,7 +790,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/json/duboku.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/duboku.json"
     },
     {
       "key": "py_cctv",
@@ -800,7 +800,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./多多/py/cctv.py"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/py/cctv.py"
     },
     {
       "key": "csp_XBPQ_真不卡",
@@ -810,7 +810,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/json/真不卡.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/真不卡.json"
     },
     {
       "key": "csp_Smdyy",
@@ -839,7 +839,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/json/骚火电影.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/骚火电影.json"
     },
     {
       "key": "csp_Bd",
@@ -881,21 +881,21 @@
       "key": "js_酷狗MV",
       "name": "🎻┃酷狗┃音乐",
       "type": 3,
-      "api": "./多多/drpymin.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/js/酷狗MV.js"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/js/酷狗MV.js"
     },
     {
       "key": "js_a8音乐",
       "name": "🎸┃奥迪┃音乐",
       "type": 3,
-      "api": "./多多/drpymin.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/js/a8音乐.js"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/js/a8音乐.js"
     },
     {
       "key": "csp_XBPQ_酷奇",
@@ -905,7 +905,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./多多/json/酷奇MV.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/酷奇MV.json"
     },
     {
       "key": "csp_Anime1",
@@ -920,11 +920,11 @@
       "key": "js路漫漫",
       "name": "👩‍🎨┃漫漫┃动漫",
       "type": 3,
-      "api": "./多多/drpymin.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/drpymin.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./多多/js/路漫漫.js"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/js/路漫漫.js"
     },
     {
       "key": "去看动漫",
@@ -934,7 +934,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./多多/json/去看动漫.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/去看动漫.json"
     },
     {
       "key": "动漫直链",
@@ -944,7 +944,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./多多/json/动漫直链.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/动漫直链.json"
     },
     {
       "key": "csp_biubiu_风车动漫",
@@ -954,7 +954,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./多多/json/风车动漫.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/风车动漫.json"
     },
     {
       "key": "csp_xpath___动漫巴士",
@@ -964,7 +964,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./多多/json/动漫巴士.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/动漫巴士.json"
     },
     {
       "key": "py_qie",
@@ -974,7 +974,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./多多/py/qie.py"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/py/qie.py"
     },
     {
       "key": "csp_XPath_鹅直播",
@@ -984,7 +984,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./多多/json/qie.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/qie.json"
     },
     {
       "key": "csp_XYQBiu_17看球",
@@ -994,57 +994,57 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./多多/json/看球.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/看球.json"
     },
     {
       "key": "drpy_js_310直播",
       "name": "🥎┃三一┃直播",
       "type": 3,
-      "api": "./多多/drpymin.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./多多/js/310.js"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/js/310.js"
     },
     {
       "key": "dr_88看球",
       "name": "🏀┃八八┃看球",
       "type": 3,
-      "api": "./多多/drpymin.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/drpymin.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./多多/js/88看球.js"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/js/88看球.js"
     },
     {
       "key": "drpy_js_JRS直播",
       "name": "⚽┃JRS┃直播",
       "type": 3,
-      "api": "./多多/drpymin.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./多多/js/jrslive.js"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/js/jrslive.js"
     },
     {
       "key": "drpy_js_JRKAN直播",
       "name": "🥎┃JRK┃看球",
       "type": 3,
-      "api": "./多多/drpymin.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/drpymin.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./多多/js/jrs看球.js"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/js/jrs看球.js"
     },
     {
       "key": "dr_JRKAN直播",
       "name": "🏀┃JRK┃直播",
       "type": 3,
-      "api": "./多多/drpymin.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/drpymin.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./多多/js/JRKAN.js"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/js/JRKAN.js"
     },
     {
       "key": "csp_XYQBiu_抓饭直播",
@@ -1054,7 +1054,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./多多/json/抓饭直播.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/抓饭直播.json"
     },
     {
       "key": "py_dashan",
@@ -1064,7 +1064,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./多多/py/搭讪.py"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/py/搭讪.py"
     },
     {
       "key": "py_dapei",
@@ -1074,17 +1074,17 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./多多/py/搭配.py"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/py/搭配.py"
     },
     {
       "key": "js_B站精简",
       "name": "🅱️┃哔哩┃精简",
       "type": 3,
-      "api": "./多多/drpymin.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/drpymin.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./多多/js/B站精简.js"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/js/B站精简.js"
     },
     {
       "key": "py_meishi",
@@ -1094,7 +1094,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./多多/py/美食合集.py"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/py/美食合集.py"
     },
     {
       "key": "py_youer",
@@ -1104,7 +1104,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./多多/py/youer.py"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/py/youer.py"
     },
     {
       "key": "py_xiaoxue",
@@ -1114,7 +1114,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./多多/py/xiaoxue.py"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/py/xiaoxue.py"
     },
     {
       "key": "py_czxx",
@@ -1124,7 +1124,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./多多/py/chuzhong.py"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/py/chuzhong.py"
     },
     {
       "key": "py_gaozxx",
@@ -1134,7 +1134,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./多多/py/gaozhong.py"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/py/gaozhong.py"
     },
     {
       "key": "py_zyy",
@@ -1144,7 +1144,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./多多/py/zyy.py"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/py/zyy.py"
     },
     {
       "key": "py_xuqu1",
@@ -1154,7 +1154,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./多多/py/xiqu.py"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/py/xiqu.py"
     },
     {
       "key": "py_TYjs",
@@ -1164,7 +1164,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./多多/py/tiyu.py"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/py/tiyu.py"
     },
     {
       "key": "py_xiangsh",
@@ -1174,7 +1174,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./多多/py/xiaopin.py"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/py/xiaopin.py"
     },
     {
       "key": "py_FBqx",
@@ -1184,7 +1184,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./多多/py/qiudui.py"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/py/qiudui.py"
     },
     {
       "key": "py_Meinvw",
@@ -1194,7 +1194,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./多多/py/meinv.py"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/py/meinv.py"
     },
     {
       "key": "py_yanchh",
@@ -1204,7 +1204,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./多多/py/geshou.py"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/py/geshou.py"
     },
     {
       "key": "py_Nvtuan",
@@ -1214,7 +1214,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./多多/py/nvtuan.py"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/py/nvtuan.py"
     },
     {
       "key": "py_MTV",
@@ -1224,7 +1224,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./多多/py/mtv.py"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/py/mtv.py"
     },
     {
       "key": "py_Yinl2",
@@ -1234,17 +1234,17 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./多多/py/yinyue.py"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/py/yinyue.py"
     },
     {
       "key": "js_哔哩直播",
       "name": "🅱️┃哔哩┃直播",
       "type": 3,
-      "api": "./多多/drpymin.js",
+      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/drpymin.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./多多/js/哔哩直播.js"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/js/哔哩直播.js"
     },
     {
       "key": "py_huya",
@@ -1254,7 +1254,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./多多/py/pyhuya.py"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/py/pyhuya.py"
     },
     {
       "key": "csp_XYQHiker_虎牙直播",
@@ -1264,7 +1264,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./多多/json/虎牙.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/虎牙.json"
     },
     {
       "key": "py_douyu",
@@ -1274,7 +1274,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./多多/py/pydouyu.py"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/py/pydouyu.py"
     },
     {
       "key": "csp_XYQBiu_斗鱼",
@@ -1284,7 +1284,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./多多/json/斗鱼.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/斗鱼.json"
     },
     {
       "key": "网易CC",
@@ -1294,7 +1294,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./多多/json/网易CC.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/网易CC.json"
     },
     {
       "key": "口袋影院",
@@ -1304,7 +1304,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./多多/json/口袋影院.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/口袋影院.json"
     },
     {
       "key": "花猫影视",
@@ -1314,7 +1314,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./多多/json/花猫影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/花猫影视.json"
     },
     {
       "key": "csp_biubiu_dadagui",
@@ -1324,7 +1324,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./多多/json/达达龟.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/达达龟.json"
     },
     {
       "key": "csp_XBPQ_TVB云播",
@@ -1334,7 +1334,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./多多/json/tvb云播.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/tvb云播.json"
     },
     {
       "key": "csp_XBPQ_金眼影视",
@@ -1344,7 +1344,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./多多/json/金眼影视.json"
+      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/json/金眼影视.json"
     },
     {
       "key": "push_agent",
@@ -1354,7 +1354,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "./多多/jars/csp_阿里搜索.jar",
+      "jar": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/spider.jar",
       "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
     }
   ],
@@ -1362,13 +1362,13 @@
     {
       "name": "影视",
       "type": 0,
-      "url": "./多多/影视.txt",
+      "url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/影视.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
     },
     {
       "name": "redirect",
       "type": 0,
-      "url": "./多多/redirect.txt",
+      "url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/多多/redirect.txt",
       "epg": ""
     }
   ],
@@ -2056,5 +2056,5 @@
   ],
   "wallpaper": "https://yydsys.top/bg.php",
   "warningText": "大聪明提醒：用前不刷新，老脸一阵红",
-  "spider": "./多多/spider.jar"
+  "spider": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/spider.jar"
 }
