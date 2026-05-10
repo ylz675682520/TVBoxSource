@@ -1,21 +1,20 @@
-﻿{
+{
     "urls": [
-        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/aa.json", "name": "aa"},
-        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/box.json", "name": "box"},
-        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/catcr.json", "name": "catcr"},
-        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dong-learn.json", "name": "dong-learn"},
-        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi.json", "name": "dxawi"},
-        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/Fengmi.json", "name": "Fengmi"},
-        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/fty.json", "name": "fty"},
-        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/Integrated.json", "name": "Integrated"},
-        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/JS.json", "name": "JS"},
-        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/jsm.json", "name": "jsm"},
-        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/M.json", "name": "M"},
-        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/moyu.json", "name": "moyu"},
-        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/my0725.json", "name": "my0725"},
-        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/NanFeng.json", "name": "NanFeng"},
-        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/N线路.json", "name": "N线路"},
-        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/ok.json", "name": "ok"},
-        {"url": "https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/PY.json", "name": "PY"}
+        {"url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/aa.json", "name": "aa"},
+        {"url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/box.json", "name": "box"},
+        {"url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/catcr.json", "name": "catcr"},
+        {"url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dong-learn.json", "name": "dong-learn"},
+        {"url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/dxawi.json", "name": "dxawi"},
+        {"url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/Fengmi.json", "name": "Fengmi"},
+        {"url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/fty.json", "name": "fty"},
+        {"url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/Integrated.json", "name": "Integrated"},
+        {"url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/JS.json", "name": "JS"},
+        {"url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/jsm.json", "name": "jsm"},
+        {"url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/M.json", "name": "M"},
+        {"url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/my0725.json", "name": "my0725"},
+        {"url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/NanFeng.json", "name": "NanFeng"},
+        {"url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/ok.json", "name": "ok"},
+        {"url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/PY.json", "name": "PY"},
+        {"url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/moyu.json", "name": "MoYu"}
     ]
 }

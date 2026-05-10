@@ -1,10 +1,10 @@
-{
+﻿{
     "urls": [
-        {"url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json", "name": "FanTaiYing"},
-        {"url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/XYQ.json", "name": "XYQ"},
-        {"url": "https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json", "name": "XC"},
-        {"url": "https://cdn.jsdelivr.net/gh/qirenzhidao/tvbox18@main/tv.json", "name": "DuanJu"},
-        {"url": "https://cdn.jsdelivr.net/gh/guot55/YGBH@main/vip2.json", "name": "FatCat"},
-        {"url": "https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json", "name": "Liu673"}
+        {"url": "https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json", "name": "FanTaiYing"},
+        {"url": "https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/XYQ.json", "name": "XYQ"},
+        {"url": "https://gcore.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json", "name": "XC"},
+        {"url": "https://gcore.jsdelivr.net/gh/qirenzhidao/tvbox18@main/tv.json", "name": "DuanJu"},
+        {"url": "https://gcore.jsdelivr.net/gh/guot55/YGBH@main/vip2.json", "name": "FatCat"},
+        {"url": "https://gcore.jsdelivr.net/gh/liu673cn/box@main/m.json", "name": "Liu673"}
     ]
 }
