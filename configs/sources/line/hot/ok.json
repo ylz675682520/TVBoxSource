@@ -1,5 +1,5 @@
 {
-  "spider": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/ok.jar;md5;f7de4a6a445354df4a588f4468e32e73",
+  "spider": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/ok.jar",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
   "logo": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/lib/ol.txt",
   "sites": [

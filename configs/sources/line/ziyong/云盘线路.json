@@ -275,7 +275,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://9xi4o.tk/sub/xBPQ/ikan.json",
-      "jar": "http://9xi4o.tk/sub/xBPQ.jar"
+      "jar": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/XBPQ.jar"
     },
     {
       "key": "csp_xBPQ_555dy",
@@ -286,7 +286,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://9xi4o.tk/sub/xBPQ/swys.json",
-      "jar": "http://9xi4o.tk/sub/xBPQ.jar"
+      "jar": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/XBPQ.jar"
     },
     {
       "key": "csp_xBPQ_真不卡",
@@ -297,7 +297,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://9xi4o.tk/sub/xBPQ/zbkys.json",
-      "jar": "http://9xi4o.tk/sub/xBPQ.jar"
+      "jar": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/XBPQ.jar"
     },
     {
       "key": "csp_xBPQ_巨人影院",
@@ -308,7 +308,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://9xi4o.tk/sub/xBPQ/jrys.json",
-      "jar": "http://9xi4o.tk/sub/xBPQ.jar"
+      "jar": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/XBPQ.jar"
     },
     {
       "key": "csp_xpath_libv",

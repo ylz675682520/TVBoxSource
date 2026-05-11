@@ -1,5 +1,5 @@
 {
-  "spider": "https://pan.shangui.cc/f/g8N3IV/fm.jar;md5;c84c36278bd8bc95a63449a128074be0",
+  "spider": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/fm.jar",
   "wallpaper": "http://maoyingshi.cc/api.php",
   "sites": [
     {
@@ -637,7 +637,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "免嗅:1,分类:新番连载$1#完结日漫$3#热门国漫$4#剧场动漫$16,分类url:http://www.dmand5.com/vod-list-id-{cateId}-pg-{catePg}-order--by--class--year-{year}-letter--area--lang-.html",
-      "jar": "https://pan.shangui.cc/f/LD61U3/xbpq%E6%96%B0%E7%89%88.jar"
+      "jar": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/XBPQ.jar"
     },
     {
       "key": "csp_Dm84",
