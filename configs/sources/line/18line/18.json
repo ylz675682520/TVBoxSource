@@ -8,7 +8,7 @@
                 {
                     "name": "live",
                     "urls": [
-                        "proxy://do=live&type=txt&ext=https://cdn.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/livebroadcast/自用直播晴天源.txt"
+                        "proxy://do=live&type=txt&ext=https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/livebroadcast/自用直播晴天源.txt"
                     ]
                 }
             ]
