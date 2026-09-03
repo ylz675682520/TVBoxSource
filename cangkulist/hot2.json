@@ -1,24 +1,84 @@
-﻿{
+{
     "urls": [
-        {"url": "https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json", "name": "道长线路"},
-        {"url": "https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/XYQ.json", "name": "香雅情线路"},
-        {"url": "https://gcore.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json", "name": "南风线路"},
-        {"url": "https://gcore.jsdelivr.net/gh/qirenzhidao/tvbox18@main/tv.json", "name": "短剧线路"},
-        {"url": "https://gcore.jsdelivr.net/gh/guot55/YGBH@main/vip2.json", "name": "肥猫线路"},
-        {"url": "https://gcore.jsdelivr.net/gh/liu673cn/box@main/m.json", "name": "老刘线路"},
-        {"url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxnew@main/XC.json", "name": "南风XC线路"},
-        {"url": "http://我不是.摸鱼儿.com", "name": "摸鱼线路"},
-        {"url": "http://ok321.top/tv", "name": "OK线路"},
-        {"url": "http://肥猫.com", "name": "肥猫官方"},
-        {"url": "http://fty.xxooo.cf/tv", "name": "饭太硬"},
-        {"url": "https://www.iyouhun.com/tv/3", "name": "讴歌线路"},
-        {"url": "https://www.iyouhun.com/tv/4", "name": "余生线路"},
-        {"url": "https://www.mpanso.com/小米/DEMO.json", "name": "小米线路"},
-        {"url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧技线路"},
-        {"url": "https://dxawi.github.io/0/0.json", "name": "dxawi线路"},
-        {"url": "https://100km.top/0", "name": "Ray线路"},
-        {"url": "http://xhztv.top/tvbox.txt", "name": "小盒子多仓"},
-        {"url": "https://tv.youdu.fan:666", "name": "毒盒多仓"},
-        {"url": "http://m.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌", "name": "欧歌多仓"}
+        {
+            "url": "https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json",
+            "name": "道长线路"
+        },
+        {
+            "url": "https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/XYQ.json",
+            "name": "香雅情线路"
+        },
+        {
+            "url": "https://gcore.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json",
+            "name": "南风线路"
+        },
+        {
+            "url": "https://gcore.jsdelivr.net/gh/qirenzhidao/tvbox18@main/tv.json",
+            "name": "短剧线路"
+        },
+        {
+            "url": "https://gcore.jsdelivr.net/gh/guot55/YGBH@main/vip2.json",
+            "name": "肥猫线路"
+        },
+        {
+            "url": "https://gcore.jsdelivr.net/gh/liu673cn/box@main/m.json",
+            "name": "老刘线路"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxnew@main/XC.json",
+            "name": "南风XC线路"
+        },
+        {
+            "url": "http://我不是.摸鱼儿.com",
+            "name": "摸鱼线路"
+        },
+        {
+            "url": "http://fty.xxooo.cf/tv",
+            "name": "饭太硬"
+        },
+        {
+            "url": "https://www.iyouhun.com/tv/3",
+            "name": "讴歌线路"
+        },
+        {
+            "url": "https://www.iyouhun.com/tv/4",
+            "name": "余生线路"
+        },
+        {
+            "url": "https://dxawi.github.io/0/0.json",
+            "name": "dxawi线路"
+        },
+        {
+            "url": "http://m.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌",
+            "name": "欧歌多仓"
+        },
+        {
+            "url": "https://gcore.jsdelivr.net/gh/Lightconer/tvbox-ysc-config@main/output/%E5%A4%9A%E4%BB%93%E8%AE%A2%E9%98%85.json",
+            "name": "LC多仓订阅"
+        },
+        {
+            "url": "https://gcore.jsdelivr.net/gh/Lightconer/tvbox-ysc-config@main/output/%E5%8D%95%E4%BB%93%E8%81%9A%E5%90%88.json",
+            "name": "LC单仓聚合"
+        },
+        {
+            "url": "https://gcore.jsdelivr.net/gh/Lightconer/tvbox-ysc-config@main/output/4k.json",
+            "name": "LC-4K专线"
+        },
+        {
+            "url": "https://gcore.jsdelivr.net/gh/Lightconer/tvbox-ysc-config@main/output/ouge.json",
+            "name": "LC讴歌"
+        },
+        {
+            "url": "https://gcore.jsdelivr.net/gh/Lightconer/tvbox-ysc-config@main/output/wangerxiao.json",
+            "name": "LC王二小"
+        },
+        {
+            "url": "https://gcore.jsdelivr.net/gh/khw934/TV@master/source.json",
+            "name": "KHW自动更新"
+        },
+        {
+            "url": "https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/0827.json",
+            "name": "高天流云FM"
+        }
     ]
 }

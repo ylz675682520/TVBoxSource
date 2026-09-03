@@ -1,11 +1,40 @@
-﻿{
+{
     "urls": [
-        {"url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/18line/18-01.json", "name": "18-01"},
-        {"url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/18line/18-02.json", "name": "18-02"},
-        {"url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/18line/18.json", "name": "18"},
-        {"url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/18line/Huhujun线路.json", "name": "Huhujun线路"},
-        {"url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/18line/二哈18+.json", "name": "二哈18+"},
-        {"url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/18line/扛把子线路.json", "name": "扛把子线路"},
-        {"url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/18line/浮力yyfxz1.json", "name": "浮力yyfxz1"}
+        {
+            "url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/18line/18-01.json",
+            "name": "18-01"
+        },
+        {
+            "url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/18line/18-02.json",
+            "name": "18-02"
+        },
+        {
+            "url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/18line/18.json",
+            "name": "18"
+        },
+        {
+            "url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/18line/Huhujun线路.json",
+            "name": "Huhujun线路"
+        },
+        {
+            "url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/18line/二哈18+.json",
+            "name": "二哈18+"
+        },
+        {
+            "url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/18line/扛把子线路.json",
+            "name": "扛把子线路"
+        },
+        {
+            "url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/18line/浮力yyfxz1.json",
+            "name": "浮力yyfxz1"
+        },
+        {
+            "url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/18line/Fengmi.json",
+            "name": "FengMi"
+        },
+        {
+            "url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/18line/Xingyun.json",
+            "name": "XingYun"
+        }
     ]
 }
