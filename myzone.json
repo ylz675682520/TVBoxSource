@@ -1,9 +1,9 @@
 ﻿{
     "storeHouse": [
-        {"sourceName": "Hot", "sourceUrl": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/cangkulist/hot.json"},
-        {"sourceName": "Hot2", "sourceUrl": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/cangkulist/hot2.json"},
-        {"sourceName": "Ziyong", "sourceUrl": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/cangkulist/ziyong.json"},
-        {"sourceName": "Live", "sourceUrl": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/cangkulist/live.json"},
-        {"sourceName": "18-Line", "sourceUrl": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/cangkulist/18.json"}
+        {"sourceName": "Hot", "sourceUrl": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@cb5025f9fd38fe97acbcb229a5c183940fe6c1bc/cangkulist/hot.json"},
+        {"sourceName": "Hot2", "sourceUrl": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@cb5025f9fd38fe97acbcb229a5c183940fe6c1bc/cangkulist/hot2.json"},
+        {"sourceName": "Ziyong", "sourceUrl": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@cb5025f9fd38fe97acbcb229a5c183940fe6c1bc/cangkulist/ziyong.json"},
+        {"sourceName": "Live", "sourceUrl": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@cb5025f9fd38fe97acbcb229a5c183940fe6c1bc/cangkulist/live.json"},
+        {"sourceName": "18-Line", "sourceUrl": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@cb5025f9fd38fe97acbcb229a5c183940fe6c1bc/cangkulist/18.json"}
     ]
 }
