@@ -5,8 +5,10 @@
 ## 入口地址（可视App配置）
 
 ```
-https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@d41a094b/myzone.json
+https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/myzone.json
 ```
+
+> 使用 `@main` 配合 fastly 节点（gcore 已不可用）。fastly 缓存较短，更新推送后调用 `https://purge.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/<文件路径>` 可立即刷新。
 
 ## 目录结构
 
@@ -53,12 +55,12 @@ TVBoxSource/
 2. 在 `cangkulist/` 对应单仓文件中添加条目（用绝对CDN路径）
 3. 若线路引用 JAR，把 JAR 放入 `packages/parsers/`，spider 用绝对CDN路径
 4. 提交推送：`git add -A; git commit -m "..."; git push`
-5. **重要**：更新 myzone.json 中5个仓库URL的commit号（`@xxxxxxx` 换成新commit短哈希），绕过CDN缓存立即生效
+5. 调用 `https://purge.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/<文件路径>` 刷新 CDN 缓存
 
 ### 检查引用有效性
 所有内部引用必须用绝对CDN路径，例如：
 ```
-https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@<commit>/libs/js/drpy2.min.js
+https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/js/drpy2.min.js
 ```
 禁止相对路径（`./js/`、`./json/`）——line文件层级较深，相对路径会404。
 

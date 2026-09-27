@@ -127,7 +127,7 @@
             "api": "csp_Miss",
             "searchable": 1,
             "filterable": 1,
-            "jar": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/spider.jar"
+            "jar": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/spider.jar"
         },
         {
             "key": "博天堂",

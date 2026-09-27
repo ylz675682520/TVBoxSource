@@ -1,8 +1,8 @@
 ﻿{
     "urls": [
-        {"url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/livebroadcast/yyfx.json", "name": "YYFX"},
-        {"url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/livebroadcast/zyplayer.json", "name": "ZYPlayer"},
-        {"url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/livebroadcast/privatesource.json", "name": "PrivateSource"},
-        {"url": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/livebroadcast/live.txt", "name": "Live"}
+        {"url": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/livebroadcast/yyfx.json", "name": "YYFX"},
+        {"url": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/livebroadcast/zyplayer.json", "name": "ZYPlayer"},
+        {"url": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/livebroadcast/privatesource.json", "name": "PrivateSource"},
+        {"url": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/livebroadcast/live.txt", "name": "Live"}
     ]
 }

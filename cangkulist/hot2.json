@@ -1,27 +1,27 @@
 {
     "urls": [
         {
-            "url": "https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json",
+            "url": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json",
             "name": "道长线路"
         },
         {
-            "url": "https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/XYQ.json",
+            "url": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/XYQ.json",
             "name": "香雅情线路"
         },
         {
-            "url": "https://gcore.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json",
+            "url": "https://fastly.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json",
             "name": "南风线路"
         },
         {
-            "url": "https://gcore.jsdelivr.net/gh/qirenzhidao/tvbox18@main/tv.json",
+            "url": "https://fastly.jsdelivr.net/gh/qirenzhidao/tvbox18@main/tv.json",
             "name": "短剧线路"
         },
         {
-            "url": "https://gcore.jsdelivr.net/gh/guot55/YGBH@main/vip2.json",
+            "url": "https://fastly.jsdelivr.net/gh/guot55/YGBH@main/vip2.json",
             "name": "肥猫线路"
         },
         {
-            "url": "https://gcore.jsdelivr.net/gh/liu673cn/box@main/m.json",
+            "url": "https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json",
             "name": "老刘线路"
         },
         {
@@ -29,40 +29,40 @@
             "name": "南风XC线路"
         },
         {
-            "url": "https://dxawi.github.io/0/0.json",
-            "name": "dxawi线路"
-        },
-        {
-            "url": "http://m.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌",
-            "name": "欧歌多仓"
-        },
-        {
-            "url": "https://gcore.jsdelivr.net/gh/Lightconer/tvbox-ysc-config@main/output/%E5%A4%9A%E4%BB%93%E8%AE%A2%E9%98%85.json",
+            "url": "https://fastly.jsdelivr.net/gh/Lightconer/tvbox-ysc-config@main/output/%E5%A4%9A%E4%BB%93%E8%AE%A2%E9%98%85.json",
             "name": "LC多仓订阅"
         },
         {
-            "url": "https://gcore.jsdelivr.net/gh/Lightconer/tvbox-ysc-config@main/output/%E5%8D%95%E4%BB%93%E8%81%9A%E5%90%88.json",
+            "url": "https://fastly.jsdelivr.net/gh/Lightconer/tvbox-ysc-config@main/output/%E5%8D%95%E4%BB%93%E8%81%9A%E5%90%88.json",
             "name": "LC单仓聚合"
         },
         {
-            "url": "https://gcore.jsdelivr.net/gh/Lightconer/tvbox-ysc-config@main/output/4k.json",
+            "url": "https://fastly.jsdelivr.net/gh/Lightconer/tvbox-ysc-config@main/output/4k.json",
             "name": "LC-4K专线"
         },
         {
-            "url": "https://gcore.jsdelivr.net/gh/Lightconer/tvbox-ysc-config@main/output/ouge.json",
+            "url": "https://fastly.jsdelivr.net/gh/Lightconer/tvbox-ysc-config@main/output/ouge.json",
             "name": "LC讴歌"
         },
         {
-            "url": "https://gcore.jsdelivr.net/gh/Lightconer/tvbox-ysc-config@main/output/wangerxiao.json",
+            "url": "https://fastly.jsdelivr.net/gh/Lightconer/tvbox-ysc-config@main/output/wangerxiao.json",
             "name": "LC王二小"
         },
         {
-            "url": "https://gcore.jsdelivr.net/gh/khw934/TV@master/source.json",
+            "url": "https://fastly.jsdelivr.net/gh/khw934/TV@master/source.json",
             "name": "KHW自动更新"
         },
         {
-            "url": "https://gcore.jsdelivr.net/gh/gaotianliuyun/gao@master/0827.json",
+            "url": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/0827.json",
             "name": "高天流云FM"
+        },
+        {
+            "url": "https://fastly.jsdelivr.net/gh/FongMi/CatVodSpider@main/json/config.json",
+            "name": "蜂蜜官方"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/ygbh.json",
+            "name": "宝盒聚合"
         }
     ]
 }

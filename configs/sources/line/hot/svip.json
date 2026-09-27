@@ -1,5 +1,5 @@
 {
-  "spider": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/svip.jar",
+  "spider": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/svip.jar",
   "wallpaper": "https://sgmao.serv00.net/image/",
   "logo": "https://4708.kstore.space/logo.gif",
   "sites": [
@@ -34,7 +34,7 @@
       "style": {
         "type": "list"
       },
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/alist.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/alist.json"
     },
     {
       "key": "家庭教学",
@@ -103,7 +103,7 @@
       "key": "文才py",
       "name": "文才｜影视",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/文才影视.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/文才影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -349,7 +349,7 @@
       "key": "哔哩视频",
       "name": "哔哩｜视频",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/哔哩视频.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/哔哩视频.py",
       "ext": {
         "json": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       }
@@ -368,7 +368,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/哔哩合集.json",
+        "json": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/哔哩合集.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       }
     },
@@ -380,7 +380,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/wogg.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/wogg.json"
     },
     {
       "key": "木偶",
@@ -390,7 +390,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/mogg.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/mogg.json"
     },
     {
       "key": "蜡笔",
@@ -401,7 +401,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/lb.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/lb.json"
     },
     {
       "key": "至臻",
@@ -412,7 +412,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/zz.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/zz.json"
     },
     {
       "key": "多多",
@@ -423,7 +423,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/yyds.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/yyds.json"
     },
     {
       "key": "欧哥",
@@ -434,7 +434,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/og.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/og.json"
     },
     {
       "key": "二小",
@@ -445,7 +445,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/ex.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/ex.json"
     },
     {
       "key": "百家",
@@ -456,7 +456,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/bj.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/bj.json"
     },
     {
       "key": "大玩",
@@ -467,7 +467,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/dawo.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/dawo.json"
     },
     {
       "key": "虎斑",
@@ -478,7 +478,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/hb.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/hb.json"
     },
     {
       "key": "闪电",
@@ -489,7 +489,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/sd.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/sd.json"
     },
     {
       "key": "下饭",
@@ -500,7 +500,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/xf.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/xf.json"
     },
     {
       "key": "团长",
@@ -525,7 +525,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/lj.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/lj.json"
     },
     {
       "key": "海绵",
@@ -540,7 +540,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/hm.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/hm.json"
     },
     {
       "key": "Pan1",
@@ -555,7 +555,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/pan1.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/pan1.json"
     },
     {
       "key": "夸父",
@@ -570,7 +570,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/kf.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/kf.json"
     },
     {
       "key": "趣盘",
@@ -600,7 +600,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/aliyunpansearch.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/aliyunpansearch.json"
     },
     {
       "key": "盘库",
@@ -627,7 +627,7 @@
       "key": "偷乐短剧",
       "name": "偷乐｜短剧",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/偷乐短剧.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/偷乐短剧.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -638,7 +638,7 @@
       "key": "爱看短剧",
       "name": "爱看｜短剧",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/爱看短剧.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/爱看短剧.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -650,7 +650,7 @@
       "name": "短剧网｜短剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xbpq/短剧网.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xbpq/短剧网.json"
     },
     {
       "key": "短剧屋",
@@ -660,13 +660,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xyqhiker/短剧屋.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xyqhiker/短剧屋.json"
     },
     {
       "key": "红果短剧",
       "name": "红果｜短剧",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/红果短剧.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/红果短剧.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -677,7 +677,7 @@
       "key": "剧多短剧",
       "name": "剧多｜短剧",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/剧多短剧.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/剧多短剧.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -688,7 +688,7 @@
       "key": "甜圈短剧",
       "name": "甜圈｜短剧",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/甜圈短剧.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/甜圈短剧.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -699,7 +699,7 @@
       "key": "河马短剧",
       "name": "河马｜短剧",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/河马短剧.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/河马短剧.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -730,7 +730,7 @@
       "key": "猎手影视",
       "name": "猎手｜影视",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/猎手影视.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/猎手影视.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -741,7 +741,7 @@
       "key": "火车影视",
       "name": "火车｜影视",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/火车影视.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/火车影视.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -752,7 +752,7 @@
       "key": "美帕影视",
       "name": "美帕｜影视",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/美帕影视.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/美帕影视.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -763,7 +763,7 @@
       "key": "嗨皮影视",
       "name": "嗨皮｜影视",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/嗨皮影视.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/嗨皮影视.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -774,7 +774,7 @@
       "key": "爱瓜PY",
       "name": "爱瓜｜APP",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/爱瓜影视.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/爱瓜影视.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -785,7 +785,7 @@
       "key": "绝对PY",
       "name": "绝对｜APP",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/绝对影视.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/绝对影视.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -796,7 +796,7 @@
       "key": "小苹果PY",
       "name": "水果｜APP",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/小苹果影视.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/小苹果影视.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -807,7 +807,7 @@
       "key": "云端PY",
       "name": "云端｜APP",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/云端影视.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/云端影视.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -818,7 +818,7 @@
       "key": "恋鱼影视",
       "name": "恋鱼｜APP",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/恋鱼影视.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/恋鱼影视.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -829,7 +829,7 @@
       "key": "若惜影视",
       "name": "若惜｜APP",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/若惜影视.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/若惜影视.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -840,7 +840,7 @@
       "key": "云速影视",
       "name": "云速｜APP",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/云速影视.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/云速影视.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -851,7 +851,7 @@
       "key": "国外影视",
       "name": "全球｜APP",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/国外剧.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/国外剧.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -862,7 +862,7 @@
       "key": "小红影视",
       "name": "小红｜APP",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/小红影视.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/小红影视.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -873,7 +873,7 @@
       "key": "旺旺影视",
       "name": "旺旺｜APP",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/旺旺影视.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/旺旺影视.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -884,7 +884,7 @@
       "key": "农牧影视",
       "name": "农牧｜APP",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/农民影视.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/农民影视.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -895,7 +895,7 @@
       "key": "奇迹影视",
       "name": "奇迹｜APP",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/奇迹影视.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/奇迹影视.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -906,7 +906,7 @@
       "key": "剧粑粑影视",
       "name": "剧粑｜APP",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/剧粑粑影视.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/剧粑粑影视.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -917,7 +917,7 @@
       "key": "央视影视",
       "name": "央视｜APP",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/央视影视.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/央视影视.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -1093,70 +1093,70 @@
       "name": "可可｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xbpq/可可影视.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xbpq/可可影视.json"
     },
     {
       "key": "海纳影视",
       "name": "海纳｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xbpq/海纳影视.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xbpq/海纳影视.json"
     },
     {
       "key": "面包影视",
       "name": "面包｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xbpq/面包影视.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xbpq/面包影视.json"
     },
     {
       "key": "永乐影视",
       "name": "永乐｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xbpq/永乐影视.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xbpq/永乐影视.json"
     },
     {
       "key": "雪糕影视",
       "name": "雪糕｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xbpq/雪糕影视.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xbpq/雪糕影视.json"
     },
     {
       "key": "流光影视",
       "name": "流光｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xbpq/流光影视.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xbpq/流光影视.json"
     },
     {
       "key": "星辰影视",
       "name": "星辰｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xbpq/星辰影视.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xbpq/星辰影视.json"
     },
     {
       "key": "巴蜀影视",
       "name": "巴蜀｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xbpq/巴蜀影视.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xbpq/巴蜀影视.json"
     },
     {
       "key": "泥巴影视",
       "name": "泥巴｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xbpq/泥巴影视.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xbpq/泥巴影视.json"
     },
     {
       "key": "随客影视",
       "name": "随客｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xbpq/随客影视.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xbpq/随客影视.json"
     },
     {
       "key": "一起影视",
@@ -1186,7 +1186,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xyqhiker/骚火影视.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xyqhiker/骚火影视.json"
     },
     {
       "key": "1905",
@@ -1685,7 +1685,7 @@
       "key": "嗷呜动漫",
       "name": "嗷呜｜动漫",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/嗷呜动漫.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/嗷呜动漫.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -1696,7 +1696,7 @@
       "key": "MiFunP动漫",
       "name": "MiFunP｜动漫",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/MiFunP.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/MiFunP.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -1707,7 +1707,7 @@
       "key": "CliCli动漫",
       "name": "CliCli｜动漫",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/CliCli动漫.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/CliCli动漫.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -1725,14 +1725,14 @@
       "style": {
         "type": "list"
       },
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xbpq/哆啦新番社.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xbpq/哆啦新番社.json"
     },
     {
       "key": "56动漫",
       "name": "56｜动漫",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/js/drpy2.min.js",
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/js/56动漫.js"
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/js/drpy2.min.js",
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/js/56动漫.js"
     },
     {
       "key": "曼波动漫",
@@ -1816,7 +1816,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/哔哩哔哩相声.json"
+        "json": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/哔哩哔哩相声.json"
       },
       "style": {
         "type": "rect",
@@ -1833,7 +1833,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/哔哩哔哩小品.json"
+        "json": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/哔哩哔哩小品.json"
       },
       "style": {
         "type": "rect",
@@ -1850,7 +1850,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/哔哩哔哩戏曲.json"
+        "json": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/哔哩哔哩戏曲.json"
       },
       "style": {
         "type": "rect",
@@ -1865,13 +1865,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/戏曲多多.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/戏曲多多.json"
     },
     {
       "key": "看球PY",
       "name": "球球｜看球",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/球球.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/球球.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -1903,47 +1903,47 @@
       "key": "88看球",
       "name": "88｜看球",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/js/drpy2.min.js",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/js/drpy2.min.js",
       "style": {
         "type": "list"
       },
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/js/88看球.js"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/js/88看球.js"
     },
     {
       "key": "310直播",
       "name": "310｜看球",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/js/drpy2.min.js",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/js/drpy2.min.js",
       "style": {
         "type": "list"
       },
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/js/310直播.js"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/js/310直播.js"
     },
     {
       "key": "360吧",
       "name": "360｜看球",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/js/drpy2.min.js",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/js/drpy2.min.js",
       "style": {
         "type": "list"
       },
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/js/360吧.js"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/js/360吧.js"
     },
     {
       "key": "JRKAN直播",
       "name": "JRKAN｜直播",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/js/drpy2.min.js",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/js/drpy2.min.js",
       "style": {
         "type": "list"
       },
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/js/JRKAN直播.js"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/js/JRKAN直播.js"
     },
     {
       "key": "网络直播",
       "name": "网络｜直播",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/网络直播.py"
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/网络直播.py"
     },
     {
       "key": "快手直播",
@@ -1963,11 +1963,11 @@
       "key": "虎牙",
       "name": "虎牙｜直播",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/js/drpy22.min.js",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/js/drpy22.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/js/huyazhibo.js"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/js/huyazhibo.js"
     },
     {
       "key": "儿童拼音",
@@ -1979,7 +1979,7 @@
       "filterable": 1,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/儿童拼音.json"
+        "json": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/儿童拼音.json"
       },
       "style": {
         "type": "rect",
@@ -1996,7 +1996,7 @@
       "filterable": 1,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/儿童识字.json"
+        "json": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/儿童识字.json"
       },
       "style": {
         "type": "rect",
@@ -2013,7 +2013,7 @@
       "filterable": 1,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/儿童英语.json"
+        "json": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/儿童英语.json"
       },
       "style": {
         "type": "rect",
@@ -2030,7 +2030,7 @@
       "filterable": 1,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/儿童硬笔.json"
+        "json": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/儿童硬笔.json"
       },
       "style": {
         "type": "rect",
@@ -2047,7 +2047,7 @@
       "filterable": 1,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/儿童思维.json"
+        "json": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/儿童思维.json"
       },
       "style": {
         "type": "rect",
@@ -2064,7 +2064,7 @@
       "filterable": 1,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/儿童口才.json"
+        "json": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/儿童口才.json"
       },
       "style": {
         "type": "rect",
@@ -2081,7 +2081,7 @@
       "filterable": 1,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/儿童编程.json"
+        "json": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/儿童编程.json"
       },
       "style": {
         "type": "rect",
@@ -2098,7 +2098,7 @@
       "filterable": 1,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/儿童武术.json"
+        "json": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/儿童武术.json"
       },
       "style": {
         "type": "rect",
@@ -2115,7 +2115,7 @@
       "filterable": 1,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/少儿教育.json"
+        "json": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/少儿教育.json"
       },
       "style": {
         "type": "rect",
@@ -2132,7 +2132,7 @@
       "filterable": 1,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/小学课堂.json"
+        "json": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/小学课堂.json"
       },
       "style": {
         "type": "rect",
@@ -2149,7 +2149,7 @@
       "filterable": 1,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/初中课堂.json"
+        "json": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/初中课堂.json"
       },
       "style": {
         "type": "rect",
@@ -2166,7 +2166,7 @@
       "filterable": 1,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/高中课堂.json"
+        "json": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/高中课堂.json"
       },
       "style": {
         "type": "rect",
@@ -2183,7 +2183,7 @@
       "filterable": 1,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/外语课堂.json"
+        "json": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/外语课堂.json"
       },
       "style": {
         "type": "rect",
@@ -2200,7 +2200,7 @@
       "filterable": 1,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/小灯塔百科.json"
+        "json": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/小灯塔百科.json"
       },
       "style": {
         "type": "rect",
@@ -2217,7 +2217,7 @@
       "filterable": 1,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/小灯塔科学.json"
+        "json": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/小灯塔科学.json"
       },
       "style": {
         "type": "rect",
@@ -2234,7 +2234,7 @@
       "filterable": 1,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/小灯塔地理.json"
+        "json": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/小灯塔地理.json"
       },
       "style": {
         "type": "rect",
@@ -2251,7 +2251,7 @@
       "filterable": 1,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/小灯塔国学.json"
+        "json": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/小灯塔国学.json"
       },
       "style": {
         "type": "rect",
@@ -2268,7 +2268,7 @@
       "filterable": 1,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/小灯塔人文.json"
+        "json": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/小灯塔人文.json"
       },
       "style": {
         "type": "rect",
@@ -2291,7 +2291,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xbpq/修罗影视.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xbpq/修罗影视.json"
     },
     {
       "key": "七味",
@@ -2357,7 +2357,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xyqhiker/电影港.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xyqhiker/电影港.json"
     },
     {
       "key": "狐狸君",
@@ -2368,7 +2368,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xbpq/狐狸君.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xbpq/狐狸君.json"
     },
     {
       "key": "布谷TV",
@@ -2378,7 +2378,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xbpq/布谷TV.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xbpq/布谷TV.json"
     },
     {
       "key": "BT天堂",
@@ -2388,7 +2388,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xyqhiker/BT天堂.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/scrapers/xyqhiker/BT天堂.json"
     },
     {
       "key": "Mp4电影",
@@ -2438,7 +2438,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/aliShare.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/aliShare.json"
     },
     {
       "key": "夸克云盘",
@@ -2452,7 +2452,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/quarkShare.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/quarkShare.json"
     },
     {
       "key": "UC",
@@ -2466,7 +2466,7 @@
         "type": "list",
         "ratio": 1.433
       },
-      "ext": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/ucShare.json"
+      "ext": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/json/ucShare.json"
     },
     {
       "key": "百度云盘",
@@ -3110,13 +3110,13 @@
     {
       "name": "smt直播魔法",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/live_smt.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/live_smt.py",
       "ext": {}
     },
     {
       "name": "litv直播魔法",
       "type": 3,
-      "api": "https://gcore.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/live_smt_proxy_001.py",
+      "api": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/py/live_smt_proxy_001.py",
       "ext": {}
     },
     {
