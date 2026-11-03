@@ -5,8 +5,8 @@
             "name": "道长线路"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/XYQ.json",
-            "name": "香雅情线路"
+            "url": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/0826.json",
+            "name": "高天流云0826"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json",
@@ -17,8 +17,8 @@
             "name": "短剧线路"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/guot55/YGBH@main/vip2.json",
-            "name": "肥猫线路"
+            "url": "https://fastly.jsdelivr.net/gh/guot55/YGBH@main/TVBoxOSC/tvbox/api.json",
+            "name": "YGBH-TVBOSC"
         },
         {
             "url": "https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json",

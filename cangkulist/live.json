@@ -1,8 +1,9 @@
-﻿{
+{
     "urls": [
         {"url": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/livebroadcast/yyfx.json", "name": "YYFX"},
         {"url": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/livebroadcast/zyplayer.json", "name": "ZYPlayer"},
         {"url": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/livebroadcast/privatesource.json", "name": "PrivateSource"},
-        {"url": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/livebroadcast/live.txt", "name": "Live"}
+        {"url": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/livebroadcast/live.txt", "name": "Live"},
+        {"url": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/livebroadcast/自用直播晴天源.txt", "name": "晴天源"}
     ]
 }
