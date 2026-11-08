@@ -5,10 +5,10 @@
 ## 入口地址（可视App配置）
 
 ```
-https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/myzone.json
+https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/myzone.json
 ```
 
-> 使用 `@main` 配合 fastly 节点（gcore 已不可用）。fastly 缓存较短，更新推送后调用 `https://purge.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/<文件路径>` 可立即刷新。
+> 使用 GitHub raw 经 gh-proxy.com 加速（jsdelivr 已全面封禁 `.jar`，fastly 当前不可用）。地址由 `.../gh/<owner>/<repo>@<ref>/<path>` 改为 `.../raw.githubusercontent.com/<owner>/<repo>/<ref>/<path>`。推送后通常数分钟内生效，无需手动 purge。
 
 ## 目录结构
 
@@ -55,12 +55,12 @@ TVBoxSource/
 2. 在 `cangkulist/` 对应单仓文件中添加条目（用绝对CDN路径）
 3. 若线路引用 JAR，把 JAR 放入 `packages/parsers/`，spider 用绝对CDN路径
 4. 提交推送：`git add -A; git commit -m "..."; git push`
-5. 调用 `https://purge.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/<文件路径>` 刷新 CDN 缓存
+5. 推送后等待数分钟（代理缓存过期）即可，无需手动刷新 CDN
 
 ### 检查引用有效性
 所有内部引用必须用绝对CDN路径，例如：
 ```
-https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/libs/js/drpy2.min.js
+https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js
 ```
 禁止相对路径（`./js/`、`./json/`）——line文件层级较深，相对路径会404。
 

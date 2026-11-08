@@ -1,11 +1,11 @@
 {
-  "spider": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/packages/parsers/spider.jar",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/packages/parsers/spider.jar",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
       "name": "redirect",
       "type": 0,
-      "url": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/ziyong/巧儿/redirect.txt",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/巧儿/redirect.txt",
       "epg": ""
     }
   ],

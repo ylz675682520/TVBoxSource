@@ -1,39 +1,39 @@
 {
     "urls": [
         {
-            "url": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/aa.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/hot/aa.json",
             "name": "aa"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/catcr.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/hot/catcr.json",
             "name": "catcr"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/fty.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/hot/fty.json",
             "name": "fty"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/NanFeng.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/hot/NanFeng.json",
             "name": "NanFeng"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/ok.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/hot/ok.json",
             "name": "ok"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/moyu.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/hot/moyu.json",
             "name": "MoYu"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/fan.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/hot/fan.json",
             "name": "Fan"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/muyuer.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/hot/muyuer.json",
             "name": "MoYuEr"
         },
         {
-            "url": "https://fastly.jsdelivr.net/gh/ylz675682520/TVBoxSource@main/configs/sources/line/hot/svip.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/hot/svip.json",
             "name": "Svip"
         }
     ]
