@@ -1,4 +1,4 @@
-﻿{
+{
   "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/packages/parsers/fm.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
@@ -230,16 +230,6 @@
       ]
     },
     {
-      "key": "csp_xpath_saohuotv",
-      "name": "骚火电影(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/hot/ext/saohuo.json"
-    },
-    {
       "key": "视频采集3",
       "name": "采集视频3",
       "type": 1,
@@ -320,56 +310,6 @@
         "现代都市",
         "邵氏电影"
       ]
-    },
-    {
-      "key": "csp_xpath_大师兄",
-      "name": "大师兄(XPF)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/hot/ext/dashixong.json"
-    },
-    {
-      "key": "csp_xpath_555",
-      "name": "555影视",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/hot/ext/555.json"
-    },
-    {
-      "key": "csp_xpath_海兔",
-      "name": "海兔",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/hot/ext/haitu.json"
-    },
-    {
-      "key": "csp_xpath_飞兔",
-      "name": "🐰飞兔",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/hot/ext/feitu.json"
-    },
-    {
-      "key": "csp_xpath_飞兔成人",
-      "name": "🐰飞兔成人",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/hot/ext/feitucr.json"
     },
     {
       "key": "本地",
@@ -538,17 +478,6 @@
       "api": "https://hhzyapi.com/api.php/provide/vod/"
     },
     {
-      "key": "drpy_js_荐片",
-      "name": "影视 | 荐片[js]",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/hot/ext/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/hot/ext/荐片.js",
-      "timeout": 30
-    },
-    {
       "key": "csp_短剧网",
       "name": "短剧网",
       "type": 3,
@@ -570,36 +499,6 @@
       "ext": "https://www.kuin.one/api.php/app/"
     },
     {
-      "key": "Bili",
-      "name": "🅱哔哔┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/packages/parsers/spider.jar",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/hot/ext/bilibili.json"
-    },
-    {
-      "key": "Biliych",
-      "name": "🅱哔哔┃歌曲",
-      "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/packages/parsers/spider.jar",
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/hot/ext/biliych.json"
-    },
-    {
       "key": "csp_KungFu404",
       "name": "阿里｜设置token",
       "type": 3,
@@ -609,20 +508,6 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt",
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/packages/parsers/spider.jar"
-    },
-    {
-      "key": "配置中心",
-      "name": "阿里｜配置中心",
-      "type": 3,
-      "api": "csp_Config",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/packages/parsers/spider.jar",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/lib/PG推送.json"
     },
     {
       "key": "PanSou",
@@ -914,6 +799,7 @@
       "searchable": 1,
       "changeable": 0
     }
+  
   ],
   "doh": [
     {

@@ -2,24 +2,8 @@
   "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/packages/parsers/spider.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives": [
-    {
-      "name": "live",
-      "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/live.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-    }
   ],
   "sites": [
-    {
-      "key": "豆瓣",
-      "name": "🔍豆瓣荐片",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/douban.js"
-    },
     {
       "key": "本地",
       "name": "💻本地视频",
@@ -31,41 +15,6 @@
       "type_flag": 0
     },
     {
-      "key": "爱奇异",
-      "name": "🥝爱奇艺(官)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/aiqiyi.js"
-    },
-    {
-      "key": "优酷",
-      "name": "👑优酷(官)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/youku.js"
-    },
-    {
-      "key": "腾讯",
-      "name": "🐧腾讯(官)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/tengxun.js"
-    },
-    {
-      "key": "芒果",
-      "name": "🥭芒果(官)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/mangguo.js"
-    },
-    {
-      "key": "搜狗",
-      "name": "🐼搜狗(官)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/caigou.js"
-    },
-    {
       "key": "360影视",
       "name": "💘360影视(官)",
       "type": 3,
@@ -74,36 +23,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0
-    },
-    {
-      "key": "py_xigua",
-      "name": "🔥西瓜视频",
-      "type": 3,
-      "api": "py_xigua",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/py/py_xigua.py"
-    },
-    {
-      "key": "py_cctv",
-      "name": "🔥CCTV",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/py/py_cctv.py"
-    },
-    {
-      "key": "布雷蓝光",
-      "name": "⚡布雷┃4K",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/bulei.json"
     },
     {
       "key": "酷云77",
@@ -125,78 +44,6 @@
       "filterable": 1
     },
     {
-      "key": "LIBVIO",
-      "name": "🔷LibVio",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/LIBVIO.json"
-    },
-    {
-      "key": "独播库",
-      "name": "☘️独播库",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/duboku.json"
-    },
-    {
-      "key": "HDmoli",
-      "name": "🦹魔力高清",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/HDmoli.json"
-    },
-    {
-      "key": "爱看影院",
-      "name": "🎞爱看影院",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/aikan.json"
-    },
-    {
-      "key": "农民影视",
-      "name": "🧑🏻‍农民影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/nongmin.json"
-    },
-    {
-      "key": "电影盒子",
-      "name": "🎞电影盒子",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/dianyinghezi.json"
-    },
-    {
-      "key": "csp_XYQBiu_磁力熊",
-      "name": "🐻磁力熊",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/cilixiong.json"
-    },
-    {
       "key": "快看",
       "name": "👀快看",
       "type": 3,
@@ -204,40 +51,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "Smdyy",
-      "name": "🐎神马影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/shenma.json"
-    },
-    {
-      "key": "UM影院",
-      "name": "⏺UM影院",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/um.js"
-    },
-    {
-      "key": "鸭奈飞",
-      "name": "🦆鸭奈飞",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/yanaifei.js"
-    },
-    {
-      "key": "csp_Voflix",
-      "name": "🌀Voflix",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/voflix.json"
     },
     {
       "key": "csp_DiDuan",
@@ -249,13 +62,6 @@
       "filterable": 0
     },
     {
-      "key": "大豆高清",
-      "name": "💧大豆高清",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/dadou.js"
-    },
-    {
       "key": "csp_Bd",
       "name": "☀️哔嘀影视",
       "type": 3,
@@ -263,153 +69,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "👨‍🌾宝仙HD",
-      "name": "👨‍🌾宝仙HD",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/baoxian.json"
-    },
-    {
-      "key": "饭团影视",
-      "name": "🍙饭团影视",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "searchable": 2,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/fantuan.js"
-    },
-    {
-      "key": "新视觉",
-      "name": "✨新视觉",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/xinshijue.js"
-    },
-    {
-      "key": "csp_panghu",
-      "name": "🐯胖虎",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/panghu.js"
-    },
-    {
-      "key": "101影院",
-      "name": "🎞101影院",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/l0l.js"
-    },
-    {
-      "key": "奥特",
-      "name": "🐼奥特",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/Auete.js"
-    },
-    {
-      "key": "Vidhub视频",
-      "name": "Vidhub视频库",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/Vidhub.json"
-    },
-    {
-      "key": "影视工厂",
-      "name": "🎥影视工厂",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/ysgc.js"
-    },
-    {
-      "key": "石榴影视",
-      "name": "🐾石榴影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/shiliu.json"
-    },
-    {
-      "key": "巨人影院",
-      "name": "💢巨人影院",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/juren.json"
-    },
-    {
-      "key": "csp_XYQHiker_shuangshi",
-      "name": "💢双十电影",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/shuangshi.json"
-    },
-    {
-      "key": "素白白",
-      "name": "💮素白白",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/subaibai.js"
-    },
-    {
-      "key": "可乐",
-      "name": "🚗可乐",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/cokemv.js"
-    },
-    {
-      "key": "二次萌",
-      "name": "🏠二次萌",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/ercimeng.js"
-    },
-    {
-      "key": "csp_Nkdy",
-      "name": "⏺南柯电影",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/nktv.js"
-    },
-    {
-      "key": "蓝光影院",
-      "name": "💧蓝光影院",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/languang.json"
-    },
-    {
-      "key": "csp_Bttoo",
-      "name": "✌两个BT",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/bttwoo.js"
-    },
-    {
-      "key": "人人影视",
-      "name": "🍀人人影视",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/renren.js"
     },
     {
       "key": "csp_AppYsV2",
@@ -420,121 +79,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.69mj.com/xgapp.php/v2/"
-    },
-    {
-      "key": "看看电影",
-      "name": "🍀看看电影",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/kankandianying.js"
-    },
-    {
-      "key": "兄弟影视",
-      "name": "🍀兄弟影视",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/xiongdiyingshi.js"
-    },
-    {
-      "key": "大师兄影视",
-      "name": "🍀大师兄影视",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/dashixiongyingshi.js"
-    },
-    {
-      "key": "创艺影视",
-      "name": "🍀创艺影视",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/chuangyi.js"
-    },
-    {
-      "key": "咕噜咕噜",
-      "name": "💢咕噜咕噜",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/gulugulu.json"
-    },
-    {
-      "key": "乐猪",
-      "name": "💢乐猪",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/lezhu.json"
-    },
-    {
-      "key": "无名小站",
-      "name": "💢无名小站",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/wumingxiaozhan.json"
-    },
-    {
-      "key": "真不卡",
-      "name": "💢真不卡",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/zhenbuka.json"
-    },
-    {
-      "key": "映迷影院",
-      "name": "💢映迷影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/yingmiyingyuan.json"
-    },
-    {
-      "key": "皮皮鸭",
-      "name": "💢皮皮鸭",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/pipiya.json"
-    },
-    {
-      "key": "野荷塘影院",
-      "name": "💢野荷塘影院",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/yehetang.json"
-    },
-    {
-      "key": "达达龟",
-      "name": "🐢达达龟",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/dadagui.json"
-    },
-    {
-      "key": "厂长",
-      "name": "🏭厂长",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/changzhang.js"
     },
     {
       "key": "lzi",
@@ -574,30 +118,6 @@
       ]
     },
     {
-      "key": "喜马拉雅",
-      "name": "👂喜马拉雅",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/ximalaya.js"
-    },
-    {
-      "key": "有声小说吧",
-      "name": "👂有声小说吧",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/youshengxiaoshuoba.json"
-    },
-    {
-      "key": "海洋听书",
-      "name": "👂海洋听书",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/haiyangtingshu.js"
-    },
-    {
       "key": "csp_Dm84",
       "name": "🚌动漫巴士",
       "type": 3,
@@ -623,17 +143,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_AList",
-      "name": "🅰AList网盘",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/Alist.json"
     },
     {
       "key": "纸条",
@@ -725,146 +234,6 @@
       "filterable": 1
     },
     {
-      "key": "兔小贝",
-      "name": "🐰兔小贝",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/tuxiaobei.js"
-    },
-    {
-      "key": "高中教育",
-      "name": "📚学习园地",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/Blixt.json"
-    },
-    {
-      "key": "学外语",
-      "name": "📚学外语",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/waiyu.json"
-    },
-    {
-      "key": "软件教程",
-      "name": "📚软件教程",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/jiaocheng.json"
-    },
-    {
-      "key": "哔哩哔哩",
-      "name": "🅱️哔哩哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/Bili.json"
-    },
-    {
-      "key": "相声小品",
-      "name": "🏮相声小品",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/Blixs.json"
-    },
-    {
-      "key": "戏 曲",
-      "name": "🎈国粹戏曲",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/Blixq.json"
-    },
-    {
-      "key": "歌曲MV",
-      "name": "📺歌曲MV",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/txt/gequ.txt"
-    },
-    {
-      "key": "女团热舞",
-      "name": "💃女团热舞",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/nvtuanrewu.json"
-    },
-    {
-      "key": "演唱会",
-      "name": "🎸演唱会",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/txt/yanchanghui.txt"
-    },
-    {
-      "key": "csp_XBPQ_短视频",
-      "name": "☘️短视频",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/duanshipin.json"
-    },
-    {
-      "key": "88看球",
-      "name": "⚽88看球",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/88kanqiu.js"
-    },
-    {
-      "key": "JRKAN直播",
-      "name": "⚽JRKAN直播",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/jrkan.json"
-    },
-    {
-      "key": "虎牙直播",
-      "name": "🐯虎牙直播",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/huyazhibo.js"
-    },
-    {
       "key": "csp_Yj1211",
       "name": "📽️在线直播",
       "type": 3,
@@ -872,46 +241,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1
-    },
-    {
-      "key": "哔哩直播",
-      "name": "🅱️哔哩直播",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/js/blzb.js"
-    },
-    {
-      "key": "csp_XYQBiu_斗鱼",
-      "name": "🐬斗鱼直播",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/douyu.json"
-    },
-    {
-      "key": "csp_xpath_kuqimv",
-      "name": "🎤酷奇MV",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/kuqimv.json"
-    },
-    {
-      "key": "csp_xpath_A33",
-      "name": "🎸MTV",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/运输车/json/mtv.json"
     }
   ],
   "parses": [

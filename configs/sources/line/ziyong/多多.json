@@ -1,16 +1,6 @@
 {
   "sites": [
     {
-      "key": "js豆瓣",
-      "name": "🍥┃豆瓣榜单┃公众号:『应用边界』提醒您！使用前请刷新！🍥",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/js/douban.js"
-    },
-    {
       "key": "t4桉佬",
       "name": "🍀┃豆瓣┃备用",
       "type": 4,
@@ -18,36 +8,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1
-    },
-    {
-      "key": "直播转点播",
-      "name": "📺︎┃电视┃点播",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/zbzdb.js",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/zb.json"
-    },
-    {
-      "key": "csp_Bili",
-      "name": "🅱️┃哔哩┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/bili.json"
-    },
-    {
-      "key": "短视频聚合",
-      "name": "📱┃网红┃美女",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/短视频聚合.json"
     },
     {
       "key": "csp_Yj1211",
@@ -82,36 +42,6 @@
       "ext": "https://api-aws.11ty.top"
     },
     {
-      "key": "csp_Nmys",
-      "name": "👨‍🌾┃农民┃影视",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/Nmys.json"
-    },
-    {
-      "key": "py_baby",
-      "name": "👶┃宝宝┃合集",
-      "type": 3,
-      "api": "py_baby",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/py/baby.py"
-    },
-    {
-      "key": "csp_XYQHiker_‍亲宝资源",
-      "name": "🧗┃亲宝┃资源",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/亲宝.json"
-    },
-    {
       "key": "csp_阿里搜索",
       "name": "🔎┃阿里┃搜索",
       "type": 3,
@@ -133,73 +63,11 @@
       "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
     },
     {
-      "key": "csp_XYQBiu_磁力熊",
-      "name": "🧸┃磁力┃贝尔",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/磁力熊.json"
-    },
-    {
-      "key": "csp_XYQHikerdyx",
-      "name": "🛥️┃磁力┃港口",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/电影港.json",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/packages/parsers/spider.jar"
-    },
-    {
-      "key": "mtv_pc_yinfans",
-      "name": "🧲┃磁力┃范丝",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/音范丝.json"
-    },
-    {
       "key": "csp_8K",
       "name": "🐏┃八仟┃电影",
       "type": 1,
       "api": "http://tvappjsonapi.8kvod.com/8kvodapilgxcsssss.php/provide/vod/",
       "playUrl": "json:http://47.119.122.235:5566/json/free.php?url="
-    },
-    {
-      "key": "csp_XYQHiker_布蕾蓝光",
-      "name": "⚡️┃布蕾┃蓝光",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/packages/parsers/spider.jar",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/布蕾蓝光.json"
-    },
-    {
-      "key": "csp_XBPQ_奇优",
-      "name": "🧼┃奇优┃影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/奇优影院.json"
-    },
-    {
-      "key": "js_大豆",
-      "name": "🎖┃大豆┃影院",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/js/大豆.js"
     },
     {
       "key": "csp_xml_非凡资源",
@@ -265,16 +133,6 @@
       ]
     },
     {
-      "key": "csp_XYQHiker_锐行加速",
-      "name": "🚴‍┃锐行┃影院",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/锐行.json"
-    },
-    {
       "key": "Upyunso",
       "name": "🌤️┃云搜┃原画",
       "type": 3,
@@ -328,36 +186,6 @@
       "filterable": 1
     },
     {
-      "key": "dr_厂长资源",
-      "name": "🏘️┃厂长┃[JS]",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/drpymin.js",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/js/czspp.js"
-    },
-    {
-      "key": "js_Libvio",
-      "name": "🍲┃利奥┃[JS]",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/js/libvio.js"
-    },
-    {
-      "key": "csp_XBPQ_LIBVIO",
-      "name": "🍲┃利奥┃[XB]",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/LIBVIO.json"
-    },
-    {
       "key": "csp_DiDuan",
       "name": "🐞┃低端┃[SP]",
       "type": 3,
@@ -365,26 +193,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "drpy_js_ddys",
-      "name": "🐞┃低端┃[JS]",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/js/ddys.js"
-    },
-    {
-      "key": "js_稀饭影视",
-      "name": "🍚┃稀饭┃影视",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/js/稀饭.js"
     },
     {
       "key": "Kuaikan",
@@ -403,16 +211,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_XYQHiker_‍优狐",
-      "name": "⛵️┃优狐┃影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/优狐.json"
     },
     {
       "key": "csp_363",
@@ -444,86 +242,6 @@
       "filterable": 1
     },
     {
-      "key": "js_大师兄",
-      "name": "🐵┃师兄┃影视",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/js/大师兄影视.js"
-    },
-    {
-      "key": "js_孜然影视",
-      "name": "🍛┃孜然┃影视",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/js/孜然影视.js"
-    },
-    {
-      "key": "csp_XYQHiker_野荷塘",
-      "name": "🌷┃荷塘┃影院",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/野荷塘.json"
-    },
-    {
-      "key": "csp_xBPQ_胖虎",
-      "name": "🐯┃胖虎┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/panghu.json"
-    },
-    {
-      "key": "csp_XYQHiker_爱看影视",
-      "name": "🧡┃爱看┃影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/爱看影视.json"
-    },
-    {
-      "key": "js_电影先生",
-      "name": "🤵┃电影┃先生",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/js/电影先生.js"
-    },
-    {
-      "key": "csp_XBPQ_饭团",
-      "name": "🍙┃饭团┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/饭团HD.json"
-    },
-    {
-      "key": "drpy_js_乐猪TV",
-      "name": "🐷┃乐猪┃影视",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/js/乐猪TV.js"
-    },
-    {
       "key": "csp_Lgyy",
       "name": "🌀┃蓝光┃影院",
       "type": 3,
@@ -543,47 +261,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_biubiu_voflix",
-      "name": "🧿┃VoFl┃[XB]",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playUrl": "https://play.qwertwe.top/xplay/?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/voflix.json"
-    },
-    {
-      "key": "csp_XYQHiker_鸭奈飞",
-      "name": "🦆┃奈飞┃影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/鸭奈飞影视.json"
-    },
-    {
-      "key": "drpy_js_创艺影视",
-      "name": "🍸️┃创艺┃影视",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/js/chuangyi.js"
-    },
-    {
-      "key": "js_小狗影院",
-      "name": "🐶┃小狗┃影院",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/js/小狗.js"
-    },
-    {
       "key": "360_spider",
       "name": "💫┃三六┃影视",
       "type": 3,
@@ -593,16 +270,6 @@
       "filterable": 1
     },
     {
-      "key": "py_xigua",
-      "name": "🍉┃西瓜┃视频",
-      "type": 3,
-      "api": "py_xigua",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/py/xigua.py"
-    },
-    {
       "key": "csp_Kunyu77",
       "name": "🍁┃七七┃[SP]",
       "type": 3,
@@ -610,66 +277,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "drpy_js_酷云七七",
-      "name": "🍁┃七七┃[JS]",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/js/77.js"
-    },
-    {
-      "key": "drpy_js_企鹅",
-      "name": "🐧┃企鹅┃基地",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/js/qtv.js"
-    },
-    {
-      "key": "drpy_js_奇异",
-      "name": "🥝┃奇异┃大厂",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/js/qzys.js"
-    },
-    {
-      "key": "drpy_js_芒果",
-      "name": "🥭┃芒芒┃大厂",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/js/baimang.js"
-    },
-    {
-      "key": "drpy_js_优酷",
-      "name": "👑┃油库┃大厂",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/js/youku.js"
-    },
-    {
-      "key": "drpy_js_菜狗",
-      "name": "🐕️┃菜狗┃大厂",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/js/caigou.js"
     },
     {
       "key": "zy_新浪资源",
@@ -734,16 +341,6 @@
       ]
     },
     {
-      "key": "js_莫扎兔",
-      "name": "🐰┃莫扎┃影视",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/js/莫扎兔.js"
-    },
-    {
       "key": "csp_Xinsj",
       "name": "🐠┃视觉┃影院",
       "type": 3,
@@ -773,46 +370,6 @@
       "ext": "https://www.555dyy1.com"
     },
     {
-      "key": "csp_XBPQ_无名",
-      "name": "🌈┃无名┃小站",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/无名小站.json"
-    },
-    {
-      "key": "csp_xpath_独播库",
-      "name": "🐲┃独播┃影视",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/duboku.json"
-    },
-    {
-      "key": "py_cctv",
-      "name": "❤️┃央视┃大全",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/py/cctv.py"
-    },
-    {
-      "key": "csp_XBPQ_真不卡",
-      "name": "🚀┃真卡┃[XB]",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/真不卡.json"
-    },
-    {
       "key": "csp_Smdyy",
       "name": "🐴┃神马┃影院",
       "type": 3,
@@ -830,16 +387,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.ysgc.vip"
-    },
-    {
-      "key": "csp_biubiu_骚火电影",
-      "name": "🔥┃骚火┃电影",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/骚火电影.json"
     },
     {
       "key": "csp_Bd",
@@ -878,36 +425,6 @@
       "filterable": 1
     },
     {
-      "key": "js_酷狗MV",
-      "name": "🎻┃酷狗┃音乐",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/js/酷狗MV.js"
-    },
-    {
-      "key": "js_a8音乐",
-      "name": "🎸┃奥迪┃音乐",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/js/a8音乐.js"
-    },
-    {
-      "key": "csp_XBPQ_酷奇",
-      "name": "🎤┃酷奇┃音乐",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/酷奇MV.json"
-    },
-    {
       "key": "csp_Anime1",
       "name": "🌸┃动漫┃系列",
       "type": 3,
@@ -915,436 +432,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "js路漫漫",
-      "name": "👩‍🎨┃漫漫┃动漫",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/drpymin.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/js/路漫漫.js"
-    },
-    {
-      "key": "去看动漫",
-      "name": "🎊┃去看┃动漫",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/去看动漫.json"
-    },
-    {
-      "key": "动漫直链",
-      "name": "🎭┃动漫┃直链",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/动漫直链.json"
-    },
-    {
-      "key": "csp_biubiu_风车动漫",
-      "name": "🍭┃风车┃动漫",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/风车动漫.json"
-    },
-    {
-      "key": "csp_xpath___动漫巴士",
-      "name": "🤖┃动漫┃巴士",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/动漫巴士.json"
-    },
-    {
-      "key": "py_qie",
-      "name": "🏀┃企鹅┃体育",
-      "type": 3,
-      "api": "py_qie",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/py/qie.py"
-    },
-    {
-      "key": "csp_XPath_鹅直播",
-      "name": "🏀┃企鹅┃直播",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/qie.json"
-    },
-    {
-      "key": "csp_XYQBiu_17看球",
-      "name": "⚽┃一起┃直播",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/看球.json"
-    },
-    {
-      "key": "drpy_js_310直播",
-      "name": "🥎┃三一┃直播",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/js/310.js"
-    },
-    {
-      "key": "dr_88看球",
-      "name": "🏀┃八八┃看球",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/drpymin.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/js/88看球.js"
-    },
-    {
-      "key": "drpy_js_JRS直播",
-      "name": "⚽┃JRS┃直播",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/js/jrslive.js"
-    },
-    {
-      "key": "drpy_js_JRKAN直播",
-      "name": "🥎┃JRK┃看球",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/drpymin.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/js/jrs看球.js"
-    },
-    {
-      "key": "dr_JRKAN直播",
-      "name": "🏀┃JRK┃直播",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/drpymin.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/js/JRKAN.js"
-    },
-    {
-      "key": "csp_XYQBiu_抓饭直播",
-      "name": "⚽┃抓饭┃体育",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/抓饭直播.json"
-    },
-    {
-      "key": "py_dashan",
-      "name": "💋┃搭讪┃教程",
-      "type": 3,
-      "api": "py_dashan",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/py/搭讪.py"
-    },
-    {
-      "key": "py_dapei",
-      "name": "💃┃搭配┃教程",
-      "type": 3,
-      "api": "py_dapei",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/py/搭配.py"
-    },
-    {
-      "key": "js_B站精简",
-      "name": "🅱️┃哔哩┃精简",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/drpymin.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/js/B站精简.js"
-    },
-    {
-      "key": "py_meishi",
-      "name": "🅱️┃美食┃合集",
-      "type": 3,
-      "api": "py_meishi",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/py/美食合集.py"
-    },
-    {
-      "key": "py_youer",
-      "name": "🅱️┃幼儿┃教育",
-      "type": 3,
-      "api": "py_youer",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/py/youer.py"
-    },
-    {
-      "key": "py_xiaoxue",
-      "name": "🅱️┃小学┃教育",
-      "type": 3,
-      "api": "py_xiaoxue",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/py/xiaoxue.py"
-    },
-    {
-      "key": "py_czxx",
-      "name": "🅱️┃初中┃教育",
-      "type": 3,
-      "api": "py_czxx",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/py/chuzhong.py"
-    },
-    {
-      "key": "py_gaozxx",
-      "name": "🅱️┃高中┃教育",
-      "type": 3,
-      "api": "py_gaozxx",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/py/gaozhong.py"
-    },
-    {
-      "key": "py_zyy",
-      "name": "🅱️┃中医┃药区",
-      "type": 3,
-      "api": "py_zyy",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/py/zyy.py"
-    },
-    {
-      "key": "py_xuqu1",
-      "name": "🅱️┃戏曲┃合集",
-      "type": 3,
-      "api": "py_xuqu1",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/py/xiqu.py"
-    },
-    {
-      "key": "py_TYjs",
-      "name": "🅱️┃体育┃健身",
-      "type": 3,
-      "api": "py_TYjs",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/py/tiyu.py"
-    },
-    {
-      "key": "py_xiangsh",
-      "name": "🅱️┃相声┃小品",
-      "type": 3,
-      "api": "py_xiangsh",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/py/xiaopin.py"
-    },
-    {
-      "key": "py_FBqx",
-      "name": "🅱️┃球队┃球星",
-      "type": 3,
-      "api": "py_FBqx",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/py/qiudui.py"
-    },
-    {
-      "key": "py_Meinvw",
-      "name": "🅱️┃美女┃热舞",
-      "type": 3,
-      "api": "py_Meinvw",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/py/meinv.py"
-    },
-    {
-      "key": "py_yanchh",
-      "name": "🅱️┃歌手┃合集",
-      "type": 3,
-      "api": "py_yanchh",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/py/geshou.py"
-    },
-    {
-      "key": "py_Nvtuan",
-      "name": "🅱️┃女团┃热舞",
-      "type": 3,
-      "api": "py_Nvtuan",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/py/nvtuan.py"
-    },
-    {
-      "key": "py_MTV",
-      "name": "🅱️┃歌曲┃视频",
-      "type": 3,
-      "api": "py_MTV",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/py/mtv.py"
-    },
-    {
-      "key": "py_Yinl2",
-      "name": "🅱️┃音悦┃合集",
-      "type": 3,
-      "api": "py_Yinl2",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/py/yinyue.py"
-    },
-    {
-      "key": "js_哔哩直播",
-      "name": "🅱️┃哔哩┃直播",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/drpymin.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/js/哔哩直播.js"
-    },
-    {
-      "key": "py_huya",
-      "name": "🐯┃虎牙┃[PY]",
-      "type": 3,
-      "api": "py_huya",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/py/pyhuya.py"
-    },
-    {
-      "key": "csp_XYQHiker_虎牙直播",
-      "name": "🐯┃虎牙┃直播",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/虎牙.json"
-    },
-    {
-      "key": "py_douyu",
-      "name": "🦈┃斗鱼┃[PY]",
-      "type": 3,
-      "api": "py_douyu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/py/pydouyu.py"
-    },
-    {
-      "key": "csp_XYQBiu_斗鱼",
-      "name": "🦈┃斗鱼┃直播",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/斗鱼.json"
-    },
-    {
-      "key": "网易CC",
-      "name": "🐠┃网易┃CC",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/网易CC.json"
-    },
-    {
-      "key": "口袋影院",
-      "name": "👝┃口袋┃影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/口袋影院.json"
-    },
-    {
-      "key": "花猫影视",
-      "name": "🐱┃花猫┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/花猫影视.json"
-    },
-    {
-      "key": "csp_biubiu_dadagui",
-      "name": "🐢┃达龟┃影视",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/达达龟.json"
-    },
-    {
-      "key": "csp_XBPQ_TVB云播",
-      "name": "🌤┃TVB┃云播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/tvb云播.json"
-    },
-    {
-      "key": "csp_XBPQ_金眼影视",
-      "name": "🌟┃金眼┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/json/金眼影视.json"
     },
     {
       "key": "push_agent",
@@ -1357,20 +444,9 @@
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/packages/parsers/spider.jar",
       "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
     }
+  
   ],
   "lives": [
-    {
-      "name": "影视",
-      "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/影视.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
-    },
-    {
-      "name": "redirect",
-      "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/多多/redirect.txt",
-      "epg": ""
-    }
   ],
   "rules": [
     {

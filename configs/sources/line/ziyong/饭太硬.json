@@ -3,49 +3,6 @@
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "sites": [
     {
-      "key": "js豆瓣",
-      "name": "🅱豆豆┃需本地包【影视范】公众号找本地佬",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/饭太硬/drpy.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/饭太硬/js/drpy.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "csp_Alist1",
-      "name": "🅿Alist┃网盘",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/饭太硬/json/alist.json"
-    },
-    {
-      "key": "csp_Bili",
-      "name": "🅱哔哔┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/饭太硬/json/bilibili.json"
-    },
-    {
-      "key": "csp_Biliych",
-      "name": "🅱哔哔┃演唱会",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/饭太硬/json/biliych.json"
-    },
-    {
       "key": "csp_WoGG",
       "name": "👽玩偶哥哥┃4K",
       "type": 3,
@@ -257,16 +214,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_Nmys",
-      "name": "🌾农民┃直连",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/饭太硬/json/nmys.json"
-    },
-    {
       "key": "csp_Ysgc",
       "name": "🏭工厂┃直连",
       "type": 3,
@@ -391,96 +338,6 @@
       "filterable": 1
     },
     {
-      "key": "88js",
-      "name": "⚽ 88┃看球",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/饭太硬/drpy.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/饭太硬/js/88看球.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "csp_xp_qiumi",
-      "name": "⚽ Jrs┃球迷",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/饭太硬/json/dj看球.json"
-    },
-    {
-      "key": "csp_XYQBiu_310直播",
-      "name": "⚽310┃看球",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/饭太硬/json/310直播.json"
-    },
-    {
-      "key": "csp_XPath_企鹅体育",
-      "name": "🐧企鹅┃体育",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/饭太硬/json/企鹅直播.json"
-    },
-    {
-      "key": "csp_XBPQ_酷奇",
-      "name": "🎤酷奇┃MV",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/饭太硬/json/酷奇MV.json"
-    },
-    {
-      "key": "csp_XYQHiker_虎牙直播",
-      "name": "🐯虎牙┃直播",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/饭太硬/json/虎牙直播.json"
-    },
-    {
-      "key": "csp_XYQBiu_斗鱼",
-      "name": "🐟斗鱼┃直播",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/饭太硬/json/斗鱼直播.json"
-    },
-    {
-      "key": "csp_XBPQ_聚短视频",
-      "name": "📽️聚┃短视频",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/饭太硬/json/短视频.json"
-    },
-    {
-      "key": "csp_XYQHiker_有声小说吧",
-      "name": "🎧有声┃小说",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/饭太硬/json/有声小说吧.json"
-    },
-    {
       "key": "七夜",
       "name": "😾七夜┃4K",
       "type": 3,
@@ -556,26 +413,6 @@
       "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
     },
     {
-      "key": "csp_XYQHiker皮皮鸭",
-      "name": "️🌸皮皮鸭┃嗅探",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/饭太硬/json/皮皮鸭.json"
-    },
-    {
-      "key": "csp_XYQHiker素白白",
-      "name": "🌸素白白┃嗅探",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/饭太硬/json/素白白.json"
-    },
-    {
       "key": "csp_Nbys",
       "name": "🛫泥巴┃飞",
       "type": 3,
@@ -603,56 +440,6 @@
       "filterable": 1
     },
     {
-      "key": "dr_兔小贝",
-      "name": "📚儿童┃启蒙",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/饭太硬/drpy.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/饭太硬/js/兔小贝.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "少儿教育",
-      "name": "📚少儿┃教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/饭太硬/json/少儿教育.json"
-    },
-    {
-      "key": "小学课堂",
-      "name": "📚小学┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/饭太硬/json/小学课堂.json"
-    },
-    {
-      "key": "初中课堂",
-      "name": "📚初中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/饭太硬/json/初中课堂.json"
-    },
-    {
-      "key": "高中教育",
-      "name": "📚高中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/饭太硬/json/高中课堂.json"
-    },
-    {
       "key": "ext_live_protocol",
       "name": "导航  http://饭太硬.ga",
       "type": 3,
@@ -669,6 +456,7 @@
       "quickSearch": 0,
       "filterable": 0
     }
+  
   ],
   "parses": [
     {
@@ -1042,18 +830,6 @@
     }
   ],
   "lives": [
-    {
-      "name": "live",
-      "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/饭太硬/live.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-    },
-    {
-      "name": "TV",
-      "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/ziyong/饭太硬/TV.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-    }
   ],
   "flags": [
     "youku",

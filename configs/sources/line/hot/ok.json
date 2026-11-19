@@ -1,7 +1,6 @@
 {
   "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/packages/parsers/ok.jar",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
-  "logo": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/lib/ol.txt",
   "sites": [
     {
       "key": "豆瓣",
@@ -581,17 +580,6 @@
       "timeout": 10
     },
     {
-      "key": "ddys_js",
-      "name": "🍄低端┃在线",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/lib/file.html?id=2c9a91099696ce4301974da3916550ff&file=drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/lib/ddys.txt",
-      "timeout": 15
-    },
-    {
       "key": "yhdm",
       "name": "🌸樱花┃动漫",
       "type": 3,
@@ -695,74 +683,6 @@
         "ratio": 1.433
       },
       "timeout": 10
-    },
-    {
-      "key": "bili",
-      "name": "🅱哔哩┃合集",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/lib/bili.txt"
-      },
-      "timeout": 20
-    },
-    {
-      "key": "biliych",
-      "name": "🅱哔哩┃歌曲",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/lib/biliych.txt"
-      },
-      "timeout": 20
-    },
-    {
-      "key": "bilixs",
-      "name": "🅱哔哩┃相声",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/lib/bilixs.txt"
-      },
-      "timeout": 20
-    },
-    {
-      "key": "bilixp",
-      "name": "🅱哔哩┃小品",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/configs/sources/line/lib/bilixp.txt"
-      },
-      "timeout": 20
     },
     {
       "key": "少儿教育",
@@ -938,6 +858,9 @@
       "changeable": 0,
       "timeout": 25
     }
+  
+  
+  
   ],
   "parses": [
     {

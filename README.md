@@ -66,4 +66,6 @@ https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/
 
 ### 已知说明
 - `configs/scrapers/xbpq/` 下4个文件（巴蜀/星辰/泥巴/流光）含原始控制字符，非严格JSON，TVBox宽容解析可正常使用
+- `configs/scrapers/xyqhiker/` 下4个文件（BT天堂/电影港/短剧屋/骚火影视）及 `configs/sources/json/戏曲多多.json` 含 `//` 注释，同属宽容解析范围
 - `hot2.json` 为外部第三方线路，链接随上游变动，需定期检查有效性
+- 线路文件不得引用本仓库不存在的辅助文件（如 `line/<线路名>/json/*`、`line/lib/*`）：这类悬空引用已按条目清理，新增线路时请一并导入其辅助目录，或删除对应站点

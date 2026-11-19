@@ -3091,15 +3091,6 @@
       "playerType": 1
     },
     {
-      "name": "AI拾光",
-      "type": 0,
-      "url": "https://ghproxy.net/raw.githubusercontent.com/xmbjm/IPTV/master/output/user_result.txt",
-      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.cn/tv/{name}.png",
-      "playerType": 2,
-      "timeout": 10
-    },
-    {
       "name": "AIGuovin",
       "type": 0,
       "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u",
@@ -3131,12 +3122,6 @@
       "url": "http://iptv.herissmon.dpdns.org/jiekou/live.txt",
       "ua": "Herissmon/2016",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
-    },
-    {
-      "name": "拾光AI",
-      "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/IPTV/refs/heads/master/output/user_result.m3u",
-      "playerType": 1
     },
     {
       "name": "网络Live",
