@@ -6,7 +6,7 @@
       "key": "js豆瓣",
       "name": "🌎爽翻天 影视推荐 QQ群:855827389",
       "type": 3,
-      "api": "https://gitee.com/wuyougouwu/tvsource/raw/master/JS/lib/drpy2.min.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
       "ext": "https://pan.shangui.cc/f/RqDNIz/drpy.js"
     },
     {
@@ -188,7 +188,7 @@
       "key": "js_农民",
       "name": "🌾农民影视",
       "type": 3,
-      "api": "https://gitee.com/wuyougouwu/tvsource/raw/master/JS/lib/drpy2.min.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
       "ext": "https://pan.shangui.cc/f/GBXGhz/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.js"
     },
     {
@@ -611,7 +611,7 @@
       "key": "drpy_js_腾云驾雾",
       "name": "🐧腾讯视频",
       "type": 3,
-      "api": "https://gitee.com/wuyougouwu/tvsource/raw/master/JS/lib/drpy2.min.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
       "ext": "https://agit.ai/30215429/TVBox/raw/branch/master/JS/js/腾云驾雾.js"
     },
     {
@@ -689,15 +689,15 @@
       "key": "drpy_js_310直播",
       "name": "⚽310直播",
       "type": 3,
-      "api": "https://gitee.com/wuyougouwu/tvsource/raw/master/JS/lib/drpy2.min.js",
-      "ext": "https://pan.shangui.cc/f/D6bNiz/310%E7%9B%B4%E6%92%AD.js"
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/310直播.js"
     },
     {
       "key": "drpy_js_JRKAN直播",
       "name": "⚽JRKAN直播",
       "type": 3,
-      "api": "https://gitee.com/wuyougouwu/tvsource/raw/master/JS/lib/drpy2.min.js",
-      "ext": "https://pan.shangui.cc/f/pRqgFL/JRKAN%E7%9B%B4%E6%92%AD.js"
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/JRKAN直播.js"
     },
     {
       "key": "csp_XPath_企鹅体育",
@@ -745,7 +745,7 @@
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
-      "api": "https://gitee.com/wuyougouwu/tvsource/raw/master/JS/lib/drpy2.min.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
       "ext": "https://agit.ai/30215429/TVBox/raw/branch/master/JS/js/兔小贝.js",
       "searchable": 0,
       "quickSearch": 0,

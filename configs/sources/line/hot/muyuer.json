@@ -549,7 +549,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "playerType": "1",
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
             "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
         },
         {
@@ -948,7 +948,7 @@
             "key": "有声小说js",
             "name": "📚有声┃小说┃娱乐",
             "type": 3,
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
             "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/有声小说吧.js",
             "style": {
                 "type": "rect",
@@ -1257,8 +1257,8 @@
             "key": "88js",
             "name": "⚽ 88┃看球┃直播",
             "type": 3,
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/88看球.js",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/88看球.js",
             "style": {
                 "type": "list"
             },
@@ -1270,7 +1270,7 @@
             "key": "Jrsjs",
             "name": "⚽ Jrs┃球迷┃直播",
             "type": 3,
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
             "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js",
             "style": {
                 "type": "list"

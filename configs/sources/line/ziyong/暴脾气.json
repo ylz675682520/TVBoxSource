@@ -40,7 +40,7 @@
       "key": "短剧",
       "name": "🌈上头┃短剧",
       "type": 3,
-      "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
       "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/上头短剧.js",
       "searchable": 1,
       "quickSearch": 1,
@@ -230,7 +230,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
       "ext": "https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/荐片.js"
     },
     {
@@ -295,7 +295,7 @@
       "key": "Jrsjs",
       "name": "⚽ Jrs┃球迷",
       "type": 3,
-      "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
       "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/jrk.js",
       "style": {
         "type": "list"
@@ -308,8 +308,8 @@
       "key": "310js",
       "name": "⚽310┃看球",
       "type": 3,
-      "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/310直播.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/310直播.js",
       "style": {
         "type": "list"
       },
@@ -334,7 +334,7 @@
       "key": "酷奇",
       "name": "🎤酷奇┃MV",
       "type": 3,
-      "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
       "ext": "https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/酷奇MV.js",
       "style": {
         "type": "rect",
@@ -372,7 +372,7 @@
       "key": "虎牙直播js",
       "name": "🐯虎牙┃直播",
       "type": 3,
-      "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
       "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/huya2.js",
       "style": {
         "type": "rect",
@@ -387,7 +387,7 @@
       "key": "斗鱼js",
       "name": "🐟斗鱼┃直播",
       "type": 3,
-      "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
       "ext": "https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
       "style": {
         "type": "rect",
@@ -402,7 +402,7 @@
       "key": "聚短视频js",
       "name": "📽️聚短┃视频",
       "type": 3,
-      "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
       "ext": "https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/短视频.js",
       "searchable": 0,
       "quickSearch": 0,
@@ -412,7 +412,7 @@
       "key": "有声小说js",
       "name": "🎧有声┃小说",
       "type": 3,
-      "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
       "ext": "https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js",
       "style": {
         "type": "rect",
@@ -546,7 +546,7 @@
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
-      "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
       "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
       "style": {
         "type": "rect",
