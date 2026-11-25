@@ -3,13 +3,6 @@
   "wallpaper": "http://maoyingshi.cc/api.php",
   "sites": [
     {
-      "key": "js豆瓣",
-      "name": "🌎爽翻天 影视推荐 QQ群:855827389",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
-      "ext": "https://pan.shangui.cc/f/RqDNIz/drpy.js"
-    },
-    {
       "key": "南瓜",
       "name": "🎃南瓜App",
       "type": 3,
@@ -28,16 +21,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_KungFu404",
-      "name": "🎦阿里设置",
-      "type": 3,
-      "api": "csp_KungFu404",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "jar": "https://pan.shangui.cc/f/KDX5I6/alisz.jar"
     },
     {
       "key": "玩偶",
@@ -121,61 +104,6 @@
       }
     },
     {
-      "key": "csp_AliPS",
-      "name": "📀盘搜 | 搜索",
-      "type": 3,
-      "api": "csp_AliPS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt",
-      "jar": "https://pan.shangui.cc/f/Nb13Sj/Hk.jar"
-    },
-    {
-      "key": "csp_Yisou",
-      "name": "📀易搜 | 搜索",
-      "type": 3,
-      "api": "csp_Yisou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt",
-      "jar": "https://pan.shangui.cc/f/Nb13Sj/Hk.jar"
-    },
-    {
-      "key": "csp_XYQHikerAL_橘子盘搜",
-      "name": "📀橘子盘搜(搜索)",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://itvbox.cc/sft/Hk/XYQHiker/橘子盘搜.json",
-      "jar": "https://pan.shangui.cc/f/Nb13Sj/Hk.jar"
-    },
-    {
-      "key": "csp_Bili合集",
-      "name": "🅱哔哔合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "https://pan.shangui.cc/f/GlMofz/%E5%93%94%E5%93%A9%E5%90%88%E9%9B%86.json"
-    },
-    {
-      "key": "csp_Bilimv",
-      "name": "🅱哔哩MV",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "https://pan.shangui.cc/f/yDbgSK/%E5%93%94%E5%93%A9MTV.json"
-    },
-    {
       "key": "酷看",
       "name": "💡酷看秒播",
       "type": 3,
@@ -183,13 +111,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "js_农民",
-      "name": "🌾农民影视",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
-      "ext": "https://pan.shangui.cc/f/GBXGhz/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.js"
     },
     {
       "key": "比特",
@@ -272,17 +193,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.maolvys.com/"
-    },
-    {
-      "key": "csp_xBPQ_奇优影院",
-      "name": "️🐲奇优影院",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://pan.shangui.cc/f/Rql7Uz/%E5%A5%87%E4%BC%98%E5%BD%B1%E9%99%A2xbpq.json",
-      "jar": "https://d.kstore.space/download/5376/jar/xzy1029.jar"
     },
     {
       "key": "虎牙",
@@ -422,83 +332,6 @@
         "港台动漫",
         "海外动漫"
       ]
-    },
-    {
-      "key": "csp_XYQHiker_996",
-      "name": "🌌996影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/BwB4cp/996%E5%BD%B1%E8%A7%86.json",
-      "jar": "https://pan.shangui.cc/f/Nb13Sj/Hk.jar"
-    },
-    {
-      "key": "csp_XYQHiker_素白白影视",
-      "name": "🌌素白白影视",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/zEykF0/%E7%B4%A0%E7%99%BD%E7%99%BD%E5%BD%B1%E8%A7%86.json",
-      "jar": "https://pan.shangui.cc/f/Nb13Sj/Hk.jar"
-    },
-    {
-      "key": "csp_XYQHiker_电影牛影院",
-      "name": "🌌电影牛影院",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/JRm1iK/%E7%94%B5%E5%BD%B1%E7%89%9B%E5%BD%B1%E9%99%A2.json",
-      "jar": "https://pan.shangui.cc/f/Nb13Sj/Hk.jar"
-    },
-    {
-      "key": "csp_XYQHiker_榜一短剧",
-      "name": "🌌榜一短剧",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/vVYwhk/%E6%A6%9C%E4%B8%80%E7%9F%AD%E5%89%A7.json",
-      "jar": "https://pan.shangui.cc/f/Nb13Sj/Hk.jar"
-    },
-    {
-      "key": "csp_XYQHiker_奈飞中文",
-      "name": "🌌奈飞中文",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/0wojSj/%E5%A5%88%E9%A3%9E%E4%B8%AD%E6%96%87.json",
-      "jar": "https://pan.shangui.cc/f/Nb13Sj/Hk.jar"
-    },
-    {
-      "key": "csp_XYQHiker_速搜影院",
-      "name": "🌌速搜影院",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/7bvdHM/%E9%80%9F%E6%90%9C%E5%BD%B1%E9%99%A2.json",
-      "jar": "https://pan.shangui.cc/f/Nb13Sj/Hk.jar"
-    },
-    {
-      "key": "csp_XYQHiker_短剧网",
-      "name": "🌌短剧网",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/4kvMU0/%E7%9F%AD%E5%89%A7%E7%BD%91.json",
-      "jar": "https://pan.shangui.cc/f/Nb13Sj/Hk.jar"
     },
     {
       "key": "yqkan_open",
@@ -700,16 +533,6 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/JRKAN直播.js"
     },
     {
-      "key": "csp_XPath_企鹅体育",
-      "name": "🐧企鹅体育",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://pan.shangui.cc/f/PwzJSK/%E4%BC%81%E9%B9%85%E7%9B%B4%E6%92%AD.json"
-    },
-    {
       "key": "MV大全",
       "name": "🎸明星MV",
       "type": 4,
@@ -717,16 +540,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "应用商店",
-      "name": "🏫应用商店",
-      "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/wuyougouwu/tvsource/raw/master/yy/yysc.json",
-      "jar": "https://pan.shangui.cc/f/PQGeUK/%E5%BA%94%E7%94%A8%E5%B8%82%E5%9C%BA.jar"
     },
     {
       "key": "push_agent",
@@ -750,46 +563,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
-    },
-    {
-      "key": "少儿教育",
-      "name": "📚少儿┃教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/qMXnUG/%E5%B0%91%E5%84%BF%E2%94%83%E6%95%99%E8%82%B2.json"
-    },
-    {
-      "key": "小学课堂",
-      "name": "📚小学┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/EmpnTD/%E5%B0%8F%E5%AD%A6%E2%94%83%E8%AF%BE%E5%A0%82.json"
-    },
-    {
-      "key": "初中课堂",
-      "name": "📚初中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/2wq8ix/%E5%88%9D%E4%B8%AD%E2%94%83%E8%AF%BE%E5%A0%82.json"
-    },
-    {
-      "key": "高中教育",
-      "name": "📚高中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/MK2JUy/%E9%AB%98%E4%B8%AD%E2%94%83%E8%AF%BE%E5%A0%82.json"
     },
     {
       "key": "cc1",
@@ -1135,14 +908,6 @@
     }
   ],
   "lives": [
-    {
-      "name": "live",
-      "type": 0,
-      "url": "https://pan.shangui.cc/f/768jHM/live.txt",
-      "playerType": 2,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
     {
       "name": "ipv6_1",
       "type": 0,

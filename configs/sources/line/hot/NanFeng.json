@@ -352,17 +352,6 @@
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/packages/parsers/spider.jar"
     },
     {
-      "key": "Zhaozy",
-      "name": "🦊找资源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "https://pan.shangui.cc/f/YeQiy/自行扫码观看.txt$$$yingshi$$$abcd1234"
-    },
-    {
       "key": "PanSou",
       "name": "😽盘搜",
       "type": 3,

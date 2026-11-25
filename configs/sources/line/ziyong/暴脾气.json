@@ -131,17 +131,6 @@
       "changeable": 1
     },
     {
-      "key": "农民",
-      "name": "🌾农民┃秒播",
-      "type": 3,
-      "api": "csp_Nmys",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/nmys.json"
-    },
-    {
       "key": "低端",
       "name": "⏮️低端┃外剧",
       "type": 3,
@@ -318,19 +307,6 @@
       "changeable": 0
     },
     {
-      "key": "企鹅体育xp",
-      "name": "🐧鹅鹅┃体育",
-      "type": 3,
-      "api": "csp_XPath",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/企鹅直播.json"
-    },
-    {
       "key": "酷奇",
       "name": "🎤酷奇┃MV",
       "type": 3,
@@ -343,20 +319,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
-    },
-    {
-      "key": "MTV",
-      "name": "🎧明星┃MV",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/MTV.json"
     },
     {
       "key": "csp_Yj1211",
@@ -515,34 +477,6 @@
       }
     },
     {
-      "key": "Bili",
-      "name": "🅱哔哔┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/bilibili.json"
-    },
-    {
-      "key": "Biliych",
-      "name": "🅱明星┃演唱会",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/biliych.json"
-    },
-    {
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
@@ -555,62 +489,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
-    },
-    {
-      "key": "少儿教育",
-      "name": "📚少儿┃教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/少儿教育.json"
-    },
-    {
-      "key": "小学课堂",
-      "name": "📚小学┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/小学课堂.json"
-    },
-    {
-      "key": "初中课堂",
-      "name": "📚初中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/初中课堂.json"
-    },
-    {
-      "key": "高中教育",
-      "name": "📚高中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/高中课堂.json"
     },
     {
       "key": "Nbys",

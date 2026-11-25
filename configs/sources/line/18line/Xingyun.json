@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-    "spider": "https://gitee.com/zhanghong19830310/tv/raw/master/profile/jar/0906.jar",
+    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/pubtargus/CatVodTVSpider/main/MaooXP/custom_spider.jar",
     "lives": [
         {
             "group": "redirect",
@@ -15,15 +15,6 @@
         }
     ],
     "sites": [
-        {
-            "key": "csp_CZSPP",
-            "name": "[默认]绿色环保",
-            "type": 3,
-            "api": "csp_CZSPP",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
         {
             "key": "❤91麻豆",
             "name": "❤91麻豆源",
