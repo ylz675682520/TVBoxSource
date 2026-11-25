@@ -22,20 +22,6 @@
       "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod"
     },
     {
-      "key": "Youtube",
-      "name": "Youtube",
-      "type": 3,
-      "api": "https://qu.ax/Mud.js",
-      "ext": "https://qu.ax/USvO.txt"
-    },
-    {
-      "key": "网络直播转点播",
-      "name": "💻电视 | 直播",
-      "type": 3,
-      "api": "https://qu.ax/dFpK.js",
-      "ext": "https://qu.ax/uChb.json"
-    },
-    {
       "key": "MV",
       "name": "十六万MTV",
       "type": 3,

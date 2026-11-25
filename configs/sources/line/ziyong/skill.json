@@ -120,16 +120,6 @@
       "filterable": 0
     },
     {
-      "key": "Lib",
-      "name": "Lib┃直连",
-      "type": 3,
-      "api": "csp_Lib",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://www.libvio.pw/static/js/playerconfig.js"
-    },
-    {
       "key": "时常",
       "name": "时常┃APP",
       "type": 3,

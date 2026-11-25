@@ -383,11 +383,6 @@
             }
         },
         {
-            "name": "风起0",
-            "type": 1,
-            "url": "https://drpy.liucn.repl.co/parse/api/dyg.js?url="
-        },
-        {
             "name": "风起1",
             "type": 1,
             "header": {
@@ -752,22 +747,6 @@
             "name": "解析17",
             "type": 1,
             "url": "https://jx.52ruo.cc/json/?id=6&url="
-        },
-        {
-            "name": "解析18",
-            "type": 1,
-            "url": "http://3.37.195.161:54371/parse/api/江湖.js?url=",
-            "header": {
-                "User-Agent": "Mozilla/5.0"
-            }
-        },
-        {
-            "name": "解析19",
-            "type": 1,
-            "url": "http://3.37.195.161:54371/parse/api/无名.js?url=",
-            "header": {
-                "User-Agent": "Mozilla/5.0"
-            }
         }
     ],
     "flags": [

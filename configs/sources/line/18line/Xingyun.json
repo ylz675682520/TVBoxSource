@@ -873,16 +873,6 @@
             "quickSearch": 0
         },
         {
-            "key": "csp_biubiu_4K狗午夜版",
-            "name": "4K狗午夜版(XB)️",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/XB/4K狗午夜版.json"
-        },
-        {
             "key": "哥哥妹妹",
             "name": "哥哥妹妹",
             "type": 0,
@@ -1872,96 +1862,6 @@
             "api": "https://caiji.naichaapi.com/inc/apijson_vod.php",
             "searchable": 0,
             "quickSearch": 0
-        },
-        {
-            "key": "csp_xpath_新香蕉",
-            "name": "新香蕉(XPF)",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/XP/2024xxj.json"
-        },
-        {
-            "key": "csp_biubiu_麻豆传媒破解",
-            "name": "麻豆传媒破解(XB)️",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/XB/麻豆传媒破解.json"
-        },
-        {
-            "key": "csp_biubiu_爱看影院",
-            "name": "爱看影院(XB)️",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/XB/爱看影院.json"
-        },
-        {
-            "key": "csp_biubiu_玖爱视频",
-            "name": "玖爱视频(XB)️",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/XB/玖爱视频.json"
-        },
-        {
-            "key": "csp_biubiu_爱爱影视",
-            "name": "爱爱影视(XB)️",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/XB/爱爱影视.json"
-        },
-        {
-            "key": "csp_biubiu_GAOAA",
-            "name": "GAOAA(XB)️",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/XB/GAOAA.json"
-        },
-        {
-            "key": "csp_biubiu_香蕉视频",
-            "name": "香蕉视频(XB)️",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/XB/香蕉视频.json"
-        },
-        {
-            "key": "csp_biubiu_四虎影院",
-            "name": "四虎影院(XB)️",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/XB/四虎影院.json"
-        },
-        {
-            "key": "csp_biubiu_黄仓库",
-            "name": "黄仓库(XB)️",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/XB/黄仓库.json"
         },
         {
             "key": "色窝资源",

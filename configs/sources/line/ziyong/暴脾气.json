@@ -41,7 +41,7 @@
       "name": "🌈上头┃短剧",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/上头短剧.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/main/%E4%B8%8A%E5%A4%B4%E7%9F%AD%E5%89%A7.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
@@ -231,7 +231,7 @@
       "changeable": 1,
       "playerType": "1",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
-      "ext": "https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/荐片.js"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/%E8%8D%90%E7%89%87.js"
     },
     {
       "key": "新6V",
@@ -296,7 +296,7 @@
       "name": "⚽ Jrs┃球迷",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/jrk.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/main/jrk.js",
       "style": {
         "type": "list"
       },
@@ -335,7 +335,7 @@
       "name": "🎤酷奇┃MV",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
-      "ext": "https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/酷奇MV.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/main/%E9%85%B7%E5%A5%87MV.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -373,7 +373,7 @@
       "name": "🐯虎牙┃直播",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/huya2.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/main/huya2.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -388,7 +388,7 @@
       "name": "🐟斗鱼┃直播",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
-      "ext": "https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/main/%E6%96%97%E9%B1%BC%E7%9B%B4%E6%92%AD.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -403,7 +403,7 @@
       "name": "📽️聚短┃视频",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
-      "ext": "https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/短视频.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/main/%E7%9F%AD%E8%A7%86%E9%A2%91.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
@@ -413,7 +413,7 @@
       "name": "🎧有声┃小说",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
-      "ext": "https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/main/%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E5%90%A7.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -547,7 +547,7 @@
       "name": "📚儿童┃启蒙",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
-      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
       "style": {
         "type": "rect",
         "ratio": 1.597

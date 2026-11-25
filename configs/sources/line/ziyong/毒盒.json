@@ -1353,7 +1353,7 @@
       "name": "🎤酷狗｜音乐",
       "type": 3,
       "api": "csp_Kugou",
-      "jar": "https://4708.kstore.space/jar/Yoursmile.jar",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar",
       "playerType": 2,
       "ext": {
         "classes": [

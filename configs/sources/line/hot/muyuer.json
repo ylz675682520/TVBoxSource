@@ -276,19 +276,6 @@
             }
         },
         {
-            "key": "金牌影视",
-            "name": "🏅金牌┃蓝光┃无广",
-            "type": 3,
-            "api": "http://我不是.摸鱼儿.top/py/金牌影视.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2,
-            "ext": {
-                "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
-            }
-        },
-        {
             "key": "彼岸",
             "name": "🍂菲菲┃蓝光┃弹幕",
             "type": 3,
@@ -550,7 +537,7 @@
             "changeable": 1,
             "playerType": "1",
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/main/jp1.js"
         },
         {
             "key": "厂长",
@@ -803,35 +790,6 @@
             "filterable": 0
         },
         {
-            "key": "河马短剧",
-            "name": "🦛河马┃短剧┃热推",
-            "type": 3,
-            "api": "http://我不是.摸鱼儿.top/py/河马短剧.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-        {
-            "key": "偷乐短剧",
-            "name": "🤣偷乐┃短剧┃热推",
-            "type": 3,
-            "api": "http://我不是.摸鱼儿.top/py/偷乐短剧.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-        {
-            "key": "去看吧",
-            "name": "🫣看吧┃动漫┃蓝光",
-            "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy.min.js",
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/去看吧.js"
-        },
-        {
             "key": "csp_Ysj",
             "name": "💫异界┃动漫┃蓝光",
             "type": 3,
@@ -949,7 +907,7 @@
             "name": "📚有声┃小说┃娱乐",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/有声小说吧.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/main/%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E5%90%A7.js",
             "style": {
                 "type": "rect",
                 "ratio": 1
@@ -1271,7 +1229,7 @@
             "name": "⚽ Jrs┃球迷┃直播",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ylz675682520/TVBoxSource/main/libs/js/drpy2.min.js",
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/main/jrk.js",
             "style": {
                 "type": "list"
             },

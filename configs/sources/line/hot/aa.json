@@ -380,12 +380,6 @@
   ],
   "lives": [
     {
-      "name": "直播爬虫",
-      "type": 3,
-      "api": "https://tang.hz.cz/js/ethtv.js",
-      "ext": ""
-    },
-    {
       "name": "政治时事",
       "url": "http://zhangqun66.com/141.php"
     },
